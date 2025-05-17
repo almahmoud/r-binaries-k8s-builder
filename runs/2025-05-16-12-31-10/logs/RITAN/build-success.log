@@ -1,0 +1,618 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''RITAN'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'RITAN'
+also installing the dependencies ‘dir.expiry’, ‘basilisk.utils’, ‘GO.db’, ‘SparseM’, ‘R.oo’, ‘R.methodsS3’, ‘basilisk’, ‘expm’, ‘proto’, ‘chron’, ‘topGO’, ‘R.utils’, ‘graph’, ‘zellkonverter’, ‘anndata’, ‘bread’, ‘plotrix’, ‘STRINGdb’, ‘MCL’, ‘linkcomm’, ‘dynamicTreeCut’, ‘gsubfn’, ‘hash’, ‘sqldf’, ‘BgeeDB’, ‘RITANdata’, ‘EnsDb.Hsapiens.v86’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/dir.expiry_1.16.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/basilisk.utils_1.20.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/GO.db_3.21.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/SparseM_1.84-2.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.oo_1.27.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.methodsS3_1.8.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/basilisk_1.20.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/expm_1.0-0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/proto_1.0.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/chron_2.3-62.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/topGO_2.59.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.utils_2.13.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/graph_1.86.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/zellkonverter_1.18.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/anndata_0.7.5.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bread_0.4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/plotrix_3.8-4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/STRINGdb_2.20.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/MCL_1.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/linkcomm_1.0-14.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/dynamicTreeCut_1.63-1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/gsubfn_0.7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/hash_2.2.6.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/sqldf_0.4-11.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BgeeDB_2.34.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/RITANdata_1.32.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/EnsDb.Hsapiens.v86_2.99.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/RITAN_1.32.0.tar.gz'
+* installing *source* package ‘dir.expiry’ ...
+** this is package ‘dir.expiry’ version ‘1.16.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dir.expiry’ as ‘dir.expiry_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dir.expiry)
+* installing *source* package ‘GO.db’ ...
+** this is package ‘GO.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GO.db’ as ‘GO.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GO.db)
+* installing *source* package ‘SparseM’ ...
+** this is package ‘SparseM’ version ‘1.84-2’
+** package ‘SparseM’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c bckslv.f -o bckslv.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c chol.f -o chol.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c chol2csr.f -o chol2csr.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c cholesky.f -o cholesky.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c csr.f -o csr.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c extract.f -o extract.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c sparskit.f -o sparskit.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c subscr.f -o subscr.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o SparseM.so bckslv.o chol.o chol2csr.o cholesky.o csr.o extract.o init.o sparskit.o subscr.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-SparseM/00new/SparseM/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a generic function for ‘diag’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘diag<-’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘norm’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘backsolve’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘forwardsolve’ from package ‘base’ in package ‘SparseM’
+Creating a generic function for ‘model.response’ from package ‘stats’ in package ‘SparseM’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SparseM’ as ‘SparseM_1.84-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SparseM)
+* installing *source* package ‘R.methodsS3’ ...
+** this is package ‘R.methodsS3’ version ‘1.8.2’
+** package ‘R.methodsS3’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *source* package ‘expm’ ...
+** this is package ‘expm’ version ‘1.0-0’
+** package ‘expm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_dgebal.c -o R_dgebal.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c expm-eigen.c -o expm-eigen.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c expm.c -o expm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c logm-eigen.c -o logm-eigen.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matexp.f -o matexp.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c matexp_MH09.c -o matexp_MH09.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c matpow.c -o matpow.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matrexp.f -o matrexp.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c matrexpO.f -o matrexpO.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c mexp-common.f -o mexp-common.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o expm.so R_dgebal.o expm-eigen.o expm.o init.o logm-eigen.o matexp.o matexp_MH09.o matpow.o matrexp.o matrexpO.o mexp-common.o -llapack -lblas -lgfortran -lm -lquadmath -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-expm/00new/expm/libs
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘expm’ as ‘expm_1.0-0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (expm)
+* installing *source* package ‘proto’ ...
+** this is package ‘proto’ version ‘1.0.0’
+** package ‘proto’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘proto’ as ‘proto_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proto)
+* installing *source* package ‘chron’ ...
+** this is package ‘chron’ version ‘2.3-62’
+** package ‘chron’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c chron_strs.c -o chron_strs.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c unpaste.c -o unpaste.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o chron.so chron_strs.o init.o unpaste.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-chron/00new/chron/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘chron’ as ‘chron_2.3-62_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (chron)
+* installing *source* package ‘graph’ ...
+** this is package ‘graph’ version ‘1.86.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c graph.c -o graph.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o graph.so graph.o -L/usr/lib/R/lib -lR
+mv graph.so BioC_graph.so
+installing to /usr/local/lib/R/site-library/00LOCK-graph/00new/graph/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘graph’ as ‘graph_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (graph)
+* installing *source* package ‘anndata’ ...
+** this is package ‘anndata’ version ‘0.7.5.6’
+** package ‘anndata’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘anndata’ as ‘anndata_0.7.5.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (anndata)
+* installing *source* package ‘bread’ ...
+** this is package ‘bread’ version ‘0.4.1’
+** package ‘bread’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bread’ as ‘bread_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bread)
+* installing *source* package ‘plotrix’ ...
+** this is package ‘plotrix’ version ‘3.8-4’
+** package ‘plotrix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘plotrix’ as ‘plotrix_3.8-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plotrix)
+* installing *source* package ‘dynamicTreeCut’ ...
+** this is package ‘dynamicTreeCut’ version ‘1.63-1’
+** package ‘dynamicTreeCut’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘dynamicTreeCut’ as ‘dynamicTreeCut_1.63-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dynamicTreeCut)
+* installing *source* package ‘hash’ ...
+** this is package ‘hash’ version ‘2.2.6.3’
+** package ‘hash’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘hash’ as ‘hash_2.2.6.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hash)
+* installing *source* package ‘RITANdata’ ...
+** this is package ‘RITANdata’ version ‘1.32.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RITANdata’ as ‘RITANdata_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RITANdata)
+* installing *source* package ‘EnsDb.Hsapiens.v86’ ...
+** this is package ‘EnsDb.Hsapiens.v86’ version ‘2.99.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EnsDb.Hsapiens.v86’ as ‘EnsDb.Hsapiens.v86_2.99.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EnsDb.Hsapiens.v86)
+* installing *source* package ‘basilisk.utils’ ...
+** this is package ‘basilisk.utils’ version ‘1.20.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘basilisk.utils’ as ‘basilisk.utils_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (basilisk.utils)
+* installing *source* package ‘R.oo’ ...
+** this is package ‘R.oo’ version ‘1.27.1’
+** package ‘R.oo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function getClasses to getClasses.default, which was defined in environment R.oo.
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *source* package ‘topGO’ ...
+** this is package ‘topGO’ version ‘2.59.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package can be loaded from final location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘topGO’ as ‘topGO_2.59.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (topGO)
+* installing *source* package ‘MCL’ ...
+** this is package ‘MCL’ version ‘1.0’
+** package ‘MCL’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MCL’ as ‘MCL_1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MCL)
+* installing *source* package ‘linkcomm’ ...
+** this is package ‘linkcomm’ version ‘1.0-14’
+** package ‘linkcomm’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c OCG_algorithm.c -o OCG_algorithm.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c edge_duplicates.cpp -o edge_duplicates.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcomm_edgesims.cpp -o linkcomm_edgesims.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcomm_edgesims_all.cpp -o linkcomm_edgesims_all.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcomm_functions.cpp -o linkcomm_functions.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcomm_hclust.cpp -o linkcomm_hclust.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c linkcomm_init.c -o linkcomm_init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcomm_linkdensities.cpp -o linkcomm_linkdensities.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c linkcommhclust_order.cpp -o linkcommhclust_order.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c read_OCG.cpp -o read_OCG.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o linkcomm.so OCG_algorithm.o edge_duplicates.o linkcomm_edgesims.o linkcomm_edgesims_all.o linkcomm_functions.o linkcomm_hclust.o linkcomm_init.o linkcomm_linkdensities.o linkcommhclust_order.o read_OCG.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-linkcomm/00new/linkcomm/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘linkcomm’ as ‘linkcomm_1.0-14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (linkcomm)
+* installing *source* package ‘gsubfn’ ...
+** this is package ‘gsubfn’ version ‘0.7’
+** package ‘gsubfn’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘gsubfn’ as ‘gsubfn_0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gsubfn)
+* installing *source* package ‘basilisk’ ...
+** this is package ‘basilisk’ version ‘1.20.0’
+** using non-staged installation via StagedInstall field
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘basilisk’ as ‘basilisk_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (basilisk)
+* installing *source* package ‘R.utils’ ...
+** this is package ‘R.utils’ version ‘2.13.0’
+** package ‘R.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function warnings to warnings.default, which was defined in environment R.utils.
+Warning in setGenericS3.default("use") :
+  Renamed the preexisting function use to use.default, which was defined in environment R.utils.
+Warning in setMethodS3.default("use", "default", function(pkg = "R.utils",  :
+  Method already existed and was overwritten: use.default
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘sqldf’ ...
+** this is package ‘sqldf’ version ‘0.4-11’
+** package ‘sqldf’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+no DISPLAY variable so Tk is not available 
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sqldf’ as ‘sqldf_0.4-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sqldf)
+* installing *source* package ‘zellkonverter’ ...
+** this is package ‘zellkonverter’ version ‘1.18.0’
+** using non-staged installation via StagedInstall field
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘zellkonverter’ as ‘zellkonverter_1.18.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zellkonverter)
+* installing *source* package ‘STRINGdb’ ...
+** this is package ‘STRINGdb’ version ‘2.20.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘STRINGdb’ as ‘STRINGdb_2.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (STRINGdb)
+* installing *source* package ‘BgeeDB’ ...
+** this is package ‘BgeeDB’ version ‘2.34.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package can be loaded from final location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BgeeDB’ as ‘BgeeDB_2.34.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BgeeDB)
+* installing *source* package ‘RITAN’ ...
+** this is package ‘RITAN’ version ‘1.32.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import 'ensembldb::keys' by 'hash::keys' when loading 'RITAN'
+Warning: replacing previous import 'ensembldb::filter' by 'stats::filter' when loading 'RITAN'
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import 'ensembldb::keys' by 'hash::keys' when loading 'RITAN'
+Warning: replacing previous import 'ensembldb::filter' by 'stats::filter' when loading 'RITAN'
+** testing if installed package can be loaded from final location
+Warning: replacing previous import 'ensembldb::keys' by 'hash::keys' when loading 'RITAN'
+Warning: replacing previous import 'ensembldb::filter' by 'stats::filter' when loading 'RITAN'
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RITAN’ as ‘RITAN_1.32.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RITAN)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpv0POg3/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	6m56.824s
+user	6m16.922s
+sys	1m22.584s

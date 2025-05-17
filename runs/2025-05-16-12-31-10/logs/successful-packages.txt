@@ -1990,3 +1990,11 @@ MSnID
 OrganismDbi
 OUTRIDER
 SOMNiBUS
+CircSeqAlignTk
+CleanUpRNAseq
+dar
+diffUTR
+MOSClip
+RiboCrypt
+RITAN
+TFHAZ

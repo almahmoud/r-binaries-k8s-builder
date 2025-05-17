@@ -1,0 +1,389 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''TFHAZ'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'TFHAZ'
+also installing the dependencies ‘poorman’, ‘downloader’, ‘philentropy’, ‘fstcore’, ‘R.oo’, ‘R.methodsS3’, ‘biomaRt’, ‘biomartr’, ‘BSgenome’, ‘fst’, ‘R.utils’, ‘txdbmaker’, ‘bookdown’, ‘ORFik’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/poorman_0.2.7.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/downloader_0.4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/philentropy_0.9.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/fstcore_0.10.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.oo_1.27.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.methodsS3_1.8.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.64.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/biomartr_1.0.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/fst_0.9.8.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.utils_2.13.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/txdbmaker_1.4.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/ORFik_1.28.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/TFHAZ_1.30.0.tar.gz'
+* installing *source* package ‘poorman’ ...
+** this is package ‘poorman’ version ‘0.2.7’
+** package ‘poorman’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘poorman’ as ‘poorman_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (poorman)
+* installing *source* package ‘downloader’ ...
+** this is package ‘downloader’ version ‘0.4.1’
+** package ‘downloader’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘downloader’ as ‘downloader_0.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (downloader)
+* installing *source* package ‘fstcore’ ...
+** this is package ‘fstcore’ version ‘0.10.0’
+** package ‘fstcore’ successfully unpacked and MD5 sums checked
+** using staged installation
+1.8.0
+Found pkg-config cflags and libs for LZ4!
+1.8.0
+Found pkg-config cflags and libs for ZSTD!
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c flex_store.cpp -o flex_store.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fst_blockrunner_char.cpp -o fst_blockrunner_char.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fst_compress.cpp -o fst_compress.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fst_error.cpp -o fst_error.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fst_table.cpp -o fst_table.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c openmp.cpp -o openmp.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c versions.cpp -o versions.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/compression/compression.cpp -o fstlib/compression/compression.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/compression/compressor.cpp -o fstlib/compression/compressor.o
+ar rcs libCOMPRESSION.a fstlib/compression/compression.o fstlib/compression/compressor.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/interface/openmphelper.cpp -o fstlib/interface/openmphelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/interface/fststore.cpp -o fstlib/interface/fststore.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/logical/logical_v10.cpp -o fstlib/logical/logical_v10.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/integer/integer_v8.cpp -o fstlib/integer/integer_v8.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/byte/byte_v12.cpp -o fstlib/byte/byte_v12.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/double/double_v9.cpp -o fstlib/double/double_v9.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/character/character_v6.cpp -o fstlib/character/character_v6.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/factor/factor_v7.cpp -o fstlib/factor/factor_v7.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/blockstreamer/blockstreamer_v2.cpp -o fstlib/blockstreamer/blockstreamer_v2.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/integer64/integer64_v11.cpp -o fstlib/integer64/integer64_v11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'    -fopenmp -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fstlib/byteblock/byteblock_v13.cpp -o fstlib/byteblock/byteblock_v13.o
+gcc -I"/usr/share/R/include" -DNDEBUG -I. -Ifstlib -Ifstlib/ZSTD -Ifstlib/ZSTD/common -Ifstlib/LZ4 -Ifstlib/ZSTD/decompress -Ifstlib/ZSTD/compress -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fstlib/ZSTD/common/xxhash.c -o fstlib/ZSTD/common/xxhash.o
+ar rcs libFRAME.a fstlib/interface/openmphelper.o fstlib/interface/fststore.o fstlib/logical/logical_v10.o fstlib/integer/integer_v8.o fstlib/byte/byte_v12.o fstlib/double/double_v9.o fstlib/character/character_v6.o fstlib/factor/factor_v7.o fstlib/blockstreamer/blockstreamer_v2.o fstlib/integer64/integer64_v11.o fstlib/byteblock/byteblock_v13.o fstlib/ZSTD/common/xxhash.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o fstcore.so RcppExports.o flex_store.o fst_blockrunner_char.o fst_compress.o fst_error.o fst_table.o openmp.o versions.o -fopenmp ./libFRAME.a ./libCOMPRESSION.a -llz4 -lzstd -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-fstcore/00new/fstcore/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fstcore’ as ‘fstcore_0.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fstcore)
+* installing *source* package ‘R.methodsS3’ ...
+** this is package ‘R.methodsS3’ version ‘1.8.2’
+** package ‘R.methodsS3’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *source* package ‘biomaRt’ ...
+** this is package ‘biomaRt’ version ‘2.64.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *source* package ‘BSgenome’ ...
+** this is package ‘BSgenome’ version ‘1.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘philentropy’ ...
+** this is package ‘philentropy’ version ‘0.9.0’
+** package ‘philentropy’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../src -DRCPP_DEFAULT_INCLUDE_CALL=false -DCOMPILING_PHILENTROPY -DBOOST_NO_INT64_T -DBOOST_NO_INTEGRAL_INT64_T -DBOOST_NO_LONG_LONG -DRCPP_USING_UTF8_ERROR_STRING -DRCPP_USE_UNWIND_PROTECT  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I../src -DRCPP_DEFAULT_INCLUDE_CALL=false -DCOMPILING_PHILENTROPY -DBOOST_NO_INT64_T -DBOOST_NO_INTEGRAL_INT64_T -DBOOST_NO_LONG_LONG -DRCPP_USING_UTF8_ERROR_STRING -DRCPP_USE_UNWIND_PROTECT  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c dist_matrix.cpp -o dist_matrix.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o philentropy.so RcppExports.o dist_matrix.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-philentropy/00new/philentropy/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘philentropy’ as ‘philentropy_0.9.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (philentropy)
+* installing *source* package ‘R.oo’ ...
+** this is package ‘R.oo’ version ‘1.27.1’
+** package ‘R.oo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function getClasses to getClasses.default, which was defined in environment R.oo.
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *source* package ‘fst’ ...
+** this is package ‘fst’ version ‘0.9.8’
+** package ‘fst’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/fstcore/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/fstcore/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c flex_store.cpp -o flex_store.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/fstcore/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fst_compress.cpp -o fst_compress.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/fstcore/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c openmp.cpp -o openmp.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o fst.so RcppExports.o flex_store.o fst_compress.o openmp.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-fst/00new/fst/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fst’ as ‘fst_0.9.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fst)
+* installing *source* package ‘txdbmaker’ ...
+** this is package ‘txdbmaker’ version ‘1.4.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘txdbmaker’ as ‘txdbmaker_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (txdbmaker)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘R.utils’ ...
+** this is package ‘R.utils’ version ‘2.13.0’
+** package ‘R.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function warnings to warnings.default, which was defined in environment R.utils.
+Warning in setGenericS3.default("use") :
+  Renamed the preexisting function use to use.default, which was defined in environment R.utils.
+Warning in setMethodS3.default("use", "default", function(pkg = "R.utils",  :
+  Method already existed and was overwritten: use.default
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘biomartr’ ...
+** this is package ‘biomartr’ version ‘1.0.7’
+** package ‘biomartr’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomartr’ as ‘biomartr_1.0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomartr)
+* installing *source* package ‘ORFik’ ...
+** this is package ‘ORFik’ version ‘1.28.2’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c findORFsHelpers.cpp -o findORFsHelpers.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c findOrfs.cpp -o findOrfs.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c findOrfsFasta.cpp -o findOrfsFasta.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c pmapFromTranscripts.cpp -o pmapFromTranscripts.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include'     -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c pmapToTranscripts.cpp -o pmapToTranscripts.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o ORFik.so RcppExports.o findORFsHelpers.o findOrfs.o findOrfsFasta.o pmapFromTranscripts.o pmapToTranscripts.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-ORFik/00new/ORFik/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+Creating a new generic function for ‘symbols’ in package ‘ORFik’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ORFik’ as ‘ORFik_1.28.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ORFik)
+* installing *source* package ‘TFHAZ’ ...
+** this is package ‘TFHAZ’ version ‘1.30.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TFHAZ’ as ‘TFHAZ_1.30.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TFHAZ)
+
+The downloaded source packages are in
+	‘/tmp/RtmpjZ1V1o/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	4m59.509s
+user	4m26.311s
+sys	1m0.191s

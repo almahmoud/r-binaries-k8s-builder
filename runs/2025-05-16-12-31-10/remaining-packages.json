@@ -110,8 +110,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "CircSeqAlignTk": [],
-  "CleanUpRNAseq": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "VariantAnnotation",
@@ -280,7 +278,6 @@
     "lumi"
   ],
   "MEB": [],
-  "MOSClip": [],
   "MetaboSignal": [],
   "MethylAid": [
     "minfi",
@@ -364,7 +361,6 @@
     "MutationalPatterns",
     "VariantAnnotation"
   ],
-  "RITAN": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -406,7 +402,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "RiboCrypt": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase",
@@ -455,7 +450,6 @@
     "VariantAnnotation"
   ],
   "TAPseq": [],
-  "TFHAZ": [],
   "TFutils": [
     "GenomicFiles",
     "VariantAnnotation"
@@ -655,7 +649,6 @@
   "cytofQC": [
     "CATALYST"
   ],
-  "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
   ],
@@ -683,7 +676,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "diffUTR": [],
   "dmrseq": [
     "bumphunter"
   ],
