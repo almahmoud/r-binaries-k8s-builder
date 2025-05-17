@@ -19,3 +19,4 @@ EpiCompare
 ATACseqQC
 signeR
 gmapR
+ChAMP
