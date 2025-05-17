@@ -2287,3 +2287,8 @@ compEpiTools
 crisprShiny
 crisprVerse
 geomeTriD
+MineICA
+arrayMvout
+ffpe
+iCheck
+wateRmelon

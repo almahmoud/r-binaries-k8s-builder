@@ -12,8 +12,7 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
-    "lumi"
+    "missMethyl"
   ],
   "ChIPseqR": [
     "HilbertVis"
@@ -39,12 +38,9 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -60,14 +56,10 @@
   "RbowtieCuda": [],
   "RedisParam": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [],
   "affycoretools": [],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "chimeraviz": [],
   "cisPath": [],
@@ -76,19 +68,14 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "epimutacions": [],
-  "ffpe": [
-    "lumi"
-  ],
+  "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "iCheck": [
-    "lumi"
-  ],
-  "lumi": [],
+  "iCheck": [],
   "mCSEA": [],
   "methylGSA": [
     "missMethyl"
@@ -98,16 +85,12 @@
   "psichomics": [],
   "rGADEM": [],
   "ramr": [],
-  "saseR": [],
   "signeR": [],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatzie": [],
   "trigger": [],
   "uncoverappLib": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }
