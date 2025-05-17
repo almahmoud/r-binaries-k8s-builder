@@ -2109,3 +2109,9 @@ RAIDS
 RareVariantVis
 RESOLVE
 VariantTools
+CCAFE
+GenVisR
+HelloRanges
+ProteoDisco
+ribosomeProfilingQC
+standR
