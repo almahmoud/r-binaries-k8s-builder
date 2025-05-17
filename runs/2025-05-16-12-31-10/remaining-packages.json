@@ -196,7 +196,6 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "Dino": [],
   "DominoEffect": [
     "VariantAnnotation"
   ],
@@ -393,7 +392,6 @@
   "MOSClip": [
     "qpgraph"
   ],
-  "MOSim": [],
   "MPAC": [],
   "MSnID": [
     "msmsTests"
@@ -637,7 +635,6 @@
   "SigsPack": [
     "VariantAnnotation"
   ],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
     "txdbmaker",
@@ -652,10 +649,8 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "SpaNorm": [],
   "Spaniel": [],
   "SpatialExperimentIO": [],
-  "SpatialFeatureExperiment": [],
   "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
@@ -706,9 +701,7 @@
   "VariantTools": [
     "VariantAnnotation"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -738,9 +731,7 @@
     "alabaster.vcf",
     "VariantAnnotation"
   ],
-  "alabaster.sfe": [
-    "SpatialFeatureExperiment"
-  ],
+  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation"
   ],
@@ -1111,7 +1102,6 @@
   "igvR": [
     "VariantAnnotation"
   ],
-  "imcRtools": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -1351,8 +1341,7 @@
     "VariantAnnotation"
   ],
   "scFeatures": [
-    "ensembldb",
-    "SingleCellSignalR"
+    "ensembldb"
   ],
   "scMerge": [
     "M3Drop"
@@ -1485,7 +1474,6 @@
   ],
   "traseR": [],
   "treeclimbR": [],
-  "tricycle": [],
   "trigger": [],
   "txcutr": [
     "txdbmaker"

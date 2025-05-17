@@ -1892,3 +1892,10 @@ BioTIP
 muscat
 netSmooth
 scDblFinder
+Dino
+imcRtools
+MOSim
+SingleCellSignalR
+SpaNorm
+SpatialFeatureExperiment
+tricycle
