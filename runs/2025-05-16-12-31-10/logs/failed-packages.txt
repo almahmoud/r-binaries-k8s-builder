@@ -16,3 +16,4 @@ rGADEM
 AneuFinder
 DaMiRseq
 EpiCompare
+ATACseqQC

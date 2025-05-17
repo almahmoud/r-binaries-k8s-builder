@@ -1,1 +1,14 @@
-biscuiteer
+ENmix
+MethylAid
+REMP
+conumee
+deconvR
+funtooNorm
+iNETgrate
+methylCC
+methylclock
+methylumi
+quantro
+recountmethylation
+shinyMethyl
+shinyepico
