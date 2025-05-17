@@ -1635,3 +1635,7 @@ gcapc
 ggspavis
 cytomapper
 CytoMDS
+DEP
+msmsEDA
+MSstatsQC
+Pigengene

@@ -294,7 +294,6 @@
     "GenomicFeatures"
   ],
   "DAPAR": [],
-  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -676,13 +675,9 @@
   ],
   "MSPrep": [],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
@@ -799,7 +794,6 @@
   "PRONE": [],
   "PROPS": [],
   "PhenStat": [],
-  "Pigengene": [],
   "PrInCE": [],
   "Prostar": [
     "DAPAR"
@@ -1806,7 +1800,6 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",
@@ -2066,10 +2059,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multicrispr": [
     "CRISPRseek",
     "GenomicFeatures",
