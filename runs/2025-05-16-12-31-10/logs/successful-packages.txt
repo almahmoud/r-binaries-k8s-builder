@@ -2013,3 +2013,7 @@ scanMiRApp
 SMITE
 TAPseq
 traseR
+BindingSiteFinder
+mosdef
+VariantAnnotation
+webbioc
