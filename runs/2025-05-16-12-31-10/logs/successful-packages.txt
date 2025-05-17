@@ -1936,3 +1936,16 @@ dada2
 MGnifyR
 SARC
 transformGamPoi
+annotatr
+crupR
+ExperimentSubset
+gmoviz
+MsQuality
+MSstatsQCgui
+nearBynding
+NoRCE
+PLSDAbatch
+Rbec
+RegionalST
+terraTCGAdata
+txdbmaker
