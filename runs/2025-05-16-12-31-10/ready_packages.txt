@@ -1,1 +1,4 @@
-YAPSA
+RNAAgeCalc
+RnaSeqSampleSize
+affycoretools
+psichomics

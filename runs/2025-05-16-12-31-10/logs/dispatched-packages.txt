@@ -2279,3 +2279,7 @@ RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
 YAPSA
+RNAAgeCalc
+RnaSeqSampleSize
+affycoretools
+psichomics

@@ -2216,3 +2216,14 @@ R3CPET
 scruff
 SomaticSignatures
 VariantFiltering
+cicero
+CNVfilteR
+comapr
+cummeRbund
+derfinderPlot
+FLAMES
+iNETgrate
+maser
+recount
+regionReport
+ReportingTools

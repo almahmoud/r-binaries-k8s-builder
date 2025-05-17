@@ -1,15 +1,13 @@
 {
   "ATACseqQC": [],
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "AneuFinder": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
   ],
-  "CNVfilteR": [],
   "CNViz": [],
   "ChAMP": [
     "DMRcate",
@@ -26,7 +24,6 @@
   ],
   "DaMiRseq": [],
   "EpiCompare": [],
-  "FLAMES": [],
   "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq"
@@ -59,23 +56,16 @@
     "PICS"
   ],
   "PhenStat": [],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "RedisParam": [],
-  "ReportingTools": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "YAPSA": [],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -84,10 +74,8 @@
     "lumi"
   ],
   "chimeraviz": [],
-  "cicero": [],
   "cisPath": [],
   "cn.farms": [],
-  "comapr": [],
   "compEpiTools": [
     "methylPipe"
   ],
@@ -98,8 +86,6 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "cummeRbund": [],
-  "derfinderPlot": [],
   "epimutacions": [],
   "epivizrStandalone": [],
   "ffpe": [
@@ -116,10 +102,8 @@
   "iCheck": [
     "lumi"
   ],
-  "iNETgrate": [],
   "lumi": [],
   "mCSEA": [],
-  "maser": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -128,13 +112,9 @@
   "motifbreakR": [],
   "multicrispr": [],
   "primirTSS": [],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "rGADEM": [],
   "ramr": [],
-  "recount": [],
-  "regionReport": [],
   "regutools": [],
   "saseR": [],
   "scTreeViz": [],
