@@ -2005,3 +2005,11 @@ peco
 rgsepd
 MetaboSignal
 tximeta
+bumphunter
+CATALYST
+miaDash
+rCGH
+scanMiRApp
+SMITE
+TAPseq
+traseR

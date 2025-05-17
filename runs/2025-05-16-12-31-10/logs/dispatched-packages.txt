@@ -2078,3 +2078,11 @@ GSReg
 epivizrData
 chevreulPlot
 IsoformSwitchAnalyzeR
+coMethDMR
+cytofQC
+dmrseq
+minfi
+preciseTAD
+rnaEditr
+spillR
+vmrseq
