@@ -1670,3 +1670,8 @@ DAPAR
 GOTHiC
 methrix
 spatialFDA
+GreyListChIP
+ORFhunteR
+scider
+smoppix
+tpSVG
