@@ -1826,3 +1826,14 @@ SeqGSEA
 spacexr
 switchde
 xcore
+alabaster.mae
+annaffy
+CHETAH
+clusterExperiment
+GenomicFeatures
+kissDE
+meshes
+miRSM
+TOP
+VDJdive
+XeniumIO

@@ -1,0 +1,440 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''GenomicFeatures'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'GenomicFeatures'
+also installing the dependencies ‘biomaRt’, ‘bookdown’, ‘litedown’, ‘txdbmaker’, ‘org.Mm.eg.db’, ‘org.Hs.eg.db’, ‘BSgenome’, ‘BSgenome.Hsapiens.UCSC.hg19’, ‘BSgenome.Celegans.UCSC.ce11’, ‘BSgenome.Dmelanogaster.UCSC.dm3’, ‘mirbase.db’, ‘FDb.UCSC.tRNAs’, ‘TxDb.Hsapiens.UCSC.hg19.knownGene’, ‘TxDb.Celegans.UCSC.ce11.ensGene’, ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’, ‘TxDb.Mmusculus.UCSC.mm10.knownGene’, ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts’, ‘TxDb.Hsapiens.UCSC.hg38.knownGene’, ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’, ‘pasillaBamSubset’, ‘RUnit’, ‘BiocStyle’, ‘markdown’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/biomaRt_2.64.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/litedown_0.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/txdbmaker_1.4.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/org.Mm.eg.db_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/org.Hs.eg.db_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg19_1.4.3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Celegans.UCSC.ce11_1.4.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Dmelanogaster.UCSC.dm3_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/mirbase.db_1.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/FDb.UCSC.tRNAs_1.0.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Celegans.UCSC.ce11.ensGene_3.15.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Dmelanogaster.UCSC.dm3.ensGene_3.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Mmusculus.UCSC.mm10.knownGene_3.10.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts_3.2.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/TxDb.Hsapiens.UCSC.hg38.knownGene_3.21.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/SNPlocs.Hsapiens.dbSNP144.GRCh38_0.99.20.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/pasillaBamSubset_0.46.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/markdown_2.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomicFeatures_1.60.0.tar.gz'
+* installing *source* package ‘biomaRt’ ...
+** this is package ‘biomaRt’ version ‘2.64.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘biomaRt’ as ‘biomaRt_2.64.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (biomaRt)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘litedown’ ...
+** this is package ‘litedown’ version ‘0.7’
+** package ‘litedown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘litedown’ as ‘litedown_0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (litedown)
+* installing *source* package ‘org.Mm.eg.db’ ...
+** this is package ‘org.Mm.eg.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Mm.eg.db’ as ‘org.Mm.eg.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Mm.eg.db)
+* installing *source* package ‘org.Hs.eg.db’ ...
+** this is package ‘org.Hs.eg.db’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘org.Hs.eg.db’ as ‘org.Hs.eg.db_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (org.Hs.eg.db)
+* installing *source* package ‘BSgenome’ ...
+** this is package ‘BSgenome’ version ‘1.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome’ as ‘BSgenome_1.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome)
+* installing *source* package ‘mirbase.db’ ...
+** this is package ‘mirbase.db’ version ‘1.2.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'mirbase.db' is deprecated and will be removed from
+  Bioconductor version 3.22
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'mirbase.db' is deprecated and will be removed from
+  Bioconductor version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mirbase.db’ as ‘mirbase.db_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mirbase.db)
+* installing *source* package ‘pasillaBamSubset’ ...
+** this is package ‘pasillaBamSubset’ version ‘0.46.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pasillaBamSubset’ as ‘pasillaBamSubset_0.46.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pasillaBamSubset)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘GenomicFeatures’ ...
+** this is package ‘GenomicFeatures’ version ‘1.60.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GenomicFeatures’ as ‘GenomicFeatures_1.60.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GenomicFeatures)
+* installing *source* package ‘txdbmaker’ ...
+** this is package ‘txdbmaker’ version ‘1.4.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘txdbmaker’ as ‘txdbmaker_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (txdbmaker)
+* installing *source* package ‘BSgenome.Hsapiens.UCSC.hg19’ ...
+** this is package ‘BSgenome.Hsapiens.UCSC.hg19’ version ‘1.4.3’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Hsapiens.UCSC.hg19’ as ‘BSgenome.Hsapiens.UCSC.hg19_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Hsapiens.UCSC.hg19)
+* installing *source* package ‘BSgenome.Celegans.UCSC.ce11’ ...
+** this is package ‘BSgenome.Celegans.UCSC.ce11’ version ‘1.4.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Celegans.UCSC.ce11’ as ‘BSgenome.Celegans.UCSC.ce11_1.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Celegans.UCSC.ce11)
+* installing *source* package ‘BSgenome.Dmelanogaster.UCSC.dm3’ ...
+** this is package ‘BSgenome.Dmelanogaster.UCSC.dm3’ version ‘1.4.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BSgenome.Dmelanogaster.UCSC.dm3’ as ‘BSgenome.Dmelanogaster.UCSC.dm3_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BSgenome.Dmelanogaster.UCSC.dm3)
+* installing *source* package ‘FDb.UCSC.tRNAs’ ...
+** this is package ‘FDb.UCSC.tRNAs’ version ‘1.0.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FDb.UCSC.tRNAs’ as ‘FDb.UCSC.tRNAs_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FDb.UCSC.tRNAs)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ version ‘3.2.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg19.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg19.knownGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg19.knownGene)
+* installing *source* package ‘TxDb.Celegans.UCSC.ce11.ensGene’ ...
+** this is package ‘TxDb.Celegans.UCSC.ce11.ensGene’ version ‘3.15.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Celegans.UCSC.ce11.ensGene’ as ‘TxDb.Celegans.UCSC.ce11.ensGene_3.15.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Celegans.UCSC.ce11.ensGene)
+* installing *source* package ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’ ...
+** this is package ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’ version ‘3.2.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene’ as ‘TxDb.Dmelanogaster.UCSC.dm3.ensGene_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Dmelanogaster.UCSC.dm3.ensGene)
+* installing *source* package ‘TxDb.Mmusculus.UCSC.mm10.knownGene’ ...
+** this is package ‘TxDb.Mmusculus.UCSC.mm10.knownGene’ version ‘3.10.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Mmusculus.UCSC.mm10.knownGene’ as ‘TxDb.Mmusculus.UCSC.mm10.knownGene_3.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Mmusculus.UCSC.mm10.knownGene)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts’ version ‘3.2.2’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+Warning in utils::tar(filepath, curPkg, compression = "gzip", compression_level = 9L,  :
+  storing paths of more than 100 bytes is not portable:
+  ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts/extdata/TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts.sqlite’
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts’ as ‘TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts_3.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg19.lincRNAsTranscripts)
+* installing *source* package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ ...
+** this is package ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ version ‘3.21.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TxDb.Hsapiens.UCSC.hg38.knownGene’ as ‘TxDb.Hsapiens.UCSC.hg38.knownGene_3.21.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TxDb.Hsapiens.UCSC.hg38.knownGene)
+* installing *source* package ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’ ...
+** this is package ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’ version ‘0.99.20’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘utils::findMatches’ by ‘S4Vectors::findMatches’ when loading ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SNPlocs.Hsapiens.dbSNP144.GRCh38’ as ‘SNPlocs.Hsapiens.dbSNP144.GRCh38_0.99.20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SNPlocs.Hsapiens.dbSNP144.GRCh38)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘markdown’ ...
+** this is package ‘markdown’ version ‘2.0’
+** package ‘markdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘markdown’ as ‘markdown_2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (markdown)
+
+The downloaded source packages are in
+	‘/tmp/RtmpzbO17k/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	19m46.704s
+user	18m14.858s
+sys	1m53.838s
