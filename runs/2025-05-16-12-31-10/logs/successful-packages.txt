@@ -2118,3 +2118,6 @@ standR
 biovizBase
 pcaExplorer
 scone
+appreci8R
+consensusDE
+transmogR

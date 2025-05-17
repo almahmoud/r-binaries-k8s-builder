@@ -231,7 +231,6 @@
     "alabaster.vcf"
   ],
   "alabaster.vcf": [],
-  "appreci8R": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
@@ -272,7 +271,6 @@
     "methylPipe",
     "Gviz"
   ],
-  "consensusDE": [],
   "conumee": [],
   "crisprDesign": [],
   "crisprShiny": [
@@ -442,7 +440,6 @@
   "trackViewer": [
     "Gviz"
   ],
-  "transmogR": [],
   "trigger": [],
   "uncoverappLib": [
     "Gviz"
