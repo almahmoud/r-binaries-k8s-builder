@@ -55,7 +55,6 @@
   "BadRegionFinder": [
     "VariantAnnotation"
   ],
-  "BgeeCall": [],
   "BindingSiteFinder": [],
   "BubbleTree": [
     "biovizBase",
@@ -110,7 +109,6 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CellMixS": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -295,7 +293,6 @@
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [],
   "IPO": [
     "xcms",
     "CAMERA"
@@ -344,12 +341,8 @@
     "lumi"
   ],
   "MEB": [],
-  "MOSClip": [
-    "qpgraph"
-  ],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MOSClip": [],
+  "MSnID": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb"
@@ -358,7 +351,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "lumi",
     "methylumi",
@@ -672,7 +664,6 @@
     "bumphunter",
     "OrganismDbi"
   ],
-  "borealis": [],
   "bumphunter": [],
   "cBioPortalData": [
     "RTCGAToolbox"
@@ -691,7 +682,6 @@
   "cardelino": [
     "VariantAnnotation"
   ],
-  "casper": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox"
@@ -725,9 +715,7 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "clipper": [
-    "qpgraph"
-  ],
+  "clipper": [],
   "cliqueMS": [
     "xcms"
   ],
@@ -1026,7 +1014,6 @@
     "minfi",
     "bumphunter"
   ],
-  "miQC": [],
   "miaDash": [
     "iSEEtree"
   ],
@@ -1059,7 +1046,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "msmsTests": [],
   "multicrispr": [
     "karyoploteR",
     "biovizBase",
@@ -1095,7 +1081,6 @@
     "VariantAnnotation"
   ],
   "proActiv": [],
-  "proBAMr": [],
   "profileplyr": [
     "soGGi",
     "rGREAT"
@@ -1107,7 +1092,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "qpgraph": [],
   "quantro": [
     "minfi",
     "bumphunter"
@@ -1268,12 +1252,10 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "transcriptR": [],
   "transmogR": [
     "VariantAnnotation"
   ],
   "traseR": [],
-  "treeclimbR": [],
   "trigger": [],
   "txcutr": [],
   "tximeta": [

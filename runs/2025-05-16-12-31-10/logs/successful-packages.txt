@@ -1949,3 +1949,15 @@ Rbec
 RegionalST
 terraTCGAdata
 txdbmaker
+BgeeCall
+borealis
+casper
+CellMixS
+HoloFoodR
+MethylSeekR
+miQC
+msmsTests
+proBAMr
+qpgraph
+transcriptR
+treeclimbR

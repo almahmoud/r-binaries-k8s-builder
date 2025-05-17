@@ -2048,3 +2048,6 @@ recoup
 scmeth
 sitadela
 txcutr
+MOSClip
+MSnID
+clipper
