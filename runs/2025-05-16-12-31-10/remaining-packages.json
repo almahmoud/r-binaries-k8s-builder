@@ -328,7 +328,6 @@
     "xcms",
     "CAMERA"
   ],
-  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "txdbmaker",
@@ -629,13 +628,11 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "SplicingGraphs": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
   "TAPseq": [],
   "TCGAutils": [],
-  "TFEA.ChIP": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -653,7 +650,6 @@
   "TitanCNA": [
     "VariantAnnotation"
   ],
-  "TnT": [],
   "UMI4Cats": [],
   "UPDhmm": [
     "VariantAnnotation"
@@ -1109,7 +1105,6 @@
     "txdbmaker"
   ],
   "maaslin3": [],
-  "magpie": [],
   "maser": [
     "Gviz",
     "ensembldb",
