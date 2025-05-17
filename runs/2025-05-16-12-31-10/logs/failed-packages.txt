@@ -17,3 +17,4 @@ AneuFinder
 DaMiRseq
 EpiCompare
 ATACseqQC
+signeR

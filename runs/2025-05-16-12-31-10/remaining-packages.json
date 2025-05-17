@@ -1,5 +1,4 @@
 {
-  "ASpli": [],
   "ATACseqQC": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -9,12 +8,9 @@
   "AneuFinder": [],
   "BOBaFIT": [],
   "CAFE": [],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "CNVfilteR": [
     "CopyNumberPlots"
@@ -38,7 +34,6 @@
   ],
   "DaMiRseq": [],
   "Damsel": [],
-  "DuplexDiscovereR": [],
   "ELMER": [],
   "EpiCompare": [],
   "FLAMES": [],
@@ -47,12 +42,8 @@
     "DaMiRseq"
   ],
   "GeDi": [],
-  "GeneStructureTools": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
@@ -75,13 +66,11 @@
     "ATACseqQC"
   ],
   "NormqPCR": [],
-  "OGRE": [],
   "PICS": [],
   "PING": [
     "PICS"
   ],
   "PhenStat": [],
-  "Pviz": [],
   "R3CPET": [],
   "RNAAgeCalc": [
     "recount"
@@ -107,7 +96,6 @@
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
-  "TFutils": [],
   "TVTB": [],
   "VariantFiltering": [],
   "YAPSA": [
@@ -145,7 +133,6 @@
   "derfinderPlot": [],
   "epimutacions": [],
   "epivizrStandalone": [],
-  "erma": [],
   "ffpe": [
     "lumi"
   ],
@@ -182,20 +169,15 @@
   "recount": [],
   "regionReport": [],
   "regutools": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scTreeViz": [],
   "scruff": [],
   "signeR": [],
-  "singleCellTK": [],
   "skewr": [
     "wateRmelon",
     "lumi"
   ],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "srnadiff": [],
   "tadar": [],
   "trackViewer": [],

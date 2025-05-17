@@ -2269,3 +2269,7 @@ multicrispr
 recount
 regionReport
 scruff
+CAGEfightR
+HiCDCPlus
+saseR
+spatzie

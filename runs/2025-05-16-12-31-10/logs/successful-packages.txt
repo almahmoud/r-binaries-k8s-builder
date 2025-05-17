@@ -2185,3 +2185,12 @@ karyoploteR
 QuasR
 shinyDSP
 svaNUMT
+ASpli
+DuplexDiscovereR
+erma
+GeneStructureTools
+GenomicInteractions
+OGRE
+Pviz
+singleCellTK
+TFutils
