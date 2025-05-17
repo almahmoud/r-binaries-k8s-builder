@@ -217,7 +217,6 @@
   "EpiTxDb": [
     "txdbmaker"
   ],
-  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -249,8 +248,7 @@
   ],
   "GNOSIS": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "GRaNIE": [
     "ensembldb"
@@ -537,9 +535,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RTCGAToolbox": [
-    "TCGAutils"
-  ],
+  "RTCGAToolbox": [],
   "RUVSeq": [],
   "RareVariantVis": [
     "VariantAnnotation"
@@ -632,7 +628,6 @@
     "VariantAnnotation"
   ],
   "TAPseq": [],
-  "TCGAutils": [],
   "TFHAZ": [
     "ORFik",
     "txdbmaker"
@@ -730,8 +725,7 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -754,8 +748,7 @@
   "borealis": [],
   "bumphunter": [],
   "cBioPortalData": [
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cageminer": [
     "ggbio",
@@ -767,8 +760,7 @@
   ],
   "canceR": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "cardelino": [
     "VariantAnnotation"
@@ -776,8 +768,7 @@
   "casper": [],
   "cbaf": [
     "cBioPortalData",
-    "RTCGAToolbox",
-    "TCGAutils"
+    "RTCGAToolbox"
   ],
   "chevreulPlot": [
     "chevreulProcess",
@@ -1017,9 +1008,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "glmSparseNet": [
-    "TCGAutils"
-  ],
+  "glmSparseNet": [],
   "gmapR": [
     "VariantAnnotation"
   ],
@@ -1048,9 +1037,7 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "icetea": [
     "VariantAnnotation"
   ],
@@ -1078,7 +1065,6 @@
   "katdetectr": [
     "VariantAnnotation"
   ],
-  "lefser": [],
   "lemur": [],
   "lineagespot": [
     "VariantAnnotation"
@@ -1145,12 +1131,9 @@
   ],
   "miQC": [],
   "miaDash": [
-    "iSEEtree",
-    "miaViz"
+    "iSEEtree"
   ],
   "miaSim": [],
-  "miaViz": [],
-  "microSTASIS": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1327,11 +1310,9 @@
     "ensembldb"
   ],
   "segmenter": [],
-  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],
-  "seqsetvis": [],
   "shinyDSP": [
     "standR",
     "RUVSeq"
@@ -1406,9 +1387,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "terraTCGAdata": [
-    "TCGAutils"
-  ],
+  "terraTCGAdata": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",

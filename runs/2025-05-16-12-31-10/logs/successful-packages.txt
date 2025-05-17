@@ -1925,3 +1925,10 @@ TnT
 a4Base
 branchpointer
 celda
+EventPointer
+lefser
+miaViz
+microSTASIS
+seqArchRplus
+seqsetvis
+TCGAutils

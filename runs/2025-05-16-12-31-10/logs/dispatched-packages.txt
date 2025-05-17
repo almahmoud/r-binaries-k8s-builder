@@ -2022,3 +2022,7 @@ EventPointer
 RegionalST
 a4
 decontX
+RTCGAToolbox
+glmSparseNet
+iSEEtree
+terraTCGAdata
