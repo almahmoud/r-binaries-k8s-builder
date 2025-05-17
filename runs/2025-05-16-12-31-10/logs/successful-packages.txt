@@ -1517,3 +1517,15 @@ SCnorm
 SiPSiC
 TrajectoryUtils
 UCell
+baySeq
+beachmat.hdf5
+girafe
+MAST
+nullranges
+PeacoQC
+QTLExperiment
+scDesign3
+scReClassify
+SPOTlight
+SPsimSeq
+TSCAN

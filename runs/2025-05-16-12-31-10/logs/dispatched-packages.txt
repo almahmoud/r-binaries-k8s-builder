@@ -1704,3 +1704,11 @@ SCArray.sat
 TSCAN
 mariner
 slingshot
+FEAST
+POWSC
+SurfR
+celaref
+clusterSeq
+multistateQTL
+riboSeqR
+segmentSeq

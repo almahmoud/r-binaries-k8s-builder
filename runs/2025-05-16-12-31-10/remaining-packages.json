@@ -363,21 +363,18 @@
   "CuratedAtlasQueryR": [],
   "CytoMDS": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoML": [
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -539,9 +536,7 @@
     "SpatialExperiment",
     "TreeSummarizedExperiment"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -784,7 +779,6 @@
     "MSnbase",
     "MsExperiment"
   ],
-  "MAST": [],
   "MBECS": [],
   "MEAL": [
     "minfi",
@@ -993,14 +987,11 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "POWSC": [
-    "MAST"
-  ],
+  "POWSC": [],
   "PRONE": [
     "MSnbase"
   ],
   "PROPS": [],
-  "PeacoQC": [],
   "PhenStat": [],
   "Pigengene": [],
   "PrInCE": [
@@ -1028,7 +1019,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -1281,8 +1271,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
-  "SPsimSeq": [],
   "SVP": [
     "SpatialExperiment"
   ],
@@ -1364,9 +1352,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "SurfR": [
-    "SPsimSeq"
-  ],
+  "SurfR": [],
   "TAPseq": [
     "BSgenome",
     "GenomicFeatures"
@@ -1405,7 +1391,6 @@
   "TRESS": [
     "GenomicFeatures"
   ],
-  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1600,12 +1585,9 @@
   "batchelor": [
     "scuttle"
   ],
-  "baySeq": [],
-  "beachmat.hdf5": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
-    "MAST",
     "maaslin3"
   ],
   "betaHMM": [],
@@ -1704,9 +1686,7 @@
     "GenomicFeatures"
   ],
   "ccfindR": [],
-  "celaref": [
-    "MAST"
-  ],
+  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -1796,9 +1776,7 @@
     "zinbwave",
     "mbkmeans"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "clustifyr": [],
   "cn.farms": [],
   "coMethDMR": [
@@ -2212,7 +2190,6 @@
   "ggspavis": [
     "SpatialExperiment"
   ],
-  "girafe": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2602,9 +2579,7 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "multistateQTL": [
-    "QTLExperiment"
-  ],
+  "multistateQTL": [],
   "mumosa": [
     "scuttle",
     "scran",
@@ -2651,7 +2626,6 @@
     "bamsignals"
   ],
   "nucleR": [],
-  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2836,9 +2810,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "riboSeqR": [
-    "baySeq"
-  ],
+  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -2888,7 +2860,6 @@
     "scater",
     "scuttle"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",
@@ -2921,7 +2892,6 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scReClassify": [],
   "scRepertoire": [],
   "scTGIF": [],
   "scTensor": [],
@@ -2984,9 +2954,7 @@
     "scater",
     "scuttle"
   ],
-  "segmentSeq": [
-    "baySeq"
-  ],
+  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "bamsignals",
@@ -3051,7 +3019,6 @@
     "batchelor",
     "ensembldb",
     "GSVA",
-    "MAST",
     "scater",
     "scMerge",
     "scran",
@@ -3059,7 +3026,6 @@
     "DropletUtils",
     "zinbwave",
     "scDblFinder",
-    "TSCAN",
     "scuttle",
     "zellkonverter",
     "GenomicFeatures",
@@ -3211,8 +3177,7 @@
     "tidySingleCellExperiment"
   ],
   "tidyomics": [
-    "tidySingleCellExperiment",
-    "nullranges"
+    "tidySingleCellExperiment"
   ],
   "topdownr": [
     "MSnbase"
