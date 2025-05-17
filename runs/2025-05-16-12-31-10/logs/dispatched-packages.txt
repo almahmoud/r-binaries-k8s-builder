@@ -2077,3 +2077,4 @@ FRASER
 GSReg
 epivizrData
 chevreulPlot
+IsoformSwitchAnalyzeR

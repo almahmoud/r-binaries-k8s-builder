@@ -240,9 +240,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA"
@@ -277,7 +275,6 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [],
   "MethylAid": [
     "minfi",
     "bumphunter"
@@ -1034,7 +1031,6 @@
   ],
   "traseR": [],
   "trigger": [],
-  "tximeta": [],
   "uncoverappLib": [
     "Gviz",
     "biovizBase",
