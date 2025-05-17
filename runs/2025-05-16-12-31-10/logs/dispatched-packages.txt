@@ -1877,3 +1877,16 @@ clusterExperiment
 iSEEfier
 CRISPRball
 SPIAT
+ExperimentSubset
+HoloFoodR
+MsQuality
+PLSDAbatch
+gDR
+lemur
+maaslin3
+miaSim
+microSTASIS
+soGGi
+transformGamPoi
+treeclimbR
+xcms

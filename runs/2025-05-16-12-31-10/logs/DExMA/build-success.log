@@ -1,0 +1,669 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''DExMA'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'DExMA'
+also installing the dependencies ‘R.oo’, ‘R.methodsS3’, ‘annotate’, ‘rentrez’, ‘R.utils’, ‘zlibbioc’, ‘genefilter’, ‘amap’, ‘bookdown’, ‘DExMAdata’, ‘GEOquery’, ‘impute’, ‘pheatmap’, ‘snpStats’, ‘sva’, ‘swamp’, ‘bnstruct’, ‘BiocStyle’, ‘qpdf’, ‘RUnit’
+
+trying URL 'https://cloud.r-project.org/src/contrib/R.oo_1.27.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.methodsS3_1.8.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/annotate_1.86.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/rentrez_1.2.3.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/R.utils_2.13.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/zlibbioc_1.54.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/genefilter_1.90.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/amap_0.8-20.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/experiment/src/contrib/DExMAdata_1.16.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GEOquery_2.76.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/impute_1.82.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/snpStats_1.58.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/sva_3.56.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/swamp_1.5.1.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bnstruct_1.0.15.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/qpdf_1.3.5.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DExMA_1.16.0.tar.gz'
+* installing *source* package ‘R.methodsS3’ ...
+** this is package ‘R.methodsS3’ version ‘1.8.2’
+** package ‘R.methodsS3’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *source* package ‘annotate’ ...
+** this is package ‘annotate’ version ‘1.86.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘annotate’ as ‘annotate_1.86.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (annotate)
+* installing *source* package ‘rentrez’ ...
+** this is package ‘rentrez’ version ‘1.2.3’
+** package ‘rentrez’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘rentrez’ as ‘rentrez_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rentrez)
+* installing *source* package ‘zlibbioc’ ...
+** this is package ‘zlibbioc’ version ‘1.54.0’
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+mkdir -p "/usr/local/lib/R/site-library/00LOCK-zlibbioc/00new/zlibbioc/include"
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c R_init_zlibbioc.c -o R_init_zlibbioc.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o zlibbioc.so R_init_zlibbioc.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-zlibbioc/00new/zlibbioc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zlibbioc’ as ‘zlibbioc_1.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zlibbioc)
+* installing *source* package ‘amap’ ...
+** this is package ‘amap’ version ‘0.8-20’
+** package ‘amap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c acprob.cpp -o acprob.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c burt.c -o burt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c diss.c -o diss.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c distance.cpp -o distance.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c hclust.cpp -o hclust.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c kmeans.cpp -o kmeans.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c matrice.cpp -o matrice.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c pop.f -o pop.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o amap.so acprob.o burt.o diss.o distance.o hclust.o init.o kmeans.o matrice.o pop.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-amap/00new/amap/libs
+** R
+** data
+** demo
+** exec
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘amap’ as ‘amap_0.8-20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (amap)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘DExMAdata’ ...
+** this is package ‘DExMAdata’ version ‘1.16.0’
+** using staged installation
+** data
+*** moving datasets to lazyload DB
+** inst
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DExMAdata’ as ‘DExMAdata_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DExMAdata)
+* installing *source* package ‘impute’ ...
+** this is package ‘impute’ version ‘1.82.0’
+** using staged installation
+** libs
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c knnimpute.f -o knnimpute.o
+knnimpute.f:99:72:
+
+   99 | 20                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 20 at (1)
+knnimpute.f:113:72:
+
+  113 | 35                        pos(k1+1) = pos(k1)
+      |                                                                             1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 35 at (1)
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o impute.so knnimpute.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-impute/00new/impute/libs
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘impute’ as ‘impute_1.82.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (impute)
+* installing *source* package ‘pheatmap’ ...
+** this is package ‘pheatmap’ version ‘1.0.12’
+** package ‘pheatmap’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *source* package ‘bnstruct’ ...
+** this is package ‘bnstruct’ version ‘1.0.15’
+** package ‘bnstruct’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bnstruct_init.c -o bnstruct_init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c impfast.c -o impfast.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mmhcfast.c -o mmhcfast.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c smfast.c -o smfast.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o bnstruct.so bnstruct_init.o impfast.o mmhcfast.o smfast.o util.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-bnstruct/00new/bnstruct/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bnstruct’ as ‘bnstruct_1.0.15_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bnstruct)
+* installing *source* package ‘qpdf’ ...
+** this is package ‘qpdf’ version ‘1.3.5’
+** package ‘qpdf’ successfully unpacked and MD5 sums checked
+** using staged installation
+Using bundled qpdf (recommended)
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c bindings.cpp -o bindings.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/BitStream.cc -o libqpdf/BitStream.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/BitWriter.cc -o libqpdf/BitWriter.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Buffer.cc -o libqpdf/Buffer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/BufferInputSource.cc -o libqpdf/BufferInputSource.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/ClosedFileInputSource.cc -o libqpdf/ClosedFileInputSource.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/ContentNormalizer.cc -o libqpdf/ContentNormalizer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/FileInputSource.cc -o libqpdf/FileInputSource.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/InputSource.cc -o libqpdf/InputSource.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/InsecureRandomDataProvider.cc -o libqpdf/InsecureRandomDataProvider.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/JSON.cc -o libqpdf/JSON.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/MD5.cc -o libqpdf/MD5.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/OffsetInputSource.cc -o libqpdf/OffsetInputSource.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pipeline.cc -o libqpdf/Pipeline.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_AES_PDF.cc -o libqpdf/Pl_AES_PDF.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_ASCII85Decoder.cc -o libqpdf/Pl_ASCII85Decoder.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_ASCIIHexDecoder.cc -o libqpdf/Pl_ASCIIHexDecoder.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_Buffer.cc -o libqpdf/Pl_Buffer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_Concatenate.cc -o libqpdf/Pl_Concatenate.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_Count.cc -o libqpdf/Pl_Count.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_DCT.cc -o libqpdf/Pl_DCT.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_Discard.cc -o libqpdf/Pl_Discard.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_Flate.cc -o libqpdf/Pl_Flate.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_LZWDecoder.cc -o libqpdf/Pl_LZWDecoder.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_MD5.cc -o libqpdf/Pl_MD5.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_PNGFilter.cc -o libqpdf/Pl_PNGFilter.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_QPDFTokenizer.cc -o libqpdf/Pl_QPDFTokenizer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_RC4.cc -o libqpdf/Pl_RC4.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_RunLength.cc -o libqpdf/Pl_RunLength.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_SHA2.cc -o libqpdf/Pl_SHA2.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_StdioFile.cc -o libqpdf/Pl_StdioFile.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/Pl_TIFFPredictor.cc -o libqpdf/Pl_TIFFPredictor.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Array.cc -o libqpdf/QPDF_Array.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Bool.cc -o libqpdf/QPDF_Bool.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Dictionary.cc -o libqpdf/QPDF_Dictionary.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_encryption.cc -o libqpdf/QPDF_encryption.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_InlineImage.cc -o libqpdf/QPDF_InlineImage.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Integer.cc -o libqpdf/QPDF_Integer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_linearization.cc -o libqpdf/QPDF_linearization.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Name.cc -o libqpdf/QPDF_Name.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Null.cc -o libqpdf/QPDF_Null.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Operator.cc -o libqpdf/QPDF_Operator.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_optimization.cc -o libqpdf/QPDF_optimization.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_pages.cc -o libqpdf/QPDF_pages.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Real.cc -o libqpdf/QPDF_Real.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Reserved.cc -o libqpdf/QPDF_Reserved.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_Stream.cc -o libqpdf/QPDF_Stream.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF_String.cc -o libqpdf/QPDF_String.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/qpdf-c.cc -o libqpdf/qpdf-c.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDF.cc -o libqpdf/QPDF.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFAcroFormDocumentHelper.cc -o libqpdf/QPDFAcroFormDocumentHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFAnnotationObjectHelper.cc -o libqpdf/QPDFAnnotationObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFExc.cc -o libqpdf/QPDFExc.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFFormFieldObjectHelper.cc -o libqpdf/QPDFFormFieldObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFMatrix.cc -o libqpdf/QPDFMatrix.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFNameTreeObjectHelper.cc -o libqpdf/QPDFNameTreeObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFNumberTreeObjectHelper.cc -o libqpdf/QPDFNumberTreeObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFObject.cc -o libqpdf/QPDFObject.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFObjectHandle.cc -o libqpdf/QPDFObjectHandle.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFObjGen.cc -o libqpdf/QPDFObjGen.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFOutlineDocumentHelper.cc -o libqpdf/QPDFOutlineDocumentHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFOutlineObjectHelper.cc -o libqpdf/QPDFOutlineObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFPageDocumentHelper.cc -o libqpdf/QPDFPageDocumentHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFPageLabelDocumentHelper.cc -o libqpdf/QPDFPageLabelDocumentHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFPageObjectHelper.cc -o libqpdf/QPDFPageObjectHelper.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFSystemError.cc -o libqpdf/QPDFSystemError.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFTokenizer.cc -o libqpdf/QPDFTokenizer.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFWriter.cc -o libqpdf/QPDFWriter.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QPDFXRefEntry.cc -o libqpdf/QPDFXRefEntry.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QTC.cc -o libqpdf/QTC.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/QUtil.cc -o libqpdf/QUtil.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/RC4.cc -o libqpdf/RC4.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/rijndael.cc -o libqpdf/rijndael.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c libqpdf/SecureRandomDataProvider.cc -o libqpdf/SecureRandomDataProvider.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libqpdf/sha2.c -o libqpdf/sha2.o
+gcc -I"/usr/share/R/include" -DNDEBUG -Iinclude -Ilibqpdf  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c libqpdf/sha2big.c -o libqpdf/sha2big.o
+ar rcs libqpdf/libstatqpdf.a libqpdf/BitStream.o libqpdf/BitWriter.o libqpdf/Buffer.o libqpdf/BufferInputSource.o libqpdf/ClosedFileInputSource.o libqpdf/ContentNormalizer.o libqpdf/FileInputSource.o libqpdf/InputSource.o libqpdf/InsecureRandomDataProvider.o libqpdf/JSON.o libqpdf/MD5.o libqpdf/OffsetInputSource.o libqpdf/Pipeline.o libqpdf/Pl_AES_PDF.o libqpdf/Pl_ASCII85Decoder.o libqpdf/Pl_ASCIIHexDecoder.o libqpdf/Pl_Buffer.o libqpdf/Pl_Concatenate.o libqpdf/Pl_Count.o libqpdf/Pl_DCT.o libqpdf/Pl_Discard.o libqpdf/Pl_Flate.o libqpdf/Pl_LZWDecoder.o libqpdf/Pl_MD5.o libqpdf/Pl_PNGFilter.o libqpdf/Pl_QPDFTokenizer.o libqpdf/Pl_RC4.o libqpdf/Pl_RunLength.o libqpdf/Pl_SHA2.o libqpdf/Pl_StdioFile.o libqpdf/Pl_TIFFPredictor.o libqpdf/QPDF_Array.o libqpdf/QPDF_Bool.o libqpdf/QPDF_Dictionary.o libqpdf/QPDF_encryption.o libqpdf/QPDF_InlineImage.o libqpdf/QPDF_Integer.o libqpdf/QPDF_linearization.o libqpdf/QPDF_Name.o libqpdf/QPDF_Null.o libqpdf/QPDF_Operator.o libqpdf/QPDF_optimization.o libqpdf/QPDF_pages.o libqpdf/QPDF_Real.o libqpdf/QPDF_Reserved.o libqpdf/QPDF_Stream.o libqpdf/QPDF_String.o libqpdf/qpdf-c.o libqpdf/QPDF.o libqpdf/QPDFAcroFormDocumentHelper.o libqpdf/QPDFAnnotationObjectHelper.o libqpdf/QPDFExc.o libqpdf/QPDFFormFieldObjectHelper.o libqpdf/QPDFMatrix.o libqpdf/QPDFNameTreeObjectHelper.o libqpdf/QPDFNumberTreeObjectHelper.o libqpdf/QPDFObject.o libqpdf/QPDFObjectHandle.o libqpdf/QPDFObjGen.o libqpdf/QPDFOutlineDocumentHelper.o libqpdf/QPDFOutlineObjectHelper.o libqpdf/QPDFPageDocumentHelper.o libqpdf/QPDFPageLabelDocumentHelper.o libqpdf/QPDFPageObjectHelper.o libqpdf/QPDFSystemError.o libqpdf/QPDFTokenizer.o libqpdf/QPDFWriter.o libqpdf/QPDFXRefEntry.o libqpdf/QTC.o libqpdf/QUtil.o libqpdf/RC4.o libqpdf/rijndael.o libqpdf/SecureRandomDataProvider.o libqpdf/sha2.o libqpdf/sha2big.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o qpdf.so RcppExports.o bindings.o -Llibqpdf -lstatqpdf -ljpeg -lz -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-qpdf/00new/qpdf/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qpdf’ as ‘qpdf_1.3.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qpdf)
+* installing *source* package ‘RUnit’ ...
+** this is package ‘RUnit’ version ‘0.4.33’
+** package ‘RUnit’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *source* package ‘R.oo’ ...
+** this is package ‘R.oo’ version ‘1.27.1’
+** package ‘R.oo’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function getClasses to getClasses.default, which was defined in environment R.oo.
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *source* package ‘genefilter’ ...
+** this is package ‘genefilter’ version ‘1.90.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c half_range_mode.cpp -o half_range_mode.o
+half_range_mode.cpp: In function ‘double half_range_mode(double*, double*, double, int)’:
+half_range_mode.cpp:100:60: warning: format ‘%i’ expects argument of type ‘int’, but argument 5 has type ‘std::vector<int>::size_type’ {aka ‘long unsigned int’} [-Wformat=]
+  100 |     if (diag) Rprintf( "N = %i, N'' = %i, w = %.4f, |J| = %i\n", N, N_double_prime, w, J.size() );
+      |                                                           ~^                           ~~~~~~~~
+      |                                                            |                                 |
+      |                                                            int                               std::vector<int>::size_type {aka long unsigned int}
+      |                                                           %li
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c nd.c -o nd.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pAUC.c -o pAUC.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowPAUCs.c -o rowPAUCs.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rowttests.c -o rowttests.o
+gfortran  -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong  -c ttest.f -o ttest.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o genefilter.so half_range_mode.o init.o nd.o pAUC.o rowPAUCs.o rowttests.o ttest.o -lgfortran -lm -lquadmath -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-genefilter/00new/genefilter/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘genefilter’ as ‘genefilter_1.90.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genefilter)
+* installing *source* package ‘snpStats’ ...
+** this is package ‘snpStats’ version ‘1.58.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c Runcertain.c -o Runcertain.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bind.c -o bind.o
+bind.c: In function ‘snp_cbind’:
+bind.c:243:56: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘R_xlen_t’ {aka ‘long int’} [-Wformat=]
+  243 |               error("Duplicated column name at column %d overall from column %d of object %d", ij+1, j+1, i+1);
+      |                                                       ~^                                       ~~~~
+      |                                                        |                                         |
+      |                                                        int                                       R_xlen_t {aka long int}
+      |                                                       %ld
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c count_gt.c -o count_gt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c covwin.c -o covwin.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c force_hom.c -o force_hom.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c fst.c -o fst.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c glm_test.c -o glm_test.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c glm_test_R.c -o glm_test_R.o
+glm_test_R.c: In function ‘snp_lhs_score’:
+glm_test_R.c:305:17: warning: too many arguments for format [-Wformat-extra-args]
+  305 |         warning("Matrix not positive semi-definite in test ", t+1);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+glm_test_R.c: In function ‘snp_rhs_score’:
+glm_test_R.c:805:17: warning: too many arguments for format [-Wformat-extra-args]
+  805 |         warning("Matrix not positive semi-definite in test ", test+1);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+glm_test_R.c: In function ‘pool2_glm’:
+glm_test_R.c:937:17: warning: too many arguments for format [-Wformat-extra-args]
+  937 |         warning("Matrix not positive semi-definite in pooled test ", i+1);
+      |                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hash_index.c -o hash_index.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hphase.c -o hphase.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c imputation.c -o imputation.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c in.c -o in.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c input.c -o input.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c invert.c -o invert.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ipf.c -o ipf.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ld.c -o ld.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c misc.c -o misc.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mla.c -o mla.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c mvphenotype.c -o mvphenotype.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c outdata.c -o outdata.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c plink.c -o plink.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c read_uncertain.c -o read_uncertain.o
+read_uncertain.c: In function ‘read_mach’:
+read_uncertain.c:103:36: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long int’ [-Wformat=]
+  103 |   Rprintf("Reading SnpMatrix with %d rows and %d columns\n", lines, ncol);
+      |                                   ~^                         ~~~~~
+      |                                    |                         |
+      |                                    int                       long int
+      |                                   %ld
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c readped.c -o readped.o
+readped.c: In function ‘readped’:
+readped.c:234:33: warning: ‘%d’ directive output may be truncated writing between 1 and 11 bytes into a region of size between 0 and 127 [-Wformat-truncation=]
+  234 |     snprintf(fmid, MAX_ID, "%s%c%d", fid, sepchar, memi);
+      |                                 ^~
+In file included from /usr/include/stdio.h:894,
+                 from /usr/share/R/include/R.h:44,
+                 from readped.c:3:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:71:10: note: ‘__builtin___snprintf_chk’ output between 3 and 140 bytes into a destination of size 128
+   71 |   return __builtin___snprintf_chk (__s, __n, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   72 |                                    __glibc_objsize (__s), __fmt,
+      |                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   73 |                                    __va_arg_pack ());
+      |                                    ~~~~~~~~~~~~~~~~~
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c single_snp_tests.c -o single_snp_tests.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c snp_summary.c -o snp_summary.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c snpmpy.c -o snpmpy.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c solve_cubic.c -o solve_cubic.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c structure.c -o structure.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c subset.c -o subset.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c switch.c -o switch.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c tdt.c -o tdt.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c testBig.c -o testBig.o
+testBig.c: In function ‘snp_big’:
+testBig.c:31:27: warning: ‘%d’ directive writing between 1 and 10 bytes into a region of size 9 [-Wformat-overflow=]
+   31 |     sprintf(name, "Subject%d", i+1);
+      |                           ^~
+testBig.c:31:19: note: directive argument in the range [1, 2147483647]
+   31 |     sprintf(name, "Subject%d", i+1);
+      |                   ^~~~~~~~~~~
+In file included from /usr/include/stdio.h:894,
+                 from /usr/share/R/include/R.h:44,
+                 from testBig.c:1:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:38:10: note: ‘__builtin___sprintf_chk’ output between 9 and 18 bytes into a destination of size 16
+   38 |   return __builtin___sprintf_chk (__s, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   39 |                                   __glibc_objsize (__s), __fmt,
+      |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   40 |                                   __va_arg_pack ());
+      |                                   ~~~~~~~~~~~~~~~~~
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c uncertain.c -o uncertain.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o snpStats.so Runcertain.o bind.o count_gt.o covwin.o force_hom.o fst.o glm_test.o glm_test_R.o hash_index.o hphase.o imputation.o in.o input.o invert.o ipf.o ld.o misc.o mla.o mvphenotype.o outdata.o plink.o read_uncertain.o readped.o single_snp_tests.o snp_summary.o snpmpy.o solve_cubic.o structure.o subset.o switch.o tdt.o testBig.o uncertain.o -lz -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-snpStats/00new/snpStats/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘snpStats’ as ‘snpStats_1.58.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snpStats)
+* installing *source* package ‘swamp’ ...
+** this is package ‘swamp’ version ‘1.5.1’
+** package ‘swamp’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘swamp’ as ‘swamp_1.5.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (swamp)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘R.utils’ ...
+** this is package ‘R.utils’ version ‘2.13.0’
+** package ‘R.utils’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning in setGenericS3.default(name, export = exportGeneric, envir = envir,  :
+  Renamed the preexisting function warnings to warnings.default, which was defined in environment R.utils.
+Warning in setGenericS3.default("use") :
+  Renamed the preexisting function use to use.default, which was defined in environment R.utils.
+Warning in setMethodS3.default("use", "default", function(pkg = "R.utils",  :
+  Method already existed and was overwritten: use.default
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *source* package ‘sva’ ...
+** this is package ‘sva’ version ‘3.56.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c sva.c -o sva.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o sva.so sva.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-sva/00new/sva/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sva’ as ‘sva_3.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sva)
+* installing *source* package ‘GEOquery’ ...
+** this is package ‘GEOquery’ version ‘2.76.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘GEOquery’ as ‘GEOquery_2.76.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (GEOquery)
+* installing *source* package ‘DExMA’ ...
+** this is package ‘DExMA’ version ‘1.16.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: program compiled against libxml 213 using older 209
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package can be loaded from final location
+Warning: program compiled against libxml 213 using older 209
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DExMA’ as ‘DExMA_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DExMA)
+
+The downloaded source packages are in
+	‘/tmp/RtmpgC1cB0/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	5m4.235s
+user	4m18.158s
+sys	1m10.966s

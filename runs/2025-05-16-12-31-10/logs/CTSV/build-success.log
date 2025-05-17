@@ -1,0 +1,204 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''CTSV'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'CTSV'
+also installing the dependencies ‘magick’, ‘bookdown’, ‘pscl’, ‘qvalue’, ‘SpatialExperiment’, ‘BiocStyle’
+
+trying URL 'https://cloud.r-project.org/src/contrib/magick_2.8.6.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://cloud.r-project.org/src/contrib/pscl_1.5.9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/qvalue_2.40.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SpatialExperiment_1.18.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CTSV_1.10.0.tar.gz'
+* installing *source* package ‘magick’ ...
+** this is package ‘magick’ version ‘2.8.6’
+** package ‘magick’ successfully unpacked and MD5 sums checked
+** using staged installation
+Found pkg-config cflags and libs!
+Using PKG_CFLAGS=-I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16 
+Using PKG_LIBS=-lMagick++-6.Q16 -lMagickWand-6.Q16 -lMagickCore-6.Q16 
+** libs
+using C++ compiler: ‘g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c animation.cpp -o animation.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c attributes.cpp -o attributes.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c base.cpp -o base.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c color.cpp -o color.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c composite.cpp -o composite.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c config.cc -o config.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c convolve.cpp -o convolve.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c device.cpp -o device.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c edges.cpp -o edges.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c edit.cpp -o edit.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c fonts.cpp -o fonts.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c options.cpp -o options.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c properties.cpp -o properties.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c resize.cpp -o resize.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c segment.cpp -o segment.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG -I/usr/include/x86_64-linux-gnu/ImageMagick-6 -I/usr/include/ImageMagick-6 -fopenmp -DMAGICKCORE_HDRI_ENABLE=0 -DMAGICKCORE_QUANTUM_DEPTH=16  -I'/usr/local/lib/R/site-library/Rcpp/include'    -fvisibility=hidden -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2   -c transformations.cpp -o transformations.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o magick.so RcppExports.o animation.o attributes.o base.o color.o composite.o config.o convolve.o device.o edges.o edit.o fonts.o options.o properties.o resize.o segment.o transformations.o -lMagick++-6.Q16 -lMagickWand-6.Q16 -lMagickCore-6.Q16 -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-magick/00new/magick/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘magick’ as ‘magick_2.8.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (magick)
+* installing *source* package ‘bookdown’ ...
+** this is package ‘bookdown’ version ‘0.43’
+** package ‘bookdown’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *source* package ‘pscl’ ...
+** this is package ‘pscl’ version ‘1.5.9’
+** package ‘pscl’ successfully unpacked and MD5 sums checked
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0’
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c IDEAL.c -o IDEAL.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bayesreg.c -o bayesreg.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c check.c -o check.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c chol.c -o chol.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c crossprod.c -o crossprod.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dmatTOdvec.c -o dmatTOdvec.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dtnorm.c -o dtnorm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c dvecTOdmat.c -o dvecTOdmat.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c gaussj.c -o gaussj.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c init.c -o init.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pi.c -o pi.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c predict.c -o predict.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c printmat.c -o printmat.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c renormalize.c -o renormalize.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rigamma.c -o rigamma.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rmvnorm.c -o rmvnorm.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c updateb.c -o updateb.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c updatex.c -o updatex.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c updatey.c -o updatey.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c util.c -o util.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xchol.c -o xchol.o
+gcc -I"/usr/share/R/include" -DNDEBUG       -fpic  -g -O2 -ffile-prefix-map=/build/r-base-rgGXCp/r-base-4.5.0=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c xreg.c -o xreg.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -o pscl.so IDEAL.o bayesreg.o check.o chol.o crossprod.o dmatTOdvec.o dtnorm.o dvecTOdmat.o gaussj.o init.o pi.o predict.o printmat.o renormalize.o rigamma.o rmvnorm.o updateb.o updatex.o updatey.o util.o xchol.o xreg.o -L/usr/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-pscl/00new/pscl/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pscl’ as ‘pscl_1.5.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pscl)
+* installing *source* package ‘qvalue’ ...
+** this is package ‘qvalue’ version ‘2.40.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qvalue’ as ‘qvalue_2.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qvalue)
+* installing *source* package ‘SpatialExperiment’ ...
+** this is package ‘SpatialExperiment’ version ‘1.18.1’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SpatialExperiment’ as ‘SpatialExperiment_1.18.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SpatialExperiment)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *source* package ‘CTSV’ ...
+** this is package ‘CTSV’ version ‘1.10.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CTSV’ as ‘CTSV_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CTSV)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpd7EoIL/downloaded_packages’
+Old packages: 'cli', 'data.table', 'DelayedArray', 'DESeq2', 'diffobj',
+  'edgeR', 'future', 'generics', 'globals', 'parallelly', 'pkgdown',
+  'RcppArmadillo', 'RSQLite', 'scales', 'sctransform', 'Seurat',
+  'SeuratObject', 'SingleCellExperiment', 'spatstat.univar', 'spatstat.utils',
+  'SummarizedExperiment', 'systemfonts', 'textshaping', 'utf8', 'zip'
+
+real	2m13.827s
+user	1m46.240s
+sys	0m27.316s

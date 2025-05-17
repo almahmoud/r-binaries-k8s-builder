@@ -52,7 +52,6 @@
   ],
   "BASiCStan": [
     "BASiCS",
-    "glmGamPoi",
     "scran",
     "scuttle"
   ],
@@ -77,7 +76,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "scuttle"
@@ -133,8 +131,7 @@
     "biovizBase"
   ],
   "CAMERA": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "CATALYST": [
     "scater",
@@ -165,14 +162,12 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures"
   ],
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CTSV": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -199,7 +194,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures"
   ],
   "ChIPexoQual": [
@@ -238,7 +232,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "ClusterFoldSimilarity": [],
   "Cogito": [
     "GenomicFeatures"
   ],
@@ -263,7 +256,6 @@
   "DESpace": [
     "scuttle"
   ],
-  "DExMA": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -363,9 +355,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExperimentSubset": [
-    "TreeSummarizedExperiment"
-  ],
+  "ExperimentSubset": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -500,14 +490,11 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HicAggR": [],
   "HilbertVis": [],
   "HilbertVisGUI": [
     "HilbertVis"
   ],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS"
@@ -517,8 +504,7 @@
   ],
   "IPO": [
     "xcms",
-    "CAMERA",
-    "MsExperiment"
+    "CAMERA"
   ],
   "IVAS": [
     "GenomicFeatures"
@@ -541,8 +527,7 @@
   "KnowSeq": [],
   "LOBSTAHS": [
     "xcms",
-    "CAMERA",
-    "MsExperiment"
+    "CAMERA"
   ],
   "M3Drop": [
     "scater",
@@ -561,8 +546,7 @@
   ],
   "MAIT": [
     "CAMERA",
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "MBECS": [],
   "MEAL": [
@@ -590,7 +574,6 @@
   ],
   "MGFR": [],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater",
     "scuttle"
@@ -638,10 +621,7 @@
     "GenomicFeatures"
   ],
   "Motif2Site": [],
-  "MsExperiment": [],
-  "MsQuality": [
-    "MsExperiment"
-  ],
+  "MsQuality": [],
   "MungeSumstats": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -704,9 +684,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "PhenStat": [],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -895,7 +873,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "GenomicFeatures"
   ],
@@ -1014,7 +991,6 @@
     "GenomicFeatures"
   ],
   "TnT": [],
-  "TreeSummarizedExperiment": [],
   "UMI4Cats": [
     "GenomicFeatures"
   ],
@@ -1141,7 +1117,6 @@
     "scuttle"
   ],
   "benchdamic": [
-    "TreeSummarizedExperiment",
     "maaslin3"
   ],
   "bigmelon": [
@@ -1259,7 +1234,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipseq": [],
   "cicero": [
     "Gviz",
     "GenomicFeatures",
@@ -1278,8 +1252,7 @@
     "GenomicFeatures"
   ],
   "cliqueMS": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "clustSIGNAL": [
     "scater",
@@ -1322,10 +1295,8 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "corral": [],
   "cosmiq": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "cpvSNP": [
     "GenomicFeatures"
@@ -1392,7 +1363,6 @@
   ],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -1451,7 +1421,6 @@
     "annotatr",
     "GenomicFeatures"
   ],
-  "doppelgangR": [],
   "doubletrouble": [
     "GenomicFeatures"
   ],
@@ -1460,7 +1429,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "enhancerHomologSearch": [],
   "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures"
@@ -1543,8 +1511,7 @@
   ],
   "flagme": [
     "xcms",
-    "CAMERA",
-    "MsExperiment"
+    "CAMERA"
   ],
   "funtooNorm": [
     "minfi",
@@ -1556,10 +1523,7 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "gDR": [
-    "gDRimport"
-  ],
-  "gDRimport": [],
+  "gDR": [],
   "gINTomics": [
     "GenomicFeatures"
   ],
@@ -1584,7 +1548,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1630,7 +1593,6 @@
   "iSEEtree": [
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -1675,13 +1637,10 @@
   "kissDE": [],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lineagespot": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1706,9 +1665,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "GenomicFeatures",
     "TRESS"
@@ -1723,8 +1680,7 @@
   "meshes": [],
   "metaMS": [
     "CAMERA",
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "metaseqR2": [
     "EDASeq",
@@ -1774,7 +1730,6 @@
   "miRSM": [],
   "miRspongeR": [],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
@@ -1782,22 +1737,16 @@
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz",
     "scuttle"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater",
     "scuttle"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "miloR": [],
   "minfi": [
     "bumphunter",
@@ -1871,8 +1820,7 @@
     "GenomicFeatures"
   ],
   "ncGTW": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "nearBynding": [
     "GenomicFeatures"
@@ -1927,8 +1875,7 @@
     "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
-    "rGREAT",
-    "chipseq"
+    "rGREAT"
   ],
   "psichomics": [
     "recount",
@@ -2173,9 +2120,7 @@
     "lumi"
   ],
   "smoothclust": [],
-  "soGGi": [
-    "chipseq"
-  ],
+  "soGGi": [],
   "sosta": [],
   "spacexr": [],
   "spatzie": [
@@ -2200,8 +2145,7 @@
     "scuttle"
   ],
   "squallms": [
-    "xcms",
-    "MsExperiment"
+    "xcms"
   ],
   "srnadiff": [
     "GenomicFeatures",
@@ -2253,20 +2197,15 @@
     "VariantAnnotation"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures"
   ],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transmogR": [
     "GenomicFeatures",
     "VariantAnnotation"
   ],
   "traseR": [],
-  "treeclimbR": [
-    "TreeSummarizedExperiment"
-  ],
+  "treeclimbR": [],
   "tricycle": [
     "scater",
     "scuttle"
@@ -2330,9 +2269,7 @@
   "webbioc": [
     "annaffy"
   ],
-  "xcms": [
-    "MsExperiment"
-  ],
+  "xcms": [],
   "xcore": [],
   "yarn": [
     "quantro",
