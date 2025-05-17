@@ -1833,3 +1833,6 @@ cytoviewer
 simpleSeg
 MSstatsQCgui
 msmsTests
+bandle
+pRolocGUI
+spicyR

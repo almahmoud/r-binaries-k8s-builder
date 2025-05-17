@@ -272,7 +272,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "CluMSID": [],
   "ClusterFoldSimilarity": [],
   "Cogito": [
     "GenomicFeatures"
@@ -287,7 +286,6 @@
     "ensembldb"
   ],
   "CoverageView": [],
-  "CuratedAtlasQueryR": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -791,7 +789,6 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "PRONE": [],
   "PROPS": [],
   "PhenStat": [],
   "Prostar": [
@@ -860,7 +857,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1261,9 +1257,7 @@
     "GenomicFeatures"
   ],
   "bamsignals": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "basecallQC": [],
   "batchelor": [
     "scuttle"
@@ -1449,7 +1443,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "concordexR": [],
   "condiments": [
     "distinct",
     "scater",
@@ -1534,7 +1527,6 @@
     "scater",
     "scuttle"
   ],
-  "cytoviewer": [],
   "dada2": [],
   "dagLogo": [
     "motifStack",
@@ -1690,7 +1682,6 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "GenomicFeatures",
     "TFBSTools",
@@ -1786,7 +1777,6 @@
     "GenomicFeatures"
   ],
   "hiReadsProcessor": [],
-  "hoodscanR": [],
   "hypeR": [],
   "iCNV": [
     "CODEX"
@@ -1876,8 +1866,7 @@
     "GenomicFeatures"
   ],
   "lisaClust": [
-    "spicyR",
-    "simpleSeg"
+    "spicyR"
   ],
   "lpNet": [],
   "lumi": [
@@ -1890,7 +1879,6 @@
     "scran",
     "scuttle"
   ],
-  "m6Aboost": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -2115,14 +2103,10 @@
     "GSVA",
     "GenomicFeatures"
   ],
-  "omXplore": [],
   "oppar": [
     "GSVA"
   ],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -2138,18 +2122,15 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "peakPantheR": [],
   "peco": [
     "scater",
     "scuttle"
   ],
-  "periodicDNA": [],
   "pipeComp": [
     "scran",
     "scater",
     "scuttle"
   ],
-  "pipeFrame": [],
   "podkat": [],
   "poem": [],
   "preciseTAD": [
@@ -2187,13 +2168,10 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [],
   "puma": [],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsea": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -2314,7 +2292,6 @@
     "scuttle"
   ],
   "scRepertoire": [],
-  "scTensor": [],
   "scTreeViz": [
     "epivizr",
     "scran",
@@ -2419,7 +2396,6 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "ensembldb",
@@ -2453,9 +2429,7 @@
     "chipseq"
   ],
   "sosta": [],
-  "spaSim": [],
   "spacexr": [],
-  "spatialDE": [],
   "spatialFDA": [],
   "spatialSimGP": [],
   "spatzie": [
@@ -2469,9 +2443,7 @@
     "VariantAnnotation"
   ],
   "speckle": [],
-  "spicyR": [
-    "simpleSeg"
-  ],
+  "spicyR": [],
   "spiky": [],
   "spillR": [
     "CATALYST",
@@ -2518,12 +2490,10 @@
     "GenomicFeatures"
   ],
   "switchde": [],
-  "synapter": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "tRNAscanImport": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
@@ -2542,7 +2512,6 @@
   "tidyomics": [
     "tidySingleCellExperiment"
   ],
-  "topdownr": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
