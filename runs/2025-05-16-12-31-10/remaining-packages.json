@@ -576,7 +576,6 @@
     "scater",
     "scuttle"
   ],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures"
@@ -612,8 +611,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "EpiMix",
     "GenomicFeatures"
@@ -1067,7 +1064,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
     "VariantAnnotation",
@@ -1076,11 +1072,9 @@
   "alabaster.mae": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.spatial",
     "DropletUtils",
     "scuttle"
   ],
-  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1194,7 +1188,6 @@
     "scran",
     "scuttle"
   ],
-  "cellbaseR": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -1489,7 +1482,6 @@
     "ChIPseeker",
     "GenomicFeatures"
   ],
-  "fCCAC": [],
   "factR": [
     "GenomicFeatures"
   ],
@@ -1568,7 +1560,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hiReadsProcessor": [],
   "hypeR": [],
   "iCheck": [
     "lumi",
@@ -1607,7 +1598,6 @@
   "imcRtools": [
     "scuttle"
   ],
-  "immApex": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -1617,7 +1607,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "isobar": [],
   "karyoploteR": [
     "biovizBase",
     "GenomicFeatures",
@@ -1721,7 +1710,6 @@
   ],
   "miQC": [],
   "miRSM": [],
-  "miRspongeR": [],
   "mia": [
     "scater",
     "scuttle"
@@ -1828,7 +1816,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
     "goseq",
@@ -2120,7 +2107,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spiky": [],
   "spillR": [
     "CATALYST",
     "scater",

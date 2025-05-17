@@ -1805,3 +1805,15 @@ smoothclust
 SPIAT
 SpotClean
 Statial
+alabaster.spatial
+cellbaseR
+fCCAC
+hiReadsProcessor
+immApex
+isobar
+MinimumDistance
+miRspongeR
+MMDiff2
+MoleculeExperiment
+pathlinkR
+spiky
