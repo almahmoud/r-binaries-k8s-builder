@@ -1718,3 +1718,16 @@ regioneR
 TFBSTools
 VarCon
 XNAString
+attract
+BulkSignalR
+DSS
+escape
+HIPPO
+MatrixRider
+MIRA
+PAA
+SGCP
+spicyR
+TENET
+VanillaICE
+VisiumIO

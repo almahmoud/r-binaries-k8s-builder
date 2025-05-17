@@ -111,7 +111,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -173,9 +172,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -293,7 +290,6 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "GenomicFeatures"
@@ -308,9 +304,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DeconvoBuddies": [
     "scran",
     "scuttle",
@@ -505,7 +499,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HIPPO": [],
   "Harshlight": [],
   "HelloRanges": [
     "GenomicFeatures",
@@ -618,7 +611,6 @@
     "scater",
     "scuttle"
   ],
-  "MIRA": [],
   "MMDiff2": [],
   "MOSClip": [
     "qpgraph",
@@ -636,7 +628,6 @@
     "msmsTests"
   ],
   "MSstatsQCgui": [],
-  "MatrixRider": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -657,9 +648,7 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "MoleculeExperiment": [],
   "Moonlight2R": [
     "EpiMix",
@@ -725,7 +714,6 @@
   "OutSplice": [
     "GenomicFeatures"
   ],
-  "PAA": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -932,7 +920,6 @@
     "GenomicFeatures"
   ],
   "SEraster": [],
-  "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
   ],
@@ -1022,7 +1009,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TENET": [],
   "TFEA.ChIP": [
     "GenomicFeatures"
   ],
@@ -1079,7 +1065,6 @@
   ],
   "VDJdive": [],
   "VaSP": [],
-  "VanillaICE": [],
   "VariantAnnotation": [
     "GenomicFeatures"
   ],
@@ -1094,15 +1079,12 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils",
     "scuttle"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1180,7 +1162,6 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "attract": [],
   "bambu": [
     "GenomicFeatures"
   ],
@@ -1228,9 +1209,7 @@
   ],
   "bnbc": [],
   "bnem": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "branchpointer": [],
   "breakpointR": [],
   "bumphunter": [
@@ -1591,7 +1570,6 @@
     "GenomicFeatures",
     "motifmatchr"
   ],
-  "escape": [],
   "fCCAC": [],
   "factR": [
     "GenomicFeatures"
@@ -1744,9 +1722,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "lefser": [
     "mia",
     "TreeSummarizedExperiment",
@@ -1760,9 +1736,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
@@ -1804,7 +1778,6 @@
     "MsExperiment"
   ],
   "metaseqR2": [
-    "DSS",
     "EDASeq",
     "GenomicFeatures",
     "txdbmaker"
@@ -1834,9 +1807,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -2289,7 +2260,6 @@
     "VariantAnnotation"
   ],
   "speckle": [],
-  "spicyR": [],
   "spiky": [],
   "spillR": [
     "CATALYST",

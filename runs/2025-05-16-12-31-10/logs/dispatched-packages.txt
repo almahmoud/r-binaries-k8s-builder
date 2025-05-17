@@ -1858,3 +1858,11 @@ monaLisa
 motifStack
 motifmatchr
 regioneReloaded
+COCOA
+DeMixT
+MinimumDistance
+XeniumIO
+borealis
+kissDE
+lisaClust
+methylSig
