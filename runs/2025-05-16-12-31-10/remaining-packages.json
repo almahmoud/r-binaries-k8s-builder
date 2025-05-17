@@ -168,7 +168,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COCOA": [],
   "CRISPRball": [
     "dittoSeq"
   ],
@@ -225,7 +224,6 @@
   "ChIPseqR": [
     "HilbertVis"
   ],
-  "ChIPsim": [],
   "ChromSCape": [
     "batchelor",
     "scran",
@@ -300,7 +298,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "DeMixT": [],
   "DeconvoBuddies": [
     "scran",
     "scuttle",
@@ -1237,7 +1234,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "ccfindR": [],
   "celda": [
     "scater",
     "scran",
@@ -1304,9 +1300,7 @@
     "scater",
     "scuttle"
   ],
-  "clusterExperiment": [
-    "mbkmeans"
-  ],
+  "clusterExperiment": [],
   "cn.farms": [],
   "coMethDMR": [
     "bumphunter",
@@ -1418,7 +1412,6 @@
     "scater",
     "scuttle"
   ],
-  "ddPCRclust": [],
   "decompTumor2Sig": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1484,7 +1477,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easyRNASeq": [],
   "enhancerHomologSearch": [],
   "enrichViewNet": [],
   "ensembldb": [
@@ -1751,7 +1743,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mbkmeans": [],
   "meshes": [],
   "metaMS": [
     "CAMERA",
@@ -1866,7 +1857,6 @@
     "scuttle"
   ],
   "msgbsR": [
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "biovizBase",
@@ -1916,7 +1906,6 @@
   "netSmooth": [
     "scater",
     "clusterExperiment",
-    "mbkmeans",
     "scuttle"
   ],
   "nnSVG": [],

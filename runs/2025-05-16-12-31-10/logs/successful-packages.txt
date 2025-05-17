@@ -1746,3 +1746,10 @@ regioneReloaded
 spatialSimGP
 tidySingleCellExperiment
 VaSP
+ccfindR
+ChIPsim
+COCOA
+ddPCRclust
+DeMixT
+easyRNASeq
+mbkmeans

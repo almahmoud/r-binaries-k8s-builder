@@ -1,7 +1,1 @@
-ATACseqTFEA
-atSNP
-dagLogo
-enhancerHomologSearch
-pageRank
-tidySpatialExperiment
-tidyomics
+clusterExperiment
