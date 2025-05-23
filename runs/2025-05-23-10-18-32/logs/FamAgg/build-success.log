@@ -1,0 +1,339 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''FamAgg'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'FamAgg'
+also installing the dependencies ‘farver’, ‘labeling’, ‘tidyselect’, ‘gtable’, ‘isoband’, ‘scales’, ‘httr’, ‘viridisLite’, ‘tidyr’, ‘RColorBrewer’, ‘lazyeval’, ‘crosstalk’, ‘data.table’, ‘rbibutils’, ‘DBI’, ‘quadprog’, ‘gap.datasets’, ‘dplyr’, ‘ggplot2’, ‘plotly’, ‘Rdpack’, ‘generics’, ‘minqa’, ‘numDeriv’, ‘mitools’, ‘RcppArmadillo’, ‘bookdown’, ‘kinship2’, ‘igraph’, ‘gap’, ‘BiocGenerics’, ‘survey’, ‘BiocStyle’, ‘RUnit’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyr_1.3.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lazyeval_0.2.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/crosstalk_1.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rbibutils_2.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DBI_1.2.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/quadprog_1.5-8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gap.datasets_0.0.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plotly_4.10.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/Rdpack_2.6.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/minqa_1.2.8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mitools_2.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppArmadillo_14.4.3-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kinship2_1.9.6.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/igraph_2.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gap_1.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocGenerics_0.54.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/survey_4.4-2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RUnit_0.4.33.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/FamAgg_1.36.0.tar.gz'
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘gtable’ ...
+* ‘gtable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtable’ as ‘gtable_0.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtable)
+* installing *binary* package ‘isoband’ ...
+* ‘isoband’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isoband’ as ‘isoband_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isoband)
+* installing *binary* package ‘httr’ ...
+* ‘httr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘httr’ as ‘httr_1.4.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (httr)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘lazyeval’ ...
+* ‘lazyeval’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lazyeval’ as ‘lazyeval_0.2.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lazyeval)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.17.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *binary* package ‘rbibutils’ ...
+* ‘rbibutils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rbibutils’ as ‘rbibutils_2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rbibutils)
+* installing *binary* package ‘DBI’ ...
+* ‘DBI’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DBI’ as ‘DBI_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DBI)
+* installing *binary* package ‘quadprog’ ...
+* ‘quadprog’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘quadprog’ as ‘quadprog_1.5-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (quadprog)
+* installing *binary* package ‘gap.datasets’ ...
+* ‘gap.datasets’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gap.datasets’ as ‘gap.datasets_0.0.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gap.datasets)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘minqa’ ...
+* ‘minqa’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘minqa’ as ‘minqa_1.2.8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (minqa)
+* installing *binary* package ‘numDeriv’ ...
+* ‘numDeriv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘numDeriv’ as ‘numDeriv_2016.8-1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (numDeriv)
+* installing *binary* package ‘RcppArmadillo’ ...
+* ‘RcppArmadillo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppArmadillo’ as ‘RcppArmadillo_14.4.3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppArmadillo)
+* installing *binary* package ‘bookdown’ ...
+* ‘bookdown’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bookdown’ as ‘bookdown_0.43_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bookdown)
+* installing *binary* package ‘igraph’ ...
+* ‘igraph’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘igraph’ as ‘igraph_2.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igraph)
+* installing *binary* package ‘RUnit’ ...
+* ‘RUnit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RUnit’ as ‘RUnit_0.4.33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RUnit)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *binary* package ‘crosstalk’ ...
+* ‘crosstalk’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘crosstalk’ as ‘crosstalk_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (crosstalk)
+* installing *binary* package ‘dplyr’ ...
+* ‘dplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *binary* package ‘Rdpack’ ...
+* ‘Rdpack’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘Rdpack’ as ‘Rdpack_2.6.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rdpack)
+* installing *binary* package ‘mitools’ ...
+* ‘mitools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mitools’ as ‘mitools_2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mitools)
+* installing *binary* package ‘kinship2’ ...
+* ‘kinship2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kinship2’ as ‘kinship2_1.9.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kinship2)
+* installing *source* package ‘BiocGenerics’ ...
+** this is package ‘BiocGenerics’ version ‘0.54.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘aperm’ in package ‘BiocGenerics’
+Creating a new generic function for ‘append’ in package ‘BiocGenerics’
+Creating a new generic function for ‘as.data.frame’ in package ‘BiocGenerics’
+Creating a new generic function for ‘cbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rbind’ in package ‘BiocGenerics’
+Creating a new generic function for ‘do.call’ in package ‘BiocGenerics’
+Creating a new generic function for ‘duplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘anyDuplicated’ in package ‘BiocGenerics’
+Creating a new generic function for ‘eval’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmax.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘pmin.int’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Reduce’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Filter’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Find’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Map’ in package ‘BiocGenerics’
+Creating a new generic function for ‘Position’ in package ‘BiocGenerics’
+Creating a new generic function for ‘get’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mget’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grep’ in package ‘BiocGenerics’
+Creating a new generic function for ‘grepl’ in package ‘BiocGenerics’
+Creating a new generic function for ‘is.unsorted’ in package ‘BiocGenerics’
+Creating a new generic function for ‘lapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘match’ in package ‘BiocGenerics’
+Creating a new generic function for ‘order’ in package ‘BiocGenerics’
+Creating a new generic function for ‘paste’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rank’ in package ‘BiocGenerics’
+Creating a new generic function for ‘rownames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘colnames’ in package ‘BiocGenerics’
+Creating a new generic function for ‘saveRDS’ in package ‘BiocGenerics’
+Creating a new generic function for ‘table’ in package ‘BiocGenerics’
+Creating a new generic function for ‘tapply’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unique’ in package ‘BiocGenerics’
+Creating a new generic function for ‘unsplit’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.min’ in package ‘BiocGenerics’
+Creating a new generic function for ‘which.max’ in package ‘BiocGenerics’
+Creating a new generic function for ‘IQR’ in package ‘BiocGenerics’
+Creating a new generic function for ‘mad’ in package ‘BiocGenerics’
+Creating a new generic function for ‘var’ in package ‘BiocGenerics’
+Creating a new generic function for ‘sd’ in package ‘BiocGenerics’
+Creating a new generic function for ‘xtabs’ in package ‘BiocGenerics’
+Creating a new generic function for ‘basename’ in package ‘BiocGenerics’
+Creating a new generic function for ‘dirname’ in package ‘BiocGenerics’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocGenerics’ as ‘BiocGenerics_0.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocGenerics)
+* installing *source* package ‘BiocStyle’ ...
+** this is package ‘BiocStyle’ version ‘2.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocStyle’ as ‘BiocStyle_2.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocStyle)
+* installing *binary* package ‘tidyr’ ...
+* ‘tidyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyr’ as ‘tidyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyr)
+* installing *binary* package ‘ggplot2’ ...
+* ‘ggplot2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggplot2’ as ‘ggplot2_3.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggplot2)
+* installing *binary* package ‘survey’ ...
+* ‘survey’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘survey’ as ‘survey_4.4-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (survey)
+* installing *binary* package ‘plotly’ ...
+* ‘plotly’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plotly’ as ‘plotly_4.10.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plotly)
+* installing *binary* package ‘gap’ ...
+* ‘gap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gap’ as ‘gap_1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gap)
+* installing *source* package ‘FamAgg’ ...
+** this is package ‘FamAgg’ version ‘1.36.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘pedigree’ in package ‘FamAgg’
+in method for ‘countGenerations’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘countGenerations’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘estimateGenerations’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘estimateGenerations’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘findFounders’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘findFounders’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘generationsFrom’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘generationsFrom’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getAncestors’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getAncestors’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getChildren’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getChildren’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getCommonAncestor’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getCommonAncestor’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getMissingMate’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getMissingMate’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getSiblings’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getSiblings’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getAll’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getAll’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getExternalMatched’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getExternalMatched’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getGenerationMatched’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getGenerationMatched’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getGenerationSexMatched’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getGenerationSexMatched’ with signature ‘"pedigree"’: no definition for class “pedigree”
+in method for ‘getSexMatched’ with signature ‘"pedigreeList"’: no definition for class “pedigreeList”
+in method for ‘getSexMatched’ with signature ‘"pedigree"’: no definition for class “pedigree”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FamAgg’ as ‘FamAgg_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FamAgg)
+
+The downloaded source packages are in
+	‘/tmp/RtmpGZ8JWo/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m39.995s
+user	0m32.546s
+sys	0m10.807s
