@@ -1085,3 +1085,13 @@ InteractionSet
 riboSeqR
 XAItest
 zFPKM
+AGDEX
+BicARE
+genomicInstability
+MesKit
+MultiAssayExperiment
+PAIRADISE
+PROMISE
+RaggedExperiment
+StabMap
+TMSig
