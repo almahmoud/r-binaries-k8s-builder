@@ -1648,9 +1648,7 @@
     "scater",
     "scuttle"
   ],
-  "MICSQTL": [
-    "TOAST"
-  ],
+  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1912,7 +1910,6 @@
     "rtracklayer",
     "trackViewer",
     "ATACseqQC",
-    "csaw",
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicScores",
@@ -2409,7 +2406,6 @@
     "scater",
     "BayesSpace",
     "SingleCellExperiment",
-    "TOAST",
     "scran",
     "scuttle"
   ],
@@ -2750,7 +2746,6 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "SplicingFactory": [],
   "SplicingGraphs": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -2877,13 +2872,11 @@
   ],
   "TIN": [],
   "TMSig": [],
-  "TOAST": [],
   "TOP": [
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter"
   ],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2893,7 +2886,6 @@
     "SingleCellExperiment",
     "TrajectoryUtils"
   ],
-  "TTMap": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -2922,7 +2914,6 @@
   "TreeSummarizedExperiment": [
     "SingleCellExperiment"
   ],
-  "Trendy": [],
   "UCell": [
     "SingleCellExperiment"
   ],
@@ -3364,7 +3355,6 @@
     "geneplotter",
     "genefilter"
   ],
-  "blima": [],
   "bnbc": [
     "sva",
     "genefilter"
@@ -3639,7 +3629,6 @@
   "clustifyr": [
     "SingleCellExperiment"
   ],
-  "cmapR": [],
   "cn.farms": [
     "oligoClasses",
     "oligo"
@@ -3836,7 +3825,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "csaw": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3860,7 +3848,6 @@
     "SingleCellExperiment"
   ],
   "cypress": [
-    "TOAST",
     "DESeq2"
   ],
   "cytofQC": [
@@ -3989,7 +3976,6 @@
   "diffHic": [
     "InteractionSet",
     "BSgenome",
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4092,7 +4078,6 @@
   "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
-    "csaw",
     "GreyListChIP",
     "GenomicAlignments",
     "BSgenome"
@@ -4137,7 +4122,6 @@
     "GOSemSim",
     "scuttle"
   ],
-  "epistack": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -4221,7 +4205,6 @@
     "MultiAssayExperiment"
   ],
   "extraChIPs": [
-    "csaw",
     "InteractionSet",
     "rtracklayer",
     "GenomicAlignments"
@@ -4378,7 +4361,6 @@
     "VariantAnnotation"
   ],
   "gep2pep": [],
-  "geyser": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -4450,7 +4432,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gscreend": [],
   "gsean": [],
   "gwascat": [
     "GenomicFeatures",
@@ -4500,7 +4481,6 @@
   "hpar": [
     "ExperimentHub"
   ],
-  "hummingbird": [],
   "hypeR": [],
   "iCNV": [
     "CODEX",
@@ -4583,14 +4563,12 @@
     "iSEEhex",
     "SingleCellExperiment"
   ],
-  "iasva": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
     "GenomicAlignments",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "DESeq2",
     "BSgenome"
   ],
@@ -4652,7 +4630,6 @@
     "DEGreport",
     "DESeq2"
   ],
-  "ivygapSE": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -4684,7 +4661,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
@@ -4700,7 +4676,6 @@
     "SingleCellExperiment",
     "glmGamPoi"
   ],
-  "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4708,7 +4683,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls",
     "MultiAssayExperiment",
@@ -4765,7 +4739,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "made4": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4780,7 +4753,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -5285,12 +5257,9 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment",
@@ -6580,7 +6549,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "csaw",
     "DESeq2",
     "GenomicAlignments",
     "GenomicFeatures",

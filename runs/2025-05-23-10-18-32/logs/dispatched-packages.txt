@@ -1276,3 +1276,5 @@ scifer
 singscore
 splineTimeR
 omicplotR
+MICSQTL
+omicade4
