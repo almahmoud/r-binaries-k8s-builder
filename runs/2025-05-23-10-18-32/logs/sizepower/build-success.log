@@ -1,0 +1,41 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''sizepower'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'sizepower'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/sizepower_1.78.0.tar.gz'
+Content type 'application/x-gzip' length 302630 bytes (295 KB)
+==================================================
+downloaded 295 KB
+
+* installing *source* package ‘sizepower’ ...
+** this is package ‘sizepower’ version ‘1.78.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘sizepower’ as ‘sizepower_1.78.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sizepower)
+
+The downloaded source packages are in
+	‘/tmp/RtmpPTCwHt/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m4.089s
+user	0m2.495s
+sys	0m1.489s
