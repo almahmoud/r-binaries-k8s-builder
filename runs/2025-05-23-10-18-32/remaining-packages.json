@@ -2230,7 +2230,6 @@
     "SNPRelate",
     "SummarizedExperiment",
     "edgeR",
-    "gdsfmt",
     "limma",
     "DelayedArray",
     "SeqArray",
@@ -3424,7 +3423,6 @@
     "BiocGenerics",
     "S4Vectors"
   ],
-  "ClustIRR": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -4693,7 +4691,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "Director": [],
   "DirichletMultinomial": [
     "S4Vectors",
     "IRanges",
@@ -5819,7 +5816,6 @@
   ],
   "GBScleanR": [
     "SeqArray",
-    "gdsfmt",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -5865,7 +5861,6 @@
     "treeio"
   ],
   "GDSArray": [
-    "gdsfmt",
     "BiocGenerics",
     "DelayedArray",
     "S4Vectors",
@@ -5885,7 +5880,6 @@
     "Biobase",
     "BiocGenerics",
     "GWASTools",
-    "gdsfmt",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -6334,7 +6328,6 @@
   ],
   "GWASTools": [
     "Biobase",
-    "gdsfmt",
     "quantsmooth",
     "BiocGenerics"
   ],
@@ -6370,7 +6363,6 @@
   ],
   "GeDi": [
     "GOSemSim",
-    "STRINGdb",
     "GeneTonic",
     "ComplexHeatmap",
     "BiocNeighbors",
@@ -7564,7 +7556,6 @@
     "SparseArray"
   ],
   "IMMAN": [
-    "STRINGdb",
     "pwalign",
     "BiocGenerics",
     "S4Vectors",
@@ -7685,7 +7676,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ISoLDE": [],
   "ITALICS": [
     "GLAD",
     "oligo",
@@ -7740,7 +7730,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "Icens": [],
   "IdeoViz": [
     "Biobase",
     "IRanges",
@@ -8030,7 +8019,6 @@
     "Biostrings"
   ],
   "LBE": [],
-  "LEA": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -8079,7 +8067,6 @@
     "XVector",
     "UCSC.utils"
   ],
-  "LPE": [],
   "LRBaseDbi": [
     "AnnotationDbi",
     "Biobase",
@@ -10461,7 +10448,6 @@
     "Biobase",
     "BiocGenerics"
   ],
-  "NPARC": [],
   "NTW": [],
   "NanoMethViz": [
     "S4Vectors",
@@ -10553,7 +10539,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "NetPathMiner": [],
   "NetSAM": [
     "biomaRt",
     "AnnotationDbi",
@@ -11186,7 +11171,6 @@
   ],
   "PLPE": [
     "Biobase",
-    "LPE",
     "BiocGenerics"
   ],
   "PLSDAbatch": [
@@ -11258,7 +11242,6 @@
   "PPInfer": [
     "biomaRt",
     "fgsea",
-    "STRINGdb",
     "AnnotationDbi",
     "graph",
     "BiocGenerics",
@@ -11371,9 +11354,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "PROcess": [
-    "Icens"
-  ],
+  "PROcess": [],
   "PSMatch": [
     "S4Vectors",
     "Spectra",
@@ -11905,7 +11886,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "QuaternaryProd": [],
   "R3CPET": [
     "BiocGenerics",
     "S4Vectors",
@@ -11979,7 +11959,6 @@
     "UCSC.utils"
   ],
   "RAIDS": [
-    "gdsfmt",
     "SNPRelate",
     "GENESIS",
     "Rsamtools",
@@ -12058,7 +12037,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RCASPAR": [],
   "RCM": [
     "edgeR",
     "phyloseq",
@@ -12258,7 +12236,6 @@
     "BiocGenerics"
   ],
   "RITAN": [
-    "STRINGdb",
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
@@ -13536,7 +13513,6 @@
     "BiocGenerics"
   ],
   "SAIGEgds": [
-    "gdsfmt",
     "SeqArray",
     "S4Vectors",
     "IRanges",
@@ -13664,7 +13640,6 @@
     "SparseArray"
   ],
   "SCArray": [
-    "gdsfmt",
     "DelayedArray",
     "S4Vectors",
     "SparseArray",
@@ -13690,7 +13665,6 @@
     "SCArray",
     "S4Vectors",
     "BiocGenerics",
-    "gdsfmt",
     "DelayedArray",
     "BiocSingular",
     "SummarizedExperiment",
@@ -13920,8 +13894,6 @@
     "methylMnM",
     "limma"
   ],
-  "SLqPCR": [],
-  "SMAD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -13952,9 +13924,7 @@
     "SparseArray"
   ],
   "SNAGEE": [],
-  "SNPRelate": [
-    "gdsfmt"
-  ],
+  "SNPRelate": [],
   "SNPediaR": [],
   "SNPhood": [
     "GenomicRanges",
@@ -14162,7 +14132,6 @@
     "affyio",
     "preprocessCore"
   ],
-  "STRINGdb": [],
   "SUITOR": [],
   "SVMDO": [
     "DOSE",
@@ -14275,7 +14244,6 @@
     "UCSC.utils"
   ],
   "SeqArray": [
-    "gdsfmt",
     "S4Vectors",
     "IRanges",
     "GenomicRanges",
@@ -14324,7 +14292,6 @@
     "ExperimentHub",
     "SNPRelate",
     "GenomicRanges",
-    "gdsfmt",
     "IRanges",
     "S4Vectors",
     "BiocGenerics",
@@ -14341,7 +14308,6 @@
     "SeqArray",
     "Biobase",
     "BiocGenerics",
-    "gdsfmt",
     "GenomicRanges",
     "IRanges",
     "S4Vectors",
@@ -15383,7 +15349,6 @@
     "RTCGA",
     "enrichplot",
     "DOSE",
-    "STRINGdb",
     "BiocGenerics",
     "AnnotationDbi",
     "fgsea",
@@ -16278,7 +16243,6 @@
     "GenomicRanges",
     "GDSArray",
     "DelayedDataFrame",
-    "gdsfmt",
     "SNPRelate",
     "SeqArray",
     "DelayedArray",
@@ -16504,9 +16468,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "XINA": [
-    "STRINGdb"
-  ],
+  "XINA": [],
   "XNAString": [
     "Biostrings",
     "pwalign",
@@ -17229,7 +17191,6 @@
     "GenomicAlignments",
     "h5mread"
   ],
-  "alevinQC": [],
   "altcdfenvs": [
     "BiocGenerics",
     "S4Vectors",
@@ -18045,7 +18006,6 @@
   ],
   "bigmelon": [
     "wateRmelon",
-    "gdsfmt",
     "minfi",
     "Biobase",
     "methylumi",
@@ -23039,11 +22999,9 @@
     "ChemmineR",
     "BiocGenerics"
   ],
-  "fmrs": [],
   "fobitools": [
     "fgsea"
   ],
-  "frenchFISH": [],
   "frma": [
     "Biobase",
     "affy",
@@ -23279,7 +23237,6 @@
     "ggtree",
     "InteractiveComplexHeatmap",
     "ComplexHeatmap",
-    "shiny.gosling",
     "MethylMix",
     "Biobase",
     "IRanges",
@@ -23324,7 +23281,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "garfield": [],
   "gatom": [
     "BioNet",
     "graph",
@@ -23361,7 +23317,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "gcatest": [],
   "gcrma": [
     "affy",
     "Biobase",
@@ -23375,14 +23330,12 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "gdsfmt": [],
   "geNetClassifier": [
     "Biobase",
     "EBarrays",
     "minet",
     "BiocGenerics"
   ],
-  "gemini": [],
   "gemma.R": [
     "SummarizedExperiment",
     "Biobase",
@@ -23398,7 +23351,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "genArise": [],
   "geneAttribution": [
     "GenomicRanges",
     "BiocGenerics",
@@ -23712,7 +23664,6 @@
     "XVector"
   ],
   "ggmanh": [
-    "gdsfmt",
     "SeqArray",
     "S4Vectors",
     "IRanges",
@@ -24086,7 +24037,6 @@
     "fgsea",
     "PPInfer",
     "biomaRt",
-    "STRINGdb",
     "AnnotationDbi",
     "graph",
     "BiocGenerics",
@@ -24141,7 +24091,6 @@
     "SummarizedExperiment",
     "SNPRelate",
     "Biobase",
-    "gdsfmt",
     "quantsmooth",
     "MatrixGenerics",
     "GenomicRanges",
@@ -25585,7 +25534,6 @@
     "GWASTools",
     "Biobase",
     "BiocGenerics",
-    "gdsfmt",
     "quantsmooth",
     "IRanges",
     "GenomicRanges",
@@ -25883,7 +25831,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "mdp": [],
   "megadepth": [
     "GenomicRanges",
     "BiocGenerics",
@@ -25946,7 +25893,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "metaCCA": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -29319,7 +29265,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "plasmut": [],
   "plgem": [
     "Biobase",
     "BiocGenerics"
@@ -29331,7 +29276,6 @@
     "affyio",
     "preprocessCore"
   ],
-  "plotGrouper": [],
   "plotgardener": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -32642,7 +32586,6 @@
     "S4Vectors",
     "BiocGenerics"
   ],
-  "shiny.gosling": [],
   "shinyDSP": [
     "AnnotationHub",
     "BiocGenerics",
@@ -34111,7 +34054,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "synergyfinder": [],
   "synlet": [
     "RankProd"
   ],

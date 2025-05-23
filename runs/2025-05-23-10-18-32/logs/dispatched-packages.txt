@@ -413,3 +413,6 @@ seqTools
 ternarynet
 alevinQC
 gcatest
+PROcess
+SNPRelate
+XINA

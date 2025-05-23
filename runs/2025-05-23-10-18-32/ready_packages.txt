@@ -1,2 +1,3 @@
-alevinQC
-gcatest
+PROcess
+SNPRelate
+XINA
