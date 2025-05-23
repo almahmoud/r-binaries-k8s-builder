@@ -743,3 +743,6 @@ Rigraphlib
 cola
 simona
 CGHnormaliter
+BioMVCClass
+TMixClust
+uSORT

@@ -887,9 +887,7 @@
     "SparseArray",
     "XVector"
   ],
-  "BioMVCClass": [
-    "MVCClass"
-  ],
+  "BioMVCClass": [],
   "BioNAR": [
     "AnnotationDbi",
     "KEGGREST",
@@ -1238,7 +1236,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2052,7 +2049,6 @@
     "SparseArray",
     "XVector"
   ],
-  "ClustAll": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5207,7 +5203,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -5501,16 +5496,13 @@
     "XVector"
   ],
   "MSstatsBig": [],
-  "MSstatsBioNet": [],
   "MSstatsLiP": [
     "Biostrings",
     "MSstatsPTM",
     "XVector",
-    "GenomeInfoDb",
-    "MSstatsTMT"
+    "GenomeInfoDb"
   ],
   "MSstatsPTM": [
-    "MSstatsTMT",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -5553,14 +5545,11 @@
     "XVector"
   ],
   "MSstatsShiny": [
-    "MSstatsTMT",
     "MSstatsPTM",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
   ],
-  "MSstatsTMT": [],
-  "MVCClass": [],
   "MWASTools": [
     "qvalue",
     "SummarizedExperiment",
@@ -5800,7 +5789,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MethylMix": [],
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
@@ -6770,7 +6758,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "PROPER": [],
   "PROPS": [
     "sva",
     "genefilter",
@@ -8310,7 +8297,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMAT": [],
   "SIMD": [
     "methylMnM"
   ],
@@ -8378,7 +8364,6 @@
     "S4Arrays",
     "h5mread"
   ],
-  "SPEM": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -9344,9 +9329,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "TMixClust": [
-    "SPEM"
-  ],
+  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9973,7 +9956,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Classif",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -9993,7 +9975,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "a4Classif": [],
   "adSplit": [
     "AnnotationDbi",
     "KEGGREST",
@@ -10768,7 +10749,6 @@
     "SummarizedExperiment",
     "MAST",
     "microbiome",
-    "dearseq",
     "Maaslin2",
     "maaslin3",
     "GenomicRanges",
@@ -11618,7 +11598,6 @@
     "GenomicAlignments"
   ],
   "cicero": [
-    "monocle",
     "Gviz",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -11937,7 +11916,6 @@
     "SparseArray"
   ],
   "compSPOT": [],
-  "compcodeR": [],
   "concordexR": [
     "bluster",
     "DelayedArray",
@@ -12465,7 +12443,6 @@
   "cypress": [
     "TOAST",
     "SummarizedExperiment",
-    "PROPER",
     "DESeq2",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -12483,7 +12460,6 @@
     "SparseArray",
     "XVector"
   ],
-  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -12621,7 +12597,6 @@
     "flowDensity",
     "flowViz"
   ],
-  "dearseq": [],
   "debCAM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -13057,7 +13032,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dyebias": [],
   "easier": [
     "quantiseqr",
     "DESeq2",
@@ -13802,7 +13776,6 @@
     "affyio"
   ],
   "funOmics": [
-    "pathifier",
     "KEGGREST",
     "AnnotationDbi",
     "Biostrings",
@@ -13923,7 +13896,6 @@
     "AnnotationDbi",
     "GenomicRanges",
     "InteractiveComplexHeatmap",
-    "MethylMix",
     "KEGGREST",
     "DOSE",
     "enrichplot",
@@ -16267,7 +16239,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "monocle": [],
   "mosaics": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -17270,7 +17241,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "pathifier": [],
   "pathlinkR": [
     "clusterProfiler",
     "AnnotationDbi",
@@ -17462,7 +17432,6 @@
     "GenomeInfoDb"
   ],
   "piano": [],
-  "pickgene": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -19835,7 +19804,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sitePath": [],
   "sketchR": [
     "basilisk",
     "DelayedArray",
@@ -20593,7 +20561,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tanggle": [],
   "target": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -20744,8 +20711,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "timecourse": [],
-  "timescape": [],
   "tkWidgets": [
     "DynDoc"
   ],
@@ -21044,9 +21009,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "uSORT": [
-    "monocle"
-  ],
+  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",
