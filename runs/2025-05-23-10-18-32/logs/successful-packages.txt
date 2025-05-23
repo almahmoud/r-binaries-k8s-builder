@@ -1202,3 +1202,9 @@ QTLExperiment
 quantiseqr
 SemDist
 tracktables
+GeoDiff
+mpra
+planttfhunter
+rScudo
+SIM
+stageR

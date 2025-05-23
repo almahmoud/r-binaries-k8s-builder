@@ -1203,7 +1203,6 @@
     "BSgenome"
   ],
   "GenomicSuperSignature": [],
-  "GeoDiff": [],
   "GeoTcgaData": [],
   "Glimma": [
     "DESeq2"
@@ -2321,7 +2320,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIM": [],
   "SMITE": [
     "goseq",
     "rtracklayer",
@@ -4589,7 +4587,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "SingleCellExperiment",
@@ -4852,7 +4849,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "planttfhunter": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer",
@@ -5004,7 +5000,6 @@
     "GenomicAlignments"
   ],
   "rGenomeTracks": [],
-  "rScudo": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -5654,7 +5649,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "stageR": [],
   "standR": [
     "SpatialExperiment",
     "SingleCellExperiment",
