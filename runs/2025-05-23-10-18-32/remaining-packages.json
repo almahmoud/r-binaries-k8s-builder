@@ -811,7 +811,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "tRNA",
     "GenomicAlignments"
   ],
   "EpipwR": [],
@@ -1540,7 +1539,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PAA": [],
   "PAST": [
     "rtracklayer",
     "GenomicAlignments"
@@ -1587,7 +1585,6 @@
   "PathoStat": [],
   "PharmacoGx": [],
   "PhenStat": [],
-  "PhosR": [],
   "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler",
@@ -1795,10 +1792,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNduals": [],
-  "RTNsurvival": [
-    "RTNduals"
-  ],
+  "RTNsurvival": [],
   "RUCova": [
     "SingleCellExperiment"
   ],
@@ -2036,7 +2030,6 @@
   "SiPSiC": [
     "SingleCellExperiment"
   ],
-  "SigCheck": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -2212,7 +2205,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "TIN": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4079,7 +4071,6 @@
     "mbkmeans",
     "scuttle"
   ],
-  "netboost": [],
   "nipalsMCIA": [],
   "nnSVG": [
     "SpatialExperiment",
@@ -4297,7 +4288,6 @@
     "GenomicAlignments"
   ],
   "qsmooth": [],
-  "qsvaR": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -4978,12 +4968,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"

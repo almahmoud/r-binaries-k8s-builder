@@ -1346,3 +1346,11 @@ odseq
 PepSetTest
 surfaltr
 transcriptogramer
+netboost
+PAA
+PhosR
+qsvaR
+RTNduals
+SigCheck
+TIN
+tRNA

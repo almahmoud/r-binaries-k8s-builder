@@ -1,5 +1,2 @@
-DOSE
-Rcpi
-ViSEAGO
-rrvgo
-tRanslatome
+RTNsurvival
+tRNAdbImport
