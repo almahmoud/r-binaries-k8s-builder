@@ -662,3 +662,10 @@ scMitoMut
 DeepPINCS
 TPP
 metagenomeSeq
+GenProSeq
+NCIgraph
+SPIA
+lpNet
+matter
+mzID
+mzR
