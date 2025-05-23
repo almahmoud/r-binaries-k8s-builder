@@ -1124,3 +1124,11 @@ GenomicDistributions
 muscle
 scifer
 SeqArray
+customCMPdb
+geneplotter
+globaltest
+ipdDb
+scHiCcompare
+SpatialOmicsOverlay
+SpectralTAD
+TADCompare

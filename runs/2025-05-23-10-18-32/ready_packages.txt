@@ -1,5 +1,3 @@
-GBScleanR
-GDSArray
-SAIGEgds
-SeqVarTools
-ggmanh
+GlobalAncova
+SIM
+biocGraph

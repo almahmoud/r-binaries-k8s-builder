@@ -235,7 +235,6 @@
   ],
   "BiSeq": [
     "rtracklayer",
-    "globaltest",
     "GenomicAlignments"
   ],
   "BindingSiteFinder": [
@@ -496,7 +495,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "globaltest",
     "sva",
     "wateRmelon",
     "goseq",
@@ -722,7 +720,6 @@
   ],
   "DEXSeq": [
     "DESeq2",
-    "geneplotter",
     "genefilter"
   ],
   "DEsubs": [
@@ -896,7 +893,6 @@
     "pathview",
     "PADOG",
     "GSVA",
-    "globaltest",
     "safe",
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -918,7 +914,6 @@
     "GenomicAlignments"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "ExperimentHub",
     "genefilter",
@@ -1270,9 +1265,7 @@
   "GloScope": [
     "SingleCellExperiment"
   ],
-  "GlobalAncova": [
-    "globaltest"
-  ],
+  "GlobalAncova": [],
   "GmicR": [
     "Category",
     "GOstats",
@@ -1416,7 +1409,6 @@
     "GenomicAlignments",
     "DEXSeq",
     "DESeq2",
-    "geneplotter",
     "genefilter",
     "rtracklayer",
     "VariantAnnotation",
@@ -1431,7 +1423,6 @@
     "rtracklayer",
     "tximeta",
     "DESeq2",
-    "geneplotter",
     "genefilter",
     "GenomicAlignments",
     "GenomicFeatures",
@@ -1693,7 +1684,6 @@
   "MethylSeekR": [
     "rtracklayer",
     "BSgenome",
-    "geneplotter",
     "GenomicAlignments"
   ],
   "MiRaGE": [],
@@ -2438,9 +2428,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIM": [
-    "globaltest"
-  ],
+  "SIM": [],
   "SMITE": [
     "goseq",
     "rtracklayer",
@@ -2590,8 +2578,6 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpatialOmicsOverlay": [],
-  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -2635,7 +2621,6 @@
     "DESeq2",
     "SingleCellExperiment"
   ],
-  "TADCompare": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -3118,9 +3103,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -3160,7 +3143,6 @@
   "blacksheepr": [
     "DEXSeq",
     "DESeq2",
-    "geneplotter",
     "genefilter"
   ],
   "bnbc": [
@@ -3620,7 +3602,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "customCMPdb": [],
   "customProDB": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3766,7 +3747,6 @@
     "rtracklayer",
     "ensembldb",
     "DESeq2",
-    "geneplotter",
     "genefilter",
     "GenomicFeatures",
     "GenomicAlignments"
@@ -4099,7 +4079,6 @@
     "GenomicAlignments"
   ],
   "genefilter": [],
-  "geneplotter": [],
   "genoCN": [],
   "genomation": [
     "BSgenome",
@@ -4153,7 +4132,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "globaltest": [],
   "gmapR": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4372,7 +4350,6 @@
     "Category",
     "genefilter"
   ],
-  "ipdDb": [],
   "isomiRs": [
     "DEGreport",
     "DESeq2"
@@ -5012,7 +4989,6 @@
     "DESeq2",
     "DEXSeq",
     "sva",
-    "geneplotter",
     "genefilter"
   ],
   "pairkat": [],
@@ -5410,7 +5386,6 @@
     "GenomicAlignments",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "genefilter",
     "rtracklayer",
     "ensembldb",
@@ -5486,7 +5461,6 @@
   "scHOT": [
     "SingleCellExperiment"
   ],
-  "scHiCcompare": [],
   "scMET": [
     "SingleCellExperiment"
   ],
