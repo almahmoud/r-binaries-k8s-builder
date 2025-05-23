@@ -1025,3 +1025,12 @@ rTRM
 safe
 simplifyEnrichment
 topGO
+IMMAN
+LinTInd
+MSA2dist
+MethTargetedNGS
+QSutils
+ggseqalign
+openPrimeR
+sangerseqR
+scanMiR
