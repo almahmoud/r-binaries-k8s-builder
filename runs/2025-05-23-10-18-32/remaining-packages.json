@@ -825,9 +825,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CONFESS": [
-    "flowMerge"
-  ],
+  "CONFESS": [],
   "COTAN": [
     "BiocSingular",
     "SingleCellExperiment",
@@ -2248,7 +2246,6 @@
     "GenomicRanges",
     "AnnotationDbi"
   ],
-  "GateFinder": [],
   "GeDi": [
     "GOSemSim",
     "GeneTonic",
@@ -3187,10 +3184,7 @@
     "AnnotationFilter",
     "GenomicRanges"
   ],
-  "MSstatsLiP": [
-    "MSstatsPTM"
-  ],
-  "MSstatsPTM": [],
+  "MSstatsLiP": [],
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
@@ -3210,9 +3204,7 @@
     "AnnotationFilter",
     "GenomicRanges"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "MWASTools": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -4082,7 +4074,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "R4RNA": [],
   "RAIDS": [
     "GENESIS",
     "Rsamtools",
@@ -4728,7 +4719,6 @@
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "SELEX": [],
   "SEraster": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -5190,7 +5180,6 @@
     "phyloseq"
   ],
   "SynExtend": [],
-  "SynMut": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -7935,11 +7924,9 @@
     "flowWorkspace",
     "ggcyto"
   ],
-  "flowMerge": [],
   "flowStats": [
     "flowWorkspace"
   ],
-  "flowTrans": [],
   "flowVS": [
     "flowStats",
     "flowWorkspace"
@@ -8163,9 +8150,7 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [
-    "R4RNA"
-  ],
+  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",

@@ -805,3 +805,10 @@ DelayedArray
 h5mread
 KEGGREST
 nempi
+flowMerge
+flowTrans
+GateFinder
+MSstatsPTM
+R4RNA
+SELEX
+SynMut

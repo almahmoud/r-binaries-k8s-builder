@@ -879,3 +879,7 @@ orthogene
 rhdf5client
 sketchR
 transomics2cytoscape
+CONFESS
+MSstatsLiP
+MSstatsShiny
+ggmsa
