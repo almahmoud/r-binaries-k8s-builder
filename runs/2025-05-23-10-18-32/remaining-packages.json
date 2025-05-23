@@ -87,7 +87,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
@@ -297,7 +296,6 @@
     "XVector",
     "Biostrings"
   ],
-  "AWFisher": [],
   "AffiXcan": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
@@ -439,7 +437,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
@@ -957,7 +954,6 @@
   ],
   "BioGA": [
     "SummarizedExperiment",
-    "biocViews",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -1020,9 +1016,7 @@
     "SparseArray",
     "ScaledMatrix"
   ],
-  "BiocCheck": [
-    "biocViews"
-  ],
+  "BiocCheck": [],
   "BiocHail": [
     "basilisk",
     "basilisk.utils"
@@ -1037,9 +1031,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "BiocPkgTools": [
-    "biocViews"
-  ],
+  "BiocPkgTools": [],
   "BiocSet": [
     "AnnotationDbi",
     "KEGGREST",
@@ -2532,9 +2524,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DEGraph": [
-    "NCIgraph"
-  ],
+  "DEGraph": [],
   "DEGreport": [
     "ComplexHeatmap",
     "DESeq2",
@@ -3575,7 +3565,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
@@ -5253,7 +5242,6 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "IRanges",
@@ -6838,7 +6826,6 @@
     "XVector",
     "Biostrings"
   ],
-  "NCIgraph": [],
   "NanoMethViz": [
     "SummarizedExperiment",
     "BiocSingular",
@@ -11862,7 +11849,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "biocViews": [],
   "biocmake": [],
   "biocthis": [],
   "biomaRt": [
@@ -12687,7 +12673,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "biocViews",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -12799,7 +12784,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "clstutils": [],
   "clustSIGNAL": [
     "SpatialExperiment",
     "bluster",
@@ -14046,7 +14030,6 @@
     "SparseArray",
     "XVector"
   ],
-  "diggit": [],
   "dinoR": [
     "SummarizedExperiment",
     "ComplexHeatmap",
@@ -15129,8 +15112,7 @@
     "XVector"
   ],
   "gDRstyle": [
-    "BiocCheck",
-    "biocViews"
+    "BiocCheck"
   ],
   "gDRutils": [
     "BumpyMatrix",
@@ -17012,7 +16994,6 @@
     "AnnotationDbi",
     "GenomicFeatures",
     "regioneR",
-    "biocViews",
     "XVector",
     "Rsamtools",
     "S4Arrays",
@@ -17217,7 +17198,6 @@
     "KEGGREST",
     "Rsamtools",
     "rtracklayer",
-    "biocViews",
     "BiocCheck",
     "OrganismDbi",
     "AnnotationForge",
@@ -17705,9 +17685,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "monocle": [
-    "biocViews"
-  ],
+  "monocle": [],
   "mosaics": [
     "IRanges",
     "GenomicRanges",
@@ -18433,7 +18411,6 @@
     "AnnotationFilter"
   ],
   "omicRexposome": [
-    "rexposome",
     "sva",
     "omicade4",
     "MultiDataSet",
@@ -19962,7 +19939,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "rexposome": [],
   "rfPred": [
     "GenomeInfoDb",
     "IRanges",
@@ -21334,7 +21310,6 @@
     "KEGGREST"
   ],
   "sigFeature": [
-    "biocViews",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -22869,8 +22844,7 @@
     "GenomicAlignments"
   ],
   "uSORT": [
-    "monocle",
-    "biocViews"
+    "monocle"
   ],
   "uncoverappLib": [
     "Gviz",

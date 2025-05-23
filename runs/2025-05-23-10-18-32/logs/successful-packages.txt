@@ -572,3 +572,10 @@ roastgsa
 sevenbridges
 TRONCO
 UCSC.utils
+AWFisher
+biocViews
+clstutils
+diggit
+KCsmart
+NCIgraph
+rexposome

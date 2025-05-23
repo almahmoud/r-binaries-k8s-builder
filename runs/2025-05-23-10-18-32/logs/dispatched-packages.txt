@@ -703,3 +703,7 @@ scde
 tidyFlowCore
 tidytof
 tweeDEseq
+BiocCheck
+BiocPkgTools
+DEGraph
+monocle
