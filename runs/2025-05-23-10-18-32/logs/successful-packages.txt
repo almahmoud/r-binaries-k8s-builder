@@ -1403,3 +1403,13 @@ rrvgo
 RTNsurvival
 SingleCellExperiment
 tRNAdbImport
+animalcules
+BasicSTARRseq
+BiocSklearn
+CytoMDS
+CytoPipelineGUI
+DExMA
+EBSEA
+GEOexplorer
+hpar
+HybridExpress

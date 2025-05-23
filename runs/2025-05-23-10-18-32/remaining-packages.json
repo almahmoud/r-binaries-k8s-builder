@@ -134,7 +134,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "scran",
     "scuttle"
@@ -167,7 +166,6 @@
     "scuttle"
   ],
   "BiocHubsShiny": [],
-  "BiocSklearn": [],
   "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
@@ -447,8 +445,6 @@
   ],
   "CrispRVariants": [],
   "CuratedAtlasQueryR": [],
-  "CytoMDS": [],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter",
@@ -478,7 +474,6 @@
     "scuttle"
   ],
   "DEXSeq": [],
-  "DExMA": [],
   "DMCFB": [
     "rtracklayer"
   ],
@@ -585,7 +580,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EBSEA": [],
   "EDASeq": [
     "ShortRead",
     "GenomicFeatures",
@@ -721,7 +715,6 @@
   "GDCRNATools": [
     "clusterProfiler"
   ],
-  "GEOexplorer": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -891,7 +884,6 @@
   "HoloFoodR": [
     "TreeSummarizedExperiment"
   ],
-  "HybridExpress": [],
   "IFAA": [],
   "ILoReg": [],
   "IMAS": [
@@ -1077,7 +1069,6 @@
     "clusterProfiler"
   ],
   "MetaboSignal": [
-    "hpar",
     "mygene",
     "ensembldb",
     "GenomicFeatures",
@@ -1955,7 +1946,6 @@
   "amplican": [
     "ShortRead"
   ],
-  "animalcules": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -2818,7 +2808,6 @@
   "hoodscanR": [
     "SpatialExperiment"
   ],
-  "hpar": [],
   "hypeR": [],
   "iCNV": [
     "CODEX",
