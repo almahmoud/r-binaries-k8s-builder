@@ -1,9 +1,0 @@
-ADAPT
-RCM
-RPA
-SIAMCAT
-ginmappeR
-immunogenViewer
-microbiome
-microbiomeDASim
-reconsi

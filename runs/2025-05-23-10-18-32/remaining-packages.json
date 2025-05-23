@@ -168,7 +168,6 @@
     "oligoClasses",
     "SummarizedExperiment"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -478,7 +477,6 @@
     "SummarizedExperiment"
   ],
   "CHRONOS": [],
-  "CINdex": [],
   "CNEr": [
     "rtracklayer",
     "GenomicAlignments",
@@ -1081,7 +1079,6 @@
     "ShortRead"
   ],
   "DifferentialRegulation": [
-    "BANDITS",
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
@@ -1689,7 +1686,6 @@
     "rtracklayer",
     "SummarizedExperiment"
   ],
-  "HiCBricks": [],
   "HiCDCPlus": [
     "InteractionSet",
     "GenomicInteractions",
@@ -2024,7 +2020,6 @@
     "SummarizedExperiment"
   ],
   "MGFM": [],
-  "MGFR": [],
   "MGnifyR": [
     "MultiAssayExperiment",
     "TreeSummarizedExperiment",
@@ -4169,7 +4164,6 @@
   "bnbc": [
     "SummarizedExperiment",
     "sva",
-    "HiCBricks",
     "genefilter"
   ],
   "bnem": [
@@ -4380,7 +4374,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
@@ -6279,7 +6272,6 @@
     "GenomicAlignments",
     "TFBSTools"
   ],
-  "motifcounter": [],
   "motifmatchr": [
     "TFBSTools",
     "BSgenome",
@@ -7090,8 +7082,7 @@
   ],
   "safe": [],
   "sampleClassifier": [
-    "MGFM",
-    "MGFR"
+    "MGFM"
   ],
   "sangeranalyseR": [
     "sangerseqR"
