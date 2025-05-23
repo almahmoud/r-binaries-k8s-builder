@@ -986,7 +986,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "FuseSOM": [],
   "GA4GHclient": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1740,8 +1739,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
-  "OmaDB": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2388,7 +2385,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SpatialCPie": [],
   "SpatialExperiment": [
     "SingleCellExperiment"
   ],
@@ -2699,10 +2695,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -2777,7 +2770,6 @@
   "animalcules": [
     "DESeq2"
   ],
-  "annmap": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -3774,12 +3766,10 @@
     "BSgenome"
   ],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
     "PharmacoGx"
@@ -4430,7 +4420,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "mitology": [],
   "moanin": [],
   "mobileRNA": [
     "DESeq2",
@@ -5502,7 +5491,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -5616,7 +5604,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "tenXplore": [],
   "terapadog": [
     "DESeq2"
   ],
