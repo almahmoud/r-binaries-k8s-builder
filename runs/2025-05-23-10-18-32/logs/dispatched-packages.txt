@@ -1476,3 +1476,6 @@ frma
 mimager
 pdInfoBuilder
 puma
+MetMashR
+metabolomicsWorkbenchR
+structToolbox

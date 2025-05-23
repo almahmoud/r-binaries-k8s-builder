@@ -10,7 +10,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "AMARETTO": [],
   "APAlyzer": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -1368,9 +1367,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MetMashR": [
-    "struct"
-  ],
+  "MetMashR": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
@@ -3852,9 +3849,7 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [
-    "struct"
-  ],
+  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer",
     "GenomicAlignments"
@@ -4293,7 +4288,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pgxRpi": [],
   "phantasus": [],
   "pipeComp": [
     "SingleCellExperiment",
@@ -4562,7 +4556,6 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
   "sSNAPPY": [],
   "safe": [],
   "saseR": [
@@ -5066,10 +5059,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "surfaltr": [
     "msa"
   ],
@@ -5104,7 +5094,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "systemPipeTools": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
