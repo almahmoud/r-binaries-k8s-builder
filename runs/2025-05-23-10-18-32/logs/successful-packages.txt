@@ -826,3 +826,11 @@ PWMEnrich
 rhdf5client
 Structstrings
 transomics2cytoscape
+altcdfenvs
+GenomicRanges
+MSstatsLiP
+MSstatsShiny
+orthogene
+Rarr
+ROntoTools
+SQLDataFrame
