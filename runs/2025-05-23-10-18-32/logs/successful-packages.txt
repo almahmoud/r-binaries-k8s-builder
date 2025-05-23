@@ -1337,3 +1337,12 @@ MCbiclust
 metabolomicsWorkbenchR
 RTN
 structToolbox
+GOSemSim
+LymphoSeq
+mirIntegrator
+moanin
+MsDataHub
+odseq
+PepSetTest
+surfaltr
+transcriptogramer

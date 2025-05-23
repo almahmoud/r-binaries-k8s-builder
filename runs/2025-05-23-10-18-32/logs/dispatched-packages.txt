@@ -1490,3 +1490,8 @@ PharmacoGx
 RadioGx
 ToxicoGx
 RTNduals
+DOSE
+Rcpi
+ViSEAGO
+rrvgo
+tRanslatome
