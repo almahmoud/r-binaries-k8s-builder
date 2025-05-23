@@ -1371,3 +1371,9 @@ satuRn
 sSNAPPY
 ViSEAGO
 vissE
+Anaquin
+DEGreport
+DEWSeq
+rGenomeTracks
+SeqGate
+tRanslatome

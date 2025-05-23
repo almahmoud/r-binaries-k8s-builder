@@ -77,7 +77,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AneuFinder": [
     "GenomicAlignments"
   ],
@@ -574,7 +573,6 @@
     "PSMatch"
   ],
   "DEFormats": [],
-  "DEGreport": [],
   "DELocal": [],
   "DEP": [
     "MSnbase",
@@ -594,7 +592,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "DEWSeq": [],
   "DEXSeq": [],
   "DEsubs": [],
   "DExMA": [],
@@ -1980,7 +1977,6 @@
     "SpatialExperiment"
   ],
   "SeqGSEA": [],
-  "SeqGate": [],
   "SeqSQC": [],
   "ShortRead": [
     "GenomicAlignments"
@@ -3558,9 +3554,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -4242,7 +4236,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rGenomeTracks": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -4895,7 +4888,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "tRanslatome": [],
   "tadar": [
     "Gviz",
     "VariantAnnotation",
