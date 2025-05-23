@@ -30,8 +30,7 @@
     "topGO"
   ],
   "ASICS": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "ASSIGN": [
     "sva",
@@ -244,7 +243,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "BioCor": [],
   "BioGA": [],
   "BioNERO": [
     "sva",
@@ -1339,13 +1337,8 @@
   "HiCDOC": [
     "multiHiCcompare"
   ],
-  "HiCExperiment": [],
-  "HiContacts": [
-    "HiCExperiment"
-  ],
-  "HiCool": [
-    "HiCExperiment"
-  ],
+  "HiContacts": [],
+  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1531,7 +1524,6 @@
     "GenomicAlignments"
   ],
   "MEAL": [
-    "MultiDataSet",
     "minfi",
     "Gviz",
     "missMethyl",
@@ -1791,10 +1783,8 @@
     "SingleCellExperiment"
   ],
   "MultiBaC": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
-  "MultiDataSet": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -2545,7 +2535,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment"
   ],
@@ -3158,7 +3147,6 @@
     "VariantAnnotation"
   ],
   "biosigner": [
-    "MultiDataSet",
     "ropls"
   ],
   "biovizBase": [
@@ -3464,7 +3452,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "codelink": [],
   "comapr": [
     "Gviz",
     "rtracklayer",
@@ -4005,7 +3992,6 @@
   "esetVis": [
     "MLP"
   ],
-  "eudysbiome": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer",
@@ -4463,8 +4449,7 @@
     "GenomicAlignments"
   ],
   "lipidr": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "lisaClust": [
     "spicyR",
@@ -5005,7 +4990,6 @@
   ],
   "omicRexposome": [
     "sva",
-    "MultiDataSet",
     "genefilter"
   ],
   "omicsPrint": [],
@@ -5115,7 +5099,6 @@
     "genefilter"
   ],
   "phenomis": [
-    "MultiDataSet",
     "ropls"
   ],
   "phenopath": [],
@@ -5420,12 +5403,9 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "ropls": [
-    "MultiDataSet"
-  ],
+  "ropls": [],
   "rqt": [
-    "ropls",
-    "MultiDataSet"
+    "ropls"
   ],
   "rrvgo": [
     "GOSemSim"

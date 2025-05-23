@@ -1312,3 +1312,6 @@ SpectralTAD
 TADCompare
 multiHiCcompare
 scHiCcompare
+HiContacts
+HiCool
+ropls

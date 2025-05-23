@@ -1111,3 +1111,9 @@ HiCcompare
 HiCParser
 SpatialDecon
 wpm
+BioCor
+codelink
+eudysbiome
+HiCExperiment
+MultiDataSet
+SimBu
