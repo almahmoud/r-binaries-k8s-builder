@@ -973,3 +973,11 @@ isobar
 MGFM
 RCM
 universalmotif
+ADAPT
+alabaster.matrix
+beadarray
+FilterFFPE
+NetSAM
+RPA
+SIAMCAT
+SPONGE

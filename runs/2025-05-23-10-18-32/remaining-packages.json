@@ -9,7 +9,6 @@
     "ADAM",
     "SummarizedExperiment"
   ],
-  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -1309,7 +1308,6 @@
   "FeatSeekR": [
     "SummarizedExperiment"
   ],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2357,7 +2355,6 @@
     "DESeq2",
     "SummarizedExperiment"
   ],
-  "NetSAM": [],
   "NewWave": [
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -2821,7 +2818,6 @@
   "ROCpAI": [
     "SummarizedExperiment"
   ],
-  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments",
@@ -3123,7 +3119,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [],
   "SICtools": [],
   "SIM": [
     "globaltest"
@@ -3173,7 +3168,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPONGE": [],
   "SPOTlight": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3790,7 +3784,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -3810,19 +3803,15 @@
   "alabaster.mae": [
     "MultiAssayExperiment",
     "alabaster.se",
-    "SummarizedExperiment",
-    "alabaster.matrix"
+    "SummarizedExperiment"
   ],
-  "alabaster.matrix": [],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.se",
-    "SummarizedExperiment",
-    "alabaster.matrix"
+    "SummarizedExperiment"
   ],
   "alabaster.se": [
-    "SummarizedExperiment",
-    "alabaster.matrix"
+    "SummarizedExperiment"
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -3833,7 +3822,6 @@
     "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
-    "alabaster.matrix",
     "scuttle"
   ],
   "alabaster.spatial": [
@@ -3841,14 +3829,12 @@
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
-    "SummarizedExperiment",
-    "alabaster.matrix"
+    "SummarizedExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.matrix",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -3906,7 +3892,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "beadarray",
     "genefilter"
   ],
   "atSNP": [
@@ -3981,7 +3966,6 @@
     "SummarizedExperiment"
   ],
   "baySeq": [],
-  "beadarray": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments",
@@ -4095,9 +4079,7 @@
     "geneplotter",
     "genefilter"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "SummarizedExperiment",
     "sva",
@@ -4960,8 +4942,7 @@
     "SummarizedExperiment"
   ],
   "epigenomix": [
-    "SummarizedExperiment",
-    "beadarray"
+    "SummarizedExperiment"
   ],
   "epigraHMM": [
     "SummarizedExperiment",
@@ -5001,7 +4982,6 @@
     "BSgenome",
     "TFBSTools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -6002,7 +5982,6 @@
     "graphite"
   ],
   "miRspongeR": [
-    "SPONGE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -6623,7 +6602,6 @@
   ],
   "prebs": [
     "GenomicAlignments",
-    "RPA",
     "SummarizedExperiment"
   ],
   "preciseTAD": [
@@ -7446,7 +7424,6 @@
     "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
-    "alabaster.matrix",
     "alabaster.se",
     "GenomicFeatures",
     "rtracklayer",
