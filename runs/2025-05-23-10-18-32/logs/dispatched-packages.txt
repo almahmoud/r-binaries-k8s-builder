@@ -411,3 +411,5 @@ scShapes
 scTHI
 seqTools
 ternarynet
+alevinQC
+gcatest

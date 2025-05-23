@@ -1,0 +1,88 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''iterativeBMAsurv'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'iterativeBMAsurv'
+also installing the dependencies ‘DEoptimR’, ‘mvtnorm’, ‘pcaPP’, ‘robustbase’, ‘inline’, ‘rrcov’, ‘BMA’, ‘leaps’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DEoptimR_1.1-3-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mvtnorm_1.3-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pcaPP_2.0-5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/robustbase_0.99-4-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/inline_0.3.21.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rrcov_1.7-7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BMA_3.18.20.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/leaps_3.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/iterativeBMAsurv_1.66.0.tar.gz'
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.1-3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *binary* package ‘mvtnorm’ ...
+* ‘mvtnorm’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mvtnorm’ as ‘mvtnorm_1.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mvtnorm)
+* installing *binary* package ‘inline’ ...
+* ‘inline’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘inline’ as ‘inline_0.3.21_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (inline)
+* installing *binary* package ‘leaps’ ...
+* ‘leaps’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘leaps’ as ‘leaps_3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (leaps)
+* installing *binary* package ‘pcaPP’ ...
+* ‘pcaPP’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pcaPP’ as ‘pcaPP_2.0-5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pcaPP)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.99-4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *binary* package ‘rrcov’ ...
+* ‘rrcov’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rrcov’ as ‘rrcov_1.7-7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rrcov)
+* installing *binary* package ‘BMA’ ...
+* ‘BMA’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BMA’ as ‘BMA_3.18.20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BMA)
+* installing *source* package ‘iterativeBMAsurv’ ...
+** this is package ‘iterativeBMAsurv’ version ‘1.66.0’
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘iterativeBMAsurv’ as ‘iterativeBMAsurv_1.66.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterativeBMAsurv)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp4YLWLV/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m10.477s
+user	0m7.793s
+sys	0m3.833s

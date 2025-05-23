@@ -1,0 +1,93 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''CNAnorm'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'CNAnorm'
+also installing the dependency ‘DNAcopy’
+
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DNAcopy_1.82.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/CNAnorm_1.54.0.tar.gz'
+* installing *source* package ‘DNAcopy’ ...
+** this is package ‘DNAcopy’ version ‘1.82.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gfortran  -fpic  -g -O2  -c cbsWtstats.f -o cbsWtstats.o
+gfortran  -fpic  -g -O2  -c cbststats.f -o cbststats.o
+gfortran  -fpic  -g -O2  -c changepoints-wtd.f -o changepoints-wtd.o
+gfortran  -fpic  -g -O2  -c changepoints.f -o changepoints.o
+gfortran  -fpic  -g -O2  -c esegment.f -o esegment.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c flchoose.c -o flchoose.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fphyper.c -o fphyper.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fpnorm.c -o fpnorm.o
+gfortran  -fpic  -g -O2  -c getbdry.f -o getbdry.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+gfortran  -fpic  -g -O2  -c prune.f -o prune.o
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rshared.c -o rshared.o
+gfortran  -fpic  -g -O2  -c segmentp.f -o segmentp.o
+gfortran  -fpic  -g -O2  -c smoothCNA.f -o smoothCNA.o
+gfortran  -fpic  -g -O2  -c tailprobs.f -o tailprobs.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DNAcopy.so cbsWtstats.o cbststats.o changepoints-wtd.o changepoints.o esegment.o flchoose.o fphyper.o fpnorm.o getbdry.o init.o prune.o rshared.o segmentp.o smoothCNA.o tailprobs.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-DNAcopy/00new/DNAcopy/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DNAcopy’ as ‘DNAcopy_1.82.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DNAcopy)
+* installing *source* package ‘CNAnorm’ ...
+** this is package ‘CNAnorm’ version ‘1.54.0’
+** using staged installation
+** libs
+using Fortran compiler: ‘GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gfortran  -fpic  -g -O2  -c daxpy.f -o daxpy.o
+gfortran  -fpic  -g -O2  -c ddot.f -o ddot.o
+gfortran  -fpic  -g -O2  -c dgbfa.f -o dgbfa.o
+gfortran  -fpic  -g -O2  -c dgbsl.f -o dgbsl.o
+gfortran  -fpic  -g -O2  -c dscal.f -o dscal.o
+gfortran  -fpic  -g -O2  -c dsmooth.f -o dsmooth.o
+gfortran  -fpic  -g -O2  -c idamax.f -o idamax.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o CNAnorm.so daxpy.o ddot.o dgbfa.o dgbsl.o dscal.o dsmooth.o idamax.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-CNAnorm/00new/CNAnorm/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘CNAnorm’ as ‘CNAnorm_1.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CNAnorm)
+
+The downloaded source packages are in
+	‘/tmp/RtmpfT45rh/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m10.174s
+user	0m7.744s
+sys	0m2.833s
