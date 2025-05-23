@@ -809,3 +809,7 @@ flowDensity
 flowFP
 Biostrings
 GenomicRanges
+DelayedArray
+flowMerge
+flowTrans
+h5mread

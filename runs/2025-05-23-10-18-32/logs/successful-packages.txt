@@ -787,3 +787,5 @@ GenomeInfoDb
 MetCirc
 ReUseData
 tidytof
+flowClust
+SparseArray
