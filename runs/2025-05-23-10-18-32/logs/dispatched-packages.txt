@@ -792,3 +792,15 @@ Rcwl
 cbpManager
 densvis
 snifter
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+RcwlPipelines
+SparseArray
+SpectraQL
+cycle
+epiNEM

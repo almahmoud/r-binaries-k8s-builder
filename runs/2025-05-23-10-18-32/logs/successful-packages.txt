@@ -760,3 +760,17 @@ scde
 tkWidgets
 tweeDEseq
 VERSO
+BiocHail
+cbpManager
+densvis
+DNAcycP2
+flowTime
+Mfuzz
+mnem
+MSstatsBig
+OLINgui
+pathwayPCA
+Rcwl
+snifter
+Spectra
+XVector
