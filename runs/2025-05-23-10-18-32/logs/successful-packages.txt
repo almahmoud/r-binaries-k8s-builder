@@ -789,3 +789,11 @@ ReUseData
 tidytof
 flowClust
 SparseArray
+epiNEM
+flowDensity
+flowFP
+MMUPHin
+MsBackendMetaboLights
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL

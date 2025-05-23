@@ -2780,9 +2780,7 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "GateFinder": [
-    "flowFP"
-  ],
+  "GateFinder": [],
   "GeDi": [
     "GOSemSim",
     "GeneTonic",
@@ -3850,7 +3848,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "MMUPHin": [],
   "MODA": [
     "AnnotationDbi",
     "KEGGREST",
@@ -4307,9 +4304,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MsBackendMetaboLights": [],
-  "MsBackendRawFileReader": [],
-  "MsBackendSql": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub",
@@ -6324,7 +6318,6 @@
     "NanoStringNCTools",
     "Biostrings"
   ],
-  "SpectraQL": [],
   "SpectralTAD": [
     "HiCcompare",
     "GenomicRanges",
@@ -7847,7 +7840,6 @@
     "Biostrings"
   ],
   "bnem": [
-    "epiNEM",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -8908,9 +8900,7 @@
     "BSgenome",
     "DelayedArray"
   ],
-  "cyanoFilter": [
-    "flowDensity"
-  ],
+  "cyanoFilter": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9017,15 +9007,12 @@
     "ScaledMatrix"
   ],
   "dce": [
-    "epiNEM",
     "graphite",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings"
   ],
-  "ddPCRclust": [
-    "flowDensity"
-  ],
+  "ddPCRclust": [],
   "debCAM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9435,7 +9422,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "epiNEM": [],
   "epialleleR": [
     "GenomicRanges"
   ],
@@ -9835,14 +9821,8 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowBin": [
-    "flowFP"
-  ],
-  "flowCut": [
-    "flowDensity"
-  ],
-  "flowDensity": [],
-  "flowFP": [],
+  "flowBin": [],
+  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
@@ -11987,9 +11967,7 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "nempi": [
-    "epiNEM"
-  ],
+  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",

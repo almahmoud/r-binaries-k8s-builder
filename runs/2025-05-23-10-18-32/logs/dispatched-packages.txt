@@ -813,3 +813,9 @@ DelayedArray
 flowMerge
 flowTrans
 h5mread
+GateFinder
+cyanoFilter
+ddPCRclust
+flowBin
+flowCut
+nempi
