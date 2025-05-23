@@ -1280,3 +1280,11 @@ GEOquery
 GOstats
 mBPCR
 QFeatures
+ExperimentHub
+MBQN
+midasHLA
+miRNAtap
+missRows
+MPRAnalyze
+phenoTest
+survClust
