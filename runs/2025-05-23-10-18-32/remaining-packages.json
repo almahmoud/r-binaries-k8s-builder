@@ -50,7 +50,6 @@
   ],
   "ADaCGH2": [
     "tilingArray",
-    "vsn",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -1114,7 +1113,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -1393,7 +1391,6 @@
   ],
   "CONFESS": [
     "flowClust",
-    "flowMeans",
     "flowMerge"
   ],
   "COTAN": [
@@ -1419,7 +1416,6 @@
     "XVector"
   ],
   "CRISPRball": [
-    "InteractiveComplexHeatmap",
     "dittoSeq",
     "PCAtools",
     "SummarizedExperiment",
@@ -1998,7 +1994,6 @@
   "CluMSID": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2211,7 +2206,6 @@
   "DAPAR": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2262,7 +2256,6 @@
   "DEP": [
     "SummarizedExperiment",
     "MSnbase",
-    "vsn",
     "PSMatch",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -2767,9 +2760,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "Doscheda": [
-    "vsn"
-  ],
+  "Doscheda": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "GenomicRanges",
@@ -3165,7 +3156,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -4414,7 +4404,6 @@
     "XVector",
     "SparseArray"
   ],
-  "HubPub": [],
   "HybridExpress": [
     "DESeq2",
     "SummarizedExperiment",
@@ -4508,7 +4497,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -4659,7 +4647,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "InteractiveComplexHeatmap": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4745,7 +4732,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -4928,7 +4914,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -5352,7 +5337,6 @@
     "GenomeInfoDb",
     "msmsEDA",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5365,7 +5349,6 @@
   ],
   "MSnbase": [
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5393,7 +5376,6 @@
   "MSstatsQC": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5410,7 +5392,6 @@
     "MSstatsQC",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5459,7 +5440,6 @@
     "ExperimentHub",
     "proDA",
     "sva",
-    "vsn",
     "AnnotationHub",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -5532,7 +5512,6 @@
     "SparseArray",
     "XVector"
   ],
-  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -6176,7 +6155,6 @@
     "SparseArray"
   ],
   "NormalyzerDE": [
-    "vsn",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6210,9 +6188,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLIN": [],
   "OLINgui": [
-    "OLIN",
     "tkWidgets",
     "DynDoc"
   ],
@@ -6589,7 +6565,6 @@
     "SummarizedExperiment",
     "NormalyzerDE",
     "MSnbase",
-    "vsn",
     "POMA",
     "PSMatch",
     "DESeq2",
@@ -6755,7 +6730,6 @@
   "PrInCE": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6772,7 +6746,6 @@
     "DAPAR",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -7164,7 +7137,6 @@
   "RMassBank": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -7844,7 +7816,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [],
   "RolDE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -8116,9 +8087,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMD": [
-    "methylMnM"
-  ],
+  "SIMD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -9312,7 +9281,6 @@
     "SparseArray",
     "XVector"
   ],
-  "TurboNorm": [],
   "UCell": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -9794,7 +9762,6 @@
     "XVector"
   ],
   "affxparser": [],
-  "affyContam": [],
   "affyILM": [
     "gcrma",
     "affxparser",
@@ -10170,7 +10137,6 @@
     "biomaRt"
   ],
   "arrayMvout": [
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -10200,7 +10166,6 @@
     "affyPLM",
     "beadarray",
     "genefilter",
-    "vsn",
     "gcrma",
     "AnnotationDbi",
     "GenomicRanges",
@@ -10268,7 +10233,6 @@
   "autonomics": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
-    "vsn",
     "DelayedArray",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -10329,7 +10293,6 @@
     "MSnbase",
     "pRoloc",
     "PSMatch",
-    "vsn",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -10733,7 +10696,6 @@
     "epiNEM",
     "mnem",
     "sva",
-    "vsn",
     "Linnorm",
     "genefilter",
     "AnnotationDbi",
@@ -11417,7 +11379,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "SummarizedExperiment",
     "MsFeatures",
     "MsExperiment",
@@ -11786,7 +11747,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -13354,7 +13314,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -13388,11 +13347,9 @@
     "SparseArray",
     "XVector"
   ],
-  "flowMeans": [],
   "flowMerge": [
     "flowClust"
   ],
-  "flowPloidy": [],
   "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
@@ -13559,7 +13516,6 @@
     "clusterProfiler",
     "AnnotationDbi",
     "GenomicRanges",
-    "InteractiveComplexHeatmap",
     "KEGGREST",
     "DOSE",
     "enrichplot",
@@ -15125,7 +15081,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -15174,7 +15129,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "txdbmaker",
-    "vsn",
     "AnnotationDbi",
     "XVector",
     "bsseq",
@@ -15348,7 +15302,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "methylMnM": [],
   "methylPipe": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -16040,7 +15993,6 @@
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -16057,7 +16009,6 @@
     "MSnbase",
     "msmsEDA",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -16272,7 +16223,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -16368,7 +16318,6 @@
     "SparseArray",
     "XVector"
   ],
-  "nondetects": [],
   "normr": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -16491,7 +16440,6 @@
     "PSMatch",
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "vsn",
     "DelayedArray",
     "GenomicRanges",
     "Spectra",
@@ -16638,9 +16586,7 @@
     "XVector",
     "Biostrings"
   ],
-  "optimalFlow": [
-    "flowMeans"
-  ],
+  "optimalFlow": [],
   "orthogene": [
     "DelayedArray",
     "S4Arrays",
@@ -16674,7 +16620,6 @@
     "genefilter",
     "SummarizedExperiment",
     "PSMatch",
-    "vsn",
     "KEGGREST",
     "Spectra",
     "QFeatures",
@@ -16692,7 +16637,6 @@
     "pRoloc",
     "MSnbase",
     "PSMatch",
-    "vsn",
     "MLInterfaces",
     "biomaRt",
     "AnnotationDbi",
@@ -16785,7 +16729,6 @@
     "XVector",
     "Biostrings"
   ],
-  "panp": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -16898,7 +16841,6 @@
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17327,7 +17269,6 @@
     "XVector"
   ],
   "protGear": [
-    "vsn",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -17364,7 +17305,6 @@
   "ptairMS": [
     "MSnbase",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17390,10 +17330,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "pvac": [],
-  "pvca": [
-    "vsn"
-  ],
+  "pvca": [],
   "pwalign": [
     "Biostrings",
     "XVector",
@@ -17405,7 +17342,6 @@
     "XVector",
     "GenomeInfoDb",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17425,7 +17361,6 @@
     "SparseArray",
     "XVector"
   ],
-  "qpcrNorm": [],
   "qpgraph": [
     "annotate",
     "AnnotationDbi",
@@ -19699,7 +19634,6 @@
     "SummarizedExperiment",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "MsFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
@@ -19937,7 +19871,6 @@
     "XVector",
     "GenomeInfoDb",
     "PSMatch",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -20214,7 +20147,6 @@
     "GenomeInfoDb"
   ],
   "tilingArray": [
-    "vsn",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -20248,7 +20180,6 @@
     "PSMatch",
     "XVector",
     "GenomeInfoDb",
-    "vsn",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -20641,7 +20572,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "vsn": [],
   "vtpnet": [
     "GenomicRanges",
     "gwascat",
@@ -20748,7 +20678,6 @@
   ],
   "webbioc": [
     "annaffy",
-    "vsn",
     "gcrma",
     "AnnotationDbi",
     "XVector",
@@ -20813,7 +20742,6 @@
     "Spectra",
     "QFeatures",
     "PSMatch",
-    "vsn",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",

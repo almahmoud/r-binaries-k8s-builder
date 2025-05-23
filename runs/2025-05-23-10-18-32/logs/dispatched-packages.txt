@@ -776,3 +776,7 @@ qpcrNorm
 vsn
 alabaster.bumpy
 nondetects
+Doscheda
+SIMD
+optimalFlow
+pvca
