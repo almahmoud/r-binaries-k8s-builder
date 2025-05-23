@@ -1330,3 +1330,10 @@ PIUMA
 RcisTarget
 RNAsense
 ROCpAI
+beer
+deltaCaptureC
+LimROTS
+MCbiclust
+metabolomicsWorkbenchR
+RTN
+structToolbox

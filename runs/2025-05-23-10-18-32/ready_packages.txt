@@ -1,4 +1,1 @@
-PDATK
-PharmacoGx
-RadioGx
-ToxicoGx
+RTNduals

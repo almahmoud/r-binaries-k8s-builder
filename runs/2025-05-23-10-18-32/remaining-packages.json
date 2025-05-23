@@ -1209,7 +1209,6 @@
     "PSMatch"
   ],
   "LRcell": [],
-  "LimROTS": [],
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
@@ -1246,7 +1245,6 @@
   "MAST": [
     "SingleCellExperiment"
   ],
-  "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments"
   ],
@@ -1822,12 +1820,8 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTN": [],
-  "RTNduals": [
-    "RTN"
-  ],
+  "RTNduals": [],
   "RTNsurvival": [
-    "RTN",
     "RTNduals"
   ],
   "RUCova": [
@@ -2560,7 +2554,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "beer": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
@@ -3108,7 +3101,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "SingleCellExperiment",
     "VariantAnnotation",
@@ -3812,7 +3804,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "metabolomicsWorkbenchR": [],
   "metagene2": [
     "rtracklayer",
     "GenomicAlignments"
@@ -5014,7 +5005,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "structToolbox": [],
   "surfaltr": [],
   "svaNUMT": [
     "rtracklayer",
