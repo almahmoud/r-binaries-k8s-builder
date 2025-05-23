@@ -886,3 +886,8 @@ DMRcaller
 DMRScan
 megadepth
 packFinder
+CNVMetrics
+DRIMSeq
+GenomAutomorphism
+GMRP
+scPCA

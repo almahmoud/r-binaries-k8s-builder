@@ -218,9 +218,7 @@
     "oligoClasses",
     "SummarizedExperiment"
   ],
-  "BANDITS": [
-    "DRIMSeq"
-  ],
+  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -614,7 +612,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [
     "Rsamtools"
   ],
@@ -1218,7 +1215,6 @@
     "AnnotationDbi",
     "GOSemSim"
   ],
-  "DRIMSeq": [],
   "DSS": [
     "bsseq",
     "SummarizedExperiment",
@@ -1331,8 +1327,7 @@
   "DifferentialRegulation": [
     "BANDITS",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "DRIMSeq"
+    "SummarizedExperiment"
   ],
   "Dino": [
     "SummarizedExperiment",
@@ -1734,7 +1729,6 @@
   "GEOquery": [
     "SummarizedExperiment"
   ],
-  "GMRP": [],
   "GNET2": [
     "SummarizedExperiment"
   ],
@@ -1936,7 +1930,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "GenomAutomorphism": [],
   "GenomicAlignments": [
     "SummarizedExperiment",
     "Rsamtools"
@@ -8979,7 +8972,6 @@
   "scMultiSim": [
     "SummarizedExperiment"
   ],
-  "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
     "AnnotationDbi",
