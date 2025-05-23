@@ -1,5 +1,4 @@
 {
-  "ACE": [],
   "ADAMgui": [],
   "ADImpute": [
     "SingleCellExperiment"
@@ -1737,7 +1736,6 @@
     "MultiAssayExperiment"
   ],
   "MWASTools": [],
-  "Macarron": [],
   "MatrixQCvis": [
     "ExperimentHub",
     "proDA",
@@ -1754,7 +1752,6 @@
   "MetMashR": [
     "struct"
   ],
-  "MetNet": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
@@ -1768,7 +1765,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MetaboDynamics": [],
   "MetaboSignal": [
     "hpar",
     "MWASTools",
@@ -3514,7 +3510,6 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cfdnakit": [],
   "cghMCR": [
     "CNTools",
     "genefilter"
@@ -3874,7 +3869,6 @@
     "TOAST",
     "DESeq2"
   ],
-  "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -3917,7 +3911,6 @@
   "dce": [
     "graphite"
   ],
-  "debCAM": [],
   "debrowser": [
     "DESeq2",
     "DOSE",
@@ -4018,7 +4011,6 @@
   ],
   "diffcoexp": [],
   "diffcyt": [],
-  "dinoR": [],
   "distinct": [
     "SingleCellExperiment",
     "scater",
@@ -4305,7 +4297,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -4459,7 +4450,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "goTools": [],
   "goseq": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4489,7 +4479,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "MultiAssayExperiment"
