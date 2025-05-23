@@ -1,2 +1,2 @@
-MICSQTL
-omicade4
+clusterSeq
+riboSeqR

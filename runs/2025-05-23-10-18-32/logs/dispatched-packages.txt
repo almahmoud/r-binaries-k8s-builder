@@ -1278,3 +1278,5 @@ splineTimeR
 omicplotR
 MICSQTL
 omicade4
+clusterSeq
+riboSeqR

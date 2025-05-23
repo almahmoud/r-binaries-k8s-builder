@@ -330,7 +330,6 @@
   "CAMERA": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -552,7 +551,6 @@
     "ShortRead",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "rtracklayer",
     "BSgenome"
@@ -868,7 +866,6 @@
     "GenomicAlignments",
     "systemPipeR",
     "DESeq2",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "rtracklayer",
@@ -967,8 +964,7 @@
     "GenomicAlignments"
   ],
   "ERSSA": [
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "EWCE": [
     "SingleCellExperiment",
@@ -1450,7 +1446,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1524,7 +1519,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1581,7 +1575,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -1868,7 +1861,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "MsFeatures": [],
   "MsQuality": [
     "MsExperiment",
     "QFeatures",
@@ -2474,7 +2466,6 @@
   ],
   "Rmmquant": [
     "DESeq2",
-    "apeglm",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -2826,7 +2817,6 @@
     "GOSemSim"
   ],
   "TEKRABber": [
-    "apeglm",
     "DESeq2",
     "rtracklayer",
     "GenomicAlignments"
@@ -3108,7 +3098,6 @@
   "airpart": [
     "SingleCellExperiment",
     "scater",
-    "apeglm",
     "scuttle"
   ],
   "alabaster": [
@@ -3180,7 +3169,6 @@
   "anota2seq": [
     "DESeq2"
   ],
-  "apeglm": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -3247,8 +3235,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "barbieQ": [],
-  "barcodetrackR": [],
   "basecallQC": [
     "ShortRead",
     "GenomicAlignments"
@@ -3260,7 +3246,6 @@
   "bayNorm": [
     "SingleCellExperiment"
   ],
-  "baySeq": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3325,7 +3310,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "biotmle": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3601,7 +3585,6 @@
     "xcms",
     "MSnbase",
     "PSMatch",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "MultiAssayExperiment"
@@ -3623,9 +3606,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "clusterSeq": [
-    "baySeq"
-  ],
+  "clusterSeq": [],
   "clustifyr": [
     "SingleCellExperiment"
   ],
@@ -3717,7 +3698,6 @@
   "cosmiq": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -3899,7 +3879,6 @@
     "sva",
     "enrichplot",
     "pathview",
-    "apeglm",
     "GOSemSim",
     "genefilter"
   ],
@@ -4255,7 +4234,6 @@
     "xcms",
     "CAMERA",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -4279,7 +4257,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gCrisprTools": [],
   "gDNAx": [
     "GenomicFiles",
     "GenomicAlignments",
@@ -4784,7 +4761,6 @@
     "CAMERA",
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -5183,7 +5159,6 @@
   "ncGTW": [
     "xcms",
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",
@@ -5260,7 +5235,6 @@
     "genefilter"
   ],
   "omicade4": [],
-  "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment",
     "RaggedExperiment"
@@ -5369,8 +5343,7 @@
   "pgxRpi": [],
   "phantasus": [
     "GEOquery",
-    "DESeq2",
-    "apeglm"
+    "DESeq2"
   ],
   "phenoTest": [
     "Category",
@@ -5653,9 +5626,7 @@
     "GenomicAlignments"
   ],
   "rhinotypeR": [],
-  "riboSeqR": [
-    "baySeq"
-  ],
+  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -5964,7 +5935,6 @@
   ],
   "sechm": [],
   "segmentSeq": [
-    "baySeq",
     "ShortRead",
     "GenomicAlignments"
   ],
@@ -6243,7 +6213,6 @@
     "MsExperiment",
     "QFeatures",
     "PSMatch",
-    "MsFeatures",
     "MultiAssayExperiment"
   ],
   "srnadiff": [
@@ -6387,10 +6356,8 @@
     "tidySingleCellExperiment",
     "SingleCellExperiment"
   ],
-  "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
@@ -6557,7 +6524,6 @@
     "rtracklayer",
     "ensembldb",
     "systemPipeR",
-    "apeglm",
     "GreyListChIP",
     "BSgenome",
     "ShortRead"
@@ -6593,7 +6559,6 @@
   ],
   "xcms": [
     "MSnbase",
-    "MsFeatures",
     "MsExperiment",
     "QFeatures",
     "PSMatch",

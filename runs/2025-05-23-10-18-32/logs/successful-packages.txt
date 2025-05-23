@@ -1059,3 +1059,12 @@ TOAST
 TREG
 Trendy
 TTMap
+apeglm
+barbieQ
+barcodetrackR
+baySeq
+biotmle
+gCrisprTools
+MsFeatures
+omicplotR
+tidySummarizedExperiment
