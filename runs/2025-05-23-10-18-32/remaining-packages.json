@@ -25,8 +25,7 @@
     "BSgenome"
   ],
   "APL": [
-    "SingleCellExperiment",
-    "topGO"
+    "SingleCellExperiment"
   ],
   "ASSIGN": [
     "sva"
@@ -217,7 +216,6 @@
     "GenomicAlignments"
   ],
   "BgeeDB": [
-    "topGO",
     "zellkonverter",
     "SingleCellExperiment"
   ],
@@ -346,7 +344,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -581,7 +578,6 @@
     "scran",
     "scuttle"
   ],
-  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "DESeq2",
@@ -853,7 +849,6 @@
     "GEOquery"
   ],
   "EGSEA": [
-    "topGO",
     "GSVA",
     "safe",
     "SingleCellExperiment",
@@ -1067,7 +1062,6 @@
   ],
   "GRaNIE": [
     "DESeq2",
-    "topGO",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer",
@@ -1080,7 +1074,6 @@
     "graphite",
     "safe"
   ],
-  "GSRI": [],
   "GSReg": [
     "GenomicFeatures",
     "rtracklayer",
@@ -1108,7 +1101,6 @@
     "GeneTonic",
     "DESeq2",
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -1139,7 +1131,6 @@
   "GeneTonic": [
     "DESeq2",
     "mosdef",
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -1780,9 +1771,7 @@
     "GenomicAlignments"
   ],
   "OVESEG": [],
-  "OmaDB": [
-    "topGO"
-  ],
+  "OmaDB": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -1810,7 +1799,6 @@
   "PDATK": [
     "CoreGx"
   ],
-  "PECA": [],
   "PICB": [
     "GenomicAlignments"
   ],
@@ -2009,7 +1997,6 @@
     "BgeeDB",
     "GenomicFeatures",
     "ensembldb",
-    "topGO",
     "zellkonverter",
     "rtracklayer",
     "GenomicAlignments",
@@ -2574,9 +2561,7 @@
     "GenomicFeatures"
   ],
   "TIN": [],
-  "TOP": [
-    "ClassifyR"
-  ],
+  "TOP": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2705,8 +2690,7 @@
     "GenomicAlignments"
   ],
   "ViSEAGO": [
-    "GOSemSim",
-    "topGO"
+    "GOSemSim"
   ],
   "VisiumIO": [
     "TENxIO",
@@ -3103,9 +3087,7 @@
     "scran",
     "scuttle"
   ],
-  "cellity": [
-    "topGO"
-  ],
+  "cellity": [],
   "censcyt": [
     "diffcyt"
   ],
@@ -3118,7 +3100,6 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cghMCR": [],
   "chevreulPlot": [
     "SingleCellExperiment",
     "chevreulProcess",
@@ -3265,7 +3246,6 @@
     "VariantAnnotation"
   ],
   "compEpiTools": [
-    "topGO",
     "GenomicFeatures",
     "methylPipe",
     "rtracklayer",
@@ -3288,9 +3268,7 @@
     "scater",
     "scuttle"
   ],
-  "consICA": [
-    "topGO"
-  ],
+  "consICA": [],
   "consensusDE": [
     "DESeq2",
     "EDASeq",
@@ -3335,7 +3313,6 @@
   "countsimQC": [
     "DESeq2"
   ],
-  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4105,7 +4082,6 @@
     "BSgenome"
   ],
   "ideal": [
-    "topGO",
     "DESeq2",
     "mosdef",
     "goseq",
@@ -4216,8 +4192,7 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "simpleSeg",
-    "cytomapper",
-    "ClassifyR"
+    "cytomapper"
   ],
   "lumi": [
     "methylumi",
@@ -4513,9 +4488,7 @@
     "GenomicAlignments"
   ],
   "mitology": [],
-  "moanin": [
-    "topGO"
-  ],
+  "moanin": [],
   "mobileRNA": [
     "DESeq2",
     "rtracklayer",
@@ -4534,7 +4507,6 @@
     "GenomicAlignments"
   ],
   "mosdef": [
-    "topGO",
     "clusterProfiler",
     "goseq",
     "DESeq2",
@@ -4781,7 +4753,6 @@
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
-    "topGO",
     "GOstats",
     "Category",
     "clusterProfiler",
@@ -5579,7 +5550,6 @@
   "spicyR": [
     "SingleCellExperiment",
     "SpatialExperiment",
-    "ClassifyR",
     "simpleSeg",
     "cytomapper"
   ],
@@ -5707,7 +5677,6 @@
   ],
   "tRanslatome": [
     "DESeq2",
-    "topGO",
     "GOSemSim"
   ],
   "tadar": [
@@ -5754,7 +5723,6 @@
   ],
   "tigre": [],
   "tilingArray": [],
-  "topGO": [],
   "topdownr": [
     "MSnbase",
     "PSMatch",
@@ -5787,9 +5755,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "transcriptogramer": [
-    "topGO"
-  ],
+  "transcriptogramer": [],
   "transformGamPoi": [
     "glmGamPoi",
     "SingleCellExperiment"

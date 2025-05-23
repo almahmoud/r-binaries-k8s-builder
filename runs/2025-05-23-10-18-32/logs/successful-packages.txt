@@ -1219,3 +1219,10 @@ GeneMeta
 GlobalAncova
 sigFeature
 smartid
+cghMCR
+ClassifyR
+CNVRanger
+covRNA
+GSRI
+PECA
+topGO
