@@ -1,5 +1,4 @@
 {
-  "ABSSeq": [],
   "ACE": [
     "QDNAseq",
     "GenomicRanges",
@@ -9,7 +8,6 @@
     "CGHbase",
     "CGHcall",
     "Rsamtools",
-    "marray",
     "UCSC.utils",
     "Biostrings"
   ],
@@ -551,7 +549,6 @@
     "IRanges",
     "GenomeInfoDb",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -575,7 +572,6 @@
     "IRanges",
     "GenomeInfoDb",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector",
     "h5mread",
@@ -749,7 +745,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "BUS": [],
   "BUScorrect": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -894,7 +889,6 @@
     "genefilter",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "AnnotationDbi",
     "annotate",
     "UCSC.utils",
@@ -930,7 +924,6 @@
     "beachmat",
     "scuttle",
     "SparseArray",
-    "BiocNeighbors",
     "edgeR",
     "S4Arrays",
     "bluster",
@@ -976,7 +969,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "XVector",
@@ -1070,7 +1062,6 @@
     "MVCClass"
   ],
   "BioNAR": [
-    "fgsea",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
@@ -1127,7 +1118,6 @@
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils"
   ],
   "BiocCheck": [
@@ -1135,7 +1125,6 @@
   ],
   "BiocHail": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "BiocHubsShiny": [
@@ -1149,7 +1138,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "BiocNeighbors": [],
   "BiocPkgTools": [
     "biocViews"
   ],
@@ -1174,7 +1162,6 @@
   "BiocSklearn": [
     "SummarizedExperiment",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -1251,7 +1238,6 @@
     "SummarizedExperiment",
     "IRanges",
     "DelayedArray",
-    "ggtree",
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -1418,7 +1404,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -1437,10 +1422,8 @@
     "GOSemSim",
     "qvalue",
     "AnnotationHub",
-    "ggtree",
     "IRanges",
     "KEGGREST",
-    "fgsea",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -1496,7 +1479,6 @@
   ],
   "CEMiTool": [
     "clusterProfiler",
-    "fgsea",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -1504,27 +1486,21 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CGHbase": [
-    "marray"
-  ],
+  "CGHbase": [],
   "CGHcall": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHnormaliter": [
     "CGHcall",
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CGHregions": [
-    "CGHbase",
-    "marray"
+    "CGHbase"
   ],
   "CHETAH": [
     "SingleCellExperiment",
@@ -1920,8 +1896,6 @@
     "KEGGREST",
     "XVector",
     "GenomeInfoDb",
-    "fgsea",
-    "ggtree",
     "UCSC.utils"
   ],
   "Cardinal": [
@@ -1975,8 +1949,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "fgsea",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -2011,7 +1983,6 @@
   ],
   "CellMapper": [],
   "CellMixS": [
-    "BiocNeighbors",
     "scater",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -2056,12 +2027,10 @@
     "SingleCellExperiment",
     "scater",
     "SummarizedExperiment",
-    "fgsea",
     "scuttle",
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -2116,7 +2085,6 @@
     "globaltest",
     "sva",
     "illuminaio",
-    "marray",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -2304,13 +2272,11 @@
     "KEGGREST",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "fgsea",
     "qvalue",
     "SummarizedExperiment",
     "S4Arrays",
@@ -2379,7 +2345,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "DelayedArray",
-    "BiocNeighbors",
     "BiocSingular",
     "SparseArray",
     "DelayedMatrixStats",
@@ -2437,7 +2402,6 @@
     "GenomeInfoDb",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -2541,7 +2505,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "rhdf5",
-    "fgsea",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -2633,8 +2596,6 @@
     "IRanges",
     "DelayedArray",
     "GenomicRanges",
-    "marray",
-    "fgsea",
     "GenomeInfoDb",
     "S4Arrays",
     "SparseArray",
@@ -3088,7 +3049,6 @@
   ],
   "DNAcycP2": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "DNAfusion": [
@@ -3120,7 +3080,6 @@
   ],
   "DOSE": [
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim",
     "qvalue",
     "IRanges",
@@ -3169,7 +3128,6 @@
     "IRanges",
     "GenomicRanges",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -3273,7 +3231,6 @@
     "KEGGREST",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector",
     "Biostrings",
@@ -3284,7 +3241,6 @@
     "ttgsea"
   ],
   "DeepTarget": [
-    "fgsea",
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi",
@@ -3433,7 +3389,6 @@
     "IRanges",
     "GenomeInfoDb",
     "SparseArray",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -3576,7 +3531,6 @@
   "EDASeq": [
     "ShortRead",
     "IRanges",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -3689,7 +3643,6 @@
     "GenomicRanges",
     "IRanges",
     "txdbmaker",
-    "dir.expiry",
     "basilisk.utils",
     "GenomeInfoDb",
     "AnnotationDbi",
@@ -3706,7 +3659,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EMDomics": [],
   "ENmix": [
     "SummarizedExperiment",
     "geneplotter",
@@ -3761,7 +3713,6 @@
     "S4Arrays",
     "SparseArray",
     "ExperimentHub",
-    "ggtree",
     "GenomicRanges",
     "GenomeInfoDb",
     "AnnotationHub",
@@ -3780,8 +3731,6 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -3796,8 +3745,6 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -3854,9 +3801,7 @@
     "KEGGREST",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "SummarizedExperiment",
-    "fgsea",
     "qvalue",
     "S4Arrays",
     "DelayedArray",
@@ -3930,7 +3875,6 @@
     "rhdf5",
     "BSgenome",
     "Biostrings",
-    "fgsea",
     "XVector",
     "rtracklayer",
     "Rsamtools",
@@ -4013,7 +3957,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "ExploreModelMatrix": [],
   "ExpressionAtlas": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4071,7 +4014,6 @@
     "scran",
     "IRanges",
     "BSgenome",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "DelayedArray",
@@ -4087,7 +4029,6 @@
     "OrganismDbi",
     "ensembldb",
     "AnnotationFilter",
-    "BiocNeighbors",
     "BiocSingular",
     "S4Arrays",
     "bluster",
@@ -4258,7 +4199,6 @@
     "DelayedArray",
     "SparseArray",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -4297,10 +4237,8 @@
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
-    "fgsea",
     "KEGGgraph",
     "KEGGREST",
-    "ggtree",
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
@@ -4673,7 +4611,6 @@
     "GOSemSim",
     "GeneTonic",
     "ComplexHeatmap",
-    "BiocNeighbors",
     "IRanges",
     "AnnotationDbi",
     "DESeq2",
@@ -4696,8 +4633,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Biostrings",
-    "fgsea",
-    "ggtree",
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
@@ -4733,7 +4668,6 @@
     "CGHcall",
     "CGHbase",
     "GenomicRanges",
-    "marray",
     "IRanges",
     "GenomeInfoDb",
     "XVector",
@@ -4822,8 +4756,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Biostrings",
-    "fgsea",
-    "ggtree",
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments",
@@ -5058,7 +4990,6 @@
     "UCSC.utils"
   ],
   "GeoTcgaData": [
-    "topconfects",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -5403,7 +5334,6 @@
     "IRanges",
     "InteractionSet",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "GenomeInfoDb",
     "XVector",
@@ -5969,7 +5899,6 @@
     "Biostrings",
     "pwalign",
     "IRanges",
-    "ggtree",
     "XVector",
     "GenomeInfoDb",
     "UCSC.utils"
@@ -6012,7 +5941,6 @@
     "UCSC.utils"
   ],
   "LymphoSeq": [
-    "ggtree",
     "msa",
     "Biostrings",
     "IRanges",
@@ -6028,7 +5956,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix",
     "IRanges",
@@ -6044,7 +5971,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "KEGGREST",
@@ -6310,7 +6236,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -6391,7 +6316,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "XVector",
-    "BiocNeighbors",
     "SparseArray",
     "UCSC.utils",
     "beachmat",
@@ -6437,7 +6361,6 @@
     "AnnotationDbi",
     "DESeq2",
     "edgeR",
-    "fgsea",
     "graphite",
     "IRanges",
     "KEGGREST",
@@ -6454,7 +6377,6 @@
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
-    "ggtree",
     "UCSC.utils"
   ],
   "MLInterfaces": [
@@ -6531,7 +6453,6 @@
     "HDF5Array",
     "DelayedArray",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "S4Arrays",
@@ -6539,7 +6460,6 @@
     "h5mread",
     "XVector"
   ],
-  "MOGAMUN": [],
   "MOMA": [
     "ComplexHeatmap",
     "MultiAssayExperiment",
@@ -6594,7 +6514,6 @@
     "Rsamtools",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -6604,13 +6523,11 @@
     "BiocSingular",
     "SingleCellExperiment",
     "bluster",
-    "fgsea",
     "scran",
     "ComplexHeatmap",
     "DelayedArray",
     "ScaledMatrix",
     "beachmat",
-    "BiocNeighbors",
     "IRanges",
     "scuttle",
     "edgeR",
@@ -6716,16 +6633,12 @@
     "UCSC.utils",
     "XVector"
   ],
-  "MSstats": [
-    "marray"
-  ],
+  "MSstats": [],
   "MSstatsBig": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsBioNet": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MSstatsLiP": [
     "MSstats",
@@ -6734,7 +6647,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "marray",
     "MSstatsTMT",
     "UCSC.utils"
   ],
@@ -6745,7 +6657,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "marray",
     "UCSC.utils"
   ],
   "MSstatsQC": [
@@ -6805,7 +6716,6 @@
     "MSstats",
     "MSstatsTMT",
     "MSstatsPTM",
-    "marray",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -6813,8 +6723,7 @@
     "UCSC.utils"
   ],
   "MSstatsTMT": [
-    "MSstats",
-    "marray"
+    "MSstats"
   ],
   "MVCClass": [],
   "MWASTools": [
@@ -6983,8 +6892,6 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -7161,10 +7068,8 @@
     "DOSE",
     "GOSemSim",
     "qvalue",
-    "ggtree",
     "IRanges",
     "KEGGREST",
-    "fgsea",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -7172,7 +7077,6 @@
   ],
   "MicrobiotaProcess": [
     "Biostrings",
-    "ggtree",
     "SummarizedExperiment",
     "ggtreeExtra",
     "IRanges",
@@ -7187,7 +7091,6 @@
   "MineICA": [
     "biomaRt",
     "GOstats",
-    "marray",
     "annotate",
     "AnnotationDbi",
     "lumi",
@@ -7280,7 +7183,6 @@
     "GOSemSim",
     "qvalue",
     "IRanges",
-    "fgsea",
     "biomaRt",
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -7290,7 +7192,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "KEGGREST",
-    "ggtree",
     "UCSC.utils",
     "S4Arrays",
     "DelayedArray",
@@ -7306,7 +7207,6 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -7315,7 +7215,6 @@
     "biomaRt",
     "KEGGREST",
     "SparseArray",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -7700,9 +7599,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "NanoTube": [
-    "fgsea"
-  ],
+  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7815,12 +7712,9 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLIN": [
-    "marray"
-  ],
+  "OLIN": [],
   "OLINgui": [
     "OLIN",
-    "marray",
     "tkWidgets",
     "DynDoc"
   ],
@@ -7965,9 +7859,7 @@
     "UCSC.utils"
   ],
   "OncoSimulR": [],
-  "OrderedList": [
-    "twilight"
-  ],
+  "OrderedList": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomeInfoDb",
@@ -8098,8 +7990,6 @@
     "DelayedArray",
     "GenomicRanges",
     "IRanges",
-    "marray",
-    "fgsea",
     "GenomeInfoDb",
     "S4Arrays",
     "AnnotationDbi",
@@ -8117,7 +8007,6 @@
     "annotate",
     "IRanges",
     "KEGGREST",
-    "aroma.light",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -8213,7 +8102,6 @@
   "POMA": [
     "ComplexHeatmap",
     "DESeq2",
-    "fgsea",
     "SummarizedExperiment",
     "sva",
     "IRanges",
@@ -8246,7 +8134,6 @@
   ],
   "PPInfer": [
     "biomaRt",
-    "fgsea",
     "AnnotationDbi",
     "IRanges",
     "KEGGREST",
@@ -8293,7 +8180,6 @@
     "affy",
     "mzID",
     "DESeq2",
-    "fgsea",
     "sva",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -8366,8 +8252,6 @@
     "annotate",
     "IRanges",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -8439,9 +8323,7 @@
     "S4Arrays",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "PhenStat": [],
   "PhosR": [
@@ -8474,11 +8356,9 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
     "graphite",
     "IRanges",
     "KEGGREST",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -8487,7 +8367,6 @@
   "Pirat": [
     "basilisk",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -8647,7 +8526,6 @@
     "GenomicRanges",
     "IRanges",
     "Rsamtools",
-    "marray",
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
@@ -8805,9 +8683,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RBM": [
-    "marray"
-  ],
+  "RBM": [],
   "RBioFormats": [],
   "RCAS": [
     "GenomicRanges",
@@ -8951,7 +8827,6 @@
     "qvalue",
     "DESeq2",
     "HTSFilter",
-    "ggtree",
     "rhdf5",
     "HDF5Array",
     "DelayedArray",
@@ -8959,10 +8834,8 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "dir.expiry",
     "basilisk.utils",
     "SparseArray",
-    "fgsea",
     "UCSC.utils",
     "XVector",
     "h5mread",
@@ -8996,7 +8869,6 @@
     "basilisk",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "RJMCMCNucleosomes": [
@@ -9248,7 +9120,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RTCA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -9326,7 +9197,6 @@
     "edgeR",
     "ShortRead",
     "IRanges",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -9345,7 +9215,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RUVcorr": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -9359,9 +9228,7 @@
     "DelayedArray",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "RaggedExperiment": [
     "GenomicRanges",
@@ -9463,20 +9330,17 @@
   ],
   "Rcwl": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "RcwlPipelines": [
     "Rcwl",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "ReactomeGSA": [
@@ -9500,10 +9364,8 @@
     "graphite",
     "IRanges",
     "KEGGREST",
-    "fgsea",
     "GOSemSim",
     "qvalue",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -9526,8 +9388,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "fgsea",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -9535,7 +9395,6 @@
   "RegEnrich": [
     "BiocSet",
     "SummarizedExperiment",
-    "fgsea",
     "DOSE",
     "DESeq2",
     "AnnotationDbi",
@@ -9555,7 +9414,6 @@
   "RegionalST": [
     "scater",
     "BayesSpace",
-    "fgsea",
     "SingleCellExperiment",
     "TOAST",
     "SummarizedExperiment",
@@ -9566,7 +9424,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "GenomicRanges",
     "IRanges",
     "GenomeInfoDb",
@@ -9765,8 +9622,7 @@
     "biomaRt"
   ],
   "Rigraphlib": [
-    "biocmake",
-    "dir.expiry"
+    "biocmake"
   ],
   "Rmmquant": [
     "GenomicRanges",
@@ -10367,7 +10223,6 @@
     "SummarizedExperiment",
     "IRanges",
     "KEGGREST",
-    "fgsea",
     "GOSemSim",
     "qvalue",
     "GenomicRanges",
@@ -10384,8 +10239,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "DelayedMatrixStats",
-    "BiocNeighbors",
-    "ggtree",
     "DelayedArray",
     "IRanges",
     "SparseArray",
@@ -10570,7 +10423,6 @@
     "basilisk",
     "phyloseq",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "biomformat",
     "Biostrings",
@@ -10629,7 +10481,6 @@
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -10667,7 +10518,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "DelayedMatrixStats",
-    "BiocNeighbors",
     "beachmat",
     "SparseArray",
     "IRanges",
@@ -10729,7 +10579,6 @@
     "GenomeInfoDb",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -10752,7 +10601,6 @@
     "edgeR",
     "beachmat",
     "scuttle",
-    "BiocNeighbors",
     "BiocSingular",
     "S4Arrays",
     "bluster",
@@ -10837,7 +10685,6 @@
     "UCSC.utils"
   ],
   "SpatialFeatureExperiment": [
-    "BiocNeighbors",
     "DropletUtils",
     "SingleCellExperiment",
     "SpatialExperiment",
@@ -10981,7 +10828,6 @@
   "SpotSweeper": [
     "SpatialExperiment",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "SingleCellExperiment",
     "escheR",
     "GenomicRanges",
@@ -10994,7 +10840,6 @@
     "XVector"
   ],
   "StabMap": [
-    "BiocNeighbors",
     "SummarizedExperiment",
     "BiocSingular",
     "DelayedArray",
@@ -11018,7 +10863,6 @@
     "IRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "ggtree",
     "diffcyt",
     "edgeR",
     "SparseArray",
@@ -11258,10 +11102,8 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim",
     "qvalue",
-    "ggtree",
     "IRanges",
     "GenomeInfoDb",
     "XVector",
@@ -11432,7 +11274,6 @@
     "IRanges",
     "KEGGREST",
     "Biostrings",
-    "aroma.light",
     "XVector",
     "GenomeInfoDb",
     "UCSC.utils"
@@ -11637,9 +11478,7 @@
     "DelayedArray",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "TrIdent": [],
   "TrajectoryUtils": [
@@ -11680,13 +11519,11 @@
   ],
   "TurboNorm": [
     "convert",
-    "marray",
     "affy",
     "affyio"
   ],
   "UCSC.utils": [],
   "UCell": [
-    "BiocNeighbors",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -11807,7 +11644,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -12010,7 +11846,6 @@
     "topGO",
     "AnnotationForge",
     "biomaRt",
-    "fgsea",
     "ComplexHeatmap",
     "IRanges",
     "KEGGREST",
@@ -12043,7 +11878,6 @@
     "SingleCellExperiment",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "IRanges",
     "S4Arrays",
     "SparseArray",
@@ -12151,9 +11985,7 @@
     "S4Arrays",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "YAPSA": [
     "GenomicRanges",
@@ -12208,7 +12040,6 @@
   ],
   "a4": [
     "a4Base",
-    "a4Preproc",
     "a4Classif",
     "annaffy",
     "genefilter",
@@ -12222,7 +12053,6 @@
     "UCSC.utils"
   ],
   "a4Base": [
-    "a4Preproc",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -12234,11 +12064,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "a4Classif": [
-    "a4Preproc"
-  ],
-  "a4Preproc": [],
-  "acde": [],
+  "a4Classif": [],
   "adSplit": [
     "AnnotationDbi",
     "KEGGREST",
@@ -12378,7 +12204,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomeInfoDb",
     "S4Arrays",
@@ -12542,7 +12367,6 @@
     "SpatialExperiment",
     "GenomicRanges",
     "DelayedArray",
-    "BiocNeighbors",
     "DropletUtils",
     "IRanges",
     "GenomeInfoDb",
@@ -12777,9 +12601,7 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "aroma.light": [],
   "arrayMvout": [
-    "parody",
     "affy",
     "affyContam",
     "lumi",
@@ -12812,9 +12634,7 @@
     "h5mread",
     "rhdf5"
   ],
-  "arrayQuality": [
-    "marray"
-  ],
+  "arrayQuality": [],
   "arrayQualityMetrics": [
     "affy",
     "affyPLM",
@@ -12839,7 +12659,6 @@
     "MSstats",
     "IRanges",
     "KEGGREST",
-    "marray",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -13047,16 +12866,12 @@
     "SparseArray"
   ],
   "basilisk": [
-    "dir.expiry",
     "basilisk.utils"
   ],
-  "basilisk.utils": [
-    "dir.expiry"
-  ],
+  "basilisk.utils": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "BiocSingular",
     "SparseArray",
     "DelayedArray",
@@ -13272,9 +13087,7 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
     "graphite",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings",
@@ -13302,9 +13115,7 @@
     "UCSC.utils"
   ],
   "biocViews": [],
-  "biocmake": [
-    "dir.expiry"
-  ],
+  "biocmake": [],
   "biocthis": [],
   "biomaRt": [
     "AnnotationDbi",
@@ -13427,7 +13238,6 @@
     "GenomicAlignments",
     "KEGGREST",
     "regioneR",
-    "marray",
     "txdbmaker",
     "biomaRt"
   ],
@@ -13465,9 +13275,7 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "bluster": [
-    "BiocNeighbors"
-  ],
+  "bluster": [],
   "bnbc": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -13586,8 +13394,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "fgsea",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -13657,7 +13463,6 @@
   "cTRAP": [
     "AnnotationDbi",
     "AnnotationHub",
-    "fgsea",
     "rhdf5",
     "IRanges",
     "KEGGREST",
@@ -13735,7 +13540,6 @@
   "cardelino": [
     "GenomeInfoDb",
     "GenomicRanges",
-    "ggtree",
     "VariantAnnotation",
     "IRanges",
     "UCSC.utils",
@@ -13814,7 +13618,6 @@
   ],
   "cbpManager": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "ccImpute": [
@@ -13876,7 +13679,6 @@
     "SparseArray",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "edgeR",
     "bluster",
@@ -13943,7 +13745,6 @@
   "cfTools": [
     "GenomicRanges",
     "basilisk",
-    "dir.expiry",
     "basilisk.utils",
     "ExperimentHub",
     "IRanges",
@@ -13963,11 +13764,9 @@
     "Rsamtools",
     "UCSC.utils",
     "XVector",
-    "aroma.light",
     "CGHbase",
     "CGHcall",
-    "Biostrings",
-    "marray"
+    "Biostrings"
   ],
   "cghMCR": [
     "CNTools",
@@ -13999,7 +13798,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "edgeR",
     "S4Arrays",
@@ -14030,7 +13828,6 @@
     "scran",
     "scuttle",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "BiocSingular",
     "SparseArray",
     "DelayedArray",
@@ -14077,7 +13874,6 @@
     "DelayedArray",
     "rtracklayer",
     "GenomeInfoDb",
-    "BiocNeighbors",
     "BiocSingular",
     "SparseArray",
     "DelayedMatrixStats",
@@ -14165,7 +13961,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "chopsticks": [],
   "chromDraw": [
     "GenomicRanges",
     "IRanges",
@@ -14350,7 +14145,6 @@
   "clstutils": [],
   "clustSIGNAL": [
     "SpatialExperiment",
-    "BiocNeighbors",
     "bluster",
     "scater",
     "SingleCellExperiment",
@@ -14402,8 +14196,6 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -14419,7 +14211,6 @@
     "UCSC.utils"
   ],
   "clustifyr": [
-    "fgsea",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14516,7 +14307,6 @@
     "UCSC.utils"
   ],
   "cogeqc": [
-    "ggtree",
     "Biostrings",
     "IRanges",
     "XVector",
@@ -14583,7 +14373,6 @@
     "UCSC.utils",
     "rtracklayer",
     "SummarizedExperiment",
-    "marray",
     "Gviz",
     "GenomicAlignments",
     "biomaRt",
@@ -14602,7 +14391,6 @@
     "edgeR"
   ],
   "concordexR": [
-    "BiocNeighbors",
     "bluster",
     "DelayedArray",
     "SingleCellExperiment",
@@ -14633,7 +14421,6 @@
     "XVector",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -14670,7 +14457,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "ShortRead",
-    "aroma.light",
     "biomaRt",
     "AnnotationFilter",
     "rtracklayer",
@@ -14752,9 +14538,7 @@
     "rhdf5",
     "KEGGREST"
   ],
-  "convert": [
-    "marray"
-  ],
+  "convert": [],
   "corral": [
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -14935,7 +14719,6 @@
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -14948,7 +14731,6 @@
     "Biostrings",
     "IRanges",
     "XVector",
-    "dir.expiry",
     "GenomeInfoDb",
     "ExperimentHub",
     "AnnotationHub",
@@ -14980,7 +14762,6 @@
     "Gviz",
     "UCSC.utils",
     "KEGGREST",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "biomaRt",
@@ -15017,7 +14798,6 @@
     "AnnotationHub",
     "Gviz",
     "KEGGREST",
-    "dir.expiry",
     "Rsamtools",
     "UCSC.utils",
     "biomaRt",
@@ -15060,7 +14840,6 @@
     "basilisk",
     "basilisk.utils",
     "ProtGenerics",
-    "dir.expiry",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -15085,7 +14864,6 @@
   "crumblr": [
     "variancePartition",
     "SingleCellExperiment",
-    "ggtree",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -15212,7 +14990,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "flowCore",
-    "BiocNeighbors",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -15270,7 +15047,6 @@
     "XVector",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -15356,7 +15132,6 @@
     "miloR",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "edgeR",
     "BiocSingular",
     "GenomicRanges",
@@ -15391,7 +15166,6 @@
     "rhdf5",
     "XVector",
     "GenomeInfoDb",
-    "BiocNeighbors",
     "S4Arrays",
     "SparseArray",
     "GenomicRanges",
@@ -15449,8 +15223,6 @@
     "KEGGREST",
     "GOSemSim",
     "qvalue",
-    "fgsea",
-    "ggtree",
     "GenomeInfoDb",
     "XVector",
     "KEGGgraph",
@@ -15494,7 +15266,6 @@
     "SparseArray",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -15593,7 +15364,6 @@
   ],
   "densvis": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "derfinder": [
@@ -15760,7 +15530,6 @@
     "SparseArray",
     "UCSC.utils"
   ],
-  "dir.expiry": [],
   "distinct": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -15769,7 +15538,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -15945,9 +15713,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dyebias": [
-    "marray"
-  ],
+  "dyebias": [],
   "easier": [
     "progeny",
     "quantiseqr",
@@ -16055,10 +15821,8 @@
     "enrichplot",
     "DOSE",
     "AnnotationDbi",
-    "fgsea",
     "GOSemSim",
     "qvalue",
-    "ggtree",
     "IRanges",
     "KEGGREST",
     "Biostrings",
@@ -16069,9 +15833,7 @@
   "enrichplot": [
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "AnnotationDbi",
-    "fgsea",
     "qvalue",
     "IRanges",
     "KEGGREST",
@@ -16223,7 +15985,6 @@
     "DelayedMatrixStats",
     "GSEABase",
     "SparseArray",
-    "BiocNeighbors",
     "BSgenome",
     "UCSC.utils",
     "XVector",
@@ -16265,7 +16026,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "edgeR",
     "S4Arrays",
@@ -16274,8 +16034,6 @@
     "GenomeInfoDb",
     "KEGGREST",
     "ScaledMatrix",
-    "fgsea",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -16449,8 +16207,6 @@
     "SummarizedExperiment",
     "pwalign",
     "DirichletMultinomial",
-    "fgsea",
-    "ggtree",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -16475,7 +16231,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "BiocNeighbors",
     "KEGGREST",
     "ScaledMatrix",
     "beachmat",
@@ -16599,8 +16354,6 @@
     "IRanges",
     "XVector",
     "GenomeInfoDb",
-    "fgsea",
-    "ggtree",
     "UCSC.utils"
   ],
   "fastLiquidAssociation": [
@@ -16674,7 +16427,6 @@
     "GenomicAlignments"
   ],
   "fgga": [],
-  "fgsea": [],
   "findIPs": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -16833,9 +16585,7 @@
     "XVector"
   ],
   "flowcatchR": [],
-  "fobitools": [
-    "fgsea"
-  ],
+  "fobitools": [],
   "frma": [
     "affy",
     "oligo",
@@ -16946,9 +16696,7 @@
     "S4Arrays",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "gDRcore": [
     "BumpyMatrix",
@@ -16979,9 +16727,7 @@
     "S4Arrays",
     "SparseArray",
     "UCSC.utils",
-    "XVector",
-    "marray",
-    "fgsea"
+    "XVector"
   ],
   "gDRstyle": [
     "BiocCheck",
@@ -17010,7 +16756,6 @@
     "clusterProfiler",
     "AnnotationDbi",
     "GenomicRanges",
-    "ggtree",
     "InteractiveComplexHeatmap",
     "ComplexHeatmap",
     "MethylMix",
@@ -17028,7 +16773,6 @@
     "graphite",
     "S4Arrays",
     "SparseArray",
-    "fgsea",
     "UCSC.utils",
     "Rsamtools",
     "GenomicAlignments"
@@ -17250,7 +16994,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "geva": [],
   "geyser": [
     "ComplexHeatmap",
     "SummarizedExperiment",
@@ -17325,7 +17068,6 @@
   "ggmsa": [
     "Biostrings",
     "R4RNA",
-    "ggtree",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -17364,16 +17106,9 @@
     "UCSC.utils",
     "XVector"
   ],
-  "ggtree": [],
-  "ggtreeDendro": [
-    "ggtree"
-  ],
-  "ggtreeExtra": [
-    "ggtree"
-  ],
-  "ggtreeSpace": [
-    "ggtree"
-  ],
+  "ggtreeDendro": [],
+  "ggtreeExtra": [],
+  "ggtreeSpace": [],
   "ginmappeR": [
     "KEGGREST",
     "UniProt.ws",
@@ -17520,8 +17255,6 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -17594,7 +17327,6 @@
     "XVector"
   ],
   "gsean": [
-    "fgsea",
     "PPInfer",
     "biomaRt",
     "AnnotationDbi",
@@ -17839,7 +17571,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "iCOBRA": [],
   "iCheck": [
     "lumi",
     "affy",
@@ -17873,7 +17604,6 @@
     "h5mread",
     "rhdf5"
   ],
-  "iChip": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -17902,7 +17632,6 @@
     "GOSemSim",
     "qvalue",
     "SparseArray",
-    "fgsea",
     "annotate",
     "UCSC.utils",
     "rtracklayer",
@@ -17910,7 +17639,6 @@
     "rhdf5",
     "txdbmaker",
     "graphite",
-    "ggtree",
     "Rsamtools",
     "GenomicAlignments",
     "biomaRt"
@@ -18024,7 +17752,6 @@
   ],
   "iSEEtree": [
     "iSEE",
-    "ggtree",
     "miaViz",
     "mia",
     "SingleCellExperiment",
@@ -18045,7 +17772,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "XVector",
-    "BiocNeighbors",
     "SparseArray",
     "UCSC.utils",
     "beachmat",
@@ -18136,8 +17862,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "fgsea",
-    "ggtree",
     "biomaRt"
   ],
   "idiogram": [
@@ -18198,7 +17922,6 @@
     "scuttle",
     "cytomapper",
     "SingleCellExperiment",
-    "BiocNeighbors",
     "HDF5Array",
     "DelayedArray",
     "rhdf5",
@@ -18474,7 +18197,6 @@
   ],
   "lefser": [
     "SummarizedExperiment",
-    "ggtree",
     "mia",
     "MultiAssayExperiment",
     "SingleCellExperiment",
@@ -18492,7 +18214,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "XVector",
-    "BiocNeighbors",
     "SparseArray",
     "UCSC.utils",
     "beachmat",
@@ -18505,7 +18226,6 @@
     "glmGamPoi",
     "DelayedMatrixStats",
     "HDF5Array",
-    "BiocNeighbors",
     "DelayedArray",
     "IRanges",
     "SparseArray",
@@ -18518,8 +18238,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "limmaGUI": [],
-  "limpa": [],
   "limpca": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -18564,7 +18282,6 @@
   ],
   "lipidr": [
     "SummarizedExperiment",
-    "fgsea",
     "ropls",
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -18604,7 +18321,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "lmdme": [],
   "loci2path": [
     "GenomicRanges",
     "IRanges",
@@ -18662,7 +18378,6 @@
     "GenomeInfoDb",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -18703,7 +18418,6 @@
   ],
   "mCSEA": [
     "biomaRt",
-    "fgsea",
     "GenomicFeatures",
     "GenomicRanges",
     "Gviz",
@@ -18824,7 +18538,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "marray": [],
   "maser": [
     "GenomicRanges",
     "rtracklayer",
@@ -18926,9 +18639,7 @@
     "MeSHDbi",
     "IRanges",
     "KEGGREST",
-    "fgsea",
     "qvalue",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -19010,12 +18721,9 @@
   "metagenomeSeq": [
     "Wrench"
   ],
-  "metapone": [
-    "fgsea"
-  ],
+  "metapone": [],
   "metaseqR2": [
     "DESeq2",
-    "ABSSeq",
     "biomaRt",
     "Biostrings",
     "DSS",
@@ -19037,7 +18745,6 @@
     "XVector",
     "bsseq",
     "ShortRead",
-    "aroma.light",
     "annotate",
     "UCSC.utils",
     "S4Arrays",
@@ -19185,8 +18892,6 @@
     "GenomicRanges",
     "methylumi",
     "SummarizedExperiment",
-    "fgsea",
-    "ggtree",
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
@@ -19250,7 +18955,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Rsamtools",
-    "marray",
     "IRanges",
     "Gviz",
     "GenomicAlignments",
@@ -19440,7 +19144,6 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
     "annotate",
     "graphite",
     "GenomicRanges",
@@ -19450,7 +19153,6 @@
     "DelayedArray",
     "KEGGREST",
     "SparseArray",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -19464,13 +19166,11 @@
     "enrichplot",
     "GOSemSim",
     "qvalue",
-    "fgsea",
     "graphite",
     "biomaRt",
     "ComplexHeatmap",
     "IRanges",
     "KEGGREST",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -19492,7 +19192,6 @@
     "scuttle",
     "XVector",
     "GenomeInfoDb",
-    "BiocNeighbors",
     "S4Arrays",
     "SparseArray",
     "GenomicRanges",
@@ -19512,7 +19211,6 @@
     "TreeSummarizedExperiment",
     "rhdf5",
     "ComplexHeatmap",
-    "ggtree",
     "miaViz",
     "MultiAssayExperiment",
     "Biostrings",
@@ -19525,7 +19223,6 @@
     "scuttle",
     "SparseArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -19554,7 +19251,6 @@
     "TreeSummarizedExperiment",
     "DelayedArray",
     "DirichletMultinomial",
-    "ggtree",
     "scater",
     "SingleCellExperiment",
     "IRanges",
@@ -19567,7 +19263,6 @@
     "DelayedMatrixStats",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -19648,7 +19343,6 @@
   ],
   "miloR": [
     "edgeR",
-    "BiocNeighbors",
     "SingleCellExperiment",
     "BiocSingular",
     "SummarizedExperiment",
@@ -19802,7 +19496,6 @@
   "mitology": [
     "AnnotationDbi",
     "ComplexHeatmap",
-    "ggtree",
     "IRanges",
     "KEGGREST",
     "Biostrings",
@@ -19916,8 +19609,6 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "fgsea",
-    "ggtree",
     "txdbmaker",
     "UCSC.utils",
     "XVector",
@@ -20035,7 +19726,6 @@
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -20183,7 +19873,6 @@
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
-    "fgsea",
     "IRanges",
     "KEGGREST",
     "AnnotationHub",
@@ -20280,7 +19969,6 @@
     "DelayedArray",
     "DelayedMatrixStats",
     "SummarizedExperiment",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix",
     "beachmat",
@@ -20311,7 +19999,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "S4Arrays",
     "GenomeInfoDb",
@@ -20475,7 +20162,6 @@
     "rhdf5",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "GenomicRanges",
     "GenomeInfoDb",
     "ScaledMatrix",
@@ -20510,7 +20196,6 @@
   ],
   "nipalsMCIA": [
     "ComplexHeatmap",
-    "fgsea",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "IRanges",
@@ -20522,9 +20207,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "nnNorm": [
-    "marray"
-  ],
+  "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -20574,7 +20257,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "nuCpos": [],
   "nucleR": [
     "Biostrings",
     "GenomeInfoDb",
@@ -20625,7 +20307,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -20713,7 +20394,6 @@
     "AnnotationFilter",
     "MetaboCoreUtils"
   ],
-  "omada": [],
   "omicRexposome": [
     "rexposome",
     "sva",
@@ -20775,7 +20455,6 @@
     "XVector"
   ],
   "omicsViewer": [
-    "fgsea",
     "SummarizedExperiment",
     "GenomicRanges",
     "IRanges",
@@ -20809,7 +20488,6 @@
     "SummarizedExperiment",
     "basilisk",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -20880,14 +20558,12 @@
     "XVector",
     "Biostrings"
   ],
-  "oppti": [],
   "optimalFlow": [
     "flowMeans",
     "flowCore"
   ],
   "orthogene": [
     "DelayedArray",
-    "ggtree",
     "IRanges",
     "S4Arrays",
     "SparseArray",
@@ -20901,7 +20577,6 @@
     "ExperimentHub",
     "HDF5Array",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "S4Arrays",
@@ -21024,7 +20699,6 @@
   "pairedGSEA": [
     "DESeq2",
     "DEXSeq",
-    "fgsea",
     "sva",
     "SummarizedExperiment",
     "IRanges",
@@ -21072,7 +20746,6 @@
     "affy",
     "affyio"
   ],
-  "parody": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub",
@@ -21130,7 +20803,6 @@
   "pathlinkR": [
     "clusterProfiler",
     "ComplexHeatmap",
-    "fgsea",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -21138,7 +20810,6 @@
     "qvalue",
     "IRanges",
     "KEGGREST",
-    "ggtree",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -21186,8 +20857,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Biostrings",
-    "fgsea",
-    "ggtree",
     "txdbmaker",
     "Rsamtools",
     "GenomicAlignments"
@@ -21241,7 +20910,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -21289,7 +20957,6 @@
     "GEOquery",
     "edgeR",
     "rhdf5",
-    "fgsea",
     "AnnotationDbi",
     "DESeq2",
     "apeglm",
@@ -21354,9 +21021,7 @@
     "UCSC.utils",
     "XVector"
   ],
-  "philr": [
-    "ggtree"
-  ],
+  "philr": [],
   "phyloseq": [
     "biomformat",
     "Biostrings",
@@ -21366,10 +21031,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "piano": [
-    "marray",
-    "fgsea"
-  ],
+  "piano": [],
   "pickgene": [],
   "pipeComp": [
     "ComplexHeatmap",
@@ -21382,7 +21044,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "edgeR",
     "S4Arrays",
@@ -21514,7 +21175,6 @@
     "SparseArray"
   ],
   "poem": [
-    "BiocNeighbors",
     "bluster",
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -21534,7 +21194,6 @@
     "SummarizedExperiment",
     "basilisk",
     "AnnotationDbi",
-    "dir.expiry",
     "basilisk.utils",
     "GenomicRanges",
     "IRanges",
@@ -21735,15 +21394,12 @@
     "SparseArray",
     "DOSE",
     "GOSemSim",
-    "ggtree",
-    "fgsea",
     "qvalue",
     "pwalign"
   ],
   "progeny": [],
   "projectR": [
     "SingleCellExperiment",
-    "fgsea",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -22009,7 +21665,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "qusage": [],
   "qvalue": [],
   "r3Cseq": [
     "GenomicRanges",
@@ -22196,9 +21851,7 @@
     "SparseArray"
   ],
   "rawDiag": [],
-  "rebook": [
-    "dir.expiry"
-  ],
+  "rebook": [],
   "receptLoss": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -22267,7 +21920,6 @@
     "rhdf5",
     "basilisk",
     "DelayedMatrixStats",
-    "dir.expiry",
     "basilisk.utils",
     "DelayedArray",
     "IRanges",
@@ -22515,7 +22167,6 @@
     "txdbmaker",
     "KEGGREST",
     "ShortRead",
-    "aroma.light",
     "biomaRt",
     "UCSC.utils",
     "SummarizedExperiment",
@@ -22838,9 +22489,7 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "scBubbletree": [
-    "ggtree"
-  ],
+  "scBubbletree": [],
   "scCB2": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -22899,7 +22548,6 @@
     "GenomeInfoDb",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "UCSC.utils",
     "XVector"
   ],
@@ -22931,7 +22579,6 @@
   ],
   "scDblFinder": [
     "SingleCellExperiment",
-    "BiocNeighbors",
     "BiocSingular",
     "SummarizedExperiment",
     "scran",
@@ -22970,7 +22617,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "bluster",
-    "BiocNeighbors",
     "GenomicRanges",
     "DelayedArray",
     "IRanges",
@@ -22981,7 +22627,6 @@
     "XVector"
   ],
   "scDotPlot": [
-    "ggtree",
     "scater",
     "SingleCellExperiment",
     "scuttle",
@@ -22989,7 +22634,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "ScaledMatrix",
@@ -23037,8 +22681,7 @@
     "rhdf5",
     "GenomicAlignments",
     "scuttle",
-    "bluster",
-    "BiocNeighbors"
+    "bluster"
   ],
   "scGPS": [
     "SummarizedExperiment",
@@ -23093,7 +22736,6 @@
   ],
   "scMerge": [
     "BiocSingular",
-    "BiocNeighbors",
     "DelayedArray",
     "DelayedMatrixStats",
     "M3Drop",
@@ -23153,7 +22795,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "GenomeInfoDb",
@@ -23266,7 +22907,6 @@
     "GSEABase",
     "genefilter",
     "annotate",
-    "fgsea",
     "GOSemSim",
     "qvalue",
     "AnnotationForge",
@@ -23277,7 +22917,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "SparseArray",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -23300,7 +22939,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "edgeR",
     "S4Arrays",
@@ -23361,7 +22999,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix",
     "IRanges",
@@ -23430,7 +23067,6 @@
     "flowCore",
     "basilisk",
     "basilisk.utils",
-    "dir.expiry",
     "IRanges",
     "XVector",
     "GenomeInfoDb",
@@ -23479,7 +23115,6 @@
   ],
   "scone": [
     "SummarizedExperiment",
-    "aroma.light",
     "edgeR",
     "rhdf5",
     "RUVSeq",
@@ -23561,7 +23196,6 @@
     "beachmat",
     "SparseArray",
     "ScaledMatrix",
-    "BiocNeighbors",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -23571,13 +23205,11 @@
   "scrapper": [
     "beachmat",
     "DelayedArray",
-    "BiocNeighbors",
     "Rigraphlib",
     "SparseArray",
     "IRanges",
     "S4Arrays",
     "biocmake",
-    "dir.expiry",
     "XVector"
   ],
   "screenCounter": [
@@ -23655,13 +23287,11 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scater",
-    "dir.expiry",
     "basilisk.utils",
     "scuttle",
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "IRanges",
@@ -23720,12 +23350,10 @@
     "SparseArray",
     "DOSE",
     "GOSemSim",
-    "ggtree",
     "UCSC.utils",
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "fgsea",
     "qvalue"
   ],
   "selectKSigs": [
@@ -23788,8 +23416,6 @@
     "qvalue",
     "UCSC.utils",
     "KEGGREST",
-    "fgsea",
-    "ggtree",
     "GenomicAlignments",
     "SummarizedExperiment",
     "S4Arrays",
@@ -23887,7 +23513,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "GenomicRanges",
     "SpatialExperiment",
@@ -23900,7 +23525,6 @@
     "XVector",
     "EDASeq",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -23985,7 +23609,6 @@
     "AnnotationDbi",
     "ExperimentHub",
     "HDF5Array",
-    "fgsea",
     "qvalue",
     "clusterProfiler",
     "DOSE",
@@ -24003,7 +23626,6 @@
     "h5mread",
     "GenomicRanges",
     "GenomeInfoDb",
-    "ggtree",
     "UCSC.utils",
     "XVector",
     "Biostrings"
@@ -24123,7 +23745,6 @@
     "DESeq2",
     "ExperimentHub",
     "ensembldb",
-    "ggtree",
     "GSVA",
     "MAST",
     "scater",
@@ -24142,7 +23763,6 @@
     "scuttle",
     "zellkonverter",
     "AnnotationDbi",
-    "BiocNeighbors",
     "BiocSingular",
     "SparseArray",
     "ResidualMatrix",
@@ -24174,7 +23794,6 @@
     "alabaster.schemas",
     "alabaster.ranges",
     "KEGGREST",
-    "dir.expiry",
     "basilisk.utils",
     "XVector",
     "UCSC.utils",
@@ -24218,13 +23837,10 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sitePath": [
-    "ggtree"
-  ],
+  "sitePath": [],
   "sketchR": [
     "basilisk",
     "DelayedArray",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "S4Arrays",
@@ -24344,7 +23960,6 @@
   ],
   "snifter": [
     "basilisk",
-    "dir.expiry",
     "basilisk.utils"
   ],
   "soGGi": [
@@ -24426,7 +24041,6 @@
     "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "SingleCellExperiment",
     "GenomicRanges",
@@ -24592,7 +24206,6 @@
     "XVector",
     "scuttle",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "ScaledMatrix"
   ],
@@ -24770,7 +24383,6 @@
     "S4Arrays",
     "SparseArray",
     "ShortRead",
-    "aroma.light",
     "Rsamtools",
     "biomaRt",
     "Biostrings",
@@ -24783,9 +24395,7 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "stepNorm": [
-    "marray"
-  ],
+  "stepNorm": [],
   "strandCheckR": [
     "Rsamtools",
     "GenomeInfoDb",
@@ -25006,7 +24616,6 @@
   "systemPipeTools": [
     "DESeq2",
     "SummarizedExperiment",
-    "ggtree",
     "IRanges",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -25122,9 +24731,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tanggle": [
-    "ggtree"
-  ],
+  "tanggle": [],
   "target": [
     "GenomicRanges",
     "IRanges",
@@ -25144,7 +24751,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "dir.expiry",
     "basilisk.utils",
     "SparseArray",
     "UCSC.utils",
@@ -25304,9 +24910,7 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "timecourse": [
-    "marray"
-  ],
+  "timecourse": [],
   "timescape": [],
   "tkWidgets": [
     "DynDoc"
@@ -25331,7 +24935,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "topconfects": [],
   "topdownr": [
     "ProtGenerics",
     "Biostrings",
@@ -25531,7 +25134,6 @@
     "edgeR",
     "SummarizedExperiment",
     "diffcyt",
-    "ggtree",
     "flowCore",
     "FlowSOM",
     "ComplexHeatmap",
@@ -25547,7 +25149,6 @@
     "UCSC.utils"
   ],
   "treekoR": [
-    "ggtree",
     "SingleCellExperiment",
     "diffcyt",
     "edgeR",
@@ -25578,7 +25179,6 @@
     "SparseArray",
     "DelayedArray",
     "beachmat",
-    "BiocNeighbors",
     "BiocSingular",
     "S4Arrays",
     "ScaledMatrix",
@@ -25612,7 +25212,6 @@
   "tweeDEseq": [
     "edgeR"
   ],
-  "twilight": [],
   "txcutr": [
     "AnnotationDbi",
     "GenomicFeatures",
@@ -25708,7 +25307,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "unifiedWMWqPCR": [],
   "universalmotif": [
     "IRanges",
     "Biostrings",
@@ -25716,7 +25314,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "updateObject": [],
   "variancePartition": [],
   "velociraptor": [
     "SummarizedExperiment",
@@ -25726,7 +25323,6 @@
     "scuttle",
     "SingleCellExperiment",
     "BiocSingular",
-    "dir.expiry",
     "basilisk.utils",
     "ScaledMatrix",
     "beachmat",
@@ -25780,7 +25376,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "BiocNeighbors",
     "BiocSingular",
     "KEGGREST",
     "ScaledMatrix"
@@ -25976,7 +25571,6 @@
     "SummarizedExperiment",
     "DelayedArray",
     "DelayedMatrixStats",
-    "topconfects",
     "IRanges",
     "S4Arrays",
     "SparseArray",
@@ -26148,7 +25742,6 @@
     "DelayedArray",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "dir.expiry",
     "basilisk.utils",
     "IRanges",
     "S4Arrays",

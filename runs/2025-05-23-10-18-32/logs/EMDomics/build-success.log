@@ -1,0 +1,187 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''EMDomics'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'EMDomics'
+also installing the dependencies ‘formatR’, ‘lambda.r’, ‘futile.options’, ‘farver’, ‘labeling’, ‘RColorBrewer’, ‘viridisLite’, ‘futile.logger’, ‘snow’, ‘BH’, ‘gtable’, ‘isoband’, ‘scales’, ‘emdist’, ‘BiocParallel’, ‘matrixStats’, ‘ggplot2’, ‘CDFt’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/emdist_0.3-3.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocParallel_1.42.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/CDFt_1.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/EMDomics_2.38.0.tar.gz'
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
+* installing *binary* package ‘BH’ ...
+* ‘BH’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘BH’ as ‘BH_1.87.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BH)
+* installing *binary* package ‘gtable’ ...
+* ‘gtable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtable’ as ‘gtable_0.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtable)
+* installing *binary* package ‘isoband’ ...
+* ‘isoband’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isoband’ as ‘isoband_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isoband)
+* installing *binary* package ‘emdist’ ...
+* ‘emdist’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘emdist’ as ‘emdist_0.3-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (emdist)
+* installing *binary* package ‘matrixStats’ ...
+* ‘matrixStats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixStats’ as ‘matrixStats_1.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixStats)
+* installing *binary* package ‘CDFt’ ...
+* ‘CDFt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘CDFt’ as ‘CDFt_1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (CDFt)
+* installing *binary* package ‘lambda.r’ ...
+* ‘lambda.r’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lambda.r’ as ‘lambda.r_1.2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lambda.r)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *binary* package ‘futile.logger’ ...
+* ‘futile.logger’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.logger’ as ‘futile.logger_1.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.logger)
+* installing *binary* package ‘ggplot2’ ...
+* ‘ggplot2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggplot2’ as ‘ggplot2_3.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggplot2)
+* installing *source* package ‘BiocParallel’ ...
+** this is package ‘BiocParallel’ version ‘1.42.0’
+** using staged installation
+checking whether the C++ compiler works... yes
+checking for C++ compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C++... yes
+checking whether g++ -std=gnu++17 accepts -g... yes
+checking for g++ -std=gnu++17 option to enable C++11 features... none needed
+checking for library containing shm_open... none required
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for sys/mman.h... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++11
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"./" -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG -I"./" -I'/usr/local/lib/R/site-library/BH/include' -I'/usr/local/lib/R/site-library/cpp11/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c ipcmutex.cpp -o ipcmutex.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocParallel.so cpp11.o ipcmutex.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-BiocParallel/00new/BiocParallel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocParallel’ as ‘BiocParallel_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocParallel)
+* installing *source* package ‘EMDomics’ ...
+** this is package ‘EMDomics’ version ‘2.38.0’
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘EMDomics’ as ‘EMDomics_2.38.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (EMDomics)
+
+The downloaded source packages are in
+	‘/tmp/Rtmp08925t/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m48.254s
+user	0m39.025s
+sys	0m11.352s

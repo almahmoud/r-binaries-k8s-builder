@@ -1,0 +1,461 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''omada'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'omada'
+also installing the dependencies ‘bit’, ‘bit64’, ‘progress’, ‘vroom’, ‘tzdb’, ‘R.methodsS3’, ‘R.oo’, ‘R.utils’, ‘proxy’, ‘forcats’, ‘hms’, ‘readr’, ‘R.cache’, ‘e1071’, ‘haven’, ‘styler’, ‘classInt’, ‘labelled’, ‘sparsevctrs’, ‘magic’, ‘lpSolve’, ‘linprog’, ‘RcppProgress’, ‘modeltools’, ‘DEoptimR’, ‘combinat’, ‘questionr’, ‘RColorBrewer’, ‘gtools’, ‘hardhat’, ‘farver’, ‘labeling’, ‘viridisLite’, ‘iterators’, ‘geometry’, ‘mclust’, ‘flexmix’, ‘prabclus’, ‘diptest’, ‘robustbase’, ‘abind’, ‘assertthat’, ‘clue’, ‘clusterCrit’, ‘clv’, ‘infotheo’, ‘klaR’, ‘pheatmap’, ‘RankAggreg’, ‘tidyr’, ‘yardstick’, ‘gtable’, ‘isoband’, ‘scales’, ‘plyr’, ‘foreach’, ‘shape’, ‘RcppEigen’, ‘generics’, ‘tidyselect’, ‘pdfCluster’, ‘kernlab’, ‘fpc’, ‘diceR’, ‘ggplot2’, ‘reshape’, ‘genieclust’, ‘clValid’, ‘glmnet’, ‘dplyr’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bit64_4.6.0-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/vroom_1.6.5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tzdb_0.5.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.methodsS3_1.8.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.oo_1.27.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.utils_2.13.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/proxy_0.4-27.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/forcats_1.0.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hms_1.1.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/readr_2.1.5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/R.cache_0.17.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/e1071_1.7-16.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/haven_2.5.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/styler_1.10.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/classInt_0.4-11.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labelled_2.14.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/sparsevctrs_0.3.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/magic_1.6-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lpSolve_5.6.23.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/linprog_0.9-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppProgress_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/modeltools_0.2-24.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/DEoptimR_1.1-3-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/combinat_0.0-8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/questionr_0.8.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtools_3.9.5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/hardhat_1.4.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/iterators_1.0.14.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/geometry_0.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/mclust_6.1.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/flexmix_2.3-20.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/prabclus_2.3-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/diptest_0.77-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/robustbase_0.99-4-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/abind_1.4-8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/assertthat_0.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clue_0.3-66.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clusterCrit_1.3.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clv_0.3-2.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/infotheo_1.2.0.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/klaR_1.7-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pheatmap_1.0.12.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RankAggreg_0.6.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyr_1.3.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/yardstick_1.3.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/foreach_1.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/shape_1.4.6.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RcppEigen_0.3.4.0.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pdfCluster_1.0-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kernlab_0.9-33.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/fpc_2.2-13.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/diceR_3.0.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reshape_0.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/genieclust_1.1.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/clValid_0.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/glmnet_4.1-8.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/omada_1.10.0.tar.gz'
+* installing *binary* package ‘bit’ ...
+* ‘bit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit’ as ‘bit_4.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit)
+* installing *binary* package ‘tzdb’ ...
+* ‘tzdb’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tzdb’ as ‘tzdb_0.5.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tzdb)
+* installing *binary* package ‘R.methodsS3’ ...
+* ‘R.methodsS3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.methodsS3’ as ‘R.methodsS3_1.8.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.methodsS3)
+* installing *binary* package ‘proxy’ ...
+* ‘proxy’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘proxy’ as ‘proxy_0.4-27_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (proxy)
+* installing *binary* package ‘forcats’ ...
+* ‘forcats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘forcats’ as ‘forcats_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (forcats)
+* installing *binary* package ‘hms’ ...
+* ‘hms’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hms’ as ‘hms_1.1.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hms)
+* installing *binary* package ‘sparsevctrs’ ...
+* ‘sparsevctrs’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘sparsevctrs’ as ‘sparsevctrs_0.3.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (sparsevctrs)
+* installing *binary* package ‘lpSolve’ ...
+* ‘lpSolve’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lpSolve’ as ‘lpSolve_5.6.23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lpSolve)
+* installing *binary* package ‘RcppProgress’ ...
+* ‘RcppProgress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppProgress’ as ‘RcppProgress_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppProgress)
+* installing *binary* package ‘modeltools’ ...
+* ‘modeltools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘modeltools’ as ‘modeltools_0.2-24_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (modeltools)
+* installing *binary* package ‘DEoptimR’ ...
+* ‘DEoptimR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘DEoptimR’ as ‘DEoptimR_1.1-3-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DEoptimR)
+* installing *binary* package ‘combinat’ ...
+* ‘combinat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘combinat’ as ‘combinat_0.0-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (combinat)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘gtools’ ...
+* ‘gtools’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtools’ as ‘gtools_3.9.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtools)
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *binary* package ‘iterators’ ...
+* ‘iterators’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘iterators’ as ‘iterators_1.0.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (iterators)
+* installing *binary* package ‘mclust’ ...
+* ‘mclust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘mclust’ as ‘mclust_6.1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mclust)
+* installing *binary* package ‘diptest’ ...
+* ‘diptest’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘diptest’ as ‘diptest_0.77-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diptest)
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘assertthat’ ...
+* ‘assertthat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘assertthat’ as ‘assertthat_0.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (assertthat)
+* installing *binary* package ‘clue’ ...
+* ‘clue’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clue’ as ‘clue_0.3-66_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clue)
+* installing *binary* package ‘clusterCrit’ ...
+* ‘clusterCrit’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clusterCrit’ as ‘clusterCrit_1.3.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clusterCrit)
+* installing *binary* package ‘clv’ ...
+* ‘clv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clv’ as ‘clv_0.3-2.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clv)
+* installing *binary* package ‘infotheo’ ...
+* ‘infotheo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘infotheo’ as ‘infotheo_1.2.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (infotheo)
+* installing *binary* package ‘gtable’ ...
+* ‘gtable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtable’ as ‘gtable_0.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtable)
+* installing *binary* package ‘isoband’ ...
+* ‘isoband’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isoband’ as ‘isoband_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isoband)
+* installing *binary* package ‘plyr’ ...
+* ‘plyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plyr’ as ‘plyr_1.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyr)
+* installing *binary* package ‘shape’ ...
+* ‘shape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘shape’ as ‘shape_1.4.6.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (shape)
+* installing *binary* package ‘RcppEigen’ ...
+* ‘RcppEigen’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RcppEigen’ as ‘RcppEigen_0.3.4.0.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RcppEigen)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘kernlab’ ...
+* ‘kernlab’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kernlab’ as ‘kernlab_0.9-33_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kernlab)
+* installing *binary* package ‘genieclust’ ...
+* ‘genieclust’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘genieclust’ as ‘genieclust_1.1.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (genieclust)
+* installing *binary* package ‘clValid’ ...
+* ‘clValid’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘clValid’ as ‘clValid_0.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (clValid)
+* installing *binary* package ‘bit64’ ...
+* ‘bit64’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘bit64’ as ‘bit64_4.6.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (bit64)
+* installing *binary* package ‘progress’ ...
+* ‘progress’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘progress’ as ‘progress_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (progress)
+* installing *binary* package ‘R.oo’ ...
+* ‘R.oo’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.oo’ as ‘R.oo_1.27.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.oo)
+* installing *binary* package ‘e1071’ ...
+* ‘e1071’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘e1071’ as ‘e1071_1.7-16_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (e1071)
+* installing *binary* package ‘magic’ ...
+* ‘magic’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘magic’ as ‘magic_1.6-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (magic)
+* installing *binary* package ‘linprog’ ...
+* ‘linprog’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘linprog’ as ‘linprog_0.9-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (linprog)
+* installing *binary* package ‘hardhat’ ...
+* ‘hardhat’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘hardhat’ as ‘hardhat_1.4.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (hardhat)
+* installing *binary* package ‘flexmix’ ...
+* ‘flexmix’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘flexmix’ as ‘flexmix_2.3-20_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flexmix)
+* installing *binary* package ‘prabclus’ ...
+* ‘prabclus’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘prabclus’ as ‘prabclus_2.3-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (prabclus)
+* installing *binary* package ‘robustbase’ ...
+* ‘robustbase’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘robustbase’ as ‘robustbase_0.99-4-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (robustbase)
+* installing *binary* package ‘RankAggreg’ ...
+* ‘RankAggreg’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RankAggreg’ as ‘RankAggreg_0.6.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RankAggreg)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *binary* package ‘foreach’ ...
+* ‘foreach’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘foreach’ as ‘foreach_1.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (foreach)
+* installing *binary* package ‘reshape’ ...
+* ‘reshape’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reshape’ as ‘reshape_0.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reshape)
+* installing *binary* package ‘dplyr’ ...
+* ‘dplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *binary* package ‘vroom’ ...
+* ‘vroom’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘vroom’ as ‘vroom_1.6.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (vroom)
+* installing *binary* package ‘R.utils’ ...
+* ‘R.utils’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.utils’ as ‘R.utils_2.13.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.utils)
+* installing *binary* package ‘classInt’ ...
+* ‘classInt’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘classInt’ as ‘classInt_0.4-11_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (classInt)
+* installing *binary* package ‘geometry’ ...
+* ‘geometry’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘geometry’ as ‘geometry_0.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (geometry)
+* installing *binary* package ‘pheatmap’ ...
+* ‘pheatmap’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pheatmap’ as ‘pheatmap_1.0.12_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pheatmap)
+* installing *binary* package ‘tidyr’ ...
+* ‘tidyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyr’ as ‘tidyr_1.3.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyr)
+* installing *binary* package ‘yardstick’ ...
+* ‘yardstick’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘yardstick’ as ‘yardstick_1.3.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (yardstick)
+* installing *binary* package ‘fpc’ ...
+* ‘fpc’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘fpc’ as ‘fpc_2.2-13_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fpc)
+* installing *binary* package ‘ggplot2’ ...
+* ‘ggplot2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggplot2’ as ‘ggplot2_3.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggplot2)
+* installing *binary* package ‘glmnet’ ...
+* ‘glmnet’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘glmnet’ as ‘glmnet_4.1-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (glmnet)
+* installing *binary* package ‘readr’ ...
+* ‘readr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘readr’ as ‘readr_2.1.5_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (readr)
+* installing *binary* package ‘R.cache’ ...
+* ‘R.cache’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘R.cache’ as ‘R.cache_0.17.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (R.cache)
+* installing *binary* package ‘pdfCluster’ ...
+* ‘pdfCluster’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘pdfCluster’ as ‘pdfCluster_1.0-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pdfCluster)
+* installing *binary* package ‘haven’ ...
+* ‘haven’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘haven’ as ‘haven_2.5.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (haven)
+* installing *binary* package ‘styler’ ...
+* ‘styler’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘styler’ as ‘styler_1.10.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (styler)
+* installing *binary* package ‘labelled’ ...
+* ‘labelled’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labelled’ as ‘labelled_2.14.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labelled)
+* installing *binary* package ‘questionr’ ...
+* ‘questionr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘questionr’ as ‘questionr_0.8.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (questionr)
+* installing *binary* package ‘klaR’ ...
+* ‘klaR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘klaR’ as ‘klaR_1.7-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (klaR)
+* installing *binary* package ‘diceR’ ...
+* ‘diceR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘diceR’ as ‘diceR_3.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (diceR)
+* installing *source* package ‘omada’ ...
+** this is package ‘omada’ version ‘1.10.0’
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘omada’ as ‘omada_1.10.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (omada)
+
+The downloaded source packages are in
+	‘/tmp/RtmpdbfaH6/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+
+real	0m39.686s
+user	0m30.816s
+sys	0m16.525s
