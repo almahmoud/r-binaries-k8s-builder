@@ -70,7 +70,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "AUCell": [],
   "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -892,7 +891,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EDIRquery": [],
   "EGAD": [
     "GEOquery"
   ],
@@ -908,7 +906,6 @@
   ],
   "ELMER": [
     "GenomicFeatures",
-    "TCGAbiolinks",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -1764,7 +1761,6 @@
   "MoonlightR": [
     "clusterProfiler",
     "DOSE",
-    "TCGAbiolinks",
     "GEOquery",
     "enrichplot",
     "GOSemSim"
@@ -2270,9 +2266,7 @@
     "GenomicAlignments"
   ],
   "RbowtieCuda": [],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "Rcpi": [
     "GOSemSim"
   ],
@@ -2669,7 +2663,6 @@
   "SurfR": [
     "SPsimSeq",
     "DESeq2",
-    "TCGAbiolinks",
     "SingleCellExperiment"
   ],
   "TADCompare": [
@@ -2694,7 +2687,6 @@
   "TCC": [
     "DESeq2"
   ],
-  "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2716,7 +2708,6 @@
     "GenomicAlignments"
   ],
   "TENET": [
-    "TCGAbiolinks",
     "sesame",
     "ExperimentHub",
     "rtracklayer",
@@ -2777,7 +2768,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "TissueEnrich": [],
   "TitanCNA": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3562,7 +3552,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "cosmosR": [],
   "countsimQC": [
     "DESeq2",
     "genefilter"
@@ -3938,7 +3927,6 @@
     "ExperimentHub",
     "scran",
     "scuttle",
-    "AUCell",
     "motifmatchr",
     "BSgenome",
     "TFBSTools",
@@ -4019,7 +4007,6 @@
     "GOSemSim"
   ],
   "escape": [
-    "AUCell",
     "GSVA",
     "SingleCellExperiment",
     "UCell",
@@ -4177,7 +4164,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gep2pep": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -4713,7 +4699,6 @@
     "SingleCellExperiment"
   ],
   "miRLAB": [
-    "TCGAbiolinks",
     "Category",
     "GOstats",
     "genefilter"
@@ -5418,7 +5403,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "rhinotypeR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -5543,7 +5527,6 @@
   "scFeatures": [
     "GSVA",
     "ensembldb",
-    "AUCell",
     "SingleCellSignalR",
     "GenomicFeatures",
     "rtracklayer",
@@ -5741,12 +5724,10 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "seqArchR": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqArchR",
     "rtracklayer",
     "enrichplot",
     "GenomicFeatures",
@@ -5982,7 +5963,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "splineTimeR": [],
   "spoon": [
     "SpatialExperiment",
     "nnSVG",
@@ -6317,7 +6297,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "weitrix": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
@@ -6339,7 +6318,6 @@
     "SingleCellExperiment",
     "TENxIO"
   ],
-  "yamss": [],
   "yarn": [
     "quantro",
     "minfi",

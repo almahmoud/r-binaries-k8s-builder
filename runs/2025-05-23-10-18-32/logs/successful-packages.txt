@@ -1095,3 +1095,14 @@ PROMISE
 RaggedExperiment
 StabMap
 TMSig
+AUCell
+cosmosR
+EDIRquery
+gep2pep
+rhinotypeR
+seqArchR
+splineTimeR
+TCGAbiolinks
+TissueEnrich
+weitrix
+yamss
