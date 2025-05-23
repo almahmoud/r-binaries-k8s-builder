@@ -2,7 +2,6 @@
   "ADImpute": [
     "SingleCellExperiment"
   ],
-  "ADaCGH2": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -25,7 +24,6 @@
   "APL": [
     "SingleCellExperiment"
   ],
-  "ASSIGN": [],
   "ASURAT": [
     "SingleCellExperiment"
   ],
@@ -62,11 +60,9 @@
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "DESeq2",
-    "Category",
     "ggbio",
     "biovizBase",
     "GenomicAlignments",
@@ -102,8 +98,7 @@
     "GenomicAlignments"
   ],
   "ArrayExpress": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "BASiCS": [
     "SingleCellExperiment",
@@ -130,7 +125,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BERT": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -415,7 +409,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "Category": [],
   "CatsCradle": [
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -499,8 +492,7 @@
   "ChIPXpress": [
     "GEOquery",
     "frma",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -808,8 +800,7 @@
   "DrugVsDisease": [
     "ArrayExpress",
     "GEOquery",
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "DuplexDiscovereR": [
     "Gviz",
@@ -1039,9 +1030,7 @@
     "GenomicAlignments"
   ],
   "GOpro": [],
-  "GOstats": [
-    "Category"
-  ],
+  "GOstats": [],
   "GRaNIE": [
     "DESeq2",
     "ensembldb",
@@ -1181,7 +1170,6 @@
     "SingleCellExperiment"
   ],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "GreyListChIP": [
@@ -1282,8 +1270,7 @@
   ],
   "ISLET": [],
   "ITALICS": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "IVAS": [
     "GenomicFeatures",
@@ -1370,7 +1357,6 @@
   "MAGAR": [
     "RnBeads",
     "crlmm",
-    "oligoClasses",
     "methylumi",
     "minfi",
     "GenomicFeatures",
@@ -1572,7 +1558,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "GenomicFeatures",
     "rtracklayer",
@@ -1583,7 +1568,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -1831,8 +1815,6 @@
     "GOSemSim",
     "graphite"
   ],
-  "Pirat": [],
-  "PolySTest": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch",
@@ -2113,7 +2095,6 @@
     "BSgenome"
   ],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "DESeq2",
     "ggbio",
@@ -2220,8 +2201,7 @@
   ],
   "SCAN.UPC": [
     "oligo",
-    "GEOquery",
-    "oligoClasses"
+    "GEOquery"
   ],
   "SCANVIS": [
     "rtracklayer",
@@ -2251,8 +2231,7 @@
     "DESeq2"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SGSeq": [
     "GenomicAlignments",
@@ -2449,7 +2428,6 @@
     "rtracklayer"
   ],
   "TBSignatureProfiler": [
-    "ASSIGN",
     "DESeq2",
     "GSVA",
     "singscore",
@@ -2515,7 +2493,6 @@
     "GenomicFeatures"
   ],
   "TIN": [],
-  "TOP": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -2608,7 +2585,6 @@
     "rtracklayer"
   ],
   "VanillaICE": [
-    "oligoClasses",
     "crlmm",
     "BSgenome",
     "rtracklayer",
@@ -2701,11 +2677,9 @@
   ],
   "affycoretools": [
     "GOstats",
-    "oligoClasses",
     "ReportingTools",
     "Glimma",
     "DESeq2",
-    "Category",
     "ggbio",
     "biovizBase",
     "GenomicAlignments",
@@ -2812,8 +2786,7 @@
     "rtracklayer"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "autonomics": [],
   "ballgown": [
@@ -2982,7 +2955,6 @@
     "phenoTest",
     "RTCGAToolbox",
     "TCGAutils",
-    "Category",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -3000,7 +2972,6 @@
     "GenomicAlignments"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cbaf": [
@@ -3165,7 +3136,6 @@
     "SingleCellExperiment"
   ],
   "cn.farms": [
-    "oligoClasses",
     "oligo"
   ],
   "coMethDMR": [
@@ -3329,9 +3299,7 @@
     "GenomicAlignments",
     "ExperimentHub"
   ],
-  "crlmm": [
-    "oligoClasses"
-  ],
+  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -3746,8 +3714,7 @@
     "PSMatch"
   ],
   "frma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "funtooNorm": [
     "minfi",
@@ -4021,7 +3988,6 @@
     "GOstats",
     "rtracklayer",
     "GenomicFeatures",
-    "Category",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -4061,9 +4027,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "isomiRs": [
     "DEGreport",
     "DESeq2"
@@ -4147,9 +4111,7 @@
     "ExperimentHub",
     "GenomicAlignments"
   ],
-  "mBPCR": [
-    "oligoClasses"
-  ],
+  "mBPCR": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -4202,9 +4164,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -4327,7 +4287,6 @@
     "SingleCellExperiment"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRNAtap": [],
@@ -4386,8 +4345,7 @@
     "SingleCellExperiment"
   ],
   "mimager": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "minfi": [
     "bumphunter",
@@ -4618,10 +4576,7 @@
   "odseq": [
     "msa"
   ],
-  "oligo": [
-    "oligoClasses"
-  ],
-  "oligoClasses": [],
+  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -4680,7 +4635,6 @@
     "DESeq2",
     "mosdef",
     "GOstats",
-    "Category",
     "clusterProfiler",
     "goseq",
     "DOSE",
@@ -4692,8 +4646,7 @@
     "GenomicAlignments"
   ],
   "pdInfoBuilder": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "peakPantheR": [
     "MSnbase",
@@ -4715,9 +4668,7 @@
     "GEOquery",
     "DESeq2"
   ],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",
@@ -4823,8 +4774,7 @@
     "QFeatures"
   ],
   "puma": [
-    "oligo",
-    "oligoClasses"
+    "oligo"
   ],
   "qPLEXanalyzer": [
     "MSnbase",
@@ -5128,7 +5078,6 @@
   ],
   "scTensor": [
     "SingleCellExperiment",
-    "Category",
     "meshr",
     "GOstats",
     "ReactomePA",
@@ -5537,7 +5486,6 @@
     "msa"
   ],
   "survClust": [],
-  "survtype": [],
   "svaNUMT": [
     "rtracklayer",
     "VariantAnnotation",

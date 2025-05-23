@@ -1246,3 +1246,12 @@ OVESEG
 SpatialCPie
 spqn
 tenXplore
+ADaCGH2
+ASSIGN
+BERT
+Category
+oligoClasses
+Pirat
+PolySTest
+survtype
+TOP

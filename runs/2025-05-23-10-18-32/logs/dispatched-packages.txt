@@ -1384,3 +1384,10 @@ qsvaR
 regionalpcs
 trigger
 a4
+GOstats
+crlmm
+interactiveDisplay
+mBPCR
+meshr
+oligo
+phenoTest
