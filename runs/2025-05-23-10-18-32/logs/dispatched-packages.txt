@@ -1391,3 +1391,7 @@ mBPCR
 meshr
 oligo
 phenoTest
+dce
+mogsa
+multiGSEA
+sSNAPPY

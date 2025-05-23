@@ -1264,3 +1264,6 @@ MAI
 MBECS
 MSPrep
 vsclust
+graphite
+hipathia
+singscore

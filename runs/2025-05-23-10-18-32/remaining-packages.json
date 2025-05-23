@@ -297,7 +297,6 @@
     "scuttle"
   ],
   "CBNplot": [
-    "graphite",
     "clusterProfiler",
     "enrichplot",
     "ExperimentHub",
@@ -873,7 +872,6 @@
     "GOSemSim"
   ],
   "EnrichmentBrowser": [
-    "graphite",
     "safe"
   ],
   "EpiCompare": [
@@ -1040,7 +1038,6 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
     "ExperimentHub",
-    "graphite",
     "safe"
   ],
   "GSReg": [
@@ -1427,7 +1424,6 @@
   ],
   "MIRit": [
     "DESeq2",
-    "graphite",
     "clusterProfiler",
     "DOSE",
     "enrichplot",
@@ -1445,7 +1441,6 @@
   "MODA": [],
   "MOMA": [],
   "MOSClip": [
-    "graphite",
     "qpgraph",
     "GenomicFeatures",
     "rtracklayer",
@@ -1804,8 +1799,7 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "graphite"
+    "GOSemSim"
   ],
   "PrInCE": [
     "MSnbase",
@@ -2059,7 +2053,6 @@
   "ReactomePA": [
     "DOSE",
     "enrichplot",
-    "graphite",
     "GOSemSim"
   ],
   "ReducedExperiment": [
@@ -2422,7 +2415,6 @@
   "TBSignatureProfiler": [
     "DESeq2",
     "GSVA",
-    "singscore",
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
@@ -2844,7 +2836,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "graphite",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -3361,9 +3352,7 @@
     "scater",
     "scuttle"
   ],
-  "dce": [
-    "graphite"
-  ],
+  "dce": [],
   "debrowser": [
     "DESeq2",
     "DOSE",
@@ -3483,7 +3472,6 @@
     "SingleCellExperiment",
     "zenith",
     "EnrichmentBrowser",
-    "graphite",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -3740,7 +3728,6 @@
     "enrichplot",
     "GOSemSim",
     "rtracklayer",
-    "graphite",
     "GenomicAlignments"
   ],
   "gcapc": [
@@ -3835,7 +3822,6 @@
   ],
   "gpuMagic": [],
   "graper": [],
-  "graphite": [],
   "groHMM": [
     "GenomicAlignments",
     "rtracklayer"
@@ -3876,7 +3862,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "hipathia": [],
   "hoodscanR": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3915,7 +3900,6 @@
     "GOSemSim",
     "rtracklayer",
     "txdbmaker",
-    "graphite",
     "GenomicAlignments"
   ],
   "iSEE": [
@@ -4286,16 +4270,14 @@
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "graphite"
+    "GOSemSim"
   ],
   "miRspongeR": [
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
     "enrichplot",
-    "GOSemSim",
-    "graphite"
+    "GOSemSim"
   ],
   "mia": [
     "SingleCellExperiment",
@@ -4375,9 +4357,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "mogsa": [
-    "graphite"
-  ],
+  "mogsa": [],
   "monaLisa": [
     "BSgenome",
     "TFBSTools",
@@ -4462,9 +4442,7 @@
   "msqrob2": [
     "QFeatures"
   ],
-  "multiGSEA": [
-    "graphite"
-  ],
+  "multiGSEA": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",
@@ -4611,7 +4589,6 @@
   ],
   "pathMED": [
     "GSVA",
-    "singscore",
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
@@ -4940,9 +4917,7 @@
     "GenomicAlignments"
   ],
   "runibic": [],
-  "sSNAPPY": [
-    "graphite"
-  ],
+  "sSNAPPY": [],
   "safe": [],
   "sangeranalyseR": [],
   "saseR": [
@@ -5075,8 +5050,7 @@
     "DOSE",
     "schex",
     "GOSemSim",
-    "enrichplot",
-    "graphite"
+    "enrichplot"
   ],
   "scTreeViz": [
     "epivizr",
@@ -5318,7 +5292,6 @@
     "alabaster.sce",
     "GenomicAlignments"
   ],
-  "singscore": [],
   "sitadela": [
     "GenomicFeatures",
     "rtracklayer",
@@ -5741,8 +5714,7 @@
     "GenomicAlignments"
   ],
   "xCell2": [
-    "SingleCellExperiment",
-    "singscore"
+    "SingleCellExperiment"
   ],
   "xcms": [
     "MSnbase",
@@ -5770,7 +5742,6 @@
   ],
   "zenith": [
     "EnrichmentBrowser",
-    "graphite",
     "safe"
   ],
   "zinbwave": [
