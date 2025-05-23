@@ -861,3 +861,12 @@ kebabs
 loci2path
 phantasusLite
 sscu
+affyILM
+affyPLM
+AnnotationFilter
+CONFESS
+flowWorkspace
+maskBAD
+methimpute
+ncRNAtools
+oncoscanR

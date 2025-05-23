@@ -958,3 +958,8 @@ maskBAD
 scPCA
 scrapper
 procoil
+CompoundDb
+PeacoQC
+flowStats
+ggcyto
+openCyto
