@@ -4,3 +4,4 @@ RbowtieCuda
 gpuMagic
 NormqPCR
 cisPath
+PhenStat

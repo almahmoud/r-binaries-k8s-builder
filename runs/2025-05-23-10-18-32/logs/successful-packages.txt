@@ -579,3 +579,11 @@ diggit
 KCsmart
 NCIgraph
 rexposome
+CardinalIO
+CellNOptR
+IRanges
+metagenomeSeq
+Polytect
+ROSeq
+SPIA
+variancePartition
