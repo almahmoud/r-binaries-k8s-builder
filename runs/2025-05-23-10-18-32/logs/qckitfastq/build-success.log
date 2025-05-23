@@ -1,0 +1,367 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''qckitfastq'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'qckitfastq'
+also installing the dependencies ‘farver’, ‘labeling’, ‘RColorBrewer’, ‘systemfonts’, ‘gtable’, ‘isoband’, ‘scales’, ‘generics’, ‘tidyselect’, ‘plyr’, ‘viridisLite’, ‘svglite’, ‘ggplot2’, ‘dplyr’, ‘seqTools’, ‘zlibbioc’, ‘data.table’, ‘reshape2’, ‘RSeqAn’, ‘kableExtra’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/systemfonts_1.2.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/isoband_0.2.7.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/svglite_2.2.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/ggplot2_3.5.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/dplyr_1.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/seqTools_1.42.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/zlibbioc_1.54.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.2.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/reshape2_1.4.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/RSeqAn_1.28.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/kableExtra_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/qckitfastq_1.24.0.tar.gz'
+* installing *binary* package ‘farver’ ...
+* ‘farver’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘farver’ as ‘farver_2.1.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (farver)
+* installing *binary* package ‘labeling’ ...
+* ‘labeling’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘labeling’ as ‘labeling_0.4.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (labeling)
+* installing *binary* package ‘RColorBrewer’ ...
+* ‘RColorBrewer’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RColorBrewer’ as ‘RColorBrewer_1.1-3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RColorBrewer)
+* installing *binary* package ‘systemfonts’ ...
+* ‘systemfonts’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘systemfonts’ as ‘systemfonts_1.2.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (systemfonts)
+* installing *binary* package ‘gtable’ ...
+* ‘gtable’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘gtable’ as ‘gtable_0.3.6_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (gtable)
+* installing *binary* package ‘isoband’ ...
+* ‘isoband’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘isoband’ as ‘isoband_0.2.7_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (isoband)
+* installing *binary* package ‘generics’ ...
+* ‘generics’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘generics’ as ‘generics_0.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (generics)
+* installing *binary* package ‘tidyselect’ ...
+* ‘tidyselect’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘tidyselect’ as ‘tidyselect_1.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (tidyselect)
+* installing *binary* package ‘plyr’ ...
+* ‘plyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plyr’ as ‘plyr_1.8.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plyr)
+* installing *binary* package ‘viridisLite’ ...
+* ‘viridisLite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘viridisLite’ as ‘viridisLite_0.4.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (viridisLite)
+* installing *source* package ‘zlibbioc’ ...
+** this is package ‘zlibbioc’ version ‘1.54.0’
+** using staged installation
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+mkdir -p "/usr/local/lib/R/site-library/00LOCK-zlibbioc/00new/zlibbioc/include"
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_zlibbioc.c -o R_init_zlibbioc.o
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o zlibbioc.so R_init_zlibbioc.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-zlibbioc/00new/zlibbioc/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘zlibbioc’ as ‘zlibbioc_1.54.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (zlibbioc)
+* installing *binary* package ‘data.table’ ...
+* ‘data.table’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘data.table’ as ‘data.table_1.17.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (data.table)
+* installing *source* package ‘RSeqAn’ ...
+** this is package ‘RSeqAn’ version ‘1.28.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++14
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -I../inst/include -I'/usr/local/lib/R/site-library/Rcpp/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c charstring.cpp -o charstring.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o RSeqAn.so RcppExports.o charstring.o -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-RSeqAn/00new/RSeqAn/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RSeqAn’ as ‘RSeqAn_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RSeqAn)
+* installing *binary* package ‘scales’ ...
+* ‘scales’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘scales’ as ‘scales_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scales)
+* installing *binary* package ‘svglite’ ...
+* ‘svglite’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘svglite’ as ‘svglite_2.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (svglite)
+* installing *binary* package ‘dplyr’ ...
+* ‘dplyr’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘dplyr’ as ‘dplyr_1.1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (dplyr)
+* installing *source* package ‘seqTools’ ...
+** this is package ‘seqTools’ version ‘1.42.0’
+** using staged installation
+** libs
+using C compiler: ‘gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+gcc -std=gnu2x -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/zlibbioc/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c seqTools.c -o seqTools.o
+seqTools.c: In function ‘count_genome_Kmers’:
+seqTools.c:851:93: warning: format ‘%u’ expects a matching ‘unsigned int’ argument [-Wformat=]
+  851 |                                 error("[count_genome_Kmers] character mismatch at position %u!");
+      |                                                                                            ~^
+      |                                                                                             |
+      |                                                                                             unsigned int
+seqTools.c: In function ‘scale_kmer_matrix’:
+seqTools.c:3296:55: warning: format ‘%i’ expects argument of type ‘int’, but argument 3 has type ‘double’ [-Wformat=]
+ 3296 |                 error("[scale_kmer_matrix] scale[%i]=%i must be >1!", column_index, scale);
+      |                                                      ~^                             ~~~~~
+      |                                                       |                             |
+      |                                                       int                           double
+      |                                                      %f
+seqTools.c:3306:73: warning: format ‘%i’ expects argument of type ‘int’, but argument 3 has type ‘double’ [-Wformat=]
+ 3306 |                                 error("[scale_kmer_matrix] scale[%i] = %i must be >1!", column_index, scale);
+      |                                                                        ~^                             ~~~~~
+      |                                                                         |                             |
+      |                                                                         int                           double
+      |                                                                        %f
+gcc -std=gnu2x -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o seqTools.so seqTools.o -lm -lz -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-seqTools/00new/seqTools/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Warning message:
+In fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning in fun(libname, pkgname) :
+  Package 'zlibbioc' is deprecated and will be removed from Bioconductor
+  version 3.22
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘seqTools’ as ‘seqTools_1.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (seqTools)
+* installing *binary* package ‘reshape2’ ...
+* ‘reshape2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘reshape2’ as ‘reshape2_1.4.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (reshape2)
+* installing *binary* package ‘ggplot2’ ...
+* ‘ggplot2’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘ggplot2’ as ‘ggplot2_3.5.2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ggplot2)
+* installing *binary* package ‘kableExtra’ ...
+* ‘kableExtra’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘kableExtra’ as ‘kableExtra_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (kableExtra)
+* installing *source* package ‘qckitfastq’ ...
+** this is package ‘qckitfastq’ version ‘1.24.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+using C++14
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c calc_adapter_content.cpp -o calc_adapter_content.o
+In file included from /usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier.h:74,
+                 from /usr/local/lib/R/site-library/RSeqAn/include/seqan/find.h:44,
+                 from calc_adapter_content.cpp:7:
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:79:36: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+   79 | struct FunctorUpcase : public std::unary_function<InType, Result>
+      |                                    ^~~~~~~~~~~~~~
+In file included from /usr/include/c++/13/string:49,
+                 from /usr/include/c++/13/bits/locale_classes.h:40,
+                 from /usr/include/c++/13/bits/ios_base.h:41,
+                 from /usr/include/c++/13/ios:44,
+                 from /usr/include/c++/13/ostream:40,
+                 from /usr/include/c++/13/iostream:41,
+                 from calc_adapter_content.cpp:1:
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:113:37: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  113 | struct FunctorLowcase : public std::unary_function<InType, Result>
+      |                                     ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:147:37: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  147 | struct FunctorConvert : public std::unary_function<InType,OutType>
+      |                                     ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:219:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  219 | struct FunctorComplement<char> : public std::unary_function<Dna5,Dna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:228:45: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  228 | struct FunctorComplement<Dna> : public std::unary_function<Dna,Dna>
+      |                                             ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:237:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  237 | struct FunctorComplement<Dna5> : public std::unary_function<Dna5,Dna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:246:45: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  246 | struct FunctorComplement<Rna> : public std::unary_function<Rna,Rna>
+      |                                             ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:255:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  255 | struct FunctorComplement<Rna5> : public std::unary_function<Rna5,Rna5>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:264:46: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  264 | struct FunctorComplement<DnaQ> : public std::unary_function<DnaQ,DnaQ>
+      |                                              ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:276:47: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  276 | struct FunctorComplement<Dna5Q> : public std::unary_function<Dna5Q,Dna5Q>
+      |                                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_functors.h:287:47: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  287 | struct FunctorComplement<Iupac> : public std::unary_function<Iupac,Iupac>
+      |                                               ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier.h:79:
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/modifier/modifier_position.h:393:31: warning: ‘template<class _Arg1, class _Arg2, class _Result> struct std::binary_function’ is deprecated [-Wdeprecated-declarations]
+  393 | struct PosLess_ : public std::binary_function<TPos, TPos, bool>
+      |                               ^~~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:131:12: note: declared here
+  131 |     struct binary_function
+      |            ^~~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/RSeqAn/include/seqan/file.h:101,
+                 from /usr/local/lib/R/site-library/RSeqAn/include/seqan/stream.h:62,
+                 from /usr/local/lib/R/site-library/RSeqAn/include/seqan/score.h:43,
+                 from /usr/local/lib/R/site-library/RSeqAn/include/seqan/find.h:45:
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/file/string_external.h:1338:41: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+ 1338 |         struct testIODone : public std::unary_function<TPageFrame&,bool>
+      |                                         ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/RSeqAn/include/seqan/graph_algorithms.h:48,
+                 from /usr/local/lib/R/site-library/RSeqAn/include/seqan/find.h:47:
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/graph_algorithms/graph_algorithm_heap_tree.h:325:17: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+  325 |     public std::unary_function<Pair<TKey, TValue>, bool>
+      |                 ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+In file included from /usr/local/lib/R/site-library/RSeqAn/include/seqan/graph_algorithms.h:62:
+/usr/local/lib/R/site-library/RSeqAn/include/seqan/graph_algorithms/kruskal.h:63:34: warning: ‘template<class _Arg, class _Result> struct std::unary_function’ is deprecated [-Wdeprecated-declarations]
+   63 | struct LessPairI1_ : public std::unary_function<Pair<TWeight, TPair>, bool>
+      |                                  ^~~~~~~~~~~~~~
+/usr/include/c++/13/bits/stl_function.h:117:12: note: declared here
+  117 |     struct unary_function
+      |            ^~~~~~~~~~~~~~
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c gzstream.cpp -o gzstream.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/usr/local/lib/R/site-library/Rcpp/include' -I'/usr/local/lib/R/site-library/RSeqAn/include' -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c read_fastq.cpp -o read_fastq.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o qckitfastq.so RcppExports.o calc_adapter_content.o gzstream.o read_fastq.o -lz -L/usr/local/lib/R/lib -lR
+installing to /usr/local/lib/R/site-library/00LOCK-qckitfastq/00new/qckitfastq/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘qckitfastq’ as ‘qckitfastq_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (qckitfastq)
+
+The downloaded source packages are in
+	‘/tmp/Rtmpty3E4o/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'textshaping', 'utf8', 'zip'
+
+real	0m39.266s
+user	0m32.719s
+sys	0m10.348s

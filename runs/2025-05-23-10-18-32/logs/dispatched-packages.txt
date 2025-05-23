@@ -577,3 +577,15 @@ rexposome
 sevenbridges
 twoddpcr
 updateObject
+CellNOptR
+GeneNetworkBuilder
+KCsmart
+MOGAMUN
+Streamer
+biocViews
+clstutils
+diggit
+fedup
+fgga
+flowCore
+trio

@@ -2,3 +2,4 @@ hypeR
 HilbertVisGUI
 RbowtieCuda
 gpuMagic
+NormqPCR
