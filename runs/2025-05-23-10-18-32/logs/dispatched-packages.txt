@@ -652,3 +652,10 @@ sitePath
 stepNorm
 tanggle
 timecourse
+CIMICE
+GSCA
+MetaboCoreUtils
+biomformat
+normalize450K
+ribor
+scMitoMut
