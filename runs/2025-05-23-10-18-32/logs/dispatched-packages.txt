@@ -1308,3 +1308,7 @@ survClust
 vsclust
 xcore
 RcisTarget
+SpectralTAD
+TADCompare
+multiHiCcompare
+scHiCcompare

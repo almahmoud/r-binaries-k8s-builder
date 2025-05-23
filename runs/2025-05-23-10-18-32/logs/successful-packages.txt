@@ -1106,3 +1106,8 @@ TCGAbiolinks
 TissueEnrich
 weitrix
 yamss
+crisprBase
+HiCcompare
+HiCParser
+SpatialDecon
+wpm

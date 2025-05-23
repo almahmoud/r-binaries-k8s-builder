@@ -1337,12 +1337,9 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [
-    "multiHiCcompare",
-    "HiCcompare"
+    "multiHiCcompare"
   ],
   "HiCExperiment": [],
-  "HiCParser": [],
-  "HiCcompare": [],
   "HiContacts": [
     "HiCExperiment"
   ],
@@ -2602,7 +2599,6 @@
     "GenomicAlignments"
   ],
   "SpatialCPie": [],
-  "SpatialDecon": [],
   "SpatialExperiment": [
     "SingleCellExperiment"
   ],
@@ -2619,9 +2615,7 @@
     "scuttle"
   ],
   "SpatialOmicsOverlay": [],
-  "SpectralTAD": [
-    "HiCcompare"
-  ],
+  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -2665,9 +2659,7 @@
     "DESeq2",
     "SingleCellExperiment"
   ],
-  "TADCompare": [
-    "HiCcompare"
-  ],
+  "TADCompare": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -3564,21 +3556,17 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "crisprBase": [],
   "crisprBowtie": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "GenomicAlignments"
   ],
   "crisprBwa": [
     "BSgenome",
-    "crisprBase",
     "rtracklayer",
     "GenomicAlignments"
   ],
   "crisprDesign": [
-    "crisprBase",
     "BSgenome",
     "crisprBowtie",
     "crisprScore",
@@ -3594,7 +3582,6 @@
   ],
   "crisprShiny": [
     "BSgenome",
-    "crisprBase",
     "crisprDesign",
     "crisprScore",
     "crisprViz",
@@ -3610,7 +3597,6 @@
     "GenomicAlignments"
   ],
   "crisprVerse": [
-    "crisprBase",
     "crisprBowtie",
     "crisprScore",
     "crisprDesign",
@@ -3627,7 +3613,6 @@
     "GenomicAlignments"
   ],
   "crisprViz": [
-    "crisprBase",
     "crisprDesign",
     "BSgenome",
     "GenomicFeatures",
@@ -4898,9 +4883,7 @@
   "multiGSEA": [
     "graphite"
   ],
-  "multiHiCcompare": [
-    "HiCcompare"
-  ],
+  "multiHiCcompare": [],
   "multiMiR": [],
   "multiWGCNA": [],
   "multicrispr": [
@@ -5543,9 +5526,7 @@
   "scHOT": [
     "SingleCellExperiment"
   ],
-  "scHiCcompare": [
-    "HiCcompare"
-  ],
+  "scHiCcompare": [],
   "scMET": [
     "SingleCellExperiment"
   ],
@@ -6301,7 +6282,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "wpm": [],
   "xCell2": [
     "SingleCellExperiment",
     "singscore"
