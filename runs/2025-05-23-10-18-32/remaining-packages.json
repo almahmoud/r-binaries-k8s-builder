@@ -2292,7 +2292,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "GeneRegionScan": [],
   "GeneStructureTools": [
     "GenomicRanges",
     "Gviz",
@@ -5179,7 +5178,6 @@
     "SingleCellExperiment",
     "phyloseq"
   ],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -5402,7 +5400,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "TileDBArray": [],
   "TissueEnrich": [
     "SummarizedExperiment",
     "GSEABase",
@@ -6112,8 +6109,7 @@
     "HDF5Array"
   ],
   "beachmat.tiledb": [
-    "beachmat",
-    "TileDBArray"
+    "beachmat"
   ],
   "beadarray": [
     "AnnotationDbi",
@@ -7161,7 +7157,6 @@
     "SummarizedExperiment",
     "BSgenome"
   ],
-  "cyanoFilter": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7254,7 +7249,6 @@
     "graphite",
     "AnnotationDbi"
   ],
-  "ddPCRclust": [],
   "debCAM": [
     "SummarizedExperiment",
     "GenomicRanges"
@@ -7918,8 +7912,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowBin": [],
-  "flowCut": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto"

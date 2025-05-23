@@ -1,4 +1,0 @@
-CONFESS
-MSstatsLiP
-MSstatsShiny
-ggmsa

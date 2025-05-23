@@ -812,3 +812,10 @@ MSstatsPTM
 R4RNA
 SELEX
 SynMut
+cyanoFilter
+ddPCRclust
+flowBin
+flowCut
+GeneRegionScan
+SynExtend
+TileDBArray
