@@ -1438,3 +1438,11 @@ mspms
 NetActivity
 PathoStat
 ReactomePA
+categoryCompare
+CellBarcode
+ChIPseqR
+ChIPsim
+FastqCleaner
+OTUbase
+PSMatch
+rtracklayer
