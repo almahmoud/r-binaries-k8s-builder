@@ -943,3 +943,12 @@ goSTAG
 InterCellar
 MouseFM
 oposSOM
+annotate
+dominoSignal
+Melissa
+Modstrings
+OncoScore
+PPInfer
+ProteoMM
+seq2pathway
+webbioc
