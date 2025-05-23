@@ -963,3 +963,12 @@ PeacoQC
 flowStats
 ggcyto
 openCyto
+DelayedTensor
+GeoDiff
+MOFA2
+PCAtools
+SpatialDecon
+SpatialOmicsOverlay
+alabaster.matrix
+beachmat.hdf5
+chihaya

@@ -870,3 +870,12 @@ maskBAD
 methimpute
 ncRNAtools
 oncoscanR
+BiocSingular
+epialleleR
+GeomxTools
+HDF5Array
+heatmaps
+igvShiny
+sketchR
+target
+transite
