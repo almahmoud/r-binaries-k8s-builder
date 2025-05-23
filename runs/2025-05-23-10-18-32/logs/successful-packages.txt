@@ -1078,3 +1078,10 @@ MOFA2
 NormalyzerDE
 omicade4
 tomoda
+awst
+BioNet
+clusterSeq
+InteractionSet
+riboSeqR
+XAItest
+zFPKM

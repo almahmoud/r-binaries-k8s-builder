@@ -1280,3 +1280,8 @@ MICSQTL
 omicade4
 clusterSeq
 riboSeqR
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare
+gatom
