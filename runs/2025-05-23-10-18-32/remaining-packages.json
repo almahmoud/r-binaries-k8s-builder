@@ -1113,7 +1113,6 @@
     "rtracklayer"
   ],
   "Nebulosa": [],
-  "NetActivity": [],
   "NewWave": [],
   "NoRCE": [
     "rtracklayer",
@@ -1193,13 +1192,10 @@
   "PROPS": [],
   "PSMatch": [],
   "PanomiR": [],
-  "PathoStat": [],
   "PharmacoGx": [],
   "PhenStat": [],
   "PhyloProfile": [],
-  "Pigengene": [
-    "ReactomePA"
-  ],
+  "Pigengene": [],
   "PrInCE": [
     "MSnbase",
     "PSMatch"
@@ -1387,7 +1383,6 @@
     "dada2"
   ],
   "RbowtieCuda": [],
-  "ReactomePA": [],
   "ReducedExperiment": [],
   "RegionalST": [
     "scater",
@@ -1870,7 +1865,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "anota2seq": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -1936,7 +1930,6 @@
   ],
   "bioCancer": [
     "cBioPortalData",
-    "ReactomePA",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2213,7 +2206,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "countsimQC": [],
   "cpvSNP": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2591,7 +2583,6 @@
   ],
   "gINTomics": [
     "GenomicFeatures",
-    "ReactomePA",
     "rtracklayer"
   ],
   "gcapc": [
@@ -2677,7 +2668,6 @@
     "GenomicFeatures"
   ],
   "hdxmsqc": [],
-  "hermes": [],
   "hiAnnotator": [
     "rtracklayer",
     "BSgenome"
@@ -2713,7 +2703,6 @@
     "OrganismDbi",
     "GenomicFeatures",
     "bumphunter",
-    "ReactomePA",
     "rtracklayer",
     "txdbmaker"
   ],
@@ -2973,12 +2962,8 @@
   ],
   "miQC": [],
   "miRLAB": [],
-  "miRSM": [
-    "ReactomePA"
-  ],
-  "miRspongeR": [
-    "ReactomePA"
-  ],
+  "miRSM": [],
+  "miRspongeR": [],
   "mia": [
     "TreeSummarizedExperiment",
     "scater",
@@ -3091,7 +3076,6 @@
     "msmsEDA",
     "PSMatch"
   ],
-  "mspms": [],
   "multiGSEA": [],
   "multicrispr": [
     "BSgenome",
@@ -3506,7 +3490,6 @@
     "schex"
   ],
   "scTensor": [
-    "ReactomePA",
     "schex"
   ],
   "scTreeViz": [
