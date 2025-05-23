@@ -1212,3 +1212,10 @@ CNTools
 ontoProc
 proDA
 SDAMS
+biocGraph
+Dune
+gDRutils
+GeneMeta
+GlobalAncova
+sigFeature
+smartid

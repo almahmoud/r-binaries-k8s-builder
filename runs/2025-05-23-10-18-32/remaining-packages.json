@@ -830,7 +830,6 @@
     "oligo",
     "oligoClasses"
   ],
-  "Dune": [],
   "DuplexDiscovereR": [
     "Gviz",
     "rtracklayer",
@@ -1127,7 +1126,6 @@
     "GenomicAlignments"
   ],
   "GeneBreak": [],
-  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "rtracklayer",
@@ -1209,7 +1207,6 @@
   "GloScope": [
     "SingleCellExperiment"
   ],
-  "GlobalAncova": [],
   "GmicR": [
     "Category",
     "GOstats"
@@ -2726,9 +2723,7 @@
   "VplotR": [
     "GenomicAlignments"
   ],
-  "XDE": [
-    "GeneMeta"
-  ],
+  "XDE": [],
   "XNAString": [
     "BSgenome",
     "rtracklayer",
@@ -2960,7 +2955,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "rtracklayer",
@@ -3862,19 +3856,14 @@
   "gDR": [
     "gDRcore",
     "gDRimport",
-    "gDRutils",
     "CoreGx",
     "PharmacoGx"
   ],
-  "gDRcore": [
-    "gDRutils"
-  ],
+  "gDRcore": [],
   "gDRimport": [
     "CoreGx",
-    "PharmacoGx",
-    "gDRutils"
+    "PharmacoGx"
   ],
-  "gDRutils": [],
   "gINTomics": [
     "GenomicFeatures",
     "ReactomePA",
@@ -5440,7 +5429,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "sigFeature": [],
   "signatureSearch": [
     "ExperimentHub",
     "clusterProfiler",
@@ -5527,7 +5515,6 @@
     "TrajectoryUtils",
     "SingleCellExperiment"
   ],
-  "smartid": [],
   "smoothclust": [
     "SpatialExperiment",
     "SingleCellExperiment"
