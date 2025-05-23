@@ -520,3 +520,16 @@ SwathXtend
 TPP2D
 trio
 TSAR
+biobroom
+CIMICE
+ctsGE
+dks
+MetaboCoreUtils
+normalize450K
+OncoSimulR
+PCAN
+progeny
+TaxSEA
+TrIdent
+ttgsea
+Wrench

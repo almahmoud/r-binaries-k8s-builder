@@ -1354,7 +1354,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -1516,7 +1515,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "CIMICE": [],
   "CINdex": [
     "GenomicRanges",
     "IRanges",
@@ -2447,7 +2445,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -2531,7 +2528,6 @@
     "ProtGenerics",
     "IRanges",
     "Spectra",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector",
@@ -2725,7 +2721,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -2809,8 +2804,7 @@
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "DEScan2": [
     "GenomicRanges",
@@ -3205,9 +3199,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "DeepPINCS": [
-    "ttgsea"
-  ],
+  "DeepPINCS": [],
   "DeepTarget": [
     "ExperimentHub",
     "AnnotationHub",
@@ -4593,8 +4585,7 @@
     "biomaRt"
   ],
   "GenProSeq": [
-    "DeepPINCS",
-    "ttgsea"
+    "DeepPINCS"
   ],
   "GenVisR": [
     "AnnotationDbi",
@@ -5475,7 +5466,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -5769,7 +5759,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -5993,7 +5982,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -6368,8 +6356,7 @@
   "MMUPHin": [
     "Maaslin2",
     "edgeR",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "MODA": [
     "AnnotationDbi",
@@ -6533,7 +6520,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "S4Arrays",
@@ -6553,7 +6539,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -6604,7 +6589,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -6630,7 +6614,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -6671,8 +6654,7 @@
   ],
   "Maaslin2": [
     "edgeR",
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "Macarron": [
     "SummarizedExperiment",
@@ -6689,7 +6671,6 @@
     "KEGGREST",
     "UCSC.utils",
     "XVector",
-    "Wrench",
     "Biostrings"
   ],
   "MatrixQCvis": [
@@ -6767,8 +6748,7 @@
   "MetCirc": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MetMashR": [
     "struct",
@@ -6824,7 +6804,6 @@
     "UCSC.utils"
   ],
   "MetaboAnnotation": [
-    "MetaboCoreUtils",
     "ProtGenerics",
     "Spectra",
     "SummarizedExperiment",
@@ -6845,7 +6824,6 @@
     "XVector",
     "Biostrings"
   ],
-  "MetaboCoreUtils": [],
   "MetaboDynamics": [
     "KEGGREST",
     "SummarizedExperiment",
@@ -7200,38 +7178,32 @@
   "MsBackendMassbank": [
     "Spectra",
     "IRanges",
-    "ProtGenerics",
-    "MetaboCoreUtils"
+    "ProtGenerics"
   ],
   "MsBackendMetaboLights": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendMgf": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendMsp": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendRawFileReader": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsBackendSql": [
     "Spectra",
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "MsDataHub": [
     "ExperimentHub",
@@ -7252,7 +7224,6 @@
     "QFeatures",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -7280,7 +7251,6 @@
     "IRanges",
     "SummarizedExperiment",
     "QFeatures",
-    "MetaboCoreUtils",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -7762,7 +7732,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "OncoSimulR": [],
   "OrderedList": [],
   "Organism.dplyr": [
     "AnnotationFilter",
@@ -7871,7 +7840,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "PCAN": [],
   "PCAtools": [
     "DelayedMatrixStats",
     "DelayedArray",
@@ -8098,7 +8066,6 @@
     "annotate",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "KEGGREST",
     "Biostrings"
   ],
@@ -8126,7 +8093,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -8304,7 +8270,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -8329,7 +8294,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -8792,7 +8756,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -10594,14 +10557,12 @@
   ],
   "Spectra": [
     "ProtGenerics",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "SpectraQL": [
     "ProtGenerics",
     "Spectra",
-    "IRanges",
-    "MetaboCoreUtils"
+    "IRanges"
   ],
   "SpectralTAD": [
     "HiCcompare",
@@ -11190,9 +11151,7 @@
     "UCSC.utils",
     "Biostrings"
   ],
-  "TPP": [
-    "biobroom"
-  ],
+  "TPP": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -11279,7 +11238,6 @@
     "ProtGenerics"
   ],
   "TargetScore": [],
-  "TaxSEA": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -11345,7 +11303,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "TrIdent": [],
   "TrajectoryUtils": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -11503,7 +11460,6 @@
     "SummarizedExperiment",
     "scater",
     "DeepPINCS",
-    "ttgsea",
     "scuttle",
     "SparseArray",
     "DelayedArray",
@@ -11768,7 +11724,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Wrench": [],
   "XAItest": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -12656,7 +12611,6 @@
     "KEGGREST",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -12836,7 +12790,6 @@
     "GenomicRanges",
     "IRanges",
     "SingleCellExperiment",
-    "Wrench",
     "Biostrings",
     "biomformat",
     "GenomeInfoDb",
@@ -12936,7 +12889,6 @@
     "GenomicAlignments"
   ],
   "bioassayR": [],
-  "biobroom": [],
   "biobtreeR": [],
   "biocGraph": [
     "geneplotter",
@@ -13951,7 +13903,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "affyio",
     "QFeatures",
     "GenomicRanges",
@@ -14392,7 +14343,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -14730,7 +14680,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ctsGE": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -15378,7 +15327,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "dks": [],
   "dmrseq": [
     "bsseq",
     "GenomicRanges",
@@ -15522,7 +15470,6 @@
   ],
   "dyebias": [],
   "easier": [
-    "progeny",
     "quantiseqr",
     "DESeq2",
     "IRanges",
@@ -16260,7 +16207,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -17200,7 +17146,6 @@
     "SummarizedExperiment",
     "ProtGenerics",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -18371,8 +18316,7 @@
     "ProtGenerics"
   ],
   "mbQTL": [
-    "metagenomeSeq",
-    "Wrench"
+    "metagenomeSeq"
   ],
   "mbkmeans": [
     "DelayedArray",
@@ -18443,7 +18387,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -18490,9 +18433,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metagenomeSeq": [
-    "Wrench"
-  ],
+  "metagenomeSeq": [],
   "metapone": [],
   "metaseqR2": [
     "DESeq2",
@@ -19061,7 +19002,6 @@
   "microbiomeDASim": [
     "phyloseq",
     "metagenomeSeq",
-    "Wrench",
     "biomformat",
     "Biostrings",
     "IRanges",
@@ -19076,7 +19016,6 @@
     "IRanges",
     "GenomicRanges",
     "SummarizedExperiment",
-    "Wrench",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -19551,7 +19490,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -19578,7 +19516,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -19836,7 +19773,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
@@ -19966,7 +19902,6 @@
     "affy",
     "affyio"
   ],
-  "normalize450K": [],
   "normr": [
     "GenomeInfoDb",
     "GenomicRanges",
@@ -20127,8 +20062,7 @@
     "SparseArray",
     "UCSC.utils",
     "XVector",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "omicRexposome": [
     "rexposome",
@@ -20352,8 +20286,7 @@
     "XVector",
     "Biostrings",
     "MultiAssayExperiment",
-    "AnnotationFilter",
-    "MetaboCoreUtils"
+    "AnnotationFilter"
   ],
   "pRolocGUI": [
     "pRoloc",
@@ -20377,7 +20310,6 @@
     "KEGGREST",
     "MultiAssayExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -20623,7 +20555,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -21122,7 +21053,6 @@
     "qvalue",
     "pwalign"
   ],
-  "progeny": [],
   "projectR": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -21193,7 +21123,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "GenomeInfoDb",
@@ -21254,7 +21183,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "S4Arrays",
@@ -23967,7 +23895,6 @@
     "affy",
     "mzID",
     "MsFeatures",
-    "MetaboCoreUtils",
     "affyio",
     "MultiAssayExperiment",
     "AnnotationFilter",
@@ -24264,7 +24191,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "S4Arrays",
@@ -24642,7 +24568,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
-    "MetaboCoreUtils",
     "GenomicRanges",
     "DelayedArray",
     "S4Arrays",
@@ -24892,7 +24817,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "ttgsea": [],
   "tweeDEseq": [
     "edgeR"
   ],
@@ -25314,7 +25238,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "MetaboCoreUtils",
     "QFeatures",
     "PSMatch",
     "vsn",
