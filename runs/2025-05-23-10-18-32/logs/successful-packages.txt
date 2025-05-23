@@ -1068,3 +1068,13 @@ gCrisprTools
 MsFeatures
 omicplotR
 tidySummarizedExperiment
+alabaster.se
+bettr
+eisaR
+epigenomix
+methyLImp2
+MICSQTL
+MOFA2
+NormalyzerDE
+omicade4
+tomoda

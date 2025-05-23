@@ -1641,7 +1641,6 @@
     "scater",
     "scuttle"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1670,7 +1669,6 @@
     "GenomicAlignments"
   ],
   "MODA": [],
-  "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment"
   ],
@@ -1940,7 +1938,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "NormalyzerDE": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -2057,7 +2054,6 @@
   "PREDA": [],
   "PROMISE": [],
   "PRONE": [
-    "NormalyzerDE",
     "MSnbase",
     "POMA",
     "PSMatch",
@@ -2232,7 +2228,6 @@
     "coseq",
     "clusterProfiler",
     "enrichplot",
-    "MOFA2",
     "DOSE",
     "GOSemSim",
     "DESeq2",
@@ -3101,7 +3096,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -3116,20 +3110,16 @@
     "GenomicAlignments"
   ],
   "alabaster.mae": [
-    "MultiAssayExperiment",
-    "alabaster.se"
+    "MultiAssayExperiment"
   ],
   "alabaster.sce": [
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
-  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
     "SingleCellExperiment",
-    "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
     "scuttle"
@@ -3137,12 +3127,10 @@
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -3263,7 +3251,6 @@
     "genefilter"
   ],
   "betaHMM": [],
-  "bettr": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -4028,7 +4015,6 @@
     "sva",
     "genefilter"
   ],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -4054,7 +4040,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [],
   "epigraHMM": [
     "rtracklayer",
     "GreyListChIP",
@@ -4806,7 +4791,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -5230,11 +5214,9 @@
   ],
   "omicRexposome": [
     "sva",
-    "omicade4",
     "MultiDataSet",
     "genefilter"
   ],
-  "omicade4": [],
   "omicsPrint": [
     "MultiAssayExperiment",
     "RaggedExperiment"
@@ -6075,7 +6057,6 @@
     "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
-    "alabaster.se",
     "GenomicFeatures",
     "rtracklayer",
     "SpatialExperiment",
@@ -6371,7 +6352,6 @@
   "tilingArray": [
     "genefilter"
   ],
-  "tomoda": [],
   "topGO": [],
   "topdownr": [
     "MSnbase",
