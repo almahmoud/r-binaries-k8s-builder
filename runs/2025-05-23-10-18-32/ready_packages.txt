@@ -1,16 +1,1 @@
-AffyRNADegradation
-Cormotif
-ExiMiR
-GEOsubmission
-HTqPCR
-Rnits
-STATegRa
-TurboNorm
-affyContam
-frmaTools
-makecdfenv
-panp
-plier
-pvac
-qpcrNorm
-vsn
+alabaster.bumpy

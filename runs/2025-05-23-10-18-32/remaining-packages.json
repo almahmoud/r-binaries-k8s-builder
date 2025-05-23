@@ -2158,7 +2158,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
@@ -2181,7 +2180,6 @@
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
@@ -2193,7 +2191,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "flowAI",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
@@ -3480,7 +3477,6 @@
     "XVector"
   ],
   "GENESIS": [
-    "GWASTools",
     "GenomicRanges",
     "SeqArray",
     "SeqVarTools",
@@ -3751,7 +3747,6 @@
     "AnnotationFilter"
   ],
   "GWAS.BAYES": [],
-  "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6259,7 +6254,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OPWeight": [],
   "ORFhunteR": [
     "Biostrings",
     "rtracklayer",
@@ -7004,7 +6998,6 @@
     "rtracklayer",
     "XVector",
     "GenomicFeatures",
-    "GWASTools",
     "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
@@ -9912,7 +9905,6 @@
     "XVector"
   ],
   "alabaster": [
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.ranges",
     "alabaster.se",
@@ -9944,12 +9936,8 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [],
-  "alabaster.bumpy": [
-    "alabaster.base"
-  ],
+  "alabaster.bumpy": [],
   "alabaster.files": [
-    "alabaster.base",
     "Rsamtools",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -9958,7 +9946,6 @@
   ],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -9973,7 +9960,6 @@
     "h5mread"
   ],
   "alabaster.matrix": [
-    "alabaster.base",
     "DelayedArray",
     "S4Arrays",
     "SparseArray",
@@ -9983,13 +9969,11 @@
   ],
   "alabaster.ranges": [
     "GenomicRanges",
-    "alabaster.base",
     "GenomeInfoDb",
     "XVector"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.base",
     "alabaster.se",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -10005,7 +9989,6 @@
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "GenomicRanges",
@@ -10019,7 +10002,6 @@
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "alabaster.spatial",
     "SingleCellExperiment",
@@ -10043,7 +10025,6 @@
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
-    "alabaster.base",
     "alabaster.sce",
     "SingleCellExperiment",
     "alabaster.se",
@@ -10061,12 +10042,10 @@
   ],
   "alabaster.string": [
     "Biostrings",
-    "alabaster.base",
     "XVector",
     "GenomeInfoDb"
   ],
   "alabaster.vcf": [
-    "alabaster.base",
     "VariantAnnotation",
     "alabaster.se",
     "alabaster.string",
@@ -11248,7 +11227,6 @@
     "SingleCellExperiment",
     "chevreulProcess",
     "chevreulPlot",
-    "alabaster.base",
     "wiggleplotr",
     "scater",
     "scran",
@@ -13024,7 +13002,6 @@
     "alabaster.matrix",
     "S4Arrays",
     "BiocSingular",
-    "alabaster.base",
     "KEGGREST",
     "ScaledMatrix",
     "rtracklayer",
@@ -13426,7 +13403,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowAI": [],
   "flowBeads": [],
   "flowBin": [
     "flowFP",
@@ -14127,7 +14103,6 @@
     "SparseArray"
   ],
   "gwasurvivr": [
-    "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14984,7 +14959,6 @@
   ],
   "mBPCR": [
     "oligoClasses",
-    "GWASTools",
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -19367,7 +19341,6 @@
     "ResidualMatrix",
     "ScaledMatrix",
     "beachmat",
-    "alabaster.base",
     "alabaster.matrix",
     "alabaster.se",
     "S4Arrays",
