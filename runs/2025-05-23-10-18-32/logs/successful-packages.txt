@@ -991,3 +991,13 @@ rTRM
 SICtools
 SimFFPE
 TEQC
+CompoundDb
+ggseqalign
+QDNAseq
+Rbowtie2
+rfPred
+rRDP
+ssviz
+SummarizedExperiment
+SWATH2stats
+VegaMC
