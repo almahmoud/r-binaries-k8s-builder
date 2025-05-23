@@ -850,3 +850,14 @@ NanoStringNCTools
 rebook
 ResidualMatrix
 ScaledMatrix
+AssessORF
+fastseg
+geneRxCluster
+genomeIntervals
+gtrellis
+idpr
+idr2d
+kebabs
+loci2path
+phantasusLite
+sscu

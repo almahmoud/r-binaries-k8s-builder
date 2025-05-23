@@ -1,8 +1,1 @@
-BiocSingular
-GeomxTools
-affyILM
-affyPLM
-beachmat.tiledb
-maskBAD
-scPCA
-scrapper
+procoil
