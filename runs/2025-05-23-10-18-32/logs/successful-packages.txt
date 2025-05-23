@@ -1255,3 +1255,12 @@ Pirat
 PolySTest
 survtype
 TOP
+BioNERO
+CCPROMISE
+HarmonizR
+IsoBayes
+KnowSeq
+MAI
+MBECS
+MSPrep
+vsclust

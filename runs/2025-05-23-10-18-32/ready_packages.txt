@@ -1,7 +1,0 @@
-GOstats
-crlmm
-interactiveDisplay
-mBPCR
-meshr
-oligo
-phenoTest
