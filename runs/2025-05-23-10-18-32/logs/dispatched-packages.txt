@@ -784,3 +784,11 @@ MMUPHin
 basilisk
 mnem
 tkWidgets
+BiocHail
+DNAcycP2
+Mfuzz
+OLINgui
+Rcwl
+cbpManager
+densvis
+snifter

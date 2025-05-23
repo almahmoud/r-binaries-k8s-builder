@@ -747,3 +747,16 @@ flowSpecs
 iPath
 Linnorm
 RBM
+basilisk
+derfinderHelper
+frmaTools
+GeneSelectMMD
+immunoClust
+infinityFlow
+islify
+rgoslin
+S4Arrays
+scde
+tkWidgets
+tweeDEseq
+VERSO

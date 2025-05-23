@@ -6,3 +6,4 @@ NormqPCR
 cisPath
 PhenStat
 graper
+genoCN
