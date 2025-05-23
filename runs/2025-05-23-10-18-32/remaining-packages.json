@@ -1052,7 +1052,6 @@
   "GloScope": [
     "SingleCellExperiment"
   ],
-  "GmicR": [],
   "GreyListChIP": [
     "GenomicAlignments",
     "BSgenome",
@@ -1290,7 +1289,6 @@
     "GenomicAlignments"
   ],
   "MODA": [],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "GenomicFeatures",
@@ -1333,7 +1331,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MetMashR": [],
   "MetaNeighbor": [
     "SingleCellExperiment"
   ],
@@ -1817,7 +1814,6 @@
     "GenomicAlignments"
   ],
   "RbowtieCuda": [],
-  "Rcpi": [],
   "ReactomeGSA": [],
   "ReactomePA": [
     "DOSE",

@@ -1354,3 +1354,7 @@ RTNduals
 SigCheck
 TIN
 tRNA
+GmicR
+MetMashR
+MOMA
+Rcpi
