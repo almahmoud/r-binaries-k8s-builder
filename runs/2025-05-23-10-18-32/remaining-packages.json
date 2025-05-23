@@ -376,7 +376,6 @@
     "CTdata",
     "SingleCellExperiment"
   ],
-  "CaDrA": [],
   "CaMutQC": [
     "clusterProfiler",
     "DOSE",
@@ -562,7 +561,6 @@
     "GenomicAlignments",
     "ensembldb"
   ],
-  "CoreGx": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -851,7 +849,6 @@
     "SpatialExperiment",
     "TreeSummarizedExperiment"
   ],
-  "ExpressionAtlas": [],
   "FEAST": [
     "SingleCellExperiment",
     "TSCAN",
@@ -925,7 +922,6 @@
     "GOSemSim"
   ],
   "GEOexplorer": [],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -1572,9 +1568,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PDATK": [
-    "CoreGx"
-  ],
+  "PDATK": [],
   "PICB": [
     "GenomicAlignments"
   ],
@@ -1592,7 +1586,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "PIUMA": [],
   "PLSDAbatch": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
@@ -1617,9 +1610,7 @@
   ],
   "PathoStat": [],
   "PepSetTest": [],
-  "PharmacoGx": [
-    "CoreGx"
-  ],
+  "PharmacoGx": [],
   "PhenStat": [],
   "PhosR": [],
   "PhyloProfile": [],
@@ -1821,8 +1812,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RNAsense": [],
-  "ROCpAI": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments"
@@ -1851,9 +1840,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1867,7 +1854,6 @@
     "GenomicAlignments"
   ],
   "RbowtieCuda": [],
-  "RcisTarget": [],
   "Rcpi": [
     "GOSemSim"
   ],
@@ -2291,9 +2277,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "TrajectoryUtils": [
     "SingleCellExperiment"
   ],
@@ -2418,8 +2402,7 @@
     "VisiumIO"
   ],
   "Xeva": [
-    "PharmacoGx",
-    "CoreGx"
+    "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -3359,7 +3342,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer",
@@ -3428,11 +3410,9 @@
   ],
   "gDR": [
     "gDRimport",
-    "CoreGx",
     "PharmacoGx"
   ],
   "gDRimport": [
-    "CoreGx",
     "PharmacoGx"
   ],
   "gINTomics": [
@@ -4096,7 +4076,6 @@
     "PSMatch"
   ],
   "mspms": [],
-  "msqrob2": [],
   "multiGSEA": [],
   "multicrispr": [
     "BSgenome",
@@ -4268,7 +4247,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "phantasus": [],
   "pipeComp": [
     "SingleCellExperiment",
     "scran",

@@ -1,6 +1,4 @@
-CytoPipeline
-LymphoSeq
-beer
-odseq
-sparrow
-surfaltr
+PDATK
+PharmacoGx
+RadioGx
+ToxicoGx

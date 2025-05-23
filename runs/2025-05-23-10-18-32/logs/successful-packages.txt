@@ -1319,3 +1319,14 @@ msa
 PeacoQC
 PhIPData
 scMultiSim
+CaDrA
+CoreGx
+esetVis
+ExpressionAtlas
+GNET2
+msqrob2
+phantasus
+PIUMA
+RcisTarget
+RNAsense
+ROCpAI

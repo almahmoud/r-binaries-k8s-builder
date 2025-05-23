@@ -1485,3 +1485,7 @@ beer
 odseq
 sparrow
 surfaltr
+PDATK
+PharmacoGx
+RadioGx
+ToxicoGx
