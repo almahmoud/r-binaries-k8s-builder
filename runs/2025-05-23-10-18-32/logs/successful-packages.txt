@@ -1172,3 +1172,11 @@ oncomix
 pathview
 phenomis
 SigFuge
+multiMiR
+omicsViewer
+pairkat
+phenopath
+pmp
+qmtools
+regsplice
+VariantExperiment
