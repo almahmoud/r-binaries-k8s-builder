@@ -891,3 +891,16 @@ DRIMSeq
 GenomAutomorphism
 GMRP
 scPCA
+AnnotationDbi
+BREW3R.r
+EnrichedHeatmap
+GrafGen
+HilbertCurve
+IWTomics
+LOLA
+OmicCircos
+pepStat
+PIPETS
+Qtlizer
+Site2Target
+triplex
