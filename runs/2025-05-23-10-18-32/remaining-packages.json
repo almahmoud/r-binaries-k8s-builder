@@ -9,9 +9,7 @@
     "ADAM",
     "SummarizedExperiment"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -29,7 +27,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -124,7 +121,6 @@
     "DESeq2",
     "SummarizedExperiment",
     "Category",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -157,14 +153,12 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "AnnotationForge": [],
   "AnnotationHub": [],
   "AnnotationHubData": [
     "AnnotationHub",
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -1287,7 +1281,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments",
     "SummarizedExperiment"
@@ -1444,7 +1437,6 @@
   ],
   "GOstats": [
     "Category",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -1648,8 +1640,7 @@
     "Category",
     "GSEABase",
     "GOstats",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "GreyListChIP": [
     "GenomicAlignments",
@@ -1977,7 +1968,6 @@
     "SummarizedExperiment"
   ],
   "MBECS": [
-    "phyloseq",
     "sva",
     "genefilter"
   ],
@@ -2249,7 +2239,6 @@
     "GOstats",
     "lumi",
     "Category",
-    "AnnotationForge",
     "methylumi",
     "GenomicFeatures",
     "GSEABase",
@@ -2603,7 +2592,6 @@
     "GOSemSim"
   ],
   "PathoStat": [
-    "phyloseq",
     "DESeq2",
     "SummarizedExperiment"
   ],
@@ -2745,9 +2733,7 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "RCM": [
-    "phyloseq"
-  ],
+  "RCM": [],
   "RCSL": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -2891,9 +2877,7 @@
   "ROCpAI": [
     "SummarizedExperiment"
   ],
-  "RPA": [
-    "phyloseq"
-  ],
+  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments",
@@ -3021,7 +3005,6 @@
     "GenomicFeatures",
     "OrganismDbi",
     "ensembldb",
-    "AnnotationForge",
     "txdbmaker"
   ],
   "RgnTX": [
@@ -3189,7 +3172,6 @@
     "genefilter",
     "GOstats",
     "Category",
-    "AnnotationForge",
     "GSEABase"
   ],
   "SGSeq": [
@@ -3198,9 +3180,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
+  "SIAMCAT": [],
   "SICtools": [],
   "SIM": [
     "globaltest"
@@ -3258,7 +3238,6 @@
   ],
   "SPsimSeq": [
     "SingleCellExperiment",
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "SVMDO": [
@@ -3314,7 +3293,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "SimFFPE": [],
@@ -3468,8 +3446,7 @@
     "DESeq2",
     "TCGAbiolinks",
     "SummarizedExperiment",
-    "SingleCellExperiment",
-    "phyloseq"
+    "SingleCellExperiment"
   ],
   "TADCompare": [
     "HiCcompare",
@@ -3679,7 +3656,6 @@
     "SummarizedExperiment",
     "plyranges"
   ],
-  "UniProt.ws": [],
   "Uniquorn": [
     "VariantAnnotation",
     "SummarizedExperiment",
@@ -3765,8 +3741,7 @@
   "VegaMC": [],
   "ViSEAGO": [
     "GOSemSim",
-    "topGO",
-    "AnnotationForge"
+    "topGO"
   ],
   "VisiumIO": [
     "TENxIO",
@@ -3854,7 +3829,6 @@
     "DESeq2",
     "SummarizedExperiment",
     "Category",
-    "AnnotationForge",
     "GSEABase",
     "ggbio",
     "genefilter",
@@ -4019,7 +3993,6 @@
   "attract": [
     "GOstats",
     "Category",
-    "AnnotationForge",
     "GSEABase",
     "genefilter"
   ],
@@ -4086,7 +4059,6 @@
     "SummarizedExperiment"
   ],
   "benchdamic": [
-    "phyloseq",
     "TreeSummarizedExperiment",
     "zinbwave",
     "DESeq2",
@@ -4307,8 +4279,7 @@
     "GSEABase",
     "Category",
     "GOstats",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "cbaf": [
     "cBioPortalData",
@@ -4431,7 +4402,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "chromPlot": [],
   "chromVAR": [
     "TFBSTools",
     "SummarizedExperiment",
@@ -4549,7 +4519,6 @@
     "VariantAnnotation"
   ],
   "combi": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "compEpiTools": [
@@ -4819,7 +4788,6 @@
     "SummarizedExperiment"
   ],
   "dagLogo": [
-    "UniProt.ws",
     "motifStack",
     "TFBSTools",
     "BSgenome",
@@ -4835,7 +4803,6 @@
   ],
   "dar": [
     "mia",
-    "phyloseq",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5019,7 +4986,6 @@
     "safe"
   ],
   "drugTargetInteractions": [
-    "UniProt.ws",
     "ensembldb",
     "GenomicFeatures",
     "rtracklayer",
@@ -5465,9 +5431,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "ginmappeR": [
-    "UniProt.ws"
-  ],
+  "ginmappeR": [],
   "girafe": [
     "ShortRead",
     "GenomicAlignments",
@@ -5712,7 +5676,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "Category",
-    "AnnotationForge",
     "clusterProfiler",
     "GSEABase",
     "genefilter",
@@ -5742,9 +5705,7 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "immunogenViewer": [
-    "UniProt.ws"
-  ],
+  "immunogenViewer": [],
   "infercnv": [
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -6105,7 +6066,6 @@
     "AnnotationHubData",
     "rtracklayer",
     "OrganismDbi",
-    "AnnotationForge",
     "txdbmaker",
     "GenomicAlignments"
   ],
@@ -6132,8 +6092,7 @@
     "Category",
     "GOstats",
     "GSEABase",
-    "genefilter",
-    "AnnotationForge"
+    "genefilter"
   ],
   "miRNAmeConverter": [],
   "miRNAtap": [],
@@ -6196,12 +6155,8 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2",
     "SummarizedExperiment"
@@ -6481,7 +6436,6 @@
     "genefilter"
   ],
   "netboost": [],
-  "ngsReports": [],
   "nipalsMCIA": [
     "MultiAssayExperiment",
     "SummarizedExperiment"
@@ -6663,7 +6617,6 @@
     "topGO",
     "GOstats",
     "Category",
-    "AnnotationForge",
     "clusterProfiler",
     "goseq",
     "GSEABase",
@@ -6722,7 +6675,6 @@
   "phenopath": [
     "SummarizedExperiment"
   ],
-  "phyloseq": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -6787,8 +6739,7 @@
   "prebs": [
     "GenomicAlignments",
     "RPA",
-    "SummarizedExperiment",
-    "phyloseq"
+    "SummarizedExperiment"
   ],
   "preciseTAD": [
     "rCGH",
@@ -6976,9 +6927,7 @@
   "receptLoss": [
     "SummarizedExperiment"
   ],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "SummarizedExperiment",
     "derfinder",
@@ -7058,7 +7007,6 @@
     "VariantAnnotation"
   ],
   "rfPred": [],
-  "rfaRm": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -7117,7 +7065,6 @@
     "MultiDataSet",
     "SummarizedExperiment"
   ],
-  "rprimer": [],
   "rqt": [
     "SummarizedExperiment",
     "ropls",
@@ -7327,7 +7274,6 @@
     "GSEABase",
     "genefilter",
     "GOSemSim",
-    "AnnotationForge",
     "enrichplot",
     "graphite"
   ],
@@ -8291,7 +8237,6 @@
     "genefilter"
   ],
   "zitools": [
-    "phyloseq",
     "SummarizedExperiment",
     "DESeq2"
   ]

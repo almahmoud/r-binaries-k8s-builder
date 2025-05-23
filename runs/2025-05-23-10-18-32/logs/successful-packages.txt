@@ -952,3 +952,10 @@ PPInfer
 ProteoMM
 seq2pathway
 webbioc
+AnnotationForge
+chromPlot
+ngsReports
+phyloseq
+rfaRm
+rprimer
+UniProt.ws

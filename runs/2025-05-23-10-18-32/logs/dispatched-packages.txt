@@ -1083,3 +1083,12 @@ gsean
 idiogram
 tRNA
 tigre
+ADAPT
+RCM
+RPA
+SIAMCAT
+ginmappeR
+immunogenViewer
+microbiome
+microbiomeDASim
+reconsi
