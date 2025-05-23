@@ -1275,7 +1275,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -1311,7 +1310,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KEGGlincs": [],
   "LOBSTAHS": [
     "xcms",
     "CAMERA",
@@ -1348,7 +1346,6 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "GenomicFeatures",
@@ -1555,7 +1552,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -2180,7 +2176,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -2569,7 +2564,6 @@
     "rtracklayer"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -3281,7 +3275,6 @@
     "GenomicAlignments",
     "ExperimentHub"
   ],
-  "crlmm": [],
   "crumblr": [
     "SingleCellExperiment"
   ],
@@ -4139,7 +4132,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "meshr": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -5044,7 +5036,6 @@
   ],
   "scTensor": [
     "SingleCellExperiment",
-    "meshr",
     "GOstats",
     "ReactomePA",
     "DOSE",
@@ -5445,7 +5436,6 @@
   "structToolbox": [
     "struct"
   ],
-  "supersigs": [],
   "surfaltr": [
     "msa"
   ],

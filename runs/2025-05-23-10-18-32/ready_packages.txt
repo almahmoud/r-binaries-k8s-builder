@@ -1,4 +1,0 @@
-dce
-mogsa
-multiGSEA
-sSNAPPY
