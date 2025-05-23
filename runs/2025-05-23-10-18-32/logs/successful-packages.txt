@@ -617,3 +617,15 @@ philr
 planet
 RNAseqCovarImpute
 sigsquared
+BiGGR
+CCPlotR
+CGHcall
+CGHregions
+gDRstyle
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+metapone
+qcmetrics
+QRscore
+Sconify

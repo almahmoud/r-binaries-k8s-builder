@@ -4,7 +4,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector",
-    "CGHcall",
     "Rsamtools",
     "Biostrings"
   ],
@@ -828,7 +827,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "BiGGR": [],
   "BiSeq": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -1218,7 +1216,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "CCPlotR": [],
   "CDI": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -1241,11 +1238,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "CGHcall": [],
-  "CGHnormaliter": [
-    "CGHcall"
-  ],
-  "CGHregions": [],
+  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -3891,7 +3884,6 @@
   ],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector",
@@ -5525,7 +5517,6 @@
   ],
   "MSstatsQC": [
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "vsn",
     "affy",
@@ -5545,7 +5536,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "vsn",
     "affy",
@@ -5855,7 +5845,6 @@
   "MicrobiotaProcess": [
     "Biostrings",
     "SummarizedExperiment",
-    "ggtreeExtra",
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -7034,7 +7023,6 @@
     "SparseArray"
   ],
   "QDNAseq": [
-    "CGHcall",
     "GenomicRanges",
     "Rsamtools",
     "GenomeInfoDb",
@@ -7052,7 +7040,6 @@
     "SparseArray",
     "XVector"
   ],
-  "QRscore": [],
   "QSutils": [
     "Biostrings",
     "pwalign",
@@ -8520,7 +8507,6 @@
     "SparseArray",
     "XVector"
   ],
-  "Sconify": [],
   "SemDist": [
     "AnnotationDbi",
     "annotate",
@@ -10982,7 +10968,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
-    "CGHcall",
     "GenomicAlignments",
     "KEGGREST",
     "regioneR",
@@ -11432,7 +11417,6 @@
     "QDNAseq",
     "Rsamtools",
     "XVector",
-    "CGHcall",
     "Biostrings"
   ],
   "cghMCR": [
@@ -13919,7 +13903,6 @@
     "SparseArray",
     "XVector"
   ],
-  "gDRstyle": [],
   "gDRutils": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -14227,9 +14210,6 @@
     "SparseArray",
     "XVector"
   ],
-  "ggtreeDendro": [],
-  "ggtreeExtra": [],
-  "ggtreeSpace": [],
   "ginmappeR": [
     "KEGGREST",
     "UniProt.ws",
@@ -15572,7 +15552,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "metapone": [],
   "metaseqR2": [
     "DESeq2",
     "biomaRt",
@@ -17909,7 +17888,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
     "GenomicRanges",

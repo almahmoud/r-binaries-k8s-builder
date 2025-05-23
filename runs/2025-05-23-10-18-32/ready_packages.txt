@@ -1,14 +1,1 @@
-BiGGR
-CCPlotR
-CGHcall
-CGHregions
-ClustAll
-InteractiveComplexHeatmap
-MAPFX
-MEIGOR
-MSstatsBig
-MSstatsBioNet
-MSstatsTMT
-Rigraphlib
-cola
-simona
+CGHnormaliter
