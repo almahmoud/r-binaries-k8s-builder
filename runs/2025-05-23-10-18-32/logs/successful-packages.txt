@@ -1384,3 +1384,13 @@ NBAMSeq
 regionalpcs
 TCC
 MWASTools
+CTdata
+dce
+DiscoRhythm
+doppelgangR
+enrichplot
+GenomicAlignments
+MODA
+POMA
+RegEnrich
+SVMDO
