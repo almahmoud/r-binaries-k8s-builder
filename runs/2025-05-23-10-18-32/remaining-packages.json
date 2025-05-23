@@ -735,7 +735,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -779,7 +778,6 @@
     "scater",
     "scuttle"
   ],
-  "MACSr": [],
   "MADSEQ": [
     "BSgenome",
     "VariantAnnotation",
@@ -1161,7 +1159,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1600,7 +1597,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -1638,7 +1634,6 @@
     "MSnbase",
     "pRoloc"
   ],
-  "basecallQC": [],
   "batchelor": [
     "scuttle"
   ],
@@ -1911,16 +1906,13 @@
   "crisprDesign": [
     "BSgenome",
     "crisprBowtie",
-    "crisprScore",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "crisprScore": [],
   "crisprShiny": [
     "BSgenome",
     "crisprDesign",
-    "crisprScore",
     "crisprViz",
     "crisprBowtie",
     "GenomicFeatures",
@@ -1932,7 +1924,6 @@
   ],
   "crisprVerse": [
     "crisprBowtie",
-    "crisprScore",
     "crisprDesign",
     "crisprViz",
     "BSgenome",
@@ -1950,7 +1941,6 @@
     "Gviz",
     "txdbmaker",
     "crisprBowtie",
-    "crisprScore",
     "VariantAnnotation",
     "ensembldb",
     "biovizBase"
@@ -2555,7 +2545,6 @@
     "bumphunter"
   ],
   "miQC": [],
-  "miRLAB": [],
   "miRSM": [],
   "miRspongeR": [],
   "mia": [
@@ -2710,7 +2699,6 @@
     "SpatialExperiment"
   ],
   "normr": [],
-  "nucleR": [],
   "nullranges": [
     "plyranges"
   ],
@@ -3066,7 +3054,6 @@
     "scater",
     "scuttle"
   ],
-  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "GenomicFeatures"
