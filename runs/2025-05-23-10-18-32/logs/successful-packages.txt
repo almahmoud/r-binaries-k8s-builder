@@ -1425,3 +1425,9 @@ enrichViewNet
 meshes
 ShortRead
 VplotR
+clusterProfiler
+DEXSeq
+mosaics
+MsExperiment
+ramwas
+TDbasedUFEadv
