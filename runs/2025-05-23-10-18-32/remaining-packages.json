@@ -52,7 +52,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -210,7 +209,6 @@
     "scuttle"
   ],
   "BiocHubsShiny": [],
-  "BiocSet": [],
   "BiocSklearn": [],
   "BloodGen3Module": [],
   "BreastSubtypeR": [],
@@ -576,15 +574,11 @@
     "SingleCellExperiment"
   ],
   "CytoMDS": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
-  "CytoPipeline": [
-    "PeacoQC"
-  ],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "PeacoQC"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -918,7 +912,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "ShortRead",
     "GenomicFeatures",
@@ -1074,7 +1067,6 @@
     "BSgenome"
   ],
   "GenomicSuperSignature": [],
-  "GeoTcgaData": [],
   "Glimma": [],
   "GloScope": [
     "SingleCellExperiment"
@@ -1225,9 +1217,7 @@
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
-  "LymphoSeq": [
-    "msa"
-  ],
+  "LymphoSeq": [],
   "M3Drop": [
     "scater",
     "SingleCellExperiment",
@@ -1317,7 +1307,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer",
@@ -1627,9 +1616,7 @@
     "GOSemSim"
   ],
   "PathoStat": [],
-  "PeacoQC": [],
   "PepSetTest": [],
-  "PhIPData": [],
   "PharmacoGx": [
     "CoreGx"
   ],
@@ -1897,7 +1884,6 @@
     "GOSemSim"
   ],
   "RegEnrich": [
-    "BiocSet",
     "DOSE",
     "GOSemSim"
   ],
@@ -2591,9 +2577,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
@@ -3741,7 +3725,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "keggorthology": [],
   "kissDE": [
     "DSS",
     "bsseq",
@@ -4088,7 +4071,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "msa": [],
   "msgbsR": [
     "BSgenome",
     "easyRNASeq",
@@ -4211,9 +4193,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "odseq": [
-    "msa"
-  ],
+  "odseq": [],
   "omXplore": [
     "MSnbase",
     "PSMatch"
@@ -4647,7 +4627,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scMultiSim": [],
   "scPipe": [
     "SingleCellExperiment",
     "DropletUtils",
@@ -4963,9 +4942,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "sparrow": [
-    "BiocSet"
-  ],
+  "sparrow": [],
   "spatialDE": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -5060,9 +5037,7 @@
     "rtracklayer"
   ],
   "structToolbox": [],
-  "surfaltr": [
-    "msa"
-  ],
+  "surfaltr": [],
   "svaNUMT": [
     "rtracklayer",
     "VariantAnnotation",

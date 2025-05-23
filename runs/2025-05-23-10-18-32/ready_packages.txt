@@ -1,3 +1,6 @@
-MetMashR
-metabolomicsWorkbenchR
-structToolbox
+CytoPipeline
+LymphoSeq
+beer
+odseq
+sparrow
+surfaltr

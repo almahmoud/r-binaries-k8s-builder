@@ -1310,3 +1310,12 @@ pgxRpi
 runibic
 struct
 systemPipeTools
+AffiXcan
+BiocSet
+GeoTcgaData
+keggorthology
+MLSeq
+msa
+PeacoQC
+PhIPData
+scMultiSim
