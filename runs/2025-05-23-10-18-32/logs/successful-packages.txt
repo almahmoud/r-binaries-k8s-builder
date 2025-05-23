@@ -923,3 +923,16 @@ affylmGUI
 alabaster.ranges
 biomaRt
 TnT
+annaffy
+apComplex
+BioNAR
+ccmap
+csdR
+GOexpress
+IMMAN
+LinTInd
+MethTargetedNGS
+MSA2dist
+QSutils
+Rsamtools
+scrapper
