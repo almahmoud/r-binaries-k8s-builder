@@ -346,7 +346,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CNTools": [],
   "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
@@ -1552,7 +1551,6 @@
   "MWASTools": [],
   "MatrixQCvis": [
     "ExperimentHub",
-    "proDA",
     "sva"
   ],
   "MatrixRider": [
@@ -2301,7 +2299,6 @@
   "SCnorm": [
     "SingleCellExperiment"
   ],
-  "SDAMS": [],
   "SEraster": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -3127,9 +3124,7 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cghMCR": [
-    "CNTools"
-  ],
+  "cghMCR": [],
   "chevreulPlot": [
     "SingleCellExperiment",
     "chevreulProcess",
@@ -4744,7 +4739,6 @@
     "sva"
   ],
   "omicsPrint": [],
-  "ontoProc": [],
   "oppar": [
     "GSVA",
     "SingleCellExperiment",
@@ -4872,9 +4866,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"
@@ -4912,7 +4904,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -5742,9 +5733,7 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terapadog": [
     "DESeq2"
   ],
