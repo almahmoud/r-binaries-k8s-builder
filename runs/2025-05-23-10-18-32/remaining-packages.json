@@ -218,7 +218,6 @@
     "Rhdf5lib",
     "Biostrings"
   ],
-  "ANCOMBC": [],
   "ANF": [
     "Biobase",
     "BiocGenerics"
@@ -569,14 +568,11 @@
     "SparseArray",
     "ProtGenerics"
   ],
-  "AlphaBeta": [],
   "AlphaMissenseR": [],
   "AlpsNMR": [
     "mixOmics",
     "impute"
   ],
-  "AnVILPublish": [],
-  "AnVILWorkflow": [],
   "Anaquin": [
     "qvalue",
     "DESeq2",
@@ -3227,7 +3223,6 @@
   "ChemmineR": [
     "BiocGenerics"
   ],
-  "Chicago": [],
   "ChromHeatMap": [
     "BiocGenerics",
     "annotate",
@@ -3696,7 +3691,6 @@
     "RProtoBufLib",
     "Rhdf5lib"
   ],
-  "CytoGLMM": [],
   "CytoMDS": [
     "Biobase",
     "flowCore",
@@ -18063,7 +18057,6 @@
     "ALDEx2",
     "SummarizedExperiment",
     "MAST",
-    "ANCOMBC",
     "microbiome",
     "mixOmics",
     "NOISeq",
@@ -18259,7 +18252,6 @@
   "biocroxytest": [],
   "biocthis": [],
   "biodbChebi": [],
-  "biodbHmdb": [],
   "biodbNcbi": [],
   "biodbNci": [],
   "biodbUniprot": [],
@@ -21313,7 +21305,6 @@
     "GenomeInfoDb",
     "IRanges",
     "SummarizedExperiment",
-    "demuxmix",
     "GenomicRanges",
     "GenomicFeatures",
     "AnnotationFilter",
@@ -21334,7 +21325,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "demuxmix": [],
   "densvis": [
     "basilisk",
     "dir.expiry",
@@ -21748,7 +21738,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "drawProteins": [],
   "dreamlet": [
     "variancePartition",
     "SingleCellExperiment",
@@ -22290,7 +22279,6 @@
   ],
   "epistasisGA": [],
   "epivizr": [
-    "epivizrServer",
     "epivizrData",
     "GenomicRanges",
     "S4Vectors",
@@ -22326,7 +22314,6 @@
   ],
   "epivizrChart": [
     "epivizrData",
-    "epivizrServer",
     "BiocGenerics",
     "Biobase",
     "S4Vectors",
@@ -22358,7 +22345,6 @@
     "biomaRt"
   ],
   "epivizrData": [
-    "epivizrServer",
     "Biobase",
     "S4Vectors",
     "GenomicRanges",
@@ -22389,10 +22375,8 @@
     "BiocIO",
     "biomaRt"
   ],
-  "epivizrServer": [],
   "epivizrStandalone": [
     "epivizr",
-    "epivizrServer",
     "GenomeInfoDb",
     "BiocGenerics",
     "GenomicFeatures",
@@ -22667,7 +22651,6 @@
     "rtracklayer",
     "S4Vectors",
     "wiggleplotr",
-    "drawProteins",
     "XVector",
     "UCSC.utils",
     "AnnotationDbi",
@@ -22758,7 +22741,6 @@
     "BiocGenerics",
     "graph"
   ],
-  "fenr": [],
   "ffpe": [
     "Biobase",
     "BiocGenerics",
@@ -24437,7 +24419,6 @@
     "SparseArray"
   ],
   "hierGWAS": [],
-  "hierinf": [],
   "hipathia": [
     "AnnotationHub",
     "MultiAssayExperiment",
@@ -24526,8 +24507,6 @@
     "graph",
     "BiocGenerics"
   ],
-  "iASeq": [],
-  "iBBiG": [],
   "iBMQ": [
     "Biobase",
     "BiocGenerics"
@@ -26750,7 +26729,6 @@
   ],
   "miRSM": [
     "fabia",
-    "iBBiG",
     "BicARE",
     "rqubic",
     "Biobase",
@@ -27767,7 +27745,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "multiClust": [],
   "multiGSEA": [
     "graphite",
     "AnnotationDbi",
@@ -28112,7 +28089,6 @@
     "S4Vectors",
     "RProtoBufLib"
   ],
-  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -32032,7 +32008,6 @@
     "S4Vectors",
     "scran",
     "epivizrData",
-    "epivizrServer",
     "scater",
     "SingleCellExperiment",
     "GenomicRanges",
@@ -33089,7 +33064,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "similaRpeak": [],
   "simona": [
     "S4Vectors",
     "ComplexHeatmap",
@@ -34684,7 +34658,6 @@
     "S4Arrays",
     "SparseArray"
   ],
-  "tidysbml": [],
   "tidytof": [
     "flowCore",
     "Biobase",
@@ -34755,7 +34728,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "tomoseqr": [],
   "topGO": [
     "BiocGenerics",
     "graph",
@@ -35146,7 +35118,6 @@
     "GenomeInfoDb",
     "UCSC.utils"
   ],
-  "tripr": [],
   "ttgsea": [],
   "tweeDEseq": [
     "limma",
