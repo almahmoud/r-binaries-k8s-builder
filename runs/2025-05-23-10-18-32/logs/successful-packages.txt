@@ -674,3 +674,12 @@ scBubbletree
 stepNorm
 TargetDecoy
 TMixClust
+anota
+CellMapper
+cellmigRation
+DEGseq
+factDesign
+fedup
+RTopper
+simona
+uSORT

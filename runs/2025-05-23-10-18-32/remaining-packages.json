@@ -1604,7 +1604,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "CellMapper": [],
   "CellMixS": [
     "scater",
     "SummarizedExperiment",
@@ -2275,7 +2274,6 @@
     "SparseArray",
     "XVector"
   ],
-  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "SummarizedExperiment",
@@ -7468,7 +7466,6 @@
     "SparseArray",
     "XVector"
   ],
-  "RTopper": [],
   "RUCova": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10229,7 +10226,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "anota": [],
   "anota2seq": [
     "DESeq2",
     "SummarizedExperiment",
@@ -11198,7 +11194,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "cellmigRation": [],
   "censcyt": [
     "diffcyt",
     "SummarizedExperiment",
@@ -13377,7 +13372,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "factDesign": [],
   "factR": [
     "Biostrings",
     "GenomeInfoDb",
@@ -13437,7 +13431,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "fedup": [],
   "ffpe": [
     "affy",
     "lumi",
@@ -19434,7 +19427,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "simona": [],
   "simpleSeg": [
     "SummarizedExperiment",
     "cytomapper",
@@ -19450,7 +19442,6 @@
     "h5mread"
   ],
   "simplifyEnrichment": [
-    "simona",
     "AnnotationDbi",
     "KEGGREST",
     "Biostrings",
@@ -20257,7 +20248,6 @@
     "SparseArray"
   ],
   "tRanslatome": [
-    "anota",
     "DESeq2",
     "topGO",
     "GOSemSim",
@@ -20738,7 +20728,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",
