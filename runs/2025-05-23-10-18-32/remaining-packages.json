@@ -1862,7 +1862,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
     "SparseArray"
@@ -1871,16 +1870,13 @@
     "flowWorkspace",
     "openCyto",
     "ggcyto",
-    "ncdfFlow",
     "DelayedArray",
-    "flowViz",
     "flowClust",
     "SparseArray"
   ],
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
     "SparseArray"
@@ -1889,7 +1885,6 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
     "SparseArray"
@@ -3243,8 +3238,7 @@
     "Biostrings"
   ],
   "GateFinder": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "GeDi": [
     "GOSemSim",
@@ -5047,10 +5041,7 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MsBackendMassbank": [],
   "MsBackendMetaboLights": [],
-  "MsBackendMgf": [],
-  "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
   "MsDataHub": [
@@ -5711,7 +5702,6 @@
   ],
   "PeacoQC": [
     "flowWorkspace",
-    "ncdfFlow",
     "DelayedArray",
     "SparseArray"
   ],
@@ -6449,10 +6439,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "RcwlPipelines": [],
-  "ReUseData": [
-    "RcwlPipelines"
-  ],
+  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular",
     "SummarizedExperiment",
@@ -10418,10 +10405,8 @@
   ],
   "cyanoFilter": [
     "flowDensity",
-    "flowClust",
-    "flowViz"
+    "flowClust"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10556,8 +10541,7 @@
     "GenomeInfoDb"
   ],
   "ddPCRclust": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
   "debCAM": [
     "SummarizedExperiment",
@@ -11489,24 +11473,17 @@
     "AnnotationFilter"
   ],
   "flowBin": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "flowClust": [],
   "flowCut": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
-  "flowDensity": [
-    "flowViz"
-  ],
-  "flowFP": [
-    "flowViz"
-  ],
+  "flowDensity": [],
+  "flowFP": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
-    "ncdfFlow",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11515,26 +11492,19 @@
   ],
   "flowStats": [
     "flowWorkspace",
-    "ncdfFlow",
-    "flowViz",
     "DelayedArray",
     "SparseArray"
   ],
   "flowTrans": [
-    "flowViz",
     "flowClust"
   ],
   "flowVS": [
-    "flowViz",
     "flowStats",
     "flowWorkspace",
-    "ncdfFlow",
     "DelayedArray",
     "SparseArray"
   ],
-  "flowViz": [],
   "flowWorkspace": [
-    "ncdfFlow",
     "DelayedArray",
     "SparseArray"
   ],
@@ -11854,7 +11824,6 @@
     "biomaRt"
   ],
   "ggcyto": [
-    "ncdfFlow",
     "flowWorkspace",
     "DelayedArray",
     "SparseArray"
@@ -14007,7 +13976,6 @@
     "GenomicRanges",
     "GenomeInfoDb"
   ],
-  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -14260,8 +14228,6 @@
     "Biostrings"
   ],
   "openCyto": [
-    "flowViz",
-    "ncdfFlow",
     "flowWorkspace",
     "flowClust",
     "DelayedArray",
@@ -14302,7 +14268,6 @@
     "GenomeInfoDb",
     "Biostrings"
   ],
-  "optimalFlow": [],
   "orthogene": [
     "DelayedArray",
     "SparseArray"
@@ -17293,7 +17258,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tidyFlowCore": [],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",

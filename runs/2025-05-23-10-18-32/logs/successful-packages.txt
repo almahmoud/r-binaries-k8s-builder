@@ -774,3 +774,12 @@ Rcwl
 snifter
 Spectra
 XVector
+cycle
+flowViz
+MsBackendMassbank
+MsBackendMgf
+MsBackendMsp
+ncdfFlow
+optimalFlow
+RcwlPipelines
+tidyFlowCore
