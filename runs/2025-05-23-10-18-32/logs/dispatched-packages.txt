@@ -781,3 +781,6 @@ SIMD
 optimalFlow
 pvca
 MMUPHin
+basilisk
+mnem
+tkWidgets

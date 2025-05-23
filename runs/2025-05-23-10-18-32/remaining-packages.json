@@ -233,8 +233,7 @@
     "S4Arrays",
     "SparseArray",
     "AnnotationFilter",
-    "h5mread",
-    "DirichletMultinomial"
+    "h5mread"
   ],
   "ATACseqTFEA": [
     "GenomicRanges",
@@ -251,7 +250,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "AUCell": [
@@ -800,7 +798,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "KEGGREST",
-    "basilisk.utils",
     "GenomicRanges",
     "XVector",
     "GenomeInfoDb",
@@ -916,8 +913,7 @@
     "ScaledMatrix"
   ],
   "BiocHail": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "BiocHubsShiny": [
     "AnnotationHub",
@@ -946,7 +942,6 @@
   "BiocSklearn": [
     "SummarizedExperiment",
     "basilisk",
-    "basilisk.utils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -2441,8 +2436,7 @@
     "h5mread"
   ],
   "DNAcycP2": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "DNAfusion": [
     "bamsignals",
@@ -2728,7 +2722,6 @@
     "SparseArray",
     "XVector"
   ],
-  "DirichletMultinomial": [],
   "DiscoRhythm": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2824,7 +2817,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "DynDoc": [],
   "EBSEA": [
     "DESeq2",
     "GenomicRanges",
@@ -2933,7 +2925,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "txdbmaker",
-    "basilisk.utils",
     "GenomeInfoDb",
     "AnnotationDbi",
     "XVector",
@@ -3244,7 +3235,6 @@
     "scuttle",
     "scran",
     "BSgenome",
-    "basilisk.utils",
     "XVector",
     "DelayedArray",
     "DelayedMatrixStats",
@@ -4326,7 +4316,6 @@
     "GenomicRanges",
     "InteractionSet",
     "basilisk",
-    "basilisk.utils",
     "GenomeInfoDb",
     "XVector",
     "SummarizedExperiment",
@@ -4789,7 +4778,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "Linnorm": [],
   "LiquidAssociation": [
     "AnnotationDbi",
     "KEGGREST",
@@ -4835,7 +4823,6 @@
     "ExperimentHub",
     "AnnotationHub",
     "AnnotationDbi",
-    "basilisk.utils",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -5099,7 +5086,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -5216,7 +5202,6 @@
     "HDF5Array",
     "DelayedArray",
     "basilisk",
-    "basilisk.utils",
     "S4Arrays",
     "SparseArray",
     "h5mread",
@@ -5447,7 +5432,6 @@
     "GenomeInfoDb",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -5590,7 +5574,6 @@
     "Biostrings",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "rtracklayer",
     "KEGGREST",
     "Rsamtools",
@@ -5645,8 +5628,7 @@
     "SparseArray"
   ],
   "Mfuzz": [
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "MiRaGE": [
     "AnnotationDbi",
@@ -5951,8 +5933,7 @@
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
-    "XVector",
-    "DynDoc"
+    "XVector"
   ],
   "MultimodalExperiment": [
     "MultiAssayExperiment",
@@ -6036,8 +6017,7 @@
     "TFBSTools",
     "VariantAnnotation",
     "AnnotationFilter",
-    "h5mread",
-    "DirichletMultinomial"
+    "h5mread"
   ],
   "NBAMSeq": [
     "SummarizedExperiment",
@@ -6176,8 +6156,7 @@
     "SparseArray"
   ],
   "OLINgui": [
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "OMICsPCA": [
     "HelloRanges",
@@ -6697,7 +6676,6 @@
   "Pirat": [
     "basilisk",
     "SummarizedExperiment",
-    "basilisk.utils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -6948,7 +6926,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RBM": [],
   "RCAS": [
     "GenomicRanges",
     "BSgenome",
@@ -7075,7 +7052,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
-    "basilisk.utils",
     "SparseArray",
     "XVector",
     "h5mread",
@@ -7104,8 +7080,7 @@
     "GenomicAlignments",
     "basilisk",
     "SingleCellExperiment",
-    "SummarizedExperiment",
-    "basilisk.utils"
+    "SummarizedExperiment"
   ],
   "RJMCMCNucleosomes": [
     "GenomicRanges",
@@ -7483,19 +7458,16 @@
     "KEGGREST"
   ],
   "Rcwl": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "RcwlPipelines": [
     "Rcwl",
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "ReUseData": [
     "Rcwl",
     "RcwlPipelines",
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "ReactomeGSA": [
     "BiocSingular",
@@ -8379,7 +8351,6 @@
     "basilisk",
     "phyloseq",
     "SummarizedExperiment",
-    "basilisk.utils",
     "Biostrings",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -9002,7 +8973,6 @@
     "Biostrings",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomeInfoDb",
     "GenomicRanges",
     "rtracklayer",
@@ -10175,7 +10145,6 @@
     "TFBSTools",
     "GenomicAlignments",
     "pwalign",
-    "DirichletMultinomial",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -10325,10 +10294,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "basilisk": [
-    "basilisk.utils"
-  ],
-  "basilisk.utils": [],
+  "basilisk": [],
   "batchelor": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10676,7 +10642,6 @@
     "epiNEM",
     "mnem",
     "sva",
-    "Linnorm",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -10947,8 +10912,7 @@
     "GenomicAlignments"
   ],
   "cbpManager": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "ccImpute": [
     "SingleCellExperiment",
@@ -11047,7 +11011,6 @@
   "cfTools": [
     "GenomicRanges",
     "basilisk",
-    "basilisk.utils",
     "ExperimentHub",
     "GenomeInfoDb",
     "XVector",
@@ -11253,7 +11216,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -11837,7 +11799,6 @@
     "XVector",
     "Rsamtools",
     "basilisk",
-    "basilisk.utils",
     "GenomicAlignments",
     "biomaRt",
     "SummarizedExperiment",
@@ -11849,7 +11810,6 @@
   ],
   "crisprScore": [
     "basilisk",
-    "basilisk.utils",
     "Biostrings",
     "XVector",
     "GenomeInfoDb",
@@ -11877,7 +11837,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "basilisk",
-    "basilisk.utils",
     "Gviz",
     "KEGGREST",
     "ExperimentHub",
@@ -11908,7 +11867,6 @@
     "txdbmaker",
     "VariantAnnotation",
     "basilisk",
-    "basilisk.utils",
     "XVector",
     "ExperimentHub",
     "AnnotationHub",
@@ -11950,7 +11908,6 @@
     "SummarizedExperiment",
     "AnnotationFilter",
     "basilisk",
-    "basilisk.utils",
     "ExperimentHub",
     "AnnotationHub",
     "S4Arrays",
@@ -12071,8 +12028,7 @@
   ],
   "cycle": [
     "Mfuzz",
-    "tkWidgets",
-    "DynDoc"
+    "tkWidgets"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -12173,7 +12129,6 @@
     "KEGGREST",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -12209,7 +12164,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "XVector",
@@ -12226,7 +12180,6 @@
     "mnem",
     "graphite",
     "AnnotationDbi",
-    "Linnorm",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -12378,8 +12331,7 @@
     "GenomicAlignments"
   ],
   "densvis": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "derfinder": [
     "AnnotationDbi",
@@ -12746,7 +12698,6 @@
     "GenomicAlignments",
     "S4Arrays",
     "DelayedArray",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "enrichViewNet": [
@@ -12786,8 +12737,7 @@
     "SparseArray"
   ],
   "epiNEM": [
-    "mnem",
-    "Linnorm"
+    "mnem"
   ],
   "epialleleR": [
     "GenomicRanges",
@@ -12906,7 +12856,6 @@
     "annotate",
     "h5mread",
     "pwalign",
-    "DirichletMultinomial",
     "GenomicAlignments"
   ],
   "epiregulon.extra": [
@@ -13077,7 +13026,6 @@
     "GOSemSim",
     "SummarizedExperiment",
     "pwalign",
-    "DirichletMultinomial",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -13326,7 +13274,6 @@
   "flowMerge": [
     "flowClust"
   ],
-  "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
     "ncdfFlow",
@@ -14217,7 +14164,6 @@
     "GenomicAlignments",
     "biomaRt"
   ],
-  "iPath": [],
   "iSEE": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -14314,7 +14260,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -14680,7 +14625,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "GenomicRanges",
@@ -15474,7 +15418,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scater",
     "scuttle",
     "XVector",
@@ -15500,7 +15443,6 @@
     "DECIPHER",
     "DelayedArray",
     "DelayedMatrixStats",
-    "DirichletMultinomial",
     "scuttle",
     "SparseArray",
     "beachmat",
@@ -15528,7 +15470,6 @@
     "SummarizedExperiment",
     "TreeSummarizedExperiment",
     "DelayedArray",
-    "DirichletMultinomial",
     "scater",
     "SingleCellExperiment",
     "S4Arrays",
@@ -15727,9 +15668,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "mnem": [
-    "Linnorm"
-  ],
+  "mnem": [],
   "moanin": [
     "SummarizedExperiment",
     "topGO",
@@ -15781,7 +15720,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -15829,7 +15767,6 @@
     "GenomeInfoDb",
     "pwalign",
     "BSgenome",
-    "DirichletMultinomial",
     "GenomicRanges",
     "rtracklayer",
     "Rsamtools",
@@ -15871,8 +15808,7 @@
     "DelayedArray",
     "KEGGREST",
     "AnnotationFilter",
-    "SparseArray",
-    "DirichletMultinomial"
+    "SparseArray"
   ],
   "motifcounter": [
     "Biostrings",
@@ -15892,7 +15828,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -16228,8 +16163,7 @@
   ],
   "nempi": [
     "mnem",
-    "epiNEM",
-    "Linnorm"
+    "epiNEM"
   ],
   "netSmooth": [
     "scater",
@@ -16496,7 +16430,6 @@
     "SummarizedExperiment",
     "basilisk",
     "AnnotationDbi",
-    "basilisk.utils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -16570,7 +16503,6 @@
     "ExperimentHub",
     "HDF5Array",
     "AnnotationDbi",
-    "basilisk.utils",
     "S4Arrays",
     "SparseArray",
     "h5mread",
@@ -16655,7 +16587,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "SparseArray",
     "GenomicAlignments"
   ],
@@ -17057,7 +16988,6 @@
     "SummarizedExperiment",
     "basilisk",
     "AnnotationDbi",
-    "basilisk.utils",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -17138,7 +17068,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "pwalign",
-    "DirichletMultinomial",
     "KEGGREST",
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -17630,7 +17559,6 @@
     "HDF5Array",
     "basilisk",
     "DelayedMatrixStats",
-    "basilisk.utils",
     "DelayedArray",
     "SparseArray",
     "h5mread",
@@ -17843,7 +17771,6 @@
     "pwalign",
     "S4Arrays",
     "DelayedArray",
-    "DirichletMultinomial",
     "SparseArray"
   ],
   "rifi": [
@@ -18356,7 +18283,6 @@
     "rtracklayer",
     "SummarizedExperiment",
     "KEGGREST",
-    "basilisk.utils",
     "XVector",
     "GenomeInfoDb",
     "SparseArray",
@@ -18586,7 +18512,6 @@
     "DECIPHER",
     "sangerseqR",
     "basilisk",
-    "basilisk.utils",
     "XVector",
     "GenomeInfoDb",
     "pwalign"
@@ -18772,7 +18697,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment",
     "scater",
-    "basilisk.utils",
     "scuttle",
     "SparseArray",
     "DelayedArray",
@@ -19196,7 +19120,6 @@
     "basilisk",
     "alabaster.ranges",
     "KEGGREST",
-    "basilisk.utils",
     "XVector",
     "h5mread",
     "GenomicAlignments"
@@ -19236,7 +19159,6 @@
   "sketchR": [
     "basilisk",
     "DelayedArray",
-    "basilisk.utils",
     "S4Arrays",
     "SparseArray",
     "XVector"
@@ -19335,8 +19257,7 @@
     "SparseArray"
   ],
   "snifter": [
-    "basilisk",
-    "basilisk.utils"
+    "basilisk"
   ],
   "soGGi": [
     "SummarizedExperiment",
@@ -19405,7 +19326,6 @@
     "basilisk",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "basilisk.utils",
     "SingleCellExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -19475,7 +19395,6 @@
     "S4Arrays",
     "DelayedArray",
     "pwalign",
-    "DirichletMultinomial",
     "KEGGREST",
     "SparseArray",
     "biomaRt",
@@ -19989,7 +19908,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "basilisk.utils",
     "SparseArray",
     "XVector",
     "Biostrings"
@@ -20120,9 +20038,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "tkWidgets": [
-    "DynDoc"
-  ],
+  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -20450,7 +20366,6 @@
     "scuttle",
     "SingleCellExperiment",
     "BiocSingular",
-    "basilisk.utils",
     "ScaledMatrix",
     "beachmat",
     "S4Arrays",
@@ -20789,7 +20704,6 @@
     "DelayedArray",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "basilisk.utils",
     "S4Arrays",
     "SparseArray",
     "GenomicRanges",

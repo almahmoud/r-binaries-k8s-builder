@@ -740,3 +740,10 @@ nucleoSim
 ppcseq
 pvca
 SIMD
+basilisk.utils
+DirichletMultinomial
+DynDoc
+flowSpecs
+iPath
+Linnorm
+RBM
