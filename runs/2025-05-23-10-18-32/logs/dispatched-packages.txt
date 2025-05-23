@@ -1332,3 +1332,6 @@ flowVS
 lipidr
 phenomis
 rqt
+CNVRanger
+GENESIS
+VariantExperiment

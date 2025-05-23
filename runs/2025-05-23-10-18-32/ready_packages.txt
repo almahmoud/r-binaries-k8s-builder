@@ -1,9 +1,3 @@
-ASICS
-CytoML
-HiCDOC
-MultiBaC
-biosigner
-flowVS
-lipidr
-phenomis
-rqt
+CNVRanger
+GENESIS
+VariantExperiment

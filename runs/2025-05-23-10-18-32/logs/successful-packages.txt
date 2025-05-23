@@ -1143,3 +1143,16 @@ PREDA
 ropls
 scoup
 SingleR
+GBScleanR
+GDSArray
+ggmanh
+HiContacts
+Lheuristic
+LRBaseDbi
+memes
+procoil
+rSWeeP
+SAIGEgds
+sampleClassifier
+SeqVarTools
+TDbasedUFE

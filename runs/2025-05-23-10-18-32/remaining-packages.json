@@ -361,9 +361,7 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVRanger": [
-    "GDSArray"
-  ],
+  "CNVRanger": [],
   "CNVfilteR": [
     "regioneR",
     "karyoploteR",
@@ -1070,7 +1068,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1079,10 +1076,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GDSArray": [],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
@@ -1317,7 +1311,6 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1436,11 +1429,9 @@
     "QFeatures",
     "PSMatch"
   ],
-  "LRBaseDbi": [],
   "LRcell": [
     "ExperimentHub"
   ],
-  "Lheuristic": [],
   "LimROTS": [],
   "LinkHD": [],
   "LiquidAssociation": [],
@@ -1741,8 +1732,7 @@
   "MotifPeeker": [
     "rtracklayer",
     "GenomicAlignments",
-    "BSgenome",
-    "memes"
+    "BSgenome"
   ],
   "MsDataHub": [
     "ExperimentHub"
@@ -2048,7 +2038,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqVarTools",
     "GenomicAlignments"
   ],
   "RCAS": [
@@ -2357,7 +2346,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "plyranges",
     "GenomicFeatures",
@@ -2480,7 +2468,6 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -2636,9 +2623,7 @@
   "TCseq": [
     "GenomicAlignments"
   ],
-  "TDbasedUFE": [],
   "TDbasedUFEadv": [
-    "TDbasedUFE",
     "enrichplot",
     "DOSE",
     "GOSemSim"
@@ -2801,9 +2786,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -4093,7 +4076,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4469,7 +4451,6 @@
   "mbkmeans": [
     "SingleCellExperiment"
   ],
-  "memes": [],
   "meshes": [
     "DOSE",
     "enrichplot",
@@ -5112,7 +5093,6 @@
     "GenomicAlignments"
   ],
   "proDA": [],
-  "procoil": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -5207,7 +5187,6 @@
     "GenomicAlignments"
   ],
   "rGenomeTracks": [],
-  "rSWeeP": [],
   "rScudo": [],
   "rTRMui": [
     "MotifDb",
@@ -5347,7 +5326,6 @@
     "graphite"
   ],
   "safe": [],
-  "sampleClassifier": [],
   "sangeranalyseR": [],
   "sarks": [],
   "saseR": [
