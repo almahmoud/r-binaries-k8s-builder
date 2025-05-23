@@ -5906,7 +5906,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular",
     "SummarizedExperiment",
