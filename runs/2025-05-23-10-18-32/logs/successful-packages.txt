@@ -1180,3 +1180,11 @@ pmp
 qmtools
 regsplice
 VariantExperiment
+CAEN
+GENESIS
+GOfuncR
+sarks
+screenCounter
+snapcount
+sRACIPE
+ssPATHS

@@ -269,7 +269,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -1068,7 +1067,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "GEOquery",
@@ -1091,7 +1089,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GOfuncR": [],
   "GOpro": [],
   "GOstats": [
     "Category",
@@ -2020,7 +2017,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "VariantAnnotation",
@@ -5287,13 +5283,11 @@
     "GenomicAlignments"
   ],
   "runibic": [],
-  "sRACIPE": [],
   "sSNAPPY": [
     "graphite"
   ],
   "safe": [],
   "sangeranalyseR": [],
-  "sarks": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -5506,7 +5500,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "screenCounter": [],
   "scruff": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5712,7 +5705,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "snapcount": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
@@ -5815,7 +5807,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "stJoincount": [
     "SpatialExperiment",
     "SingleCellExperiment"
