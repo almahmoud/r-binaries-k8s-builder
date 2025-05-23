@@ -89,7 +89,6 @@
     "GenomicFeatures"
   ],
   "BEAT": [
-    "ShortRead",
     "BSgenome",
     "rtracklayer"
   ],
@@ -305,9 +304,7 @@
   "CeTF": [
     "clusterProfiler"
   ],
-  "CellBarcode": [
-    "ShortRead"
-  ],
+  "CellBarcode": [],
   "CellBench": [],
   "CellMixS": [
     "scater",
@@ -352,7 +349,6 @@
     "DiffBind",
     "chipseq",
     "GenomicFeatures",
-    "ShortRead",
     "systemPipeR",
     "GreyListChIP",
     "rtracklayer",
@@ -384,12 +380,8 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ChIPseqR": [
-    "ShortRead"
-  ],
-  "ChIPsim": [
-    "ShortRead"
-  ],
+  "ChIPseqR": [],
+  "ChIPsim": [],
   "ChromHeatMap": [
     "rtracklayer"
   ],
@@ -401,7 +393,6 @@
     "scuttle"
   ],
   "CircSeqAlignTk": [
-    "ShortRead",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -503,7 +494,6 @@
   ],
   "DaMiRseq": [
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -549,8 +539,7 @@
     "systemPipeR",
     "GreyListChIP",
     "BSgenome",
-    "rtracklayer",
-    "ShortRead"
+    "rtracklayer"
   ],
   "DifferentialRegulation": [],
   "Dino": [
@@ -579,7 +568,6 @@
     "VariantAnnotation"
   ],
   "EDASeq": [
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -682,9 +670,7 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "FastqCleaner": [
-    "ShortRead"
-  ],
+  "FastqCleaner": [],
   "FeatSeekR": [],
   "FindIT2": [
     "rtracklayer",
@@ -706,7 +692,6 @@
   "GARS": [
     "DaMiRseq",
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -722,7 +707,6 @@
   ],
   "GOTHiC": [
     "BSgenome",
-    "ShortRead",
     "rtracklayer"
   ],
   "GRaNIE": [
@@ -892,9 +876,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "IONiseR": [
-    "ShortRead"
-  ],
+  "IONiseR": [],
   "IPO": [
     "xcms",
     "CAMERA",
@@ -1199,9 +1181,7 @@
     "rtracklayer",
     "txdbmaker"
   ],
-  "OTUbase": [
-    "ShortRead"
-  ],
+  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker",
@@ -1292,7 +1272,6 @@
     "BSgenome",
     "GenomicFeatures",
     "txdbmaker",
-    "ShortRead",
     "rtracklayer",
     "GenomicFiles",
     "VariantAnnotation"
@@ -1311,7 +1290,6 @@
   "R453Plus1Toolbox": [
     "VariantAnnotation",
     "BSgenome",
-    "ShortRead",
     "rtracklayer",
     "GenomicFeatures"
   ],
@@ -1425,9 +1403,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [
-    "ShortRead"
-  ],
+  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures",
@@ -1436,7 +1412,6 @@
   "RUCova": [],
   "RUVSeq": [
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -1448,8 +1423,7 @@
     "rtracklayer"
   ],
   "Rbec": [
-    "dada2",
-    "ShortRead"
+    "dada2"
   ],
   "RbowtieCuda": [],
   "ReactomePA": [],
@@ -1534,7 +1508,6 @@
     "BSgenome"
   ],
   "Rqc": [
-    "ShortRead",
     "biovizBase",
     "GenomicFiles",
     "GenomicFeatures",
@@ -1611,7 +1584,6 @@
   ],
   "SeqGSEA": [],
   "SeqSQC": [],
-  "ShortRead": [],
   "SiPSiC": [],
   "SigsPack": [
     "BSgenome",
@@ -1631,7 +1603,6 @@
     "rtracklayer",
     "GenomicFeatures",
     "txdbmaker",
-    "ShortRead",
     "GenomicFiles",
     "VariantAnnotation"
   ],
@@ -1775,7 +1746,6 @@
   "TreeSummarizedExperiment": [],
   "UCell": [],
   "UMI4Cats": [
-    "ShortRead",
     "regioneR",
     "BSgenome",
     "GenomicFeatures",
@@ -1855,7 +1825,6 @@
     "DropletUtils",
     "scuttle"
   ],
-  "VplotR": [],
   "XNAString": [
     "BSgenome",
     "rtracklayer"
@@ -1936,9 +1905,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [
-    "ShortRead"
-  ],
+  "amplican": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -1986,9 +1953,7 @@
     "pRoloc",
     "PSMatch"
   ],
-  "basecallQC": [
-    "ShortRead"
-  ],
+  "basecallQC": [],
   "batchelor": [
     "scuttle"
   ],
@@ -2064,7 +2029,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "breakpointR": [],
   "broadSeq": [
     "clusterProfiler"
   ],
@@ -2180,9 +2144,7 @@
   "chipenrich": [
     "rtracklayer"
   ],
-  "chipseq": [
-    "ShortRead"
-  ],
+  "chipseq": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome",
@@ -2276,7 +2238,6 @@
     "ensembldb",
     "GenomicFeatures",
     "RUVSeq",
-    "ShortRead",
     "rtracklayer"
   ],
   "consensusOV": [
@@ -2401,9 +2362,7 @@
     "cytomapper",
     "SpatialExperiment"
   ],
-  "dada2": [
-    "ShortRead"
-  ],
+  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -2517,9 +2476,7 @@
     "rtracklayer"
   ],
   "easier": [],
-  "easyRNASeq": [
-    "ShortRead"
-  ],
+  "easyRNASeq": [],
   "easylift": [
     "rtracklayer"
   ],
@@ -2529,7 +2486,6 @@
     "rtracklayer",
     "TFBSTools"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer"
@@ -2613,7 +2569,6 @@
     "BSgenome"
   ],
   "esATAC": [
-    "ShortRead",
     "pipeFrame",
     "rtracklayer",
     "ChIPseeker",
@@ -2740,9 +2695,7 @@
   "ggspavis": [
     "SpatialExperiment"
   ],
-  "girafe": [
-    "ShortRead"
-  ],
+  "girafe": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2861,7 +2814,6 @@
   ],
   "icetea": [
     "GenomicFeatures",
-    "ShortRead",
     "rtracklayer",
     "VariantAnnotation",
     "BSgenome"
@@ -2994,7 +2946,6 @@
   ],
   "mastR": [],
   "mbkmeans": [],
-  "meshes": [],
   "metaMS": [
     "CAMERA",
     "xcms",
@@ -3012,7 +2963,6 @@
     "rtracklayer",
     "txdbmaker",
     "bsseq",
-    "ShortRead",
     "BSgenome"
   ],
   "methInheritSim": [
@@ -3195,7 +3145,6 @@
     "GenomicFeatures",
     "ggbio",
     "rtracklayer",
-    "ShortRead",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -3276,9 +3225,7 @@
   "normr": [
     "rtracklayer"
   ],
-  "nucleR": [
-    "ShortRead"
-  ],
+  "nucleR": [],
   "nullranges": [
     "plyranges",
     "rtracklayer"
@@ -3287,7 +3234,6 @@
     "RUVSeq",
     "EDASeq",
     "GSVA",
-    "ShortRead",
     "GenomicFeatures",
     "SpatialExperiment",
     "rtracklayer"
@@ -3413,8 +3359,7 @@
     "GenomicFeatures",
     "rGREAT",
     "rtracklayer",
-    "chipseq",
-    "ShortRead"
+    "chipseq"
   ],
   "projectR": [],
   "psichomics": [
@@ -3540,7 +3485,6 @@
     "rtracklayer",
     "RUVSeq",
     "txdbmaker",
-    "ShortRead",
     "TFBSTools"
   ],
   "rifi": [
@@ -3682,7 +3626,6 @@
   "scone": [
     "RUVSeq",
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3699,7 +3642,6 @@
   "scruff": [
     "GenomicFeatures",
     "txdbmaker",
-    "ShortRead",
     "ggbio",
     "rtracklayer",
     "biovizBase",
@@ -3714,9 +3656,7 @@
     "scater",
     "scuttle"
   ],
-  "segmentSeq": [
-    "ShortRead"
-  ],
+  "segmentSeq": [],
   "segmenter": [
     "ChIPseeker",
     "GenomicFeatures",
@@ -3755,7 +3695,6 @@
     "SpatialExperiment",
     "RUVSeq",
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3844,8 +3783,7 @@
   ],
   "soGGi": [
     "rtracklayer",
-    "chipseq",
-    "ShortRead"
+    "chipseq"
   ],
   "sosta": [
     "SpatialExperiment"
@@ -3924,7 +3862,6 @@
     "SpatialExperiment",
     "RUVSeq",
     "EDASeq",
-    "ShortRead",
     "GenomicFeatures",
     "rtracklayer"
   ],
@@ -3954,9 +3891,7 @@
   "syntenet": [
     "rtracklayer"
   ],
-  "systemPipeR": [
-    "ShortRead"
-  ],
+  "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4021,8 +3956,7 @@
   "transcriptR": [
     "chipseq",
     "GenomicFeatures",
-    "rtracklayer",
-    "ShortRead"
+    "rtracklayer"
   ],
   "transformGamPoi": [
     "glmGamPoi"
@@ -4105,8 +4039,7 @@
     "ensembldb",
     "systemPipeR",
     "GreyListChIP",
-    "BSgenome",
-    "ShortRead"
+    "BSgenome"
   ],
   "waddR": [],
   "wateRmelon": [

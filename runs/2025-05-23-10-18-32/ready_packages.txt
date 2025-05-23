@@ -1,0 +1,16 @@
+CellBarcode
+ChIPseqR
+ChIPsim
+FastqCleaner
+IONiseR
+OTUbase
+RSVSim
+amplican
+basecallQC
+chipseq
+dada2
+easyRNASeq
+girafe
+nucleR
+segmentSeq
+systemPipeR
