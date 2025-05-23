@@ -797,3 +797,4 @@ MsBackendMetaboLights
 MsBackendRawFileReader
 MsBackendSql
 SpectraQL
+Biostrings
