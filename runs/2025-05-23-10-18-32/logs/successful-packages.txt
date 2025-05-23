@@ -819,3 +819,10 @@ flowCut
 GeneRegionScan
 SynExtend
 TileDBArray
+alabaster.string
+ggmsa
+MEDME
+PWMEnrich
+rhdf5client
+Structstrings
+transomics2cytoscape

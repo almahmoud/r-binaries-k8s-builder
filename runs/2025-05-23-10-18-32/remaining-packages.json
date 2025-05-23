@@ -1867,7 +1867,6 @@
     "GenomicRanges",
     "tRNAdbImport",
     "rtracklayer",
-    "Structstrings",
     "tRNA",
     "biomaRt",
     "Rsamtools",
@@ -3025,7 +3024,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "MEDME": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate"
@@ -3883,7 +3881,6 @@
     "AnnotationFilter",
     "GenomicRanges"
   ],
-  "PWMEnrich": [],
   "PanomiR": [
     "clusterProfiler",
     "GSEABase",
@@ -5148,7 +5145,6 @@
     "GenomicRanges",
     "diffcyt"
   ],
-  "Structstrings": [],
   "StructuralVariantAnnotation": [
     "GenomicRanges",
     "rtracklayer",
@@ -5793,7 +5789,6 @@
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
-    "alabaster.string",
     "alabaster.vcf",
     "alabaster.mae",
     "MultiAssayExperiment",
@@ -5873,11 +5868,9 @@
     "GenomicRanges",
     "HDF5Array"
   ],
-  "alabaster.string": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
     "alabaster.ranges",
@@ -8142,7 +8135,6 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10000,14 +9992,11 @@
     "AnnotationDbi",
     "DESeq2",
     "apeglm",
-    "rhdf5client",
     "phantasusLite",
     "SummarizedExperiment",
     "GenomicRanges"
   ],
-  "phantasusLite": [
-    "rhdf5client"
-  ],
+  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Category",
@@ -10528,7 +10517,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "rhdf5client": [],
   "rhinotypeR": [],
   "riboSeqR": [
     "GenomicRanges",
@@ -11781,19 +11769,16 @@
   ],
   "tRNA": [
     "GenomicRanges",
-    "Structstrings",
     "Modstrings"
   ],
   "tRNAdbImport": [
     "GenomicRanges",
     "Modstrings",
-    "Structstrings",
     "tRNA"
   ],
   "tRNAscanImport": [
     "GenomicRanges",
     "tRNA",
-    "Structstrings",
     "rtracklayer",
     "BSgenome",
     "Rsamtools",
@@ -11996,7 +11981,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "GenomicRanges",
     "BSgenome",
