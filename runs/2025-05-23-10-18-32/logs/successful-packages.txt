@@ -1163,3 +1163,12 @@ MultiBaC
 PADOG
 rqt
 simplifyEnrichment
+biosigner
+DelayedTensor
+HiCDOC
+lipidr
+multiWGCNA
+oncomix
+pathview
+phenomis
+SigFuge

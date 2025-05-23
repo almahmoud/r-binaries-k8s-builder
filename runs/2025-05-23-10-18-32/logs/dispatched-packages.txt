@@ -1336,3 +1336,4 @@ CNVRanger
 GENESIS
 VariantExperiment
 BLMA
+SBGNview

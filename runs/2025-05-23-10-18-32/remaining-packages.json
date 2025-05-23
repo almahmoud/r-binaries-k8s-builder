@@ -820,7 +820,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "DelayedTensor": [],
   "DiffBind": [
     "GenomicAlignments",
     "systemPipeR",
@@ -881,7 +880,6 @@
   ],
   "EGSEA": [
     "topGO",
-    "pathview",
     "GSVA",
     "safe",
     "SingleCellExperiment",
@@ -934,7 +932,6 @@
   ],
   "EnrichmentBrowser": [
     "graphite",
-    "pathview",
     "safe"
   ],
   "EpiCompare": [
@@ -1068,7 +1065,6 @@
     "DESeq2",
     "clusterProfiler",
     "DOSE",
-    "pathview",
     "enrichplot",
     "GOSemSim"
   ],
@@ -1114,7 +1110,6 @@
     "EnrichmentBrowser",
     "ExperimentHub",
     "graphite",
-    "pathview",
     "safe"
   ],
   "GSRI": [
@@ -1306,7 +1301,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -2346,9 +2340,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -2472,7 +2464,6 @@
     "MLInterfaces",
     "genefilter"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -3079,7 +3070,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "biosigner": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3625,7 +3615,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "GOSemSim",
     "genefilter"
   ],
@@ -3747,7 +3736,6 @@
     "zenith",
     "EnrichmentBrowser",
     "graphite",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -4364,7 +4352,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SingleCellExperiment",
@@ -4780,7 +4767,6 @@
     "graphite"
   ],
   "multiMiR": [],
-  "multiWGCNA": [],
   "multicrispr": [
     "BSgenome",
     "CRISPRseek",
@@ -4902,7 +4888,6 @@
   ],
   "omicsPrint": [],
   "omicsViewer": [],
-  "oncomix": [],
   "ontoProc": [],
   "oppar": [
     "GSVA",
@@ -4958,7 +4943,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "pathview": [],
   "pcaExplorer": [
     "DESeq2",
     "mosdef",
@@ -5004,7 +4988,6 @@
     "Category",
     "genefilter"
   ],
-  "phenomis": [],
   "phenopath": [],
   "pipeComp": [
     "SingleCellExperiment",
@@ -6185,7 +6168,6 @@
   "zenith": [
     "EnrichmentBrowser",
     "graphite",
-    "pathview",
     "safe"
   ],
   "zinbwave": [
