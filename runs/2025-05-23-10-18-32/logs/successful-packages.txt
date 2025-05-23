@@ -1383,3 +1383,4 @@ DEsubs
 NBAMSeq
 regionalpcs
 TCC
+MWASTools

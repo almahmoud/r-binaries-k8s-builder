@@ -1293,7 +1293,6 @@
     "MSnbase",
     "PSMatch"
   ],
-  "MWASTools": [],
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools",
@@ -1311,7 +1310,6 @@
   "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
-    "MWASTools",
     "mygene",
     "ensembldb",
     "GenomicFeatures",
