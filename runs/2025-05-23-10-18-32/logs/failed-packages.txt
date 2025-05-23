@@ -1,3 +1,4 @@
 hypeR
 HilbertVisGUI
 RbowtieCuda
+gpuMagic
