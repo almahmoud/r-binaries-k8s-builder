@@ -949,3 +949,11 @@ seqPattern
 target
 transite
 triplex
+BiocSingular
+GeomxTools
+affyILM
+affyPLM
+beachmat.tiledb
+maskBAD
+scPCA
+scrapper
