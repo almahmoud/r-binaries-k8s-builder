@@ -919,3 +919,7 @@ rBLAST
 rigvf
 seqPattern
 TFARM
+affylmGUI
+alabaster.ranges
+biomaRt
+TnT
