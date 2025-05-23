@@ -1029,3 +1029,14 @@ h5vc
 Macarron
 MetaboDynamics
 MetNet
+ADAMgui
+ALDEx2
+combi
+diffcoexp
+divergence
+doseR
+findIPs
+gage
+gemma.R
+getDEE2
+MicrobiotaProcess

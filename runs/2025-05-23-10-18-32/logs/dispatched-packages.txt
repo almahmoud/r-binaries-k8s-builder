@@ -1275,3 +1275,4 @@ sangeranalyseR
 scifer
 singscore
 splineTimeR
+omicplotR
