@@ -1156,3 +1156,10 @@ SAIGEgds
 sampleClassifier
 SeqVarTools
 TDbasedUFE
+ASICS
+methylscaper
+motifTestR
+MultiBaC
+PADOG
+rqt
+simplifyEnrichment

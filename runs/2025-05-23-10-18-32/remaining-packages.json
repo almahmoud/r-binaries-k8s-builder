@@ -29,7 +29,6 @@
     "SingleCellExperiment",
     "topGO"
   ],
-  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter"
@@ -144,9 +143,7 @@
     "sva",
     "genefilter"
   ],
-  "BLMA": [
-    "PADOG"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -885,7 +882,6 @@
   "EGSEA": [
     "topGO",
     "pathview",
-    "PADOG",
     "GSVA",
     "safe",
     "SingleCellExperiment",
@@ -1747,7 +1743,6 @@
   "MuData": [
     "SingleCellExperiment"
   ],
-  "MultiBaC": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -1875,7 +1870,6 @@
     "sva",
     "genefilter"
   ],
-  "PADOG": [],
   "PAST": [
     "rtracklayer",
     "GenomicAlignments"
@@ -4574,7 +4568,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "genefilter",
@@ -4725,7 +4718,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "motifTestR": [],
   "motifbreakR": [
     "MotifDb",
     "BSgenome",
@@ -5313,7 +5305,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "rqt": [],
   "rrvgo": [
     "GOSemSim"
   ],
@@ -5682,7 +5673,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "simplifyEnrichment": [],
   "singleCellTK": [
     "SingleCellExperiment",
     "batchelor",
