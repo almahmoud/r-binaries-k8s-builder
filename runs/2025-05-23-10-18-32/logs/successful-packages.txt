@@ -1288,3 +1288,12 @@ missRows
 MPRAnalyze
 phenoTest
 survClust
+betaHMM
+GOpro
+maPredictDSC
+MLP
+receptLoss
+RolDE
+sangeranalyseR
+Scale4C
+xcore

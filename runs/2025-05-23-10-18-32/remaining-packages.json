@@ -953,7 +953,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GOpro": [],
   "GRaNIE": [
     "ensembldb",
     "GenomicFeatures",
@@ -1326,7 +1325,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "MLP": [],
   "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
@@ -2001,7 +1999,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -2109,7 +2106,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "Scale4C": [],
   "SeqGSEA": [],
   "SeqGate": [],
   "SeqSQC": [],
@@ -2620,7 +2616,6 @@
     "maaslin3",
     "SingleCellExperiment"
   ],
-  "betaHMM": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3401,9 +3396,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer",
@@ -3840,7 +3833,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maPredictDSC": [],
   "maaslin3": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
@@ -4495,7 +4487,6 @@
   "ramwas": [
     "GenomicAlignments"
   ],
-  "receptLoss": [],
   "recount": [
     "derfinder",
     "rtracklayer",
@@ -4606,7 +4597,6 @@
   "runibic": [],
   "sSNAPPY": [],
   "safe": [],
-  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -5373,7 +5363,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "xcore": [],
   "xenLite": [
     "SpatialExperiment",
     "SingleCellExperiment",
