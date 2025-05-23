@@ -1297,3 +1297,11 @@ RolDE
 sangeranalyseR
 Scale4C
 xcore
+diffcyt
+gsean
+idiogram
+interactiveDisplay
+LiquidAssociation
+oligo
+sechm
+tidybulk
