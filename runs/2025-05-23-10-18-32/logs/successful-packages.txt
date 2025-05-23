@@ -1273,3 +1273,10 @@ KEGGlincs
 meshr
 SBGNview
 supersigs
+a4
+BioGA
+DESeq2
+GEOquery
+GOstats
+mBPCR
+QFeatures
