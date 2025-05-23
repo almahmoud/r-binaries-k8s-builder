@@ -120,7 +120,6 @@
     "rtracklayer"
   ],
   "BUSseq": [],
-  "BaalChIP": [],
   "BadRegionFinder": [
     "VariantAnnotation",
     "rtracklayer",
@@ -443,7 +442,6 @@
   "CoverageView": [
     "rtracklayer"
   ],
-  "CrispRVariants": [],
   "CuratedAtlasQueryR": [],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -830,7 +828,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GenomicSuperSignature": [],
   "Glimma": [],
   "GloScope": [],
   "GreyListChIP": [
@@ -978,7 +975,6 @@
     "PSMatch"
   ],
   "MAST": [],
-  "MDTS": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -1228,7 +1224,6 @@
     "rtracklayer"
   ],
   "PDATK": [],
-  "PICB": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1457,7 +1452,6 @@
     "ShortRead"
   ],
   "RbowtieCuda": [],
-  "ReactomeGSA": [],
   "ReactomePA": [],
   "ReducedExperiment": [
     "clusterProfiler"
@@ -1722,7 +1716,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "TCseq": [],
   "TDbasedUFEadv": [],
   "TEKRABber": [
     "rtracklayer"

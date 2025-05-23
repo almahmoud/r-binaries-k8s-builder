@@ -1413,3 +1413,10 @@ EBSEA
 GEOexplorer
 hpar
 HybridExpress
+BaalChIP
+CrispRVariants
+GenomicSuperSignature
+MDTS
+PICB
+ReactomeGSA
+TCseq
