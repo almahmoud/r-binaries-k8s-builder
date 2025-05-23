@@ -879,3 +879,10 @@ igvShiny
 sketchR
 target
 transite
+beachmat.tiledb
+BiFET
+BPRMeth
+DMRcaller
+DMRScan
+megadepth
+packFinder
