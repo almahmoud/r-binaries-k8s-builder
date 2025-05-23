@@ -487,7 +487,6 @@
     "karyoploteR",
     "CopyNumberPlots",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -501,7 +500,6 @@
     "regioneR",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -817,7 +815,6 @@
     "regioneR",
     "SummarizedExperiment",
     "VariantAnnotation",
-    "cn.mops",
     "rtracklayer",
     "biovizBase",
     "GenomicFeatures",
@@ -1490,7 +1487,6 @@
   "GeneBreak": [
     "QDNAseq"
   ],
-  "GeneGeneInteR": [],
   "GeneMeta": [
     "genefilter"
   ],
@@ -2921,7 +2917,6 @@
     "scran",
     "scuttle"
   ],
-  "RepViz": [],
   "Repitools": [
     "GenomicAlignments",
     "rtracklayer",
@@ -3119,7 +3114,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SICtools": [],
   "SIM": [
     "globaltest"
   ],
@@ -3230,7 +3224,6 @@
   "SimBu": [
     "SummarizedExperiment"
   ],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3453,7 +3446,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "TEQC": [],
   "TFBSTools": [
     "BSgenome",
     "rtracklayer",
@@ -3982,7 +3974,6 @@
     "ALDEx2",
     "SummarizedExperiment",
     "MAST",
-    "microbiome",
     "maaslin3",
     "SingleCellExperiment",
     "genefilter"
@@ -4403,7 +4394,6 @@
     "oligo",
     "SummarizedExperiment"
   ],
-  "cn.mops": [],
   "coMethDMR": [
     "bumphunter",
     "ExperimentHub",
@@ -6028,8 +6018,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "microbiome": [],
-  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2",
     "SummarizedExperiment"
@@ -6451,9 +6439,7 @@
   "pairkat": [
     "SummarizedExperiment"
   ],
-  "panelcn.mops": [
-    "cn.mops"
-  ],
+  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -6763,9 +6749,7 @@
   "rScudo": [
     "SummarizedExperiment"
   ],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer",
     "GenomicAlignments",
@@ -6786,7 +6770,6 @@
   "receptLoss": [
     "SummarizedExperiment"
   ],
-  "reconsi": [],
   "recount": [
     "SummarizedExperiment",
     "derfinder",

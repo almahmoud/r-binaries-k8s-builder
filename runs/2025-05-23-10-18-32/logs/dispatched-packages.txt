@@ -1102,3 +1102,4 @@ motifTestR
 rGenomeTracks
 sampleClassifier
 blima
+panelcn.mops

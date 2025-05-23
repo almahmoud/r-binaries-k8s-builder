@@ -981,3 +981,13 @@ NetSAM
 RPA
 SIAMCAT
 SPONGE
+cn.mops
+GeneGeneInteR
+microbiome
+microbiomeDASim
+reconsi
+RepViz
+rTRM
+SICtools
+SimFFPE
+TEQC
