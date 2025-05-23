@@ -1901,7 +1901,6 @@
     "annotate",
     "BSgenome"
   ],
-  "InterCellar": [],
   "InteractionSet": [
     "SummarizedExperiment"
   ],
@@ -2381,7 +2380,6 @@
     "BSgenome",
     "memes"
   ],
-  "MouseFM": [],
   "MsDataHub": [
     "ExperimentHub",
     "AnnotationHub"
@@ -2594,8 +2592,7 @@
   "PDATK": [
     "SummarizedExperiment",
     "MultiAssayExperiment",
-    "CoreGx",
-    "genefu"
+    "CoreGx"
   ],
   "PECA": [
     "genefilter",
@@ -4111,7 +4108,6 @@
     "genefilter",
     "annotate"
   ],
-  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -4189,7 +4185,6 @@
     "SummarizedExperiment"
   ],
   "baySeq": [],
-  "beachmat.hdf5": [],
   "beadarray": [],
   "bedbaser": [
     "rtracklayer",
@@ -4727,7 +4722,6 @@
   ],
   "consensusOV": [
     "GSVA",
-    "genefu",
     "SummarizedExperiment",
     "GSEABase",
     "SingleCellExperiment",
@@ -5553,7 +5547,6 @@
   "genefilter": [
     "annotate"
   ],
-  "genefu": [],
   "geneplotter": [
     "annotate"
   ],
@@ -5660,7 +5653,6 @@
     "SummarizedExperiment"
   ],
   "goProfiles": [],
-  "goSTAG": [],
   "goSorensen": [
     "clusterProfiler",
     "goProfiles",
@@ -6762,7 +6754,6 @@
   ],
   "openCyto": [],
   "openPrimeR": [],
-  "oposSOM": [],
   "oppar": [
     "GSEABase",
     "GSVA",
@@ -7798,7 +7789,6 @@
     "GSVA",
     "SpatialExperiment",
     "SummarizedExperiment",
-    "genefu",
     "GenomicFeatures",
     "rtracklayer",
     "GSEABase",

@@ -936,3 +936,10 @@ MSA2dist
 QSutils
 Rsamtools
 scrapper
+artMS
+beachmat.hdf5
+genefu
+goSTAG
+InterCellar
+MouseFM
+oposSOM
