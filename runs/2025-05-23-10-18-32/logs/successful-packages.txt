@@ -587,3 +587,14 @@ Polytect
 ROSeq
 SPIA
 variancePartition
+BiocCheck
+BioQC
+BumpyMatrix
+DEGraph
+GeneNetworkBuilder
+GenProSeq
+hmdbQuery
+mzR
+Rvisdiff
+ScreenR
+Streamer

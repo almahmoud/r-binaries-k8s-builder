@@ -724,3 +724,7 @@ dStruct
 derfinderHelper
 mbQTL
 nucleoSim
+SIMAT
+TargetDecoy
+gDRstyle
+msPurity
