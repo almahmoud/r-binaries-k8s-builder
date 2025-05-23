@@ -29,9 +29,7 @@
     "SingleCellExperiment",
     "topGO"
   ],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [
     "sva",
     "genefilter"
@@ -663,9 +661,7 @@
     "CytoPipeline",
     "PeacoQC"
   ],
-  "CytoML": [
-    "openCyto"
-  ],
+  "CytoML": [],
   "CytoPipeline": [
     "PeacoQC"
   ],
@@ -1320,11 +1316,8 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [
-    "multiHiCcompare"
-  ],
+  "HiCDOC": [],
   "HiContacts": [],
-  "HiCool": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -1686,7 +1679,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "MiRaGE": [],
   "MicrobiomeProfiler": [
     "clusterProfiler",
     "enrichplot",
@@ -1765,9 +1757,7 @@
   "MuData": [
     "SingleCellExperiment"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MultiRNAflow": [
     "DESeq2"
   ],
@@ -1938,7 +1928,6 @@
     "SingleCellExperiment",
     "MAST"
   ],
-  "PREDA": [],
   "PRONE": [
     "MSnbase",
     "POMA",
@@ -2531,7 +2520,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "SingleR": [],
   "SomaticSignatures": [
     "VariantAnnotation",
     "ggbio",
@@ -3114,9 +3102,7 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3195,7 +3181,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "cTRAP": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
@@ -4012,10 +3997,7 @@
     "QFeatures",
     "PSMatch"
   ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "frma": [
     "oligo",
     "oligoClasses"
@@ -4406,9 +4388,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR",
     "SingleCellExperiment",
@@ -4826,7 +4806,6 @@
   "multiGSEA": [
     "graphite"
   ],
-  "multiHiCcompare": [],
   "multiMiR": [],
   "multiWGCNA": [],
   "multicrispr": [
@@ -4910,7 +4889,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "npGSEA": [],
   "nucleR": [
     "ShortRead",
     "GenomicAlignments"
@@ -4953,7 +4931,6 @@
   "omicsViewer": [],
   "oncomix": [],
   "ontoProc": [],
-  "openCyto": [],
   "oppar": [
     "GSVA",
     "SingleCellExperiment",
@@ -5054,9 +5031,7 @@
     "Category",
     "genefilter"
   ],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "phenopath": [],
   "pipeComp": [
     "SingleCellExperiment",
@@ -5359,10 +5334,7 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "rrvgo": [
     "GOSemSim"
   ],
@@ -5582,7 +5554,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "scoup": [],
   "scp": [
     "QFeatures",
     "SingleCellExperiment"
@@ -5745,7 +5716,6 @@
     "scater",
     "scMerge",
     "scran",
-    "SingleR",
     "sva",
     "celda",
     "DropletUtils",

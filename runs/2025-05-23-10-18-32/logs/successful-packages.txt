@@ -1132,3 +1132,14 @@ scHiCcompare
 SpatialOmicsOverlay
 SpectralTAD
 TADCompare
+cTRAP
+flowStats
+HiCool
+MiRaGE
+multiHiCcompare
+npGSEA
+openCyto
+PREDA
+ropls
+scoup
+SingleR

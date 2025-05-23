@@ -1323,3 +1323,12 @@ ggmanh
 GlobalAncova
 SIM
 biocGraph
+ASICS
+CytoML
+HiCDOC
+MultiBaC
+biosigner
+flowVS
+lipidr
+phenomis
+rqt
