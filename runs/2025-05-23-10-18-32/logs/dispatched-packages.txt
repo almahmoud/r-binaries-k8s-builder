@@ -746,3 +746,15 @@ CGHnormaliter
 BioMVCClass
 TMixClust
 uSORT
+DEGseq
+HubPub
+MetaCyto
+OPWeight
+SpaceMarkers
+affy
+alabaster.base
+anota
+erccdashboard
+netresponse
+sights
+subSeq

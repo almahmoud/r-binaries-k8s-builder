@@ -53,7 +53,6 @@
     "affy",
     "vsn",
     "genefilter",
-    "affyio",
     "AnnotationDbi",
     "annotate",
     "KEGGREST",
@@ -283,13 +282,11 @@
     "XVector"
   ],
   "AffyRNADegradation": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "AgiMicroRna": [
     "affy",
     "affycoretools",
-    "affyio",
     "GOstats",
     "gcrma",
     "AnnotationDbi",
@@ -349,7 +346,6 @@
     "SparseArray"
   ],
   "Anaquin": [
-    "qvalue",
     "DESeq2",
     "GenomicRanges",
     "SummarizedExperiment",
@@ -422,7 +418,6 @@
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affyio",
     "affxparser",
     "XVector",
     "GenomeInfoDb",
@@ -887,7 +882,6 @@
     "SparseArray",
     "XVector"
   ],
-  "BioMVCClass": [],
   "BioNAR": [
     "AnnotationDbi",
     "KEGGREST",
@@ -1047,7 +1041,6 @@
     "ggbio",
     "affy",
     "annotate",
-    "affyio",
     "AnnotationDbi",
     "GenomeInfoDb",
     "SummarizedExperiment",
@@ -1138,7 +1131,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -1157,7 +1149,6 @@
   ],
   "CATALYST": [
     "SingleCellExperiment",
-    "FlowSOM",
     "SummarizedExperiment",
     "scater",
     "scuttle",
@@ -1179,7 +1170,6 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "AnnotationHub",
     "KEGGREST",
     "Biostrings",
@@ -1230,7 +1220,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -1497,7 +1486,6 @@
     "SparseArray"
   ],
   "CTSV": [
-    "qvalue",
     "SpatialExperiment",
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -1549,7 +1537,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "Biostrings",
     "KEGGREST",
     "XVector",
@@ -1584,7 +1571,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -1711,7 +1697,6 @@
     "goseq",
     "missMethyl",
     "GenomicRanges",
-    "qvalue",
     "bumphunter",
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -1745,7 +1730,6 @@
     "GenomicAlignments",
     "h5mread",
     "affy",
-    "affyio",
     "VariantAnnotation",
     "AnnotationFilter"
   ],
@@ -1792,7 +1776,6 @@
     "GEOquery",
     "frma",
     "affy",
-    "affyio",
     "oligo",
     "oligoClasses",
     "SummarizedExperiment",
@@ -1878,7 +1861,6 @@
     "Biostrings",
     "Rsamtools",
     "GenomicAlignments",
-    "qvalue",
     "SummarizedExperiment",
     "S4Arrays",
     "DelayedArray",
@@ -1994,7 +1976,6 @@
   "ClassifyR": [
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "AnnotationDbi",
     "annotate",
     "SummarizedExperiment",
@@ -2036,7 +2017,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2146,8 +2126,7 @@
     "XVector"
   ],
   "Cormotif": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "CoverageView": [
     "Rsamtools",
@@ -2259,7 +2238,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -2297,9 +2275,7 @@
     "SparseArray",
     "XVector"
   ],
-  "DEGseq": [
-    "qvalue"
-  ],
+  "DEGseq": [],
   "DELocal": [
     "DESeq2",
     "SummarizedExperiment",
@@ -2320,7 +2296,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "Spectra",
@@ -2407,7 +2382,6 @@
     "DESeq2",
     "GenomicRanges",
     "SummarizedExperiment",
-    "qvalue",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -2533,7 +2507,6 @@
   "DOSE": [
     "AnnotationDbi",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -2679,7 +2652,6 @@
     "InteractionSet",
     "plotgardener",
     "GenomeInfoDb",
-    "qvalue",
     "XVector",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2827,10 +2799,8 @@
   ],
   "Doscheda": [
     "vsn",
-    "affy",
-    "affyio"
+    "affy"
   ],
-  "DriverNet": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "GenomicRanges",
@@ -2851,9 +2821,7 @@
     "biomaRt",
     "ArrayExpress",
     "GEOquery",
-    "qvalue",
     "annotate",
-    "affyio",
     "AnnotationDbi",
     "oligo",
     "SummarizedExperiment",
@@ -3086,7 +3054,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -3097,7 +3064,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -3145,7 +3111,6 @@
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment",
-    "qvalue",
     "S4Arrays",
     "DelayedArray",
     "SparseArray"
@@ -3207,7 +3172,6 @@
     "GenomeInfoDb",
     "affxparser",
     "GenomicRanges",
-    "qvalue",
     "BSgenome",
     "Biostrings",
     "XVector",
@@ -3234,8 +3198,7 @@
     "SparseArray"
   ],
   "ExiMiR": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "ExperimentHub": [
     "AnnotationHub",
@@ -3409,7 +3372,6 @@
     "GenomeInfoDb",
     "rtracklayer",
     "GenomicFeatures",
-    "qvalue",
     "SummarizedExperiment",
     "MultiAssayExperiment",
     "AnnotationDbi",
@@ -3422,7 +3384,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "FlowSOM": [],
   "FuseSOM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3518,7 +3479,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "SummarizedExperiment",
     "KEGGREST",
@@ -3574,8 +3534,7 @@
     "XVector"
   ],
   "GEOsubmission": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "GMRP": [
     "GenomicRanges",
@@ -3848,7 +3807,6 @@
     "DelayedArray",
     "DOSE",
     "enrichplot",
-    "qvalue",
     "SparseArray",
     "XVector",
     "rtracklayer",
@@ -3948,7 +3906,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray",
     "XVector",
     "rtracklayer",
@@ -4300,8 +4257,7 @@
     "SparseArray"
   ],
   "HTqPCR": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "HarmonizR": [
     "sva",
@@ -4321,7 +4277,6 @@
   "Harshlight": [
     "affy",
     "altcdfenvs",
-    "affyio",
     "makecdfenv",
     "Biostrings",
     "XVector",
@@ -4504,9 +4459,7 @@
     "XVector",
     "SparseArray"
   ],
-  "HubPub": [
-    "biocthis"
-  ],
+  "HubPub": [],
   "HybridExpress": [
     "DESeq2",
     "SummarizedExperiment",
@@ -4606,7 +4559,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -4626,7 +4578,6 @@
     "affxparser",
     "oligoClasses",
     "Biostrings",
-    "affyio",
     "GenomicRanges",
     "SummarizedExperiment",
     "XVector",
@@ -4702,7 +4653,6 @@
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "rtracklayer",
-    "qvalue",
     "GenomeInfoDb",
     "XVector",
     "DelayedArray",
@@ -4847,7 +4797,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -4886,7 +4835,6 @@
   ],
   "LimROTS": [
     "SummarizedExperiment",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -4951,7 +4899,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "MACSQuantifyR": [],
   "MACSr": [
     "basilisk",
     "ExperimentHub",
@@ -4986,7 +4933,6 @@
     "RnBeads",
     "crlmm",
     "oligoClasses",
-    "affyio",
     "SparseArray",
     "DelayedArray",
     "h5mread",
@@ -5035,7 +4981,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -5120,7 +5065,6 @@
     "biovizBase",
     "Rsamtools",
     "GenomicAlignments",
-    "qvalue",
     "bumphunter",
     "DelayedMatrixStats",
     "genefilter",
@@ -5160,7 +5104,6 @@
     "annotate",
     "h5mread",
     "affy",
-    "affyio",
     "KEGGREST",
     "rtracklayer",
     "Rsamtools",
@@ -5285,7 +5228,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "S4Arrays",
     "SparseArray",
     "GenomeInfoDb",
@@ -5359,7 +5301,6 @@
   ],
   "MOMA": [
     "MultiAssayExperiment",
-    "qvalue",
     "SummarizedExperiment",
     "DelayedArray",
     "GenomicRanges",
@@ -5463,11 +5404,9 @@
     "XVector",
     "GenomeInfoDb",
     "msmsEDA",
-    "qvalue",
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5482,7 +5421,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5512,7 +5450,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5531,7 +5468,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -5551,7 +5487,6 @@
     "GenomeInfoDb"
   ],
   "MWASTools": [
-    "qvalue",
     "SummarizedExperiment",
     "KEGGREST",
     "Biostrings",
@@ -5589,7 +5524,6 @@
     "DelayedArray",
     "genefilter",
     "affy",
-    "affyio",
     "AnnotationDbi",
     "SparseArray",
     "annotate",
@@ -5627,7 +5561,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "Mergeomics": [],
   "MesKit": [
     "Biostrings",
     "AnnotationDbi",
@@ -5657,9 +5590,7 @@
     "SparseArray",
     "XVector"
   ],
-  "MetaCyto": [
-    "FlowSOM"
-  ],
+  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment",
@@ -5676,7 +5607,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -5721,7 +5651,6 @@
     "ensembldb",
     "ExperimentHub",
     "Biostrings",
-    "qvalue",
     "SummarizedExperiment",
     "GenomicFeatures",
     "txdbmaker",
@@ -5824,7 +5753,6 @@
     "AnnotationDbi",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -5853,7 +5781,6 @@
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
-    "affyio",
     "GSEABase",
     "genefilter",
     "GenomeInfoDb",
@@ -5881,7 +5808,6 @@
     "oligoClasses",
     "XVector",
     "Biostrings",
-    "affyio",
     "S4Arrays",
     "DelayedArray",
     "crlmm",
@@ -5920,7 +5846,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "biomaRt",
     "GenomeInfoDb",
     "GenomicFeatures",
@@ -5943,7 +5868,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -6251,7 +6175,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "NanoTube": [],
   "Nebulosa": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -6319,12 +6242,10 @@
     "S4Arrays",
     "DelayedArray",
     "affy",
-    "affyio",
     "SparseArray",
     "XVector"
   ],
   "NormqPCR": [],
-  "OCplus": [],
   "OGRE": [
     "GenomicRanges",
     "Gviz",
@@ -6375,9 +6296,7 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "OPWeight": [
-    "qvalue"
-  ],
+  "OPWeight": [],
   "ORFhunteR": [
     "Biostrings",
     "rtracklayer",
@@ -6554,7 +6473,6 @@
     "XVector"
   ],
   "PAST": [
-    "qvalue",
     "rtracklayer",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6597,7 +6515,6 @@
   "PECA": [
     "affy",
     "genefilter",
-    "affyio",
     "AnnotationDbi",
     "annotate",
     "KEGGREST",
@@ -6745,7 +6662,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "Spectra",
@@ -6793,7 +6709,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "annotate",
     "KEGGREST",
     "Biostrings",
@@ -6876,7 +6791,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "graphite",
     "KEGGREST",
     "Biostrings",
@@ -6895,7 +6809,6 @@
     "XVector"
   ],
   "PolySTest": [
-    "qvalue",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -6909,7 +6822,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -6928,7 +6840,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -7264,7 +7175,6 @@
     "KEGGREST",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "DESeq2",
     "HTSFilter",
     "HDF5Array",
@@ -7324,7 +7234,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -7355,7 +7264,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "XVector",
     "Biostrings",
@@ -7466,7 +7374,6 @@
     "SparseArray"
   ],
   "RNAsense": [
-    "qvalue",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -7493,7 +7400,6 @@
   "RPA": [
     "affy",
     "phyloseq",
-    "affyio",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -7723,7 +7629,6 @@
     "graphite",
     "KEGGREST",
     "GOSemSim",
-    "qvalue",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -7736,7 +7641,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -7755,7 +7659,6 @@
     "KEGGREST",
     "GenomicRanges",
     "GOSemSim",
-    "qvalue",
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
@@ -7907,7 +7810,6 @@
     "GenomicFeatures",
     "GenomicAlignments",
     "GenomicRanges",
-    "qvalue",
     "DESeq2",
     "txdbmaker",
     "SummarizedExperiment",
@@ -7947,7 +7849,6 @@
     "SparseArray",
     "biomaRt"
   ],
-  "Rigraphlib": [],
   "Rmmquant": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -8012,19 +7913,15 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "VariantAnnotation",
     "BSgenome"
   ],
   "Rnits": [
-    "affy",
-    "qvalue",
-    "affyio"
+    "affy"
   ],
   "RolDE": [
     "SummarizedExperiment",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -8116,7 +8013,6 @@
     "Biostrings",
     "GEOquery",
     "affy",
-    "affyio",
     "sva",
     "XVector",
     "GenomeInfoDb",
@@ -8200,7 +8096,6 @@
   ],
   "SDAMS": [
     "SummarizedExperiment",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -8439,8 +8334,7 @@
     "XVector"
   ],
   "STATegRa": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "SVMDO": [
     "DOSE",
@@ -8448,7 +8342,6 @@
     "SummarizedExperiment",
     "KEGGREST",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -8745,9 +8638,7 @@
     "ScaledMatrix",
     "XVector"
   ],
-  "SpaceMarkers": [
-    "qvalue"
-  ],
+  "SpaceMarkers": [],
   "Spaniel": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8975,7 +8866,6 @@
     "S4Arrays",
     "diffcyt",
     "SparseArray",
-    "FlowSOM",
     "XVector"
   ],
   "Structstrings": [
@@ -9168,7 +9058,6 @@
     "DOSE",
     "AnnotationDbi",
     "GOSemSim",
-    "qvalue",
     "GenomeInfoDb",
     "XVector",
     "KEGGREST",
@@ -9329,7 +9218,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -9343,7 +9231,6 @@
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "AnnotationDbi",
     "annotate",
     "SummarizedExperiment",
@@ -9424,7 +9311,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -9511,8 +9397,7 @@
     "XVector"
   ],
   "TurboNorm": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "UCell": [
     "SingleCellExperiment",
@@ -9683,7 +9568,6 @@
     "GenomeInfoDb",
     "crlmm",
     "BSgenome",
-    "affyio",
     "XVector",
     "Biostrings",
     "S4Arrays",
@@ -9998,18 +9882,14 @@
     "XVector"
   ],
   "affxparser": [],
-  "affy": [
-    "affyio"
-  ],
+  "affy": [],
   "affyContam": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "affyILM": [
     "gcrma",
     "affxparser",
     "affy",
-    "affyio",
     "XVector",
     "Biostrings",
     "GenomeInfoDb"
@@ -10017,7 +9897,6 @@
   "affyPLM": [
     "affy",
     "gcrma",
-    "affyio",
     "XVector",
     "Biostrings",
     "GenomeInfoDb"
@@ -10030,7 +9909,6 @@
     "oligoClasses",
     "ReportingTools",
     "Glimma",
-    "affyio",
     "KEGGREST",
     "XVector",
     "Biostrings",
@@ -10060,10 +9938,8 @@
     "txdbmaker",
     "biomaRt"
   ],
-  "affyio": [],
   "affylmGUI": [
     "affy",
-    "affyio",
     "affyPLM",
     "gcrma",
     "AnnotationDbi",
@@ -10082,7 +9958,6 @@
     "SparseArray",
     "XVector"
   ],
-  "agilp": [],
   "airpart": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -10110,7 +9985,6 @@
     "alabaster.vcf",
     "alabaster.bumpy",
     "alabaster.mae",
-    "alabaster.schemas",
     "MultiAssayExperiment",
     "DelayedArray",
     "S4Arrays",
@@ -10133,17 +10007,13 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.base": [
-    "alabaster.schemas"
-  ],
+  "alabaster.base": [],
   "alabaster.bumpy": [
-    "alabaster.base",
-    "alabaster.schemas"
+    "alabaster.base"
   ],
   "alabaster.files": [
     "alabaster.base",
     "Rsamtools",
-    "alabaster.schemas",
     "GenomeInfoDb",
     "GenomicRanges",
     "Biostrings",
@@ -10153,7 +10023,6 @@
     "MultiAssayExperiment",
     "alabaster.base",
     "alabaster.se",
-    "alabaster.schemas",
     "SummarizedExperiment",
     "alabaster.ranges",
     "alabaster.matrix",
@@ -10172,7 +10041,6 @@
     "S4Arrays",
     "SparseArray",
     "HDF5Array",
-    "alabaster.schemas",
     "h5mread",
     "XVector"
   ],
@@ -10180,14 +10048,12 @@
     "GenomicRanges",
     "alabaster.base",
     "GenomeInfoDb",
-    "alabaster.schemas",
     "XVector"
   ],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.base",
     "alabaster.se",
-    "alabaster.schemas",
     "SummarizedExperiment",
     "alabaster.ranges",
     "alabaster.matrix",
@@ -10200,14 +10066,12 @@
     "XVector",
     "h5mread"
   ],
-  "alabaster.schemas": [],
   "alabaster.se": [
     "SummarizedExperiment",
     "alabaster.base",
     "alabaster.ranges",
     "alabaster.matrix",
     "GenomicRanges",
-    "alabaster.schemas",
     "DelayedArray",
     "S4Arrays",
     "SparseArray",
@@ -10223,7 +10087,6 @@
     "alabaster.spatial",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "alabaster.schemas",
     "alabaster.se",
     "SpatialExperiment",
     "GenomicRanges",
@@ -10245,7 +10108,6 @@
     "SpatialExperiment",
     "alabaster.base",
     "alabaster.sce",
-    "alabaster.schemas",
     "SingleCellExperiment",
     "alabaster.se",
     "SummarizedExperiment",
@@ -10263,7 +10125,6 @@
   "alabaster.string": [
     "Biostrings",
     "alabaster.base",
-    "alabaster.schemas",
     "XVector",
     "GenomeInfoDb"
   ],
@@ -10273,7 +10134,6 @@
     "alabaster.se",
     "alabaster.string",
     "Rsamtools",
-    "alabaster.schemas",
     "SummarizedExperiment",
     "alabaster.ranges",
     "alabaster.matrix",
@@ -10297,7 +10157,6 @@
     "affy",
     "makecdfenv",
     "Biostrings",
-    "affyio",
     "XVector",
     "GenomeInfoDb"
   ],
@@ -10370,11 +10229,8 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "anota": [
-    "qvalue"
-  ],
+  "anota": [],
   "anota2seq": [
-    "qvalue",
     "DESeq2",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -10384,7 +10240,6 @@
     "SparseArray",
     "XVector"
   ],
-  "antiProfiles": [],
   "apComplex": [
     "AnnotationDbi",
     "KEGGREST",
@@ -10430,7 +10285,6 @@
     "affy",
     "affyContam",
     "lumi",
-    "affyio",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -10461,7 +10315,6 @@
     "beadarray",
     "genefilter",
     "vsn",
-    "affyio",
     "gcrma",
     "AnnotationDbi",
     "GenomicRanges",
@@ -10535,7 +10388,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "affy",
-    "affyio",
     "SparseArray",
     "XVector"
   ],
@@ -10596,7 +10448,6 @@
     "affy",
     "MLInterfaces",
     "biomaRt",
-    "affyio",
     "AnnotationDbi",
     "annotate",
     "genefilter",
@@ -10807,7 +10658,6 @@
     "rtracklayer",
     "h5mread",
     "affy",
-    "affyio",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -10827,7 +10677,6 @@
     "TCGAutils",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "graphite",
     "XVector",
     "Biostrings",
@@ -10849,7 +10698,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "biocthis": [],
   "biomaRt": [
     "AnnotationDbi",
     "KEGGREST",
@@ -11005,7 +10853,6 @@
     "affy",
     "sva",
     "vsn",
-    "affyio",
     "Linnorm",
     "genefilter",
     "AnnotationDbi",
@@ -11075,7 +10922,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "annotate",
     "GenomeInfoDb",
@@ -11356,7 +11202,6 @@
   "censcyt": [
     "diffcyt",
     "SummarizedExperiment",
-    "FlowSOM",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -11477,7 +11322,6 @@
     "chevreulPlot",
     "alabaster.base",
     "wiggleplotr",
-    "alabaster.schemas",
     "scater",
     "scran",
     "scuttle",
@@ -11662,7 +11506,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "clevRvis": [],
   "cliProfiler": [
     "rtracklayer",
     "GenomicRanges",
@@ -11705,7 +11548,6 @@
     "MsFeatures",
     "MsExperiment",
     "Spectra",
-    "affyio",
     "QFeatures",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -11760,7 +11602,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -11796,7 +11637,6 @@
     "affxparser",
     "oligo",
     "Biostrings",
-    "affyio",
     "GenomicRanges",
     "SummarizedExperiment",
     "XVector",
@@ -11915,7 +11755,6 @@
     "AnnotationFilter",
     "SparseArray"
   ],
-  "compSPOT": [],
   "concordexR": [
     "bluster",
     "DelayedArray",
@@ -12082,7 +11921,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -12314,7 +12152,6 @@
   ],
   "crlmm": [
     "oligoClasses",
-    "affyio",
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -12464,7 +12301,6 @@
     "CATALYST",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "DelayedArray",
@@ -12581,7 +12417,6 @@
     "BiocSingular",
     "ScaledMatrix"
   ],
-  "dcanr": [],
   "dce": [
     "epiNEM",
     "mnem",
@@ -12620,7 +12455,6 @@
     "apeglm",
     "KEGGREST",
     "GOSemSim",
-    "qvalue",
     "GenomeInfoDb",
     "XVector",
     "S4Arrays",
@@ -12671,7 +12505,6 @@
     "minfi",
     "GenomeInfoDb",
     "XVector",
-    "qvalue",
     "Rsamtools",
     "fastseg",
     "rtracklayer",
@@ -12754,7 +12587,6 @@
     "GenomicFeatures",
     "GenomicFiles",
     "GenomicRanges",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "KEGGREST",
@@ -12779,7 +12611,6 @@
     "derfinderHelper",
     "GenomicAlignments",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "XVector",
@@ -12861,7 +12692,6 @@
     "Biostrings"
   ],
   "diffcyt": [
-    "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -13081,7 +12911,6 @@
   ],
   "edge": [
     "sva",
-    "qvalue",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -13122,7 +12951,6 @@
     "DOSE",
     "AnnotationDbi",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -13132,7 +12960,6 @@
     "DOSE",
     "GOSemSim",
     "AnnotationDbi",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -13279,7 +13106,6 @@
     "h5mread",
     "pwalign",
     "DirichletMultinomial",
-    "alabaster.schemas",
     "GenomicAlignments"
   ],
   "epiregulon.extra": [
@@ -13292,7 +13118,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "scuttle",
     "SparseArray",
     "DelayedArray",
@@ -13406,9 +13231,7 @@
     "SparseArray",
     "biomaRt"
   ],
-  "erccdashboard": [
-    "qvalue"
-  ],
+  "erccdashboard": [],
   "erma": [
     "GenomicFiles",
     "rtracklayer",
@@ -13453,7 +13276,6 @@
     "enrichplot",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "SummarizedExperiment",
     "pwalign",
     "DirichletMultinomial",
@@ -13580,7 +13402,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -13621,7 +13442,6 @@
     "affy",
     "lumi",
     "methylumi",
-    "affyio",
     "GenomicFeatures",
     "GenomicRanges",
     "annotate",
@@ -13655,7 +13475,6 @@
     "XVector"
   ],
   "fishpond": [
-    "qvalue",
     "SummarizedExperiment",
     "GenomicRanges",
     "SingleCellExperiment",
@@ -13681,7 +13500,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -13755,12 +13573,10 @@
     "XVector"
   ],
   "flowcatchR": [],
-  "fobitools": [],
   "frma": [
     "affy",
     "oligo",
     "oligoClasses",
-    "affyio",
     "Biostrings",
     "affxparser",
     "GenomicRanges",
@@ -13772,8 +13588,7 @@
     "SparseArray"
   ],
   "frmaTools": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "funOmics": [
     "KEGGREST",
@@ -13900,7 +13715,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomeInfoDb",
     "XVector",
     "Biostrings",
@@ -13943,7 +13757,6 @@
   ],
   "gcrma": [
     "affy",
-    "affyio",
     "XVector",
     "Biostrings",
     "GenomeInfoDb"
@@ -14240,7 +14053,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "globalSeq": [],
   "globaltest": [
     "AnnotationDbi",
     "annotate",
@@ -14305,7 +14117,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -14572,7 +14383,6 @@
     "lumi",
     "affy",
     "GeneSelectMMD",
-    "affyio",
     "methylumi",
     "GenomicFeatures",
     "GenomicRanges",
@@ -14621,7 +14431,6 @@
     "KEGGREST",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray",
     "annotate",
     "rtracklayer",
@@ -14810,7 +14619,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray",
     "txdbmaker",
     "Biostrings",
@@ -15187,7 +14995,6 @@
     "S4Arrays",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "HDF5Array",
     "SparseArray",
     "XVector",
@@ -15209,7 +15016,6 @@
     "GenomicRanges",
     "annotate",
     "AnnotationDbi",
-    "affyio",
     "KEGGREST",
     "GenomeInfoDb",
     "XVector",
@@ -15269,7 +15075,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
-    "affyio",
     "XVector",
     "GenomeInfoDb",
     "S4Arrays",
@@ -15305,7 +15110,6 @@
     "affy",
     "gcrma",
     "AnnotationDbi",
-    "affyio",
     "KEGGREST",
     "XVector",
     "Biostrings",
@@ -15351,7 +15155,6 @@
     "SparseArray"
   ],
   "makecdfenv": [
-    "affyio",
     "affy"
   ],
   "mariner": [
@@ -15407,7 +15210,6 @@
   "maskBAD": [
     "gcrma",
     "affy",
-    "affyio",
     "XVector",
     "Biostrings",
     "GenomeInfoDb"
@@ -15461,7 +15263,6 @@
     "AnnotationHub",
     "MeSHDbi",
     "KEGGREST",
-    "qvalue",
     "Biostrings",
     "XVector",
     "GenomeInfoDb"
@@ -15494,7 +15295,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -15535,7 +15335,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicRanges",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "SummarizedExperiment",
@@ -15549,7 +15348,6 @@
     "S4Arrays",
     "DelayedArray",
     "affy",
-    "affyio",
     "KEGGREST",
     "DelayedMatrixStats",
     "BSgenome",
@@ -15564,7 +15362,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector",
-    "qvalue",
     "Rsamtools",
     "fastseg",
     "rtracklayer",
@@ -15666,7 +15463,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "minfi",
     "GenomicRanges",
     "methylumi",
@@ -15694,7 +15490,6 @@
     "GenomicRanges",
     "GenomeInfoDb",
     "XVector",
-    "qvalue",
     "Rsamtools",
     "fastseg",
     "rtracklayer",
@@ -15708,7 +15503,6 @@
   "methylKit": [
     "GenomicRanges",
     "GenomeInfoDb",
-    "qvalue",
     "Rsamtools",
     "fastseg",
     "rtracklayer",
@@ -15885,7 +15679,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "annotate",
     "graphite",
     "GenomicRanges",
@@ -15905,7 +15698,6 @@
     "AnnotationDbi",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "graphite",
     "biomaRt",
     "KEGGREST",
@@ -16063,7 +15855,6 @@
     "affyPLM",
     "oligo",
     "oligoClasses",
-    "affyio",
     "gcrma",
     "Biostrings",
     "affxparser",
@@ -16262,7 +16053,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "rtracklayer",
     "GenomicFeatures",
@@ -16423,7 +16213,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -16439,11 +16228,9 @@
   "msmsTests": [
     "MSnbase",
     "msmsEDA",
-    "qvalue",
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -16508,7 +16295,6 @@
     "GenomeInfoDb"
   ],
   "multiWGCNA": [
-    "dcanr",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -16666,7 +16452,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
@@ -16732,9 +16517,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "netresponse": [
-    "qvalue"
-  ],
+  "netresponse": [],
   "ngsReports": [
     "Biostrings",
     "XVector",
@@ -16763,13 +16546,11 @@
   ],
   "nondetects": [
     "HTqPCR",
-    "affy",
-    "affyio"
+    "affy"
   ],
   "normr": [
     "GenomeInfoDb",
     "GenomicRanges",
-    "qvalue",
     "bamsignals",
     "rtracklayer",
     "XVector",
@@ -16865,7 +16646,6 @@
   "oligo": [
     "oligoClasses",
     "Biostrings",
-    "affyio",
     "affxparser",
     "XVector",
     "GenomeInfoDb",
@@ -16879,7 +16659,6 @@
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
-    "affyio",
     "XVector",
     "GenomeInfoDb",
     "S4Arrays",
@@ -16899,7 +16678,6 @@
     "QFeatures",
     "GenomeInfoDb",
     "S4Arrays",
-    "affyio",
     "SparseArray",
     "XVector",
     "AnnotationFilter"
@@ -16909,7 +16687,6 @@
     "omicade4",
     "MultiDataSet",
     "SummarizedExperiment",
-    "qvalue",
     "GenomicRanges",
     "made4",
     "GenomeInfoDb",
@@ -17079,7 +16856,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "KEGGREST",
     "Spectra",
     "QFeatures",
@@ -17101,7 +16877,6 @@
     "affy",
     "MLInterfaces",
     "biomaRt",
-    "affyio",
     "AnnotationDbi",
     "annotate",
     "genefilter",
@@ -17193,8 +16968,7 @@
     "Biostrings"
   ],
   "panp": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "partCNV": [
     "SingleCellExperiment",
@@ -17247,7 +17021,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -17285,7 +17058,6 @@
     "DOSE",
     "enrichplot",
     "GOSemSim",
-    "qvalue",
     "SparseArray",
     "rtracklayer",
     "GenomicFeatures",
@@ -17301,7 +17073,6 @@
     "oligoClasses",
     "XVector",
     "GenomeInfoDb",
-    "affyio",
     "GenomicRanges",
     "SummarizedExperiment",
     "S4Arrays",
@@ -17313,7 +17084,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17474,8 +17244,7 @@
     "SparseArray"
   ],
   "plier": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "plotgardener": [
     "GenomeInfoDb",
@@ -17605,7 +17374,6 @@
     "RPA",
     "GenomicRanges",
     "GenomeInfoDb",
-    "affyio",
     "SummarizedExperiment",
     "Biostrings",
     "Rsamtools",
@@ -17623,7 +17391,6 @@
     "affy",
     "GenomicFeatures",
     "AnnotationDbi",
-    "affyio",
     "KEGGREST",
     "Biostrings",
     "rtracklayer",
@@ -17740,7 +17507,6 @@
     "SparseArray",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "pwalign"
   ],
   "projectR": [
@@ -17759,7 +17525,6 @@
     "AnnotationDbi",
     "annotate",
     "affy",
-    "affyio",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -17784,7 +17549,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "XVector",
     "Biostrings",
@@ -17796,7 +17560,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17813,7 +17576,6 @@
     "oligo",
     "oligoClasses",
     "affy",
-    "affyio",
     "Biostrings",
     "affxparser",
     "GenomicRanges",
@@ -17825,13 +17587,11 @@
     "SparseArray"
   ],
   "pvac": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "pvca": [
     "vsn",
-    "affy",
-    "affyio"
+    "affy"
   ],
   "pwalign": [
     "Biostrings",
@@ -17846,7 +17606,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -17867,8 +17626,7 @@
     "XVector"
   ],
   "qpcrNorm": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "qpgraph": [
     "annotate",
@@ -17964,12 +17722,10 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "qvalue": [],
   "r3Cseq": [
     "GenomicRanges",
     "Rsamtools",
     "rtracklayer",
-    "qvalue",
     "GenomeInfoDb",
     "Biostrings",
     "XVector",
@@ -17990,7 +17746,6 @@
     "GenomeInfoDb",
     "GenomicRanges",
     "AnnotationDbi",
-    "affyio",
     "KEGGREST",
     "XVector",
     "Biostrings",
@@ -18150,7 +17905,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "XVector",
     "Biostrings",
@@ -18231,7 +17985,6 @@
     "GenomicAlignments",
     "GenomicFeatures",
     "GenomicFiles",
-    "qvalue",
     "Rsamtools",
     "rtracklayer",
     "XVector",
@@ -18656,7 +18409,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "scBubbletree": [],
   "scCB2": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -19009,7 +18761,6 @@
     "genefilter",
     "annotate",
     "GOSemSim",
-    "qvalue",
     "AnnotationForge",
     "enrichplot",
     "graphite",
@@ -19261,7 +19012,6 @@
   "scrapper": [
     "beachmat",
     "DelayedArray",
-    "Rigraphlib",
     "SparseArray",
     "S4Arrays",
     "XVector"
@@ -19387,8 +19137,7 @@
     "GOSemSim",
     "Biostrings",
     "Rsamtools",
-    "GenomicAlignments",
-    "qvalue"
+    "GenomicAlignments"
   ],
   "selectKSigs": [
     "HiLDA",
@@ -19440,7 +19189,6 @@
     "GenomicFeatures",
     "DOSE",
     "GOSemSim",
-    "qvalue",
     "KEGGREST",
     "GenomicAlignments",
     "SummarizedExperiment",
@@ -19601,15 +19349,12 @@
     "SparseArray",
     "XVector"
   ],
-  "sights": [
-    "qvalue"
-  ],
+  "sights": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",
     "ExperimentHub",
     "HDF5Array",
-    "qvalue",
     "clusterProfiler",
     "DOSE",
     "GSEABase",
@@ -19764,7 +19509,6 @@
     "alabaster.sce",
     "genefilter",
     "basilisk",
-    "alabaster.schemas",
     "alabaster.ranges",
     "KEGGREST",
     "basilisk.utils",
@@ -19837,7 +19581,6 @@
     "rtracklayer",
     "h5mread",
     "affy",
-    "affyio",
     "Rsamtools",
     "GenomicAlignments"
   ],
@@ -20076,7 +19819,6 @@
     "simpleSeg",
     "MultiAssayExperiment",
     "genefilter",
-    "dcanr",
     "cytomapper",
     "GenomicRanges",
     "DelayedArray",
@@ -20109,7 +19851,6 @@
     "SummarizedExperiment",
     "CATALYST",
     "SingleCellExperiment",
-    "FlowSOM",
     "scater",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -20177,7 +19918,6 @@
     "vsn",
     "affy",
     "MsFeatures",
-    "affyio",
     "MultiAssayExperiment",
     "AnnotationFilter",
     "GenomicRanges",
@@ -20275,7 +20015,6 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "stepNorm": [],
   "strandCheckR": [
     "Rsamtools",
     "GenomeInfoDb",
@@ -20311,9 +20050,7 @@
     "SparseArray",
     "XVector"
   ],
-  "subSeq": [
-    "qvalue"
-  ],
+  "subSeq": [],
   "supersigs": [
     "Biostrings",
     "SummarizedExperiment",
@@ -20413,7 +20150,6 @@
   ],
   "synapter": [
     "MSnbase",
-    "qvalue",
     "Biostrings",
     "cleaver",
     "XVector",
@@ -20421,7 +20157,6 @@
     "PSMatch",
     "vsn",
     "affy",
-    "affyio",
     "Spectra",
     "QFeatures",
     "MultiAssayExperiment",
@@ -20526,7 +20261,6 @@
     "DESeq2",
     "topGO",
     "GOSemSim",
-    "qvalue",
     "GenomicRanges",
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -20703,7 +20437,6 @@
     "affy",
     "vsn",
     "genefilter",
-    "affyio",
     "AnnotationDbi",
     "annotate",
     "KEGGREST",
@@ -20740,7 +20473,6 @@
     "affy",
     "Spectra",
     "QFeatures",
-    "affyio",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "AnnotationFilter",
@@ -20895,7 +20627,6 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "FlowSOM",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -20908,7 +20639,6 @@
   "treekoR": [
     "SingleCellExperiment",
     "diffcyt",
-    "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -20936,7 +20666,6 @@
     "Biostrings"
   ],
   "trigger": [
-    "qvalue",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -21126,7 +20855,6 @@
     "GenomicAlignments"
   ],
   "vsclust": [
-    "qvalue",
     "MultiAssayExperiment",
     "SummarizedExperiment",
     "DelayedArray",
@@ -21137,8 +20865,7 @@
     "XVector"
   ],
   "vsn": [
-    "affy",
-    "affyio"
+    "affy"
   ],
   "vtpnet": [
     "GenomicRanges",
@@ -21214,7 +20941,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "genefilter",
-    "affyio",
     "KEGGREST",
     "Biostrings",
     "XVector",
@@ -21251,8 +20977,6 @@
     "annaffy",
     "vsn",
     "gcrma",
-    "qvalue",
-    "affyio",
     "AnnotationDbi",
     "XVector",
     "Biostrings",
@@ -21322,7 +21046,6 @@
     "GenomeInfoDb",
     "S4Arrays",
     "DelayedArray",
-    "affyio",
     "SparseArray",
     "XVector",
     "MultiAssayExperiment",
