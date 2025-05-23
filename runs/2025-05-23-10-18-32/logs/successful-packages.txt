@@ -1394,3 +1394,12 @@ MODA
 POMA
 RegEnrich
 SVMDO
+edge
+EGAD
+isomiRs
+knowYourCG
+MetaboAnnotation
+rrvgo
+RTNsurvival
+SingleCellExperiment
+tRNAdbImport
