@@ -1188,3 +1188,17 @@ screenCounter
 snapcount
 sRACIPE
 ssPATHS
+BLMA
+CPSM
+CytoML
+flowVS
+genefilter
+GenomicScores
+LACE
+MBASED
+MultimodalExperiment
+plyxp
+QTLExperiment
+quantiseqr
+SemDist
+tracktables
