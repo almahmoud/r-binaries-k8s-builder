@@ -1377,3 +1377,9 @@ DEWSeq
 rGenomeTracks
 SeqGate
 tRanslatome
+autonomics
+DELocal
+DEsubs
+NBAMSeq
+regionalpcs
+TCC

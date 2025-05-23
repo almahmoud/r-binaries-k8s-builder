@@ -573,7 +573,6 @@
     "PSMatch"
   ],
   "DEFormats": [],
-  "DELocal": [],
   "DEP": [
     "MSnbase",
     "PSMatch"
@@ -593,7 +592,6 @@
     "SingleCellExperiment"
   ],
   "DEXSeq": [],
-  "DEsubs": [],
   "DExMA": [],
   "DMCFB": [
     "rtracklayer",
@@ -1428,7 +1426,6 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq",
     "BSgenome",
@@ -2107,7 +2104,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "TCC": [],
   "TCGAutils": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2433,7 +2429,6 @@
     "rtracklayer"
   ],
   "attract": [],
-  "autonomics": [],
   "ballgown": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2545,7 +2540,6 @@
     "GenomicAlignments"
   ],
   "broadSeq": [
-    "DELocal",
     "clusterProfiler",
     "enrichplot"
   ],
@@ -4289,7 +4283,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regioneR": [
     "BSgenome",
     "rtracklayer",
