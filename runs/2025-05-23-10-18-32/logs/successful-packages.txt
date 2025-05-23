@@ -1117,3 +1117,10 @@ eudysbiome
 HiCExperiment
 MultiDataSet
 SimBu
+adSplit
+flowGate
+gatom
+GenomicDistributions
+muscle
+scifer
+SeqArray

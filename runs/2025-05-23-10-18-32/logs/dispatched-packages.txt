@@ -1315,3 +1315,8 @@ scHiCcompare
 HiContacts
 HiCool
 ropls
+GBScleanR
+GDSArray
+SAIGEgds
+SeqVarTools
+ggmanh

@@ -365,8 +365,7 @@
     "genefilter"
   ],
   "CNVRanger": [
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "CNVfilteR": [
     "regioneR",
@@ -1080,9 +1079,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [
-    "SeqArray"
-  ],
+  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1091,11 +1088,8 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "GDSArray": [
-    "SeqArray"
-  ],
+  "GDSArray": [],
   "GENESIS": [
-    "SeqArray",
     "SeqVarTools"
   ],
   "GEOexplorer": [
@@ -1218,7 +1212,6 @@
     "GenomicAlignments"
   ],
   "GenomicAlignments": [],
-  "GenomicDistributions": [],
   "GenomicFeatures": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2076,7 +2069,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqArray",
     "SeqVarTools",
     "GenomicAlignments"
   ],
@@ -2386,9 +2378,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "SAIGEgds": [
-    "SeqArray"
-  ],
+  "SAIGEgds": [],
   "SARC": [
     "plyranges",
     "GenomicFeatures",
@@ -2506,7 +2496,6 @@
   ],
   "Scale4C": [],
   "SemDist": [],
-  "SeqArray": [],
   "SeqGSEA": [
     "DESeq2"
   ],
@@ -2514,9 +2503,7 @@
   "SeqSQC": [
     "ExperimentHub"
   ],
-  "SeqVarTools": [
-    "SeqArray"
-  ],
+  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -2842,8 +2829,7 @@
     "GenomicAlignments"
   ],
   "VariantExperiment": [
-    "GDSArray",
-    "SeqArray"
+    "GDSArray"
   ],
   "VariantFiltering": [
     "VariantAnnotation",
@@ -2928,7 +2914,6 @@
   "a4Base": [
     "genefilter"
   ],
-  "adSplit": [],
   "adductomicsR": [
     "ExperimentHub"
   ],
@@ -4047,7 +4032,6 @@
     "QFeatures",
     "PSMatch"
   ],
-  "flowGate": [],
   "flowStats": [],
   "flowVS": [
     "flowStats"
@@ -4100,7 +4084,6 @@
     "graphite",
     "GenomicAlignments"
   ],
-  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4149,9 +4132,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggmanh": [
-    "SeqArray"
-  ],
+  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4899,7 +4880,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "muscle": [],
   "musicatk": [
     "VariantAnnotation",
     "BSgenome",
@@ -5600,7 +5580,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "scifer": [],
   "scmap": [
     "SingleCellExperiment"
   ],
