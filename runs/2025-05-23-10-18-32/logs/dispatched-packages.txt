@@ -1497,3 +1497,9 @@ rrvgo
 tRanslatome
 RTNsurvival
 tRNAdbImport
+CytoMDS
+CytoPipelineGUI
+EnrichmentBrowser
+RegEnrich
+SVMDO
+enrichplot

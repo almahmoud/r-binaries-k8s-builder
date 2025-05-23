@@ -1358,3 +1358,16 @@ GmicR
 MetMashR
 MOMA
 Rcpi
+BreastSubtypeR
+CytoPipeline
+DOSE
+mogsa
+mslp
+nipalsMCIA
+omicRexposome
+qsmooth
+safe
+satuRn
+sSNAPPY
+ViSEAGO
+vissE
