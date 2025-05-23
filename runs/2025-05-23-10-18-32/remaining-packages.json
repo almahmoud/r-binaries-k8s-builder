@@ -412,7 +412,6 @@
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -1761,7 +1760,6 @@
     "oligoClasses",
     "SummarizedExperiment",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -2760,7 +2758,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "Doscheda": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "GenomicRanges",
@@ -2787,7 +2784,6 @@
     "KEGGREST",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "GenomeInfoDb",
     "S4Arrays",
@@ -3129,7 +3125,6 @@
     "SummarizedExperiment",
     "GenomicFeatures",
     "GenomeInfoDb",
-    "affxparser",
     "GenomicRanges",
     "BSgenome",
     "Biostrings",
@@ -3723,7 +3718,6 @@
     "SparseArray",
     "AnnotationFilter"
   ],
-  "GWAS.BAYES": [],
   "GWENA": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3812,7 +3806,6 @@
   ],
   "GeneRegionScan": [
     "Biostrings",
-    "affxparser",
     "XVector",
     "GenomeInfoDb"
   ],
@@ -4517,7 +4510,6 @@
   ],
   "ITALICS": [
     "oligo",
-    "affxparser",
     "oligoClasses",
     "Biostrings",
     "GenomicRanges",
@@ -4923,7 +4915,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MANOR": [],
   "MAST": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5213,9 +5204,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MMUPHin": [
-    "Maaslin2"
-  ],
+  "MMUPHin": [],
   "MODA": [
     "AnnotationDbi",
     "KEGGREST",
@@ -5421,11 +5410,9 @@
     "XVector",
     "SparseArray"
   ],
-  "Maaslin2": [],
   "Macarron": [
     "SummarizedExperiment",
     "DelayedArray",
-    "Maaslin2",
     "S4Arrays",
     "SparseArray",
     "GenomicRanges",
@@ -7913,7 +7900,6 @@
     "GenomeInfoDb",
     "SummarizedExperiment",
     "oligoClasses",
-    "affxparser",
     "genefilter",
     "AnnotationDbi",
     "annotate",
@@ -8087,7 +8073,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "SIMD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -9761,10 +9746,8 @@
     "SparseArray",
     "XVector"
   ],
-  "affxparser": [],
   "affyILM": [
     "gcrma",
-    "affxparser",
     "XVector",
     "Biostrings",
     "GenomeInfoDb"
@@ -9854,7 +9837,6 @@
     "alabaster.spatial",
     "alabaster.string",
     "alabaster.vcf",
-    "alabaster.bumpy",
     "alabaster.mae",
     "MultiAssayExperiment",
     "DelayedArray",
@@ -9878,7 +9860,6 @@
     "KEGGREST",
     "GenomicAlignments"
   ],
-  "alabaster.bumpy": [],
   "alabaster.files": [
     "Rsamtools",
     "GenomeInfoDb",
@@ -10447,7 +10428,6 @@
     "SummarizedExperiment",
     "MAST",
     "microbiome",
-    "Maaslin2",
     "maaslin3",
     "GenomicRanges",
     "SingleCellExperiment",
@@ -10867,7 +10847,6 @@
     "annotate",
     "biomaRt"
   ],
-  "calm": [],
   "canceR": [
     "cBioPortalData",
     "GSEABase",
@@ -11468,7 +11447,6 @@
   ],
   "cn.farms": [
     "oligoClasses",
-    "affxparser",
     "oligo",
     "Biostrings",
     "GenomicRanges",
@@ -11491,7 +11469,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "coGPS": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -12170,7 +12147,6 @@
     "XVector",
     "h5mread"
   ],
-  "dStruct": [],
   "dada2": [
     "Biostrings",
     "ShortRead",
@@ -13383,12 +13359,10 @@
     "SparseArray",
     "XVector"
   ],
-  "flowcatchR": [],
   "frma": [
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "SummarizedExperiment",
     "XVector",
@@ -15023,7 +14997,6 @@
     "XVector",
     "Biostrings"
   ],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -15640,7 +15613,6 @@
     "oligoClasses",
     "gcrma",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "SummarizedExperiment",
     "XVector",
@@ -15948,7 +15920,6 @@
     "GenomeInfoDb",
     "XVector"
   ],
-  "msPurity": [],
   "msa": [
     "Biostrings",
     "XVector",
@@ -16355,7 +16326,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "nucleoSim": [],
   "nullranges": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -16416,7 +16386,6 @@
   "oligo": [
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "XVector",
     "GenomeInfoDb",
     "GenomicRanges",
@@ -16826,7 +16795,6 @@
     "GenomicAlignments"
   ],
   "pdInfoBuilder": [
-    "affxparser",
     "oligo",
     "Biostrings",
     "oligoClasses",
@@ -17099,7 +17067,6 @@
     "XVector",
     "Biostrings"
   ],
-  "ppcseq": [],
   "pqsfinder": [
     "Biostrings",
     "GenomicRanges",
@@ -17321,7 +17288,6 @@
     "oligo",
     "oligoClasses",
     "Biostrings",
-    "affxparser",
     "GenomicRanges",
     "SummarizedExperiment",
     "XVector",
@@ -17330,7 +17296,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "pvca": [],
   "pwalign": [
     "Biostrings",
     "XVector",
