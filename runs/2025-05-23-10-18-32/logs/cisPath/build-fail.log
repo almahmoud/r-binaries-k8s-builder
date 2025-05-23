@@ -1,0 +1,42 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''cisPath'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'cisPath'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/cisPath_1.47.0.tar.gz'
+Content type 'application/x-gzip' length 1082583 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+* installing *source* package ‘cisPath’ ...
+** this is package ‘cisPath’ version ‘1.47.0’
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0’
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include    -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g   -c cisPath.cpp -o cisPath.o
+cisPath.cpp: In function ‘bool processWebInput(const char*, bool, bool)’:
+cisPath.cpp:3555:27: error: format not a string literal and no format arguments [-Werror=format-security]
+ 3555 |             PRINTFUNCTION(buffer);
+      |                           ^~~~~~
+cc1plus: some warnings being treated as errors
+make: *** [/usr/local/lib/R/etc/Makeconf:211: cisPath.o] Error 1
+ERROR: compilation failed for package ‘cisPath’
+* removing ‘/usr/local/lib/R/site-library/cisPath’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm5jiR4/downloaded_packages’
+Old packages: 'cli', 'diffobj', 'pkgdown', 'systemfonts', 'textshaping',
+  'utf8', 'zip'
+Warning message:
+In install.packages(...) :
+  installation of package ‘cisPath’ had non-zero exit status
+
+real	0m9.914s
+user	0m8.381s
+sys	0m1.394s

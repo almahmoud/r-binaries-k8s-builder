@@ -3,3 +3,4 @@ HilbertVisGUI
 RbowtieCuda
 gpuMagic
 NormqPCR
+cisPath
