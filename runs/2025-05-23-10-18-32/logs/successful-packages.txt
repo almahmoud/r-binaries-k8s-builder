@@ -783,3 +783,5 @@ ncdfFlow
 optimalFlow
 RcwlPipelines
 tidyFlowCore
+GenomeInfoDb
+MetCirc
