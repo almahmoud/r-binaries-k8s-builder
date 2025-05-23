@@ -15902,7 +15902,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate",
