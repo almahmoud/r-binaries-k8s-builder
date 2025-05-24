@@ -1989,3 +1989,5 @@ XeniumIO
 escheR
 glmSparseNet
 regioneR
+corral
+TAPseq

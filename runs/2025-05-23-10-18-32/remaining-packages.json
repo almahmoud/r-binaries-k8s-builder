@@ -351,7 +351,6 @@
   "SpotClean": [],
   "SpotSweeper": [],
   "StructuralVariantAnnotation": [],
-  "TAPseq": [],
   "TFEA.ChIP": [],
   "TVTB": [
     "Gviz",
@@ -482,7 +481,6 @@
     "RUVSeq"
   ],
   "conumee": [],
-  "corral": [],
   "crisprShiny": [
     "crisprViz",
     "Gviz",

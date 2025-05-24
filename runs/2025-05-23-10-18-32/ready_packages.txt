@@ -1,6 +1,0 @@
-ChIPpeakAnno
-RgnTX
-SpotSweeper
-UMI4Cats
-annotatr
-regioneReloaded
