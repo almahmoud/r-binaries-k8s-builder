@@ -1905,3 +1905,6 @@ bumphunter
 raer
 scry
 VariantAnnotation
+BgeeCall
+DegNorm
+ELViS

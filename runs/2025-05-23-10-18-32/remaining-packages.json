@@ -52,7 +52,6 @@
   "BayesSpace": [
     "scran"
   ],
-  "BgeeCall": [],
   "BioTIP": [
     "scran"
   ],
@@ -153,7 +152,6 @@
   "DeconvoBuddies": [
     "scran"
   ],
-  "DegNorm": [],
   "Dino": [
     "scran"
   ],
@@ -168,7 +166,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "ELViS": [],
   "ENmix": [
     "minfi"
   ],
