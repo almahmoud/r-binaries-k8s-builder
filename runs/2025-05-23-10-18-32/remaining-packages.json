@@ -402,7 +402,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "GDCRNATools": [],
   "GNOSIS": [
     "cBioPortalData",
     "RTCGAToolbox",
@@ -611,10 +610,7 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
-  "MoleculeExperiment": [],
+  "MinimumDistance": [],
   "Moonlight2R": [
     "EpiMix",
     "GenomicFeatures"
@@ -1017,7 +1013,6 @@
     "GenomicFiles",
     "GenomicFeatures"
   ],
-  "VanillaICE": [],
   "VariantAnnotation": [
     "GenomicFeatures"
   ],

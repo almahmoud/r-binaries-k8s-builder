@@ -1897,3 +1897,4 @@ microSTASIS
 treeclimbR
 benchdamic
 hiReadsProcessor
+MinimumDistance
