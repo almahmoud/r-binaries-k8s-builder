@@ -417,7 +417,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "M3Drop": [],
   "MADSEQ": [
     "VariantAnnotation"
   ],
@@ -445,7 +444,6 @@
     "methylumi",
     "lumi"
   ],
-  "MEB": [],
   "MEDIPS": [],
   "MGnifyR": [
     "mia"
@@ -791,7 +789,6 @@
   "Uniquorn": [
     "VariantAnnotation"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles"
@@ -1317,7 +1314,6 @@
     "VariantAnnotation"
   ],
   "mbkmeans": [],
-  "metaMS": [],
   "metaseqR2": [
     "EDASeq",
     "txdbmaker"
@@ -1559,7 +1555,6 @@
     "scran"
   ],
   "scMerge": [
-    "M3Drop",
     "batchelor",
     "scran"
   ],
@@ -1651,7 +1646,6 @@
     "DropletUtils",
     "scDblFinder",
     "TSCAN",
-    "M3Drop",
     "alabaster.sce"
   ],
   "sitadela": [

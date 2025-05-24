@@ -1804,3 +1804,7 @@ iSEEfier
 MatrixQCvis
 spatialHeatmap
 tidyCoverage
+M3Drop
+MEB
+metaMS
+VAExprs
