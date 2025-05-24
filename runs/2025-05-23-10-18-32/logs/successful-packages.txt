@@ -1759,3 +1759,8 @@ maaslin3
 microSTASIS
 MsQuality
 traseR
+DifferentialRegulation
+peakPantheR
+slalom
+Statial
+stJoincount

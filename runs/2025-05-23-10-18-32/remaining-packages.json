@@ -307,7 +307,6 @@
     "txdbmaker"
   ],
   "DiffBind": [],
-  "DifferentialRegulation": [],
   "Dino": [
     "scran"
   ],
@@ -958,7 +957,6 @@
   "SpotSweeper": [
     "escheR"
   ],
-  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1842,7 +1840,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "peakPantheR": [],
   "peco": [
     "scater"
   ],
@@ -2118,7 +2115,6 @@
     "bumphunter",
     "lumi"
   ],
-  "slalom": [],
   "slingshot": [],
   "smoothclust": [],
   "spatialHeatmap": [],
@@ -2147,7 +2143,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "stJoincount": [],
   "standR": [
     "RUVSeq",
     "EDASeq",
