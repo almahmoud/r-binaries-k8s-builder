@@ -1764,3 +1764,8 @@ peakPantheR
 slalom
 Statial
 stJoincount
+BulkSignalR
+DMCHMM
+hdxmsqc
+hiAnnotator
+miaSim

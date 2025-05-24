@@ -1896,3 +1896,4 @@ miaSim
 microSTASIS
 treeclimbR
 benchdamic
+hiReadsProcessor

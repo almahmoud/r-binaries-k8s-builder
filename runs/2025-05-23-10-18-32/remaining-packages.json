@@ -107,7 +107,6 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -266,7 +265,6 @@
     "ensembldb"
   ],
   "DESpace": [],
-  "DMCHMM": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -1570,11 +1568,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hdxmsqc": [],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "hicVennDiagram": [],
   "hypeR": [],
   "iCNV": [],
@@ -1735,7 +1729,6 @@
     "scater",
     "miaViz"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater"
