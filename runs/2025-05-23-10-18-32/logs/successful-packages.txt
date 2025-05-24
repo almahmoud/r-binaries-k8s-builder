@@ -1874,3 +1874,7 @@ casper
 EpiMix
 Organism.dplyr
 OutSplice
+ChIPQC
+crupR
+factR
+gmoviz

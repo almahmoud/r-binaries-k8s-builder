@@ -154,7 +154,6 @@
     "VariantAnnotation"
   ],
   "ChIPComp": [],
-  "ChIPQC": [],
   "ChIPXpress": [],
   "ChIPanalyser": [],
   "ChIPexoQual": [
@@ -970,7 +969,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "crupR": [],
   "cummeRbund": [
     "Gviz",
     "ensembldb",
@@ -1089,7 +1087,6 @@
   ],
   "escheR": [],
   "fCCAC": [],
-  "factR": [],
   "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation"
@@ -1132,7 +1129,6 @@
   "gmapR": [
     "VariantAnnotation"
   ],
-  "gmoviz": [],
   "goseq": [
     "txdbmaker"
   ],
