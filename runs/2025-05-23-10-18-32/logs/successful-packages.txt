@@ -1554,3 +1554,9 @@ Cepo
 consensusSeekeR
 easylift
 TEKRABber
+groHMM
+methylKit
+mist
+MSnbase
+normr
+pram
