@@ -1501,3 +1501,8 @@ clustifyr
 EnrichmentBrowser
 TENxIO
 VDJdive
+BEAT
+coseq
+Nebulosa
+SCArray
+SpatialExperiment

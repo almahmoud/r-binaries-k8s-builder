@@ -71,7 +71,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "BEAT": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -92,9 +91,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Banksy": [
-    "SpatialExperiment"
-  ],
+  "Banksy": [],
   "Basic4Cseq": [],
   "BatchQC": [
     "scran",
@@ -128,9 +125,7 @@
     "VariantAnnotation",
     "ensembldb"
   ],
-  "BulkSignalR": [
-    "SpatialExperiment"
-  ],
+  "BulkSignalR": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -163,9 +158,7 @@
     "xcms",
     "MSnbase"
   ],
-  "CARDspa": [
-    "SpatialExperiment"
-  ],
+  "CARDspa": [],
   "CATALYST": [
     "scater",
     "scuttle"
@@ -215,14 +208,10 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CTSV": [
-    "SpatialExperiment"
-  ],
+  "CTSV": [],
   "CTexploreR": [],
   "CaMutQC": [],
-  "CatsCradle": [
-    "SpatialExperiment"
-  ],
+  "CatsCradle": [],
   "CeTF": [],
   "CellBench": [],
   "CellMixS": [
@@ -337,7 +326,6 @@
     "ensembldb"
   ],
   "DESpace": [
-    "SpatialExperiment",
     "scuttle"
   ],
   "DMCHMM": [],
@@ -381,7 +369,6 @@
   "DeconvoBuddies": [
     "scran",
     "scuttle",
-    "SpatialExperiment",
     "scater"
   ],
   "DegCre": [
@@ -422,8 +409,7 @@
     "GenomicFeatures"
   ],
   "EGSEA": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "ELMER": [
     "GenomicFeatures",
@@ -468,7 +454,6 @@
     "txdbmaker"
   ],
   "ExperimentSubset": [
-    "SpatialExperiment",
     "TreeSummarizedExperiment"
   ],
   "FEAST": [
@@ -481,7 +466,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "ggbio",
-    "SpatialExperiment",
     "scater",
     "scuttle",
     "scran",
@@ -532,9 +516,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "GSVA": [
-    "SpatialExperiment"
-  ],
+  "GSVA": [],
   "GUIDEseq": [
     "CRISPRseek",
     "ChIPpeakAnno",
@@ -788,9 +770,7 @@
   "MinimumDistance": [
     "VanillaICE"
   ],
-  "MoleculeExperiment": [
-    "SpatialExperiment"
-  ],
+  "MoleculeExperiment": [],
   "Moonlight2R": [
     "EpiMix",
     "GenomicFeatures"
@@ -827,7 +807,6 @@
   "NanoMethViz": [
     "bsseq"
   ],
-  "Nebulosa": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -954,9 +933,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [
-    "coseq"
-  ],
+  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -1102,15 +1079,10 @@
   "SC3": [],
   "SCAN.UPC": [],
   "SCANVIS": [],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [],
   "SCnorm": [],
-  "SEraster": [
-    "SpatialExperiment"
-  ],
+  "SEraster": [],
   "SEtools": [],
   "SGCP": [],
   "SGSeq": [
@@ -1132,7 +1104,6 @@
     "regioneR"
   ],
   "SPIAT": [
-    "SpatialExperiment",
     "dittoSeq"
   ],
   "SPLINTER": [
@@ -1143,9 +1114,7 @@
     "VariantAnnotation"
   ],
   "SPOTlight": [],
-  "SVP": [
-    "SpatialExperiment"
-  ],
+  "SVP": [],
   "SeqGSEA": [],
   "SeqSQC": [],
   "SigsPack": [
@@ -1176,7 +1145,6 @@
   ],
   "SpaNorm": [
     "scran",
-    "SpatialExperiment",
     "scuttle"
   ],
   "Spaniel": [
@@ -1186,15 +1154,12 @@
     "scuttle"
   ],
   "SparseSignatures": [],
-  "SpatialExperiment": [],
   "SpatialExperimentIO": [
     "DropletUtils",
-    "SpatialExperiment",
     "scuttle"
   ],
   "SpatialFeatureExperiment": [
     "DropletUtils",
-    "SpatialExperiment",
     "scuttle"
   ],
   "SpliceWiz": [],
@@ -1204,15 +1169,11 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotClean": [
-    "SpatialExperiment"
-  ],
+  "SpotClean": [],
   "SpotSweeper": [
-    "SpatialExperiment",
     "escheR"
   ],
   "Statial": [
-    "SpatialExperiment",
     "treekoR"
   ],
   "StructuralVariantAnnotation": [
@@ -1224,8 +1185,7 @@
     "GenomicFeatures"
   ],
   "TBSignatureProfiler": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "TCGAutils": [
     "GenomicFeatures"
@@ -1312,18 +1272,14 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VisiumIO": [
-    "SpatialExperiment"
-  ],
+  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
-    "SpatialExperiment",
     "DropletUtils",
     "scuttle"
   ],
   "XNAString": [],
   "XeniumIO": [
-    "SpatialExperiment",
     "VisiumIO"
   ],
   "Xeva": [
@@ -1364,7 +1320,6 @@
     "alabaster.spatial",
     "alabaster.vcf",
     "alabaster.mae",
-    "SpatialExperiment",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -1374,12 +1329,10 @@
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
-    "SpatialExperiment",
     "DropletUtils",
     "scuttle"
   ],
   "alabaster.spatial": [
-    "SpatialExperiment",
     "alabaster.sce"
   ],
   "alabaster.vcf": [
@@ -1589,7 +1542,6 @@
     "MSnbase"
   ],
   "clustSIGNAL": [
-    "SpatialExperiment",
     "scater",
     "scuttle"
   ],
@@ -1617,9 +1569,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "concordexR": [
-    "SpatialExperiment"
-  ],
+  "concordexR": [],
   "condiments": [
     "slingshot",
     "distinct",
@@ -1634,8 +1584,7 @@
     "RUVSeq"
   ],
   "consensusOV": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "consensusSeekeR": [],
   "conumee": [
@@ -1644,7 +1593,6 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase"
@@ -1714,12 +1662,9 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [
-    "SpatialExperiment"
-  ],
+  "cytomapper": [],
   "cytoviewer": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "dagLogo": [
     "motifStack",
@@ -1888,12 +1833,9 @@
   ],
   "escape": [
     "GSVA",
-    "UCell",
-    "SpatialExperiment"
+    "UCell"
   ],
-  "escheR": [
-    "SpatialExperiment"
-  ],
+  "escheR": [],
   "evaluomeR": [],
   "extraChIPs": [],
   "fCCAC": [
@@ -1969,9 +1911,7 @@
     "txdbmaker"
   ],
   "ggsc": [],
-  "ggspavis": [
-    "SpatialExperiment"
-  ],
+  "ggspavis": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2006,9 +1946,7 @@
     "hiAnnotator"
   ],
   "hicVennDiagram": [],
-  "hoodscanR": [
-    "SpatialExperiment"
-  ],
+  "hoodscanR": [],
   "hypeR": [],
   "iCNV": [
     "CODEX"
@@ -2076,7 +2014,6 @@
     "GenomicFeatures"
   ],
   "imcRtools": [
-    "SpatialExperiment",
     "scuttle",
     "cytomapper"
   ],
@@ -2091,9 +2028,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "jazzPanda": [
-    "SpatialExperiment"
-  ],
+  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",
@@ -2125,7 +2060,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "SpatialExperiment",
     "simpleSeg",
     "cytomapper"
   ],
@@ -2374,9 +2308,7 @@
     "mbkmeans",
     "scuttle"
   ],
-  "nnSVG": [
-    "SpatialExperiment"
-  ],
+  "nnSVG": [],
   "normr": [],
   "nullranges": [
     "plyranges"
@@ -2385,16 +2317,14 @@
     "RUVSeq",
     "EDASeq",
     "GSVA",
-    "GenomicFeatures",
-    "SpatialExperiment"
+    "GenomicFeatures"
   ],
   "omXplore": [
     "MSnbase"
   ],
   "omicsPrint": [],
   "oppar": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "pRoloc": [
     "MSnbase"
@@ -2411,8 +2341,7 @@
   "pairedGSEA": [],
   "partCNV": [],
   "pathMED": [
-    "GSVA",
-    "SpatialExperiment"
+    "GSVA"
   ],
   "pathRender": [],
   "pathlinkR": [],
@@ -2445,9 +2374,7 @@
   ],
   "plyranges": [],
   "podkat": [],
-  "poem": [
-    "SpatialExperiment"
-  ],
+  "poem": [],
   "pram": [],
   "prebs": [],
   "preciseTAD": [
@@ -2614,7 +2541,6 @@
     "ensembldb",
     "SingleCellSignalR",
     "GenomicFeatures",
-    "SpatialExperiment",
     "scran",
     "scuttle"
   ],
@@ -2667,9 +2593,7 @@
   "sccomp": [],
   "scds": [],
   "schex": [],
-  "scider": [
-    "SpatialExperiment"
-  ],
+  "scider": [],
   "scmap": [],
   "scmeth": [
     "bsseq",
@@ -2728,7 +2652,6 @@
     "scater",
     "standR",
     "scuttle",
-    "SpatialExperiment",
     "RUVSeq",
     "EDASeq",
     "GenomicFeatures"
@@ -2752,15 +2675,13 @@
     "consensusOV",
     "ensembldb",
     "GSVA",
-    "SpatialExperiment",
     "GenomicFeatures"
   ],
   "simPIC": [
     "scuttle"
   ],
   "simpleSeg": [
-    "cytomapper",
-    "SpatialExperiment"
+    "cytomapper"
   ],
   "singleCellTK": [
     "batchelor",
@@ -2779,7 +2700,6 @@
     "scuttle",
     "zellkonverter",
     "GenomicFeatures",
-    "SpatialExperiment",
     "M3Drop",
     "alabaster.sce"
   ],
@@ -2797,33 +2717,17 @@
   ],
   "slalom": [],
   "slingshot": [],
-  "smoothclust": [
-    "SpatialExperiment"
-  ],
-  "smoppix": [
-    "SpatialExperiment"
-  ],
+  "smoothclust": [],
+  "smoppix": [],
   "soGGi": [],
-  "sosta": [
-    "SpatialExperiment"
-  ],
-  "spaSim": [
-    "SpatialExperiment"
-  ],
-  "spacexr": [
-    "SpatialExperiment"
-  ],
+  "sosta": [],
+  "spaSim": [],
+  "spacexr": [],
   "sparrow": [],
-  "spatialDE": [
-    "SpatialExperiment"
-  ],
-  "spatialFDA": [
-    "SpatialExperiment"
-  ],
+  "spatialDE": [],
+  "spatialFDA": [],
   "spatialHeatmap": [],
-  "spatialSimGP": [
-    "SpatialExperiment"
-  ],
+  "spatialSimGP": [],
   "spatzie": [
     "GenomicFeatures",
     "GenomicInteractions",
@@ -2836,7 +2740,6 @@
   ],
   "speckle": [],
   "spicyR": [
-    "SpatialExperiment",
     "simpleSeg",
     "cytomapper"
   ],
@@ -2850,7 +2753,6 @@
     "scuttle"
   ],
   "spoon": [
-    "SpatialExperiment",
     "nnSVG",
     "scuttle"
   ],
@@ -2865,11 +2767,8 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "stJoincount": [
-    "SpatialExperiment"
-  ],
+  "stJoincount": [],
   "standR": [
-    "SpatialExperiment",
     "RUVSeq",
     "EDASeq",
     "GenomicFeatures"
@@ -2912,7 +2811,6 @@
   "tidyCoverage": [],
   "tidySingleCellExperiment": [],
   "tidySpatialExperiment": [
-    "SpatialExperiment",
     "tidySingleCellExperiment"
   ],
   "tidyomics": [
@@ -2924,9 +2822,7 @@
   "topdownr": [
     "MSnbase"
   ],
-  "tpSVG": [
-    "SpatialExperiment"
-  ],
+  "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
@@ -2985,7 +2881,6 @@
   ],
   "vidger": [],
   "visiumStitched": [
-    "SpatialExperiment",
     "DropletUtils",
     "scuttle",
     "scater"
@@ -3023,9 +2918,7 @@
   "xcms": [
     "MSnbase"
   ],
-  "xenLite": [
-    "SpatialExperiment"
-  ],
+  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
