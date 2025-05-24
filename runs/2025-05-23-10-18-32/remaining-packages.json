@@ -288,9 +288,7 @@
   "CluMSID": [
     "MSnbase"
   ],
-  "ClusterFoldSimilarity": [],
   "CoGAPS": [],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures"
   ],
@@ -1879,7 +1877,6 @@
   "gmoviz": [
     "GenomicFeatures"
   ],
-  "goSorensen": [],
   "goseq": [
     "GenomicFeatures",
     "txdbmaker"
@@ -2120,7 +2117,6 @@
   ],
   "miQC": [],
   "miRSM": [],
-  "miRspongeR": [],
   "mia": [
     "TreeSummarizedExperiment",
     "scater",

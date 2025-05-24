@@ -1533,3 +1533,7 @@ CoverageView
 scDesign3
 signatureSearch
 SPOTlight
+ClusterFoldSimilarity
+CoSIA
+goSorensen
+miRspongeR
