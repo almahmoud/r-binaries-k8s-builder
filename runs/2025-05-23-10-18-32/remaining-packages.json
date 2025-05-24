@@ -48,7 +48,6 @@
     "karyoploteR",
     "CopyNumberPlots"
   ],
-  "CexoR": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -130,7 +129,6 @@
   "MPAC": [
     "scran"
   ],
-  "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
     "lumi"
@@ -353,7 +351,6 @@
     "missMethyl"
   ],
   "methylPipe": [],
-  "methylclock": [],
   "missMethyl": [],
   "mitoClone2": [],
   "motifbreakR": [],
