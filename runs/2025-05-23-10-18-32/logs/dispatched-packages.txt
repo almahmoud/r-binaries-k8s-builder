@@ -2291,3 +2291,4 @@ RegionalST
 scFeatures
 BASiCStan
 MAGAR
+chevreulPlot

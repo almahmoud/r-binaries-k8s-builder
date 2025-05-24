@@ -66,12 +66,8 @@
   ],
   "biscuiteer": [],
   "celda": [],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "cisPath": [],
@@ -94,21 +90,17 @@
   "graper": [],
   "hypeR": [],
   "iCheck": [],
-  "lute": [],
   "methylGSA": [
     "missMethyl"
   ],
   "missMethyl": [],
-  "msImpute": [],
   "msgbsR": [],
   "mumosa": [],
   "musicatk": [],
   "pageRank": [],
-  "pipeComp": [],
   "primirTSS": [],
   "rGADEM": [],
   "saseR": [],
-  "scDD": [],
   "scDblFinder": [],
   "scFeatures": [],
   "scMerge": [],

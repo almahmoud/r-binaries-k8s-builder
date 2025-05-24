@@ -2211,3 +2211,8 @@ DeconvoBuddies
 epimutacions
 RnBeads
 Spaniel
+chevreulProcess
+lute
+msImpute
+pipeComp
+scDD
