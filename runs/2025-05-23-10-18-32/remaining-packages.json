@@ -198,14 +198,10 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "alabaster": [
-    "alabaster.spatial"
-  ],
+  "alabaster": [],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
-    "alabaster.spatial"
+    "SpatialFeatureExperiment"
   ],
-  "alabaster.spatial": [],
   "annotatr": [],
   "arrayMvout": [
     "lumi"

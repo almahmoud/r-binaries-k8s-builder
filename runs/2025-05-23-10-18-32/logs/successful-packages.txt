@@ -2097,3 +2097,4 @@ funtooNorm
 metaseqR2
 MutationalPatterns
 ProteoDisco
+alabaster.spatial
