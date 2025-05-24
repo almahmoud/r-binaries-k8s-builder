@@ -915,7 +915,6 @@
     "GenomicFeatures"
   ],
   "SC3": [],
-  "SCArray.sat": [],
   "SCnorm": [],
   "SGSeq": [
     "GenomicFeatures"
@@ -2218,11 +2217,7 @@
   "slingshot": [],
   "smoothclust": [],
   "soGGi": [],
-  "spaSim": [],
-  "spacexr": [],
   "sparrow": [],
-  "spatialDE": [],
-  "spatialFDA": [],
   "spatialHeatmap": [],
   "spatialSimGP": [],
   "spatzie": [

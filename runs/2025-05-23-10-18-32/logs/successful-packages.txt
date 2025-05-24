@@ -1706,3 +1706,8 @@ concordexR
 MoonlightR
 VisiumIO
 zellkonverter
+SCArray.sat
+spacexr
+spaSim
+spatialDE
+spatialFDA
