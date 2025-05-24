@@ -940,7 +940,6 @@
   "SCArray.sat": [],
   "SCOPE": [],
   "SCnorm": [],
-  "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
   ],
@@ -1580,7 +1579,6 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "pipeFrame",
     "ChIPseeker",
     "GenomicFeatures",
     "TFBSTools",
@@ -1995,7 +1993,6 @@
     "scran",
     "scater"
   ],
-  "pipeFrame": [],
   "poem": [],
   "preciseTAD": [
     "rCGH",
