@@ -1575,3 +1575,6 @@ COCOA
 DeMixT
 extraChIPs
 kissDE
+methylSig
+recount3
+seqsetvis

@@ -1995,7 +1995,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -2258,7 +2257,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter",
@@ -2448,7 +2446,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "seqsetvis": [],
   "sesame": [],
   "sevenC": [],
   "shinyDSP": [
