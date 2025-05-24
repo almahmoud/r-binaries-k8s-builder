@@ -5,14 +5,15 @@
 ## Summary
 
 - 2287 packages built successfully
-- 20 packages failed to build
-- 2 packages not yet processed
+- 21 packages failed to build
+- 1 packages not yet processed
 
-## Failed Builds (20)
+## Failed Builds (21)
 | Package                                                                              | Status   | Log                                      | BBS Status                                                                    | Failure Reasons                                                  |
 |--------------------------------------------------------------------------------------|----------|------------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------|
 | [AneuFinder](https://bioconductor.org/packages/3.21/bioc/html/AneuFinder.html)       | Failed   | [Log](logs/AneuFinder/build-fail.log)    | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/AneuFinder)    | Build failed with unknown error                                  |
 | [CNEr](https://bioconductor.org/packages/3.21/bioc/html/CNEr.html)                   | Failed   | [Log](logs/CNEr/build-fail.log)          | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/CNEr)          | Build failed with unknown error                                  |
+| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html)                 | Failed   | [Log](logs/ChAMP/build-fail.log)         | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/ChAMP)            | Build failed with unknown error                                  |
 | [EpiCompare](https://bioconductor.org/packages/3.21/bioc/html/EpiCompare.html)       | Failed   | [Log](logs/EpiCompare/build-fail.log)    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/EpiCompare)       | Build failed with unknown error                                  |
 | [Harshlight](https://bioconductor.org/packages/3.21/bioc/html/Harshlight.html)       | Failed   | [Log](logs/Harshlight/build-fail.log)    | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/Harshlight)    | Build failed with unknown error                                  |
 | [HilbertVisGUI](https://bioconductor.org/packages/3.21/bioc/html/HilbertVisGUI.html) | Failed   | [Log](logs/HilbertVisGUI/build-fail.log) | [ERROR](https://bioconductor.org/checkResults/3.21/bioc-LATEST/HilbertVisGUI) | Compilation failed:  ‘HilbertVisGUI’                             |
@@ -2323,8 +2324,7 @@
 | [zitools](https://bioconductor.org/packages/3.21/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zitools)                     |
 | [zlibbioc](https://bioconductor.org/packages/3.21/bioc/html/zlibbioc.html)                                       | Built    | [Log](logs/zlibbioc/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.21/bioc-LATEST/zlibbioc)                    |
 
-## Not Yet Processed (2)
-| Package                                                              | Status      |
-|----------------------------------------------------------------------|-------------|
-| [ChAMP](https://bioconductor.org/packages/3.21/bioc/html/ChAMP.html) | Unprocessed |
-| [PING](https://bioconductor.org/packages/3.21/bioc/html/PING.html)   | Unprocessed |
+## Not Yet Processed (1)
+| Package                                                            | Status      |
+|--------------------------------------------------------------------|-------------|
+| [PING](https://bioconductor.org/packages/3.21/bioc/html/PING.html) | Unprocessed |
