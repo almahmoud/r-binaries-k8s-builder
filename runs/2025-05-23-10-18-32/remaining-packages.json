@@ -224,9 +224,7 @@
     "scran"
   ],
   "MSnID": [],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [],
   "MineICA": [
@@ -265,7 +263,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "QuasR": [],
   "R3CPET": [
     "ggbio",
     "biovizBase"
@@ -353,9 +350,7 @@
   "SingleCellSignalR": [
     "scran"
   ],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [
     "ggbio",
     "biovizBase"
@@ -698,7 +693,6 @@
     "batchelor"
   ],
   "musicatk": [],
-  "mygene": [],
   "netSmooth": [],
   "octad": [
     "RUVSeq",
@@ -737,7 +731,6 @@
     "derfinder"
   ],
   "recountmethylation": [],
-  "recoup": [],
   "regionReport": [
     "derfinder"
   ],
