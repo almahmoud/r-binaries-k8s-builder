@@ -295,7 +295,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "DAPAR": [],
   "DEFormats": [],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -341,7 +340,6 @@
     "scater"
   ],
   "DegCre": [
-    "plotgardener",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -798,14 +796,11 @@
     "TreeSummarizedExperiment"
   ],
   "POWSC": [],
-  "PRONE": [],
   "PanomiR": [],
   "PharmacoGx": [],
   "PhenStat": [],
   "Pigengene": [],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1153,8 +1148,7 @@
   ],
   "Ularcirc": [
     "GenomicFeatures",
-    "Organism.dplyr",
-    "plotgardener"
+    "Organism.dplyr"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1835,7 +1829,6 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEde": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
@@ -1938,9 +1931,7 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [
-    "plotgardener"
-  ],
+  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -1978,7 +1969,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "methylInheritance": [],
   "methylPipe": [
     "Gviz",
     "GenomicFeatures",
@@ -2131,7 +2121,6 @@
     "scuttle"
   ],
   "nnSVG": [],
-  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2176,7 +2165,6 @@
     "scuttle"
   ],
   "pipeFrame": [],
-  "plotgardener": [],
   "podkat": [],
   "poem": [],
   "preciseTAD": [
@@ -2593,9 +2581,7 @@
   ],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
-  "tidyomics": [
-    "nullranges"
-  ],
+  "tidyomics": [],
   "tigre": [],
   "topdownr": [],
   "tpSVG": [],

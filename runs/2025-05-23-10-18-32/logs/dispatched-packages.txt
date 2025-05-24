@@ -1829,3 +1829,6 @@ iSEEhub
 iSEEindex
 iSEEpathways
 MSstatsQCgui
+Prostar
+mariner
+tidyomics

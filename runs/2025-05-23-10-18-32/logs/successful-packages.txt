@@ -1586,3 +1586,9 @@ plyinteractions
 DEP
 MSstatsQC
 PrInCE
+DAPAR
+iSEEde
+methylInheritance
+nullranges
+plotgardener
+PRONE
