@@ -13,10 +13,8 @@
   "CNEr": [],
   "ChAMP": [
     "DMRcate",
-    "wateRmelon",
     "missMethyl"
   ],
-  "DEScan2": [],
   "DMRcate": [
     "missMethyl"
   ],
@@ -31,9 +29,7 @@
   "MEAL": [
     "missMethyl"
   ],
-  "MEAT": [
-    "wateRmelon"
-  ],
+  "MEAT": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -51,13 +47,10 @@
   "RegionalST": [],
   "Repitools": [],
   "UMI4Cats": [],
-  "Voyager": [],
   "XNAString": [],
   "affycoretools": [],
   "alabaster.sfe": [],
-  "bigmelon": [
-    "wateRmelon"
-  ],
+  "bigmelon": [],
   "biscuiteer": [],
   "chevreulPlot": [],
   "chevreulShiny": [
@@ -70,9 +63,7 @@
   "crisprVerse": [],
   "decontX": [],
   "enhancerHomologSearch": [],
-  "epiregulon.extra": [],
   "epivizrStandalone": [],
-  "esATAC": [],
   "genoCN": [],
   "geomeTriD": [],
   "gpuMagic": [],
@@ -93,15 +84,10 @@
     "standR"
   ],
   "singleCellTK": [],
-  "skewr": [
-    "wateRmelon"
-  ],
+  "skewr": [],
   "spatzie": [],
   "standR": [],
   "svaNUMT": [],
-  "svaRetro": [],
   "tadar": [],
-  "trigger": [],
-  "vulcan": [],
-  "wateRmelon": []
+  "trigger": []
 }

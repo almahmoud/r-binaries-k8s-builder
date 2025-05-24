@@ -2294,3 +2294,6 @@ MAGAR
 chevreulPlot
 decontX
 singleCellTK
+MEAT
+bigmelon
+skewr

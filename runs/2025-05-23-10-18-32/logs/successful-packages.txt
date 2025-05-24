@@ -2230,3 +2230,10 @@ celda
 msgbsR
 REDseq
 scDblFinder
+DEScan2
+epiregulon.extra
+esATAC
+svaRetro
+Voyager
+vulcan
+wateRmelon
