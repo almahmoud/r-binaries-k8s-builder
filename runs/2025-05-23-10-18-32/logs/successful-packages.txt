@@ -1882,3 +1882,11 @@ bambu
 geneAttribution
 nearBynding
 strandCheckR
+cpvSNP
+ensembldb
+MotifDb
+qpgraph
+rCGH
+TCGAutils
+transcriptR
+txdbmaker
