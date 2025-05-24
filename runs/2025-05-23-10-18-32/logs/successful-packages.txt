@@ -1476,3 +1476,11 @@ cfTools
 ChromHeatMap
 ERSSA
 IFAA
+bnem
+BUSseq
+CHETAH
+cypress
+GloScope
+HIPPO
+MetaNeighbor
+RadioGx
