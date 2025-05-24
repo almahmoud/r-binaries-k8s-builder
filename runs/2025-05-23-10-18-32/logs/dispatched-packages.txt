@@ -2231,3 +2231,8 @@ ATACseqTFEA
 enhancerHomologSearch
 esATAC
 pageRank
+ATACseqQC
+DEScan2
+GUIDEseq
+REDseq
+vulcan

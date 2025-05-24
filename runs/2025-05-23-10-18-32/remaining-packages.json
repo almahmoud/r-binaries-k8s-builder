@@ -1,8 +1,6 @@
 {
   "ASpli": [],
-  "ATACseqQC": [
-    "ChIPpeakAnno"
-  ],
+  "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
@@ -44,16 +42,13 @@
     "lumi"
   ],
   "ChIPComp": [],
-  "ChIPpeakAnno": [],
   "ChromSCape": [
     "scran"
   ],
   "CiteFuse": [
     "scran"
   ],
-  "DEScan2": [
-    "ChIPpeakAnno"
-  ],
+  "DEScan2": [],
   "DMRcate": [
     "missMethyl"
   ],
@@ -72,9 +67,7 @@
   ],
   "FRASER": [],
   "GARS": [],
-  "GUIDEseq": [
-    "ChIPpeakAnno"
-  ],
+  "GUIDEseq": [],
   "GeDi": [],
   "GeneStructureTools": [],
   "GenomicInteractions": [],
@@ -107,8 +100,7 @@
   ],
   "NADfinder": [
     "trackViewer",
-    "ATACseqQC",
-    "ChIPpeakAnno"
+    "ATACseqQC"
   ],
   "NormqPCR": [],
   "OGRE": [],
@@ -119,9 +111,7 @@
   "PhenStat": [],
   "Pviz": [],
   "R3CPET": [],
-  "REDseq": [
-    "ChIPpeakAnno"
-  ],
+  "REDseq": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
     "RNAmodR"
@@ -141,7 +131,6 @@
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnBeads": [],
-  "RnaSeqSampleSize": [],
   "SOMNiBUS": [
     "annotatr"
   ],
@@ -338,12 +327,9 @@
   ],
   "tadar": [],
   "trackViewer": [],
-  "tradeSeq": [],
   "trigger": [],
   "uncoverappLib": [],
-  "vulcan": [
-    "ChIPpeakAnno"
-  ],
+  "vulcan": [],
   "wateRmelon": [
     "lumi"
   ],
