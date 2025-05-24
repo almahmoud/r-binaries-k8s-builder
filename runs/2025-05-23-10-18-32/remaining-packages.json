@@ -302,7 +302,6 @@
     "GenomicFeatures",
     "ensembldb"
   ],
-  "CoverageView": [],
   "CuratedAtlasQueryR": [],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -1094,7 +1093,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
   "SVP": [],
   "SeqGSEA": [],
   "SigsPack": [
@@ -2479,7 +2477,6 @@
     "scater",
     "scuttle"
   ],
-  "scDesign3": [],
   "scDiagnostics": [],
   "scDotPlot": [
     "scater",
@@ -2614,7 +2611,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "signatureSearch": [],
   "signeR": [
     "VariantAnnotation",
     "GenomicFeatures"

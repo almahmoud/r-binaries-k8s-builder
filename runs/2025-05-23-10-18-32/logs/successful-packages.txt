@@ -1529,3 +1529,7 @@ LRcell
 prebs
 RCSL
 SCAN.UPC
+CoverageView
+scDesign3
+signatureSearch
+SPOTlight
