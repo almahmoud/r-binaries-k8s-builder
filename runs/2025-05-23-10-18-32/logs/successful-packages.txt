@@ -2107,3 +2107,9 @@ RgnTX
 SARC
 shinyepico
 multicrispr
+cbaf
+ENmix
+regioneReloaded
+RESOLVE
+SpatialFeatureExperiment
+visiumStitched

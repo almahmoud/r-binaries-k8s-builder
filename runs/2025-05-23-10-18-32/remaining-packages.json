@@ -72,7 +72,6 @@
   ],
   "DuplexDiscovereR": [],
   "ELMER": [],
-  "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [
     "scran"
@@ -131,7 +130,6 @@
     "ChIPpeakAnno"
   ],
   "REMP": [],
-  "RESOLVE": [],
   "RNAAgeCalc": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -168,7 +166,6 @@
   "Spaniel": [
     "scran"
   ],
-  "SpatialFeatureExperiment": [],
   "SplicingGraphs": [],
   "SpotClean": [],
   "StructuralVariantAnnotation": [],
@@ -177,9 +174,7 @@
   "Ularcirc": [],
   "VariantFiltering": [],
   "VariantTools": [],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "XNAString": [],
   "YAPSA": [
     "SomaticSignatures"
@@ -189,9 +184,7 @@
     "ReportingTools"
   ],
   "alabaster": [],
-  "alabaster.sfe": [
-    "SpatialFeatureExperiment"
-  ],
+  "alabaster.sfe": [],
   "annotatr": [],
   "arrayMvout": [
     "lumi"
@@ -209,7 +202,6 @@
   "cageminer": [],
   "canceR": [],
   "cardelino": [],
-  "cbaf": [],
   "celda": [
     "scran"
   ],
@@ -318,7 +310,6 @@
   "profileplyr": [],
   "psichomics": [],
   "rGADEM": [],
-  "regioneReloaded": [],
   "regutools": [],
   "ribosomeProfilingQC": [],
   "saseR": [
@@ -378,7 +369,6 @@
   "tradeSeq": [],
   "trigger": [],
   "uncoverappLib": [],
-  "visiumStitched": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],
