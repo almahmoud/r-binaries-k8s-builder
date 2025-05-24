@@ -125,7 +125,6 @@
     "ChIPpeakAnno"
   ],
   "REMP": [],
-  "RNAAgeCalc": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
     "RNAmodR"
@@ -215,7 +214,6 @@
   "compEpiTools": [
     "methylPipe"
   ],
-  "condiments": [],
   "consensusDE": [],
   "crisprShiny": [
     "crisprViz"
