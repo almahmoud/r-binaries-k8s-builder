@@ -1,3 +1,6 @@
-DiffBind
-epigraHMM
-iCNV
+MatrixRider
+MethReg
+chromVAR
+monaLisa
+motifStack
+motifmatchr
