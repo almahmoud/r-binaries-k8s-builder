@@ -119,7 +119,6 @@
   "MineICA": [
     "lumi"
   ],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -132,7 +131,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "ProteoDisco": [],
   "Pviz": [],
   "R3CPET": [],
   "RAIDS": [],
@@ -140,9 +138,7 @@
     "ChIPpeakAnno"
   ],
   "REMP": [],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RNAAgeCalc": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -289,7 +285,6 @@
   "ffpe": [
     "lumi"
   ],
-  "funtooNorm": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer"
@@ -307,7 +302,6 @@
   ],
   "mCSEA": [],
   "maser": [],
-  "metaseqR2": [],
   "methodical": [
     "annotatr"
   ],

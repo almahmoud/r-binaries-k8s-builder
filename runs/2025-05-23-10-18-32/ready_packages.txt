@@ -1,4 +1,1 @@
-GNOSIS
-bioCancer
-canceR
-cbaf
+RESOLVE

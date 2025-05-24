@@ -2093,3 +2093,7 @@ cBioPortalData
 multiGSEA
 netSmooth
 SpotSweeper
+funtooNorm
+metaseqR2
+MutationalPatterns
+ProteoDisco
