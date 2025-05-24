@@ -2217,3 +2217,7 @@ ribosomeProfilingQC
 scone
 standR
 GARS
+GNOSIS
+bioCancer
+canceR
+cbaf

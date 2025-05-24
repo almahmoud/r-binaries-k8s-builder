@@ -84,9 +84,7 @@
   ],
   "FRASER": [],
   "GARS": [],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GUIDEseq": [
     "ChIPpeakAnno"
   ],
@@ -187,7 +185,6 @@
   "SpatialFeatureExperiment": [],
   "SplicingGraphs": [],
   "SpotClean": [],
-  "SpotSweeper": [],
   "StructuralVariantAnnotation": [],
   "TVTB": [],
   "UMI4Cats": [],
@@ -221,23 +218,16 @@
     "wateRmelon",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr"
   ],
-  "cBioPortalData": [],
   "cageminer": [],
-  "canceR": [
-    "cBioPortalData"
-  ],
+  "canceR": [],
   "cardelino": [],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "celda": [
     "scran"
   ],
@@ -333,13 +323,11 @@
     "scran"
   ],
   "msgbsR": [],
-  "multiGSEA": [],
   "multicrispr": [],
   "mumosa": [
     "scran"
   ],
   "musicatk": [],
-  "netSmooth": [],
   "octad": [],
   "pageRank": [
     "motifmatchr"

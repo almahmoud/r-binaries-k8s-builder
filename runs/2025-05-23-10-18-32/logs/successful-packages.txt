@@ -2089,3 +2089,7 @@ tximeta
 coMethDMR
 DaMiRseq
 UPDhmm
+cBioPortalData
+multiGSEA
+netSmooth
+SpotSweeper
