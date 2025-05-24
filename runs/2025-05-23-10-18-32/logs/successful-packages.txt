@@ -1660,3 +1660,7 @@ PharmacoGx
 POWSC
 scDiagnostics
 scmap
+pathRender
+podkat
+SEraster
+sosta

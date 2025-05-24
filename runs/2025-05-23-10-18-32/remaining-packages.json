@@ -943,7 +943,6 @@
   "SCArray.sat": [],
   "SCOPE": [],
   "SCnorm": [],
-  "SEraster": [],
   "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
@@ -1991,7 +1990,6 @@
   "pathMED": [
     "GSVA"
   ],
-  "pathRender": [],
   "pcaExplorer": [
     "mosdef",
     "goseq",
@@ -2009,7 +2007,6 @@
     "scater"
   ],
   "pipeFrame": [],
-  "podkat": [],
   "poem": [],
   "preciseTAD": [
     "rCGH",
@@ -2306,7 +2303,6 @@
   "slingshot": [],
   "smoothclust": [],
   "soGGi": [],
-  "sosta": [],
   "spaSim": [],
   "spacexr": [],
   "sparrow": [],
