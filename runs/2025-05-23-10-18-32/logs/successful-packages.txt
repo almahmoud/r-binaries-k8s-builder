@@ -2248,3 +2248,6 @@ RNAmodR.ML
 compEpiTools
 crisprShiny
 GenomicOZone
+geomeTriD
+saseR
+UMI4Cats
