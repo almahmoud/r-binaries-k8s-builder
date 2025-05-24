@@ -2059,3 +2059,8 @@ pRolocGUI
 MethReg
 miaDash
 vtpnet
+circRNAprofiler
+deepSNV
+ggbio
+quantro
+scDataviz
