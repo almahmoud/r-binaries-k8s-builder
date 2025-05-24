@@ -2144,3 +2144,6 @@ VariantTools
 ELMER
 RNAmodR
 TVTB
+cicero
+comapr
+cummeRbund

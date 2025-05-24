@@ -171,10 +171,8 @@
     "scran"
   ],
   "chimeraviz": [],
-  "cicero": [],
   "cisPath": [],
   "cn.farms": [],
-  "comapr": [],
   "compEpiTools": [
     "methylPipe"
   ],
@@ -186,7 +184,6 @@
     "crisprViz"
   ],
   "crisprViz": [],
-  "cummeRbund": [],
   "decontX": [
     "celda",
     "scran"
