@@ -2085,3 +2085,7 @@ CircSeqAlignTk
 GenomicPlot
 FRASER
 cBioPortalData
+AnnotationHubData
+GSReg
+appreci8R
+epivizrData
