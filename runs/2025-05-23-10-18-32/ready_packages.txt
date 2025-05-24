@@ -1,7 +1,1 @@
-IsoformSwitchAnalyzeR
-consensusDE
-octad
-profileplyr
-ribosomeProfilingQC
-scone
-standR
+GARS

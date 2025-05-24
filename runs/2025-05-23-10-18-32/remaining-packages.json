@@ -68,7 +68,6 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "DaMiRseq": [],
   "Damsel": [],
   "DeconvoBuddies": [
     "scran"
@@ -84,9 +83,7 @@
     "scran"
   ],
   "FRASER": [],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GNOSIS": [
     "cBioPortalData"
   ],
@@ -194,7 +191,6 @@
   "StructuralVariantAnnotation": [],
   "TVTB": [],
   "UMI4Cats": [],
-  "UPDhmm": [],
   "Ularcirc": [],
   "VariantFiltering": [],
   "VariantTools": [],
@@ -261,7 +257,6 @@
   "cicero": [],
   "cisPath": [],
   "cn.farms": [],
-  "coMethDMR": [],
   "comapr": [],
   "compEpiTools": [
     "methylPipe"

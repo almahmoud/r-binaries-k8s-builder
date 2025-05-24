@@ -2086,3 +2086,6 @@ iNETgrate
 rGREAT
 RUVSeq
 tximeta
+coMethDMR
+DaMiRseq
+UPDhmm
