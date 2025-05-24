@@ -219,7 +219,6 @@
     "scater",
     "scuttle"
   ],
-  "Cepo": [],
   "CexoR": [
     "genomation"
   ],
@@ -910,9 +909,7 @@
     "ensembldb",
     "zellkonverter"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
+  "RJMCMCNucleosomes": [],
   "RMassBank": [
     "MSnbase"
   ],
@@ -1152,7 +1149,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TENET": [
     "sesame"
   ],
@@ -1214,9 +1210,7 @@
     "GenomicFiles",
     "GenomicFeatures"
   ],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VanillaICE": [],
   "VarCon": [],
   "VariantAnnotation": [
@@ -1324,7 +1318,6 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "ballgown": [],
   "bambu": [
     "GenomicFeatures"
   ],
@@ -1532,7 +1525,6 @@
   "consensusOV": [
     "GSVA"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1689,7 +1681,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easylift": [],
   "enhancerHomologSearch": [
     "motifmatchr",
     "TFBSTools"
@@ -2433,9 +2424,7 @@
     "DropletUtils",
     "scuttle"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scDD": [
     "scran",
     "scuttle"

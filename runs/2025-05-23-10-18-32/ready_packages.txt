@@ -1,5 +1,3 @@
-COCOA
-DeMixT
-borealis
-kissDE
-methylSig
+RJMCMCNucleosomes
+VaSP
+scClassify
