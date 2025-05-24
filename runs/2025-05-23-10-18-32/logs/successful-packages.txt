@@ -1769,3 +1769,7 @@ DMCHMM
 hdxmsqc
 hiAnnotator
 miaSim
+HoloFoodR
+mastR
+metagene2
+treeclimbR

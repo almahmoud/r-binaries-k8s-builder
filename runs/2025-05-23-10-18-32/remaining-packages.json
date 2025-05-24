@@ -505,7 +505,6 @@
     "GenomicFeatures"
   ],
   "HilbertVisGUI": [],
-  "HoloFoodR": [],
   "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1672,10 +1671,8 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "mastR": [],
   "mbkmeans": [],
   "metaMS": [],
-  "metagene2": [],
   "metaseqR2": [
     "EDASeq",
     "GenomicFeatures",
@@ -2192,7 +2189,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "treeclimbR": [],
   "tricycle": [
     "scater"
   ],
