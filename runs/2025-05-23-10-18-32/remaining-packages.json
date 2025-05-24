@@ -136,7 +136,6 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CRISPRseek": [],
   "CTexploreR": [],
   "CexoR": [],
   "ChAMP": [
@@ -173,8 +172,7 @@
   ],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "CiteFuse": [
     "scran"
@@ -259,9 +257,7 @@
   "EpiTxDb": [
     "txdbmaker"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "OrganismDbi",
@@ -310,7 +306,6 @@
     "txdbmaker"
   ],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "regioneR",
     "ensembldb"
@@ -375,7 +370,6 @@
   "HilbertVisGUI": [],
   "IMAS": [],
   "INSPEcT": [],
-  "IPO": [],
   "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
@@ -612,8 +606,7 @@
     "regioneR"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboCrypt": [
     "ORFik",
@@ -650,7 +643,6 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SGSeq": [],
   "SMITE": [
     "goseq",
     "txdbmaker"
@@ -1307,7 +1299,6 @@
   ],
   "multiGSEA": [],
   "multicrispr": [
-    "CRISPRseek",
     "karyoploteR",
     "regioneR",
     "biovizBase",
