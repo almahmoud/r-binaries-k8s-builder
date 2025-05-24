@@ -2203,3 +2203,7 @@ ChromSCape
 CiteFuse
 Dino
 SingleCellSignalR
+BASiCS
+MOSim
+MPAC
+SpaNorm
