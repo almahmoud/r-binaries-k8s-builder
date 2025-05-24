@@ -49,7 +49,6 @@
   ],
   "BASiCStan": [
     "BASiCS",
-    "glmGamPoi",
     "scran"
   ],
   "BBCAnalyzer": [
@@ -147,7 +146,6 @@
   "CSSQ": [],
   "CTexploreR": [],
   "CellBench": [],
-  "CellMixS": [],
   "CelliD": [],
   "CexoR": [
     "genomation"
@@ -464,7 +462,6 @@
   ],
   "MSnID": [],
   "MSstatsQCgui": [],
-  "MatrixQCvis": [],
   "MatrixRider": [],
   "MetaboSignal": [
     "mygene",
@@ -1218,7 +1215,6 @@
     "txdbmaker"
   ],
   "ggspavis": [],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils"
   ],
@@ -1252,7 +1248,6 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEfier": [],
   "iSEEtree": [
     "miaViz",
     "mia"
@@ -1289,9 +1284,7 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "lineagespot": [
     "VariantAnnotation"
   ],
@@ -1672,7 +1665,6 @@
     "lumi"
   ],
   "slingshot": [],
-  "spatialHeatmap": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
@@ -1717,7 +1709,6 @@
   "terraTCGAdata": [
     "TCGAutils"
   ],
-  "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "trackViewer": [
     "Gviz",
@@ -1730,9 +1721,7 @@
     "slingshot"
   ],
   "transcriptR": [],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transmogR": [
     "VariantAnnotation"
   ],

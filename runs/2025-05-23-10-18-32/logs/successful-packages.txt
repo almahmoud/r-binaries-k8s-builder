@@ -1798,3 +1798,9 @@ gDRimport
 LOBSTAHS
 SC3
 smoothclust
+CellMixS
+glmGamPoi
+iSEEfier
+MatrixQCvis
+spatialHeatmap
+tidyCoverage
