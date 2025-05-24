@@ -1900,3 +1900,8 @@ DNAfusion
 gINTomics
 ReducedExperiment
 rmspc
+branchpointer
+bumphunter
+raer
+scry
+VariantAnnotation
