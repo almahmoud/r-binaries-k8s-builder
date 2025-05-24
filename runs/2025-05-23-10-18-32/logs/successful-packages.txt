@@ -1562,3 +1562,12 @@ normr
 pram
 plyranges
 rifiComparative
+APL
+CellScore
+chipenrich
+iSEE
+NanoMethViz
+roar
+syntenet
+terapadog
+vidger

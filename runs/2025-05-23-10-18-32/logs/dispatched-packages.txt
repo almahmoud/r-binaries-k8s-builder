@@ -1823,3 +1823,8 @@ cfDNAPro
 nullranges
 plotgardener
 plyinteractions
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+iSEEpathways

@@ -10,7 +10,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "APL": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -211,7 +210,6 @@
     "scater",
     "scuttle"
   ],
-  "CellScore": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -758,7 +756,6 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NanoMethViz": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -1421,7 +1418,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chipenrich": [],
   "chromVAR": [
     "TFBSTools"
   ],
@@ -1634,7 +1630,6 @@
     "regioneR"
   ],
   "doubletrouble": [
-    "syntenet",
     "GenomicFeatures"
   ],
   "dreamlet": [
@@ -1850,29 +1845,16 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
-  "iSEEhub": [
-    "iSEE"
-  ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
+  "iSEEhub": [],
+  "iSEEindex": [],
+  "iSEEpathways": [],
   "iSEEtree": [
-    "iSEE",
     "miaViz",
     "mia",
     "TreeSummarizedExperiment",
@@ -1880,7 +1862,6 @@
     "scuttle"
   ],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [
@@ -2040,7 +2021,6 @@
     "scuttle"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree",
     "mia",
     "scater",
@@ -2330,7 +2310,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "roar": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -2613,7 +2592,6 @@
   ],
   "switchde": [],
   "synapter": [],
-  "syntenet": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2626,7 +2604,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "terapadog": [],
   "terraTCGAdata": [
     "TCGAutils",
     "GenomicFeatures"
@@ -2694,7 +2671,6 @@
     "zellkonverter",
     "scuttle"
   ],
-  "vidger": [],
   "visiumStitched": [
     "DropletUtils",
     "scuttle",
