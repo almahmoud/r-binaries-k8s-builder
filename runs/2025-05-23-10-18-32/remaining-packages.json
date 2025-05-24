@@ -149,7 +149,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "CDI": [],
   "CNEr": [],
   "CNVfilteR": [
     "regioneR",
@@ -924,7 +923,6 @@
   ],
   "SC3": [],
   "SCArray.sat": [],
-  "SCOPE": [],
   "SCnorm": [],
   "SGSeq": [
     "GenomicFeatures"
@@ -1609,7 +1607,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "VariantAnnotation",
@@ -2126,7 +2123,6 @@
   ],
   "scater": [],
   "sccomp": [],
-  "scds": [],
   "scider": [],
   "scmeth": [
     "annotatr",
@@ -2212,7 +2208,6 @@
     "scran",
     "celda",
     "DropletUtils",
-    "scds",
     "zinbwave",
     "scDblFinder",
     "TSCAN",

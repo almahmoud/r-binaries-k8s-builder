@@ -1693,3 +1693,7 @@ Motif2Site
 SparseSignatures
 TFBSTools
 VarCon
+CDI
+gg4way
+scds
+SCOPE
