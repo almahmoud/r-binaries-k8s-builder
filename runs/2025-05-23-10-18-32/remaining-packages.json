@@ -116,7 +116,6 @@
     "biovizBase"
   ],
   "CARDspa": [],
-  "CATALYST": [],
   "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation"
@@ -146,9 +145,7 @@
   "CSSQ": [],
   "CTexploreR": [],
   "CellBench": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -251,7 +248,6 @@
     "VariantAnnotation"
   ],
   "DropletUtils": [],
-  "DrugVsDisease": [],
   "DuplexDiscovereR": [
     "Gviz",
     "ensembldb",
@@ -273,8 +269,7 @@
     "bumphunter"
   ],
   "EpiCompare": [
-    "ChIPseeker",
-    "genomation"
+    "ChIPseeker"
   ],
   "EpiMix": [],
   "EpiTxDb": [
@@ -377,7 +372,6 @@
   ],
   "GenomicPlot": [
     "RCAS",
-    "genomation",
     "txdbmaker"
   ],
   "Guitar": [],
@@ -510,7 +504,6 @@
     "HelloRanges",
     "VariantAnnotation"
   ],
-  "ORFhunteR": [],
   "ORFik": [
     "txdbmaker"
   ],
@@ -565,8 +558,7 @@
     "VariantAnnotation"
   ],
   "RCAS": [
-    "txdbmaker",
-    "genomation"
+    "txdbmaker"
   ],
   "REDseq": [
     "ChIPpeakAnno",
@@ -1045,9 +1037,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cytofQC": [
-    "CATALYST"
-  ],
+  "cytofQC": [],
   "cytoviewer": [],
   "dagLogo": [
     "motifStack"
@@ -1160,9 +1150,7 @@
     "motifmatchr"
   ],
   "escheR": [],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "factR": [],
   "fastLiquidAssociation": [],
   "fcScan": [
@@ -1185,7 +1173,6 @@
   "gINTomics": [],
   "geneAttribution": [],
   "genoCN": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz",
@@ -1270,7 +1257,6 @@
   "lefser": [
     "mia"
   ],
-  "lemur": [],
   "lineagespot": [
     "VariantAnnotation"
   ],
@@ -1622,7 +1608,6 @@
   "signifinder": [
     "ensembldb"
   ],
-  "simPIC": [],
   "singleCellTK": [
     "batchelor",
     "ensembldb",
@@ -1654,9 +1639,7 @@
     "VariantAnnotation"
   ],
   "spicyR": [],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "splatter": [],
   "srnadiff": [
     "Gviz",

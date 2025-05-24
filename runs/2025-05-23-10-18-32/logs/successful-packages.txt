@@ -1821,3 +1821,9 @@ SPIAT
 muscat
 scviR
 ToxicoGx
+CATALYST
+DrugVsDisease
+genomation
+lemur
+ORFhunteR
+simPIC
