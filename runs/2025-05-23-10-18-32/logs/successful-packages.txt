@@ -2243,3 +2243,5 @@ spatzie
 tadar
 alabaster.sfe
 RNAmodR.AlkAnilineSeq
+crisprVerse
+RNAmodR.ML
