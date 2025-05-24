@@ -43,7 +43,6 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "BUSpaRse": [],
   "BadRegionFinder": [],
   "BatchQC": [
     "scran"
@@ -315,7 +314,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFik": [],
   "OUTRIDER": [],
   "OrganismDbi": [],
   "PICS": [],
@@ -398,9 +396,7 @@
     "regioneR"
   ],
   "Rhisat2": [],
-  "RiboCrypt": [
-    "ORFik"
-  ],
+  "RiboCrypt": [],
   "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
@@ -468,9 +464,7 @@
   "StructuralVariantAnnotation": [],
   "TAPseq": [],
   "TFEA.ChIP": [],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TFutils": [
     "GenomicFiles"
   ],
@@ -612,9 +606,7 @@
   ],
   "cisPath": [],
   "clipper": [],
-  "clusterExperiment": [
-    "mbkmeans"
-  ],
+  "clusterExperiment": [],
   "cn.farms": [],
   "coMethDMR": [],
   "comapr": [
@@ -808,7 +800,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "mbkmeans": [],
   "metaseqR2": [
     "EDASeq"
   ],
@@ -881,8 +872,7 @@
   "mygene": [],
   "myvariant": [],
   "netSmooth": [
-    "clusterExperiment",
-    "mbkmeans"
+    "clusterExperiment"
   ],
   "octad": [
     "RUVSeq",
@@ -1101,7 +1091,6 @@
     "minfi"
   ],
   "wavClusteR": [],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi"

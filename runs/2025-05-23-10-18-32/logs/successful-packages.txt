@@ -1908,3 +1908,7 @@ VariantAnnotation
 BgeeCall
 DegNorm
 ELViS
+BUSpaRse
+mbkmeans
+ORFik
+xenLite
