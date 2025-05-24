@@ -276,7 +276,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "CluMSID": [],
   "CoGAPS": [],
   "Cogito": [
     "GenomicFeatures"
@@ -489,7 +488,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "GWENA": [],
   "GeDi": [
     "GeneTonic",
     "mosdef",
@@ -678,8 +676,7 @@
     "scuttle"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
   "MSstatsQCgui": [],
   "MatrixQCvis": [],
@@ -694,7 +691,6 @@
     "txdbmaker"
   ],
   "MethReg": [
-    "sesame",
     "TFBSTools"
   ],
   "MethylAid": [
@@ -869,7 +865,6 @@
     "zellkonverter"
   ],
   "RJMCMCNucleosomes": [],
-  "RMassBank": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1104,9 +1099,7 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TENET": [
-    "sesame"
-  ],
+  "TENET": [],
   "TFBSTools": [],
   "TFEA.ChIP": [
     "GenomicFeatures"
@@ -1830,12 +1823,8 @@
     "txdbmaker"
   ],
   "iSEEfier": [
-    "iSEEu",
-    "iSEEhex"
+    "iSEEu"
   ],
-  "iSEEhex": [],
-  "iSEEindex": [],
-  "iSEEpathways": [],
   "iSEEtree": [
     "miaViz",
     "mia",
@@ -1843,9 +1832,7 @@
     "scater",
     "scuttle"
   ],
-  "iSEEu": [
-    "iSEEhex"
-  ],
+  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -2071,10 +2058,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "multiGSEA": [],
   "multicrispr": [
     "CRISPRseek",
@@ -2136,7 +2120,6 @@
   "pRolocGUI": [
     "pRoloc"
   ],
-  "padma": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -2424,7 +2407,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "sesame": [],
   "sevenC": [],
   "shinyDSP": [
     "scater",
