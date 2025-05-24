@@ -1,1 +1,9 @@
-netSmooth
+AHMassBank
+ExperimentHubData
+IntEREst
+QuasR
+TFutils
+VCFArray
+derfinder
+erma
+gDNAx

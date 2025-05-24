@@ -2092,3 +2092,12 @@ epivizrData
 GA4GHshiny
 musicatk
 netSmooth
+AHMassBank
+ExperimentHubData
+IntEREst
+QuasR
+TFutils
+VCFArray
+derfinder
+erma
+gDNAx

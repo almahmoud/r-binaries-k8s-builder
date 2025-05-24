@@ -1,7 +1,5 @@
 {
-  "AHMassBank": [
-    "AnnotationHubData"
-  ],
+  "AHMassBank": [],
   "ASpli": [
     "Gviz",
     "biovizBase"
@@ -24,7 +22,6 @@
     "biovizBase"
   ],
   "AneuFinder": [],
-  "AnnotationHubData": [],
   "BASiCS": [
     "scran"
   ],
@@ -54,14 +51,12 @@
     "ggbio"
   ],
   "CAGEfightR": [
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "GenomicFiles",
     "Gviz",
     "GenomicInteractions",
     "biovizBase"
@@ -112,7 +107,6 @@
     "regioneR",
     "biovizBase"
   ],
-  "DAMEfinder": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR"
@@ -153,9 +147,7 @@
   ],
   "EpiCompare": [],
   "EventPointer": [],
-  "ExperimentHubData": [
-    "AnnotationHubData"
-  ],
+  "ExperimentHubData": [],
   "FEAST": [],
   "FLAMES": [
     "DropletUtils",
@@ -192,7 +184,6 @@
     "mosdef",
     "goseq"
   ],
-  "GenomicFiles": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -215,9 +206,7 @@
   "IMAS": [],
   "INSPEcT": [],
   "InPAS": [],
-  "IntEREst": [
-    "GenomicFiles"
-  ],
+  "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],
@@ -293,9 +282,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "QuasR": [
-    "GenomicFiles"
-  ],
+  "QuasR": [],
   "R3CPET": [
     "ggbio",
     "biovizBase"
@@ -315,8 +302,7 @@
   "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "RNAmodR": [
     "Gviz",
@@ -366,12 +352,10 @@
   ],
   "RnaSeqSampleSize": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "Rqc": [
-    "biovizBase",
-    "GenomicFiles"
+    "biovizBase"
   ],
   "SARC": [],
   "SMITE": [
@@ -391,8 +375,7 @@
     "scran"
   ],
   "SingleMoleculeFootprinting": [
-    "QuasR",
-    "GenomicFiles"
+    "QuasR"
   ],
   "SomaticSignatures": [
     "ggbio",
@@ -419,9 +402,7 @@
   "StructuralVariantAnnotation": [],
   "TAPseq": [],
   "TFEA.ChIP": [],
-  "TFutils": [
-    "GenomicFiles"
-  ],
+  "TFutils": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
@@ -433,9 +414,7 @@
   "UPDhmm": [],
   "Ularcirc": [],
   "Uniquorn": [],
-  "VCFArray": [
-    "GenomicFiles"
-  ],
+  "VCFArray": [],
   "VariantFiltering": [
     "Gviz",
     "biovizBase"
@@ -601,13 +580,10 @@
     "minfi"
   ],
   "deepSNV": [],
-  "derfinder": [
-    "GenomicFiles"
-  ],
+  "derfinder": [],
   "derfinderPlot": [
     "derfinder",
     "ggbio",
-    "GenomicFiles",
     "biovizBase"
   ],
   "diffUTR": [],
@@ -643,9 +619,7 @@
     "epivizr",
     "epivizrData"
   ],
-  "erma": [
-    "GenomicFiles"
-  ],
+  "erma": [],
   "esATAC": [
     "motifmatchr"
   ],
@@ -660,9 +634,7 @@
   "funtooNorm": [
     "minfi"
   ],
-  "gDNAx": [
-    "GenomicFiles"
-  ],
+  "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -701,7 +673,6 @@
     "regioneR",
     "biovizBase"
   ],
-  "katdetectr": [],
   "lineagespot": [],
   "lisaClust": [],
   "lumi": [
@@ -741,8 +712,7 @@
   ],
   "methylclock": [
     "minfi",
-    "ExperimentHubData",
-    "AnnotationHubData"
+    "ExperimentHubData"
   ],
   "methylumi": [
     "minfi"
@@ -814,8 +784,7 @@
   ],
   "psichomics": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "quantro": [
     "minfi"
@@ -824,16 +793,14 @@
   "rGREAT": [],
   "rTRMui": [],
   "recount": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "recountmethylation": [
     "minfi"
   ],
   "recoup": [],
   "regionReport": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "regioneR": [],
   "regioneReloaded": [

@@ -1942,3 +1942,7 @@ crisprDesign
 demuxSNP
 gwasurvivr
 icetea
+AnnotationHubData
+DAMEfinder
+GenomicFiles
+katdetectr
