@@ -1982,3 +1982,8 @@ bandle
 iSEEtree
 pRolocGUI
 IMAS
+EpiCompare
+magpie
+segmenter
+selectKSigs
+seqArchRplus

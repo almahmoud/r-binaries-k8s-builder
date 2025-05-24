@@ -167,7 +167,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "ChromSCape": [
     "batchelor",
     "scran"
@@ -225,7 +224,6 @@
   "DeconvoBuddies": [
     "scran"
   ],
-  "DegCre": [],
   "DegNorm": [
     "txdbmaker"
   ],
@@ -256,9 +254,7 @@
     "minfi",
     "bumphunter"
   ],
-  "EpiCompare": [
-    "ChIPseeker"
-  ],
+  "EpiCompare": [],
   "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker"
@@ -342,7 +338,6 @@
   "GenomicFiles": [
     "VariantAnnotation"
   ],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "ensembldb",
@@ -377,7 +372,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiLDA": [],
   "HilbertVisGUI": [],
   "IMAS": [],
   "INSPEcT": [],
@@ -726,7 +720,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TRESS": [],
   "TSCAN": [],
   "TVTB": [
     "ensembldb",
@@ -1108,7 +1101,6 @@
     "txdbmaker"
   ],
   "esATAC": [
-    "ChIPseeker",
     "motifmatchr"
   ],
   "escheR": [],
@@ -1230,9 +1222,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "maser": [
     "Gviz",
     "ensembldb",
@@ -1375,7 +1365,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "ChIPseeker",
     "rGREAT"
   ],
   "projectR": [],
@@ -1512,15 +1501,9 @@
     "ensembldb"
   ],
   "scry": [],
-  "segmenter": [
-    "ChIPseeker"
-  ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "segmenter": [],
+  "selectKSigs": [],
+  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],

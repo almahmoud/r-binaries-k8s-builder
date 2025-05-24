@@ -1,1 +1,5 @@
-IMAS
+EpiCompare
+magpie
+segmenter
+selectKSigs
+seqArchRplus

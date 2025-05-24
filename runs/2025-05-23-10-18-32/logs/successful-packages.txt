@@ -1862,3 +1862,8 @@ tidySpatialExperiment
 Guitar
 IVAS
 lefser
+ChIPseeker
+DegCre
+GenomicInteractionNodes
+HiLDA
+TRESS
