@@ -1,5 +1,3 @@
-CAGEfightR
-HiCDCPlus
-spatzie
-svaNUMT
-svaRetro
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
