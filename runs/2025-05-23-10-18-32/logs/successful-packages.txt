@@ -2220,3 +2220,5 @@ arrayMvout
 FLAMES
 MineICA
 iCheck
+ChIPComp
+ffpe

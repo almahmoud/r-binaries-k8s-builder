@@ -16,7 +16,6 @@
     "wateRmelon",
     "missMethyl"
   ],
-  "ChIPComp": [],
   "DEScan2": [],
   "DMRcate": [
     "missMethyl"
@@ -80,7 +79,6 @@
   "epiregulon.extra": [],
   "epivizrStandalone": [],
   "esATAC": [],
-  "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
   "gpuMagic": [],
