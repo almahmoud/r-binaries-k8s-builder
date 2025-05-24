@@ -2222,3 +2222,7 @@ MineICA
 iCheck
 ChIPComp
 ffpe
+epiregulon
+mumosa
+Pviz
+scMerge

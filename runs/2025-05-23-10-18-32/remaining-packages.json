@@ -43,7 +43,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "Pviz": [],
   "R3CPET": [],
   "REDseq": [],
   "RNAmodR.AlkAnilineSeq": [],
@@ -75,7 +74,6 @@
     "celda"
   ],
   "enhancerHomologSearch": [],
-  "epiregulon": [],
   "epiregulon.extra": [],
   "epivizrStandalone": [],
   "esATAC": [],
@@ -89,7 +87,6 @@
   ],
   "missMethyl": [],
   "msgbsR": [],
-  "mumosa": [],
   "musicatk": [],
   "pageRank": [],
   "primirTSS": [],
@@ -97,13 +94,11 @@
   "saseR": [],
   "scDblFinder": [],
   "scFeatures": [],
-  "scMerge": [],
   "scTreeViz": [],
   "shinyDSP": [
     "standR"
   ],
   "singleCellTK": [
-    "scMerge",
     "celda",
     "scDblFinder"
   ],
