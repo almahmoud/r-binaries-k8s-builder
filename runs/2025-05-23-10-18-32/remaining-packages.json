@@ -30,7 +30,6 @@
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
-    "Glimma",
     "ggbio",
     "biovizBase",
     "VariantAnnotation",
@@ -486,7 +485,6 @@
     "genomation",
     "txdbmaker"
   ],
-  "Glimma": [],
   "Guitar": [
     "GenomicFeatures"
   ],
@@ -1030,7 +1028,6 @@
     "GenomicFiles",
     "GenomicFeatures"
   ],
-  "VaSP": [],
   "VanillaICE": [],
   "VariantAnnotation": [
     "GenomicFeatures"
@@ -1069,7 +1066,6 @@
   ],
   "affycoretools": [
     "ReportingTools",
-    "Glimma",
     "ggbio",
     "biovizBase",
     "VariantAnnotation",
@@ -1301,7 +1297,6 @@
     "GenomicFeatures",
     "RUVSeq"
   ],
-  "consensusOV": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1368,7 +1363,6 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dandelionR": [],
   "dar": [
     "mia",
     "scater"
@@ -1908,7 +1902,6 @@
   "qpgraph": [
     "GenomicFeatures"
   ],
-  "qsea": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -2110,7 +2103,6 @@
     "GenomicFeatures"
   ],
   "signifinder": [
-    "consensusOV",
     "ensembldb",
     "GenomicFeatures"
   ],

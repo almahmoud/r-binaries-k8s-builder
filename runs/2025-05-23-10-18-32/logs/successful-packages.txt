@@ -1740,3 +1740,8 @@ jazzPanda
 CatsCradle
 frma
 TreeSummarizedExperiment
+consensusOV
+dandelionR
+Glimma
+qsea
+VaSP
