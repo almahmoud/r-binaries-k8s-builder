@@ -2098,3 +2098,7 @@ metaseqR2
 MutationalPatterns
 ProteoDisco
 alabaster.spatial
+CopyNumberPlots
+RAIDS
+scCB2
+SpatialExperimentIO

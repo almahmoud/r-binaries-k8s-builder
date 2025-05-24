@@ -40,12 +40,8 @@
   ],
   "CBNplot": [],
   "CNEr": [],
-  "CNVfilteR": [
-    "CopyNumberPlots"
-  ],
-  "CNViz": [
-    "CopyNumberPlots"
-  ],
+  "CNVfilteR": [],
+  "CNViz": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -61,7 +57,6 @@
   "CiteFuse": [
     "scran"
   ],
-  "CopyNumberPlots": [],
   "DEScan2": [
     "ChIPpeakAnno"
   ],
@@ -133,7 +128,6 @@
   "PhenStat": [],
   "Pviz": [],
   "R3CPET": [],
-  "RAIDS": [],
   "REDseq": [
     "ChIPpeakAnno"
   ],
@@ -177,7 +171,6 @@
   "Spaniel": [
     "scran"
   ],
-  "SpatialExperimentIO": [],
   "SpatialFeatureExperiment": [],
   "SplicingGraphs": [],
   "SpotClean": [],
@@ -335,7 +328,6 @@
   "saseR": [
     "ASpli"
   ],
-  "scCB2": [],
   "scDD": [
     "scran"
   ],
