@@ -1040,7 +1040,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SurfR": [],
   "TAPseq": [
     "GenomicFeatures"
   ],
@@ -2094,7 +2093,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "r3Cseq": [],
   "rCGH": [
     "GenomicFeatures"
   ],
@@ -2198,7 +2196,6 @@
     "GenomicFeatures",
     "scran"
   ],
-  "scHOT": [],
   "scMerge": [
     "M3Drop",
     "scater",
@@ -2213,7 +2210,6 @@
     "slingshot"
   ],
   "scReClassify": [],
-  "scRepertoire": [],
   "scTGIF": [
     "schex"
   ],

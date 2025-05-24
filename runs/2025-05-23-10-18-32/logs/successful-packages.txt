@@ -1638,3 +1638,7 @@ mimager
 mobileRNA
 scuttle
 xCell2
+r3Cseq
+scHOT
+scRepertoire
+SurfR
