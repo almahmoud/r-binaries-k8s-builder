@@ -1,7 +1,7 @@
-CopyNumberPlots
-SpatialExperimentIO
-SpatialFeatureExperiment
-multicrispr
-scCB2
-scPipe
-visiumStitched
+IsoformSwitchAnalyzeR
+consensusDE
+octad
+profileplyr
+ribosomeProfilingQC
+scone
+standR

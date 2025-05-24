@@ -102,9 +102,7 @@
     "GenomicInteractions"
   ],
   "HilbertVisGUI": [],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "MADSEQ": [],
   "MAGAR": [
     "RnBeads"
@@ -161,7 +159,6 @@
   "RNAmodR.RiboMethSeq": [
     "RNAmodR"
   ],
-  "RUVSeq": [],
   "RbowtieCuda": [],
   "RegionalST": [
     "BayesSpace",
@@ -270,9 +267,7 @@
     "methylPipe"
   ],
   "condiments": [],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "conumee": [],
   "crisprShiny": [
     "crisprViz"
@@ -320,7 +315,6 @@
   "iCheck": [
     "lumi"
   ],
-  "iNETgrate": [],
   "intansv": [],
   "lumi": [],
   "lute": [
@@ -351,9 +345,7 @@
   ],
   "musicatk": [],
   "netSmooth": [],
-  "octad": [
-    "RUVSeq"
-  ],
+  "octad": [],
   "pageRank": [
     "motifmatchr"
   ],
@@ -361,17 +353,12 @@
     "scran"
   ],
   "primirTSS": [],
-  "profileplyr": [
-    "rGREAT"
-  ],
+  "profileplyr": [],
   "psichomics": [],
   "rGADEM": [],
-  "rGREAT": [],
   "regioneReloaded": [],
   "regutools": [],
-  "ribosomeProfilingQC": [
-    "RUVSeq"
-  ],
+  "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli"
   ],
@@ -397,14 +384,11 @@
   "scmeth": [
     "annotatr"
   ],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scran": [],
   "scruff": [],
   "shinyDSP": [
-    "standR",
-    "RUVSeq"
+    "standR"
   ],
   "shinyepico": [],
   "singleCellTK": [
@@ -422,9 +406,7 @@
     "motifmatchr"
   ],
   "srnadiff": [],
-  "standR": [
-    "RUVSeq"
-  ],
+  "standR": [],
   "svaNUMT": [
     "StructuralVariantAnnotation"
   ],
@@ -435,7 +417,6 @@
   "trackViewer": [],
   "tradeSeq": [],
   "trigger": [],
-  "tximeta": [],
   "uncoverappLib": [],
   "visiumStitched": [],
   "vulcan": [
