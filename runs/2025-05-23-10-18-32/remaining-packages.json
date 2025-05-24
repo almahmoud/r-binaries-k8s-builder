@@ -216,7 +216,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "DESpace": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -404,7 +403,6 @@
   ],
   "HiLDA": [],
   "HilbertVisGUI": [],
-  "ILoReg": [],
   "IMAS": [
     "IVAS"
   ],
@@ -457,7 +455,6 @@
     "mia"
   ],
   "MIRit": [],
-  "MMDiff2": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -821,7 +818,6 @@
   ],
   "XNAString": [],
   "XeniumIO": [],
-  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",

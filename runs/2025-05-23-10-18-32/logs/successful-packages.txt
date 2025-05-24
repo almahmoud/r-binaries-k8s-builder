@@ -1789,3 +1789,7 @@ scater
 simpleSeg
 spatialSimGP
 SplineDV
+DESpace
+ILoReg
+MMDiff2
+Xeva
