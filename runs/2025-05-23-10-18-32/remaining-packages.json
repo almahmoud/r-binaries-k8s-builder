@@ -193,8 +193,7 @@
     "GenomicFeatures"
   ],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CODEX": [],
   "COTAN": [],
@@ -234,7 +233,6 @@
     "missMethyl",
     "bumphunter",
     "GenomicFeatures",
-    "bsseq",
     "Gviz",
     "methylumi",
     "lumi",
@@ -329,7 +327,6 @@
   ],
   "DMCHMM": [],
   "DMRcate": [
-    "bsseq",
     "minfi",
     "missMethyl",
     "Gviz",
@@ -343,9 +340,7 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "GenomicFeatures"
@@ -362,8 +357,7 @@
     "txdbmaker"
   ],
   "DeMixT": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "DeconvoBuddies": [
     "scran",
@@ -705,9 +699,7 @@
     "scater",
     "scuttle"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MIRit": [],
   "MMDiff2": [],
   "MOSClip": [
@@ -801,9 +793,7 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -1094,7 +1084,6 @@
   ],
   "SOMNiBUS": [
     "annotatr",
-    "bsseq",
     "GenomicFeatures",
     "regioneR"
   ],
@@ -1400,7 +1389,6 @@
     "ensembldb"
   ],
   "biscuiteer": [
-    "bsseq",
     "VariantAnnotation",
     "dmrseq",
     "bumphunter",
@@ -1413,12 +1401,9 @@
   "blacksheepr": [],
   "bnbc": [],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "branchpointer": [],
-  "broadSeq": [],
-  "bsseq": [],
   "bumphunter": [
     "GenomicFeatures"
   ],
@@ -1455,8 +1440,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "ccImpute": [],
-  "ccfindR": [],
   "celaref": [],
   "celda": [
     "scater",
@@ -1622,7 +1605,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "crumblr": [],
   "crupR": [
     "GenomicFeatures"
   ],
@@ -1638,7 +1620,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "cydar": [],
   "cytofQC": [
     "CATALYST",
     "scater",
@@ -1707,7 +1688,6 @@
     "txdbmaker"
   ],
   "destiny": [],
-  "diffHic": [],
   "diffUTR": [
     "ensembldb",
     "GenomicFeatures"
@@ -1718,7 +1698,6 @@
   ],
   "dittoSeq": [],
   "dmrseq": [
-    "bsseq",
     "bumphunter",
     "annotatr",
     "GenomicFeatures",
@@ -2022,8 +2001,7 @@
     "GenomicFeatures"
   ],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "lefser": [
     "mia",
@@ -2093,8 +2071,7 @@
     "DSS",
     "EDASeq",
     "GenomicFeatures",
-    "txdbmaker",
-    "bsseq"
+    "txdbmaker"
   ],
   "methInheritSim": [
     "methylKit"
@@ -2107,7 +2084,6 @@
   "methrix": [],
   "methylCC": [
     "minfi",
-    "bsseq",
     "plyranges",
     "bumphunter",
     "GenomicFeatures"
@@ -2131,7 +2107,6 @@
     "VariantAnnotation"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -2318,13 +2293,11 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "pairedGSEA": [],
   "partCNV": [],
   "pathMED": [
     "GSVA"
   ],
   "pathRender": [],
-  "pathlinkR": [],
   "pcaExplorer": [
     "mosdef",
     "goseq",
@@ -2576,7 +2549,6 @@
   "scider": [],
   "scmap": [],
   "scmeth": [
-    "bsseq",
     "annotatr",
     "GenomicFeatures",
     "regioneR"

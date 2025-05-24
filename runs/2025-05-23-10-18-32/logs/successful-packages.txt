@@ -1516,3 +1516,12 @@ gcapc
 immApex
 SeqSQC
 SingleCellAlleleExperiment
+broadSeq
+bsseq
+ccfindR
+ccImpute
+crumblr
+cydar
+diffHic
+pairedGSEA
+pathlinkR
