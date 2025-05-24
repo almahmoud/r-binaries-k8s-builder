@@ -1357,7 +1357,6 @@
     "scran",
     "scuttle"
   ],
-  "cellity": [],
   "censcyt": [],
   "chevreulPlot": [
     "chevreulProcess",
@@ -1694,7 +1693,6 @@
     "GSVA"
   ],
   "escheR": [],
-  "evaluomeR": [],
   "fCCAC": [
     "genomation"
   ],
@@ -2180,7 +2178,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures"
   ],
@@ -2558,7 +2555,6 @@
   "tidySpatialExperiment": [],
   "tidyomics": [],
   "tigre": [],
-  "topdownr": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",

@@ -1608,3 +1608,7 @@ omXplore
 ptairMS
 puma
 SEtools
+cellity
+evaluomeR
+qPLEXanalyzer
+topdownr
