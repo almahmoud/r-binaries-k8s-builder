@@ -1,0 +1,7 @@
+CopyNumberPlots
+SpatialExperimentIO
+SpatialFeatureExperiment
+multicrispr
+scCB2
+scPipe
+visiumStitched

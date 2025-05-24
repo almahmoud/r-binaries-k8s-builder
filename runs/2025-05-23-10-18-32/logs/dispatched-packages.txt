@@ -2202,3 +2202,10 @@ metaseqR2
 RnBeads
 lumi
 missMethyl
+CopyNumberPlots
+SpatialExperimentIO
+SpatialFeatureExperiment
+multicrispr
+scCB2
+scPipe
+visiumStitched

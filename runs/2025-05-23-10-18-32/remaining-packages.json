@@ -41,11 +41,9 @@
   "CBNplot": [],
   "CNEr": [],
   "CNVfilteR": [
-    "karyoploteR",
     "CopyNumberPlots"
   ],
   "CNViz": [
-    "karyoploteR",
     "CopyNumberPlots"
   ],
   "ChAMP": [
@@ -55,7 +53,6 @@
     "lumi"
   ],
   "ChIPComp": [],
-  "ChIPanalyser": [],
   "ChIPexoQual": [],
   "ChIPpeakAnno": [],
   "ChromSCape": [
@@ -64,9 +61,7 @@
   "CiteFuse": [
     "scran"
   ],
-  "CopyNumberPlots": [
-    "karyoploteR"
-  ],
+  "CopyNumberPlots": [],
   "DEScan2": [
     "ChIPpeakAnno"
   ],
@@ -81,13 +76,11 @@
   "Dino": [
     "scran"
   ],
-  "DropletUtils": [],
   "DuplexDiscovereR": [],
   "ELMER": [],
   "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [
-    "DropletUtils",
     "scran"
   ],
   "FRASER": [],
@@ -194,15 +187,10 @@
     "scran"
   ],
   "Spaniel": [
-    "scran",
-    "DropletUtils"
+    "scran"
   ],
-  "SpatialExperimentIO": [
-    "DropletUtils"
-  ],
-  "SpatialFeatureExperiment": [
-    "DropletUtils"
-  ],
+  "SpatialExperimentIO": [],
+  "SpatialFeatureExperiment": [],
   "SplicingGraphs": [],
   "SpotClean": [],
   "SpotSweeper": [],
@@ -214,8 +202,7 @@
   "VariantFiltering": [],
   "VariantTools": [],
   "Voyager": [
-    "SpatialFeatureExperiment",
-    "DropletUtils"
+    "SpatialFeatureExperiment"
   ],
   "XNAString": [],
   "YAPSA": [
@@ -230,8 +217,7 @@
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.spatial",
-    "DropletUtils"
+    "alabaster.spatial"
   ],
   "alabaster.spatial": [],
   "annotatr": [],
@@ -336,7 +322,6 @@
   ],
   "iNETgrate": [],
   "intansv": [],
-  "karyoploteR": [],
   "lumi": [],
   "lute": [
     "scran"
@@ -360,9 +345,7 @@
   ],
   "msgbsR": [],
   "multiGSEA": [],
-  "multicrispr": [
-    "karyoploteR"
-  ],
+  "multicrispr": [],
   "mumosa": [
     "scran"
   ],
@@ -392,9 +375,7 @@
   "saseR": [
     "ASpli"
   ],
-  "scCB2": [
-    "DropletUtils"
-  ],
+  "scCB2": [],
   "scDD": [
     "scran"
   ],
@@ -408,9 +389,7 @@
   "scMerge": [
     "scran"
   ],
-  "scPipe": [
-    "DropletUtils"
-  ],
+  "scPipe": [],
   "scRNAseqApp": [],
   "scTreeViz": [
     "scran"
@@ -432,7 +411,6 @@
     "scMerge",
     "scran",
     "celda",
-    "DropletUtils",
     "scDblFinder"
   ],
   "skewr": [
@@ -459,9 +437,7 @@
   "trigger": [],
   "tximeta": [],
   "uncoverappLib": [],
-  "visiumStitched": [
-    "DropletUtils"
-  ],
+  "visiumStitched": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],

@@ -2079,3 +2079,6 @@ MungeSumstats
 CexoR
 MetaboSignal
 methylclock
+ChIPanalyser
+DropletUtils
+karyoploteR
