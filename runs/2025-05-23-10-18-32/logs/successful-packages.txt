@@ -1870,3 +1870,7 @@ TRESS
 CRISPRseek
 IPO
 SGSeq
+casper
+EpiMix
+Organism.dplyr
+OutSplice

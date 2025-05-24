@@ -253,7 +253,6 @@
     "bumphunter"
   ],
   "EpiCompare": [],
-  "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker"
   ],
@@ -435,9 +434,7 @@
     "minfi",
     "bumphunter"
   ],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "MotifDb": [],
   "MungeSumstats": [
     "VariantAnnotation"
@@ -474,11 +471,9 @@
   "OUTRIDER": [
     "txdbmaker"
   ],
-  "Organism.dplyr": [],
   "OrganismDbi": [
     "txdbmaker"
   ],
-  "OutSplice": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -728,9 +723,7 @@
   "UPDhmm": [
     "VariantAnnotation"
   ],
-  "Ularcirc": [
-    "Organism.dplyr"
-  ],
+  "Ularcirc": [],
   "Uniquorn": [
     "VariantAnnotation"
   ],
@@ -867,7 +860,6 @@
   "cardelino": [
     "VariantAnnotation"
   ],
-  "casper": [],
   "cbaf": [
     "cBioPortalData",
     "RTCGAToolbox",
