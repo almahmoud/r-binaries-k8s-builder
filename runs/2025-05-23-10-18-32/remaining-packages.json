@@ -1568,7 +1568,6 @@
     "GenomicFeatures"
   ],
   "hiReadsProcessor": [],
-  "hicVennDiagram": [],
   "hypeR": [],
   "iCNV": [],
   "iCheck": [
@@ -2251,6 +2250,5 @@
     "minfi",
     "bumphunter",
     "GenomicFeatures"
-  ],
-  "zitools": []
+  ]
 }
