@@ -2047,3 +2047,10 @@ alabaster.vcf
 doubletrouble
 proActiv
 RareVariantVis
+FEAST
+gmapR
+Gviz
+INSPEcT
+MOSClip
+OMICsPCA
+Rqc
