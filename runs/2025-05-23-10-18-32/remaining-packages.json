@@ -1685,7 +1685,6 @@
     "hiAnnotator"
   ],
   "hicVennDiagram": [],
-  "hoodscanR": [],
   "hypeR": [],
   "iCNV": [
     "CODEX"
@@ -1987,7 +1986,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "pdInfoBuilder": [],
   "peakPantheR": [],
   "peco": [
     "scater"

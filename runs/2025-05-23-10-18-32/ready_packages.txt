@@ -1,4 +1,0 @@
-CRISPRball
-SPIAT
-scTGIF
-scTensor
