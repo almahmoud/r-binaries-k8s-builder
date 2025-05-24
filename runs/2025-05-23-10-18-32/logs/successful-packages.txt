@@ -1631,3 +1631,10 @@ msmsTests
 MultiRNAflow
 scGPS
 speckle
+ArrayExpress
+famat
+HicAggR
+mimager
+mobileRNA
+scuttle
+xCell2

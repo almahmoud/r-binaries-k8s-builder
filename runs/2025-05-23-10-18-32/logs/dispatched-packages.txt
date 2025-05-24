@@ -1841,3 +1841,12 @@ cosmiq
 ncGTW
 squallms
 MSnID
+DESpace
+DropletUtils
+DrugVsDisease
+SplineDV
+batchelor
+scater
+scran
+simPIC
+splatter
