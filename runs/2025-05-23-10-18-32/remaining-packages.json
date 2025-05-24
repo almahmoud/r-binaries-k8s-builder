@@ -233,7 +233,6 @@
   "RUVSeq": [
     "EDASeq"
   ],
-  "RareVariantVis": [],
   "RbowtieCuda": [],
   "RegionalST": [
     "BayesSpace",
@@ -308,8 +307,7 @@
     "ggbio"
   ],
   "alabaster": [
-    "alabaster.spatial",
-    "alabaster.vcf"
+    "alabaster.spatial"
   ],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -317,7 +315,6 @@
     "DropletUtils"
   ],
   "alabaster.spatial": [],
-  "alabaster.vcf": [],
   "annotatr": [],
   "arrayMvout": [
     "lumi",
@@ -414,7 +411,6 @@
   "dmrseq": [
     "annotatr"
   ],
-  "doubletrouble": [],
   "enhancerHomologSearch": [
     "motifmatchr"
   ],
@@ -528,7 +524,6 @@
   "primirTSS": [
     "Gviz"
   ],
-  "proActiv": [],
   "profileplyr": [
     "rGREAT"
   ],

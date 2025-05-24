@@ -2043,3 +2043,7 @@ clipper
 dagLogo
 gwascat
 txcutr
+alabaster.vcf
+doubletrouble
+proActiv
+RareVariantVis
