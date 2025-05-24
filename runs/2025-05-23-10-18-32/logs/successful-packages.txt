@@ -1918,3 +1918,9 @@ MAIT
 miQC
 RCAS
 Rhisat2
+BadRegionFinder
+BBCAnalyzer
+CCAFE
+OUTRIDER
+RITAN
+RTCGAToolbox

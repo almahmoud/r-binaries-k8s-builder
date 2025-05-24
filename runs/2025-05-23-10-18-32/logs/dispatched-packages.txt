@@ -2083,3 +2083,5 @@ TFHAZ
 clusterExperiment
 CircSeqAlignTk
 GenomicPlot
+FRASER
+cBioPortalData

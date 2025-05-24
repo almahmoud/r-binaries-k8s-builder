@@ -37,13 +37,11 @@
     "BASiCS",
     "scran"
   ],
-  "BBCAnalyzer": [],
   "BOBaFIT": [
     "ggbio",
     "biovizBase",
     "OrganismDbi"
   ],
-  "BadRegionFinder": [],
   "BatchQC": [
     "scran"
   ],
@@ -76,7 +74,6 @@
     "biovizBase"
   ],
   "CBNplot": [],
-  "CCAFE": [],
   "CNEr": [],
   "CNVfilteR": [
     "regioneR",
@@ -179,9 +176,7 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "FindIT2": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
@@ -192,8 +187,7 @@
     "EDASeq"
   ],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GRaNIE": [],
   "GSReg": [
@@ -307,7 +301,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "OUTRIDER": [],
   "OrganismDbi": [],
   "PICS": [],
   "PING": [
@@ -342,7 +335,6 @@
   "RESOLVE": [
     "MutationalPatterns"
   ],
-  "RITAN": [],
   "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
@@ -368,7 +360,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [
     "EDASeq"
   ],
@@ -535,8 +526,7 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz",
@@ -549,22 +539,18 @@
     "OrganismDbi",
     "regioneR"
   ],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "biovizBase",
     "OrganismDbi"
   ],
   "canceR": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cardelino": [],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "celda": [
     "scran"
