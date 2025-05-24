@@ -2257,3 +2257,6 @@ affycoretools
 ATACseqTFEA
 GUIDEseq
 MEAT
+HiCDCPlus
+pageRank
+standR

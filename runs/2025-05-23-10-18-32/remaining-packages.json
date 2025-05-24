@@ -15,7 +15,6 @@
   "EpiCompare": [],
   "GeneStructureTools": [],
   "Harshlight": [],
-  "HiCDCPlus": [],
   "HilbertVisGUI": [],
   "MAGAR": [],
   "MEAL": [
@@ -54,16 +53,12 @@
   ],
   "missMethyl": [],
   "musicatk": [],
-  "pageRank": [],
   "rGADEM": [],
   "scFeatures": [],
   "scTreeViz": [],
-  "shinyDSP": [
-    "standR"
-  ],
+  "shinyDSP": [],
   "singleCellTK": [],
   "skewr": [],
-  "standR": [],
   "svaNUMT": [],
   "trigger": []
 }
