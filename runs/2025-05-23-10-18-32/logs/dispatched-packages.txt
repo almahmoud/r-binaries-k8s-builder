@@ -1819,3 +1819,7 @@ qPLEXanalyzer
 synapter
 topdownr
 xcms
+cfDNAPro
+nullranges
+plotgardener
+plyinteractions

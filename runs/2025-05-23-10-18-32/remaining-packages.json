@@ -73,7 +73,6 @@
   ],
   "BOBaFIT": [
     "ggbio",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "GenomicFeatures",
@@ -83,8 +82,7 @@
   ],
   "BUSpaRse": [
     "ensembldb",
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "BadRegionFinder": [
     "VariantAnnotation",
@@ -335,7 +333,6 @@
     "GenomicFeatures",
     "ggbio",
     "goseq",
-    "plyranges",
     "biovizBase",
     "VariantAnnotation",
     "OrganismDbi",
@@ -350,7 +347,6 @@
   ],
   "DegCre": [
     "plotgardener",
-    "plyranges",
     "GenomicFeatures"
   ],
   "DegNorm": [
@@ -551,7 +547,6 @@
     "txdbmaker"
   ],
   "GenomicPlot": [
-    "plyranges",
     "RCAS",
     "GenomicFeatures",
     "genomation",
@@ -608,8 +603,7 @@
   ],
   "IdeoViz": [],
   "InPAS": [
-    "GenomicFeatures",
-    "plyranges"
+    "GenomicFeatures"
   ],
   "IntEREst": [
     "GenomicFiles",
@@ -1018,7 +1012,6 @@
     "ensembldb"
   ],
   "SARC": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "SC3": [],
@@ -1066,7 +1059,6 @@
     "scuttle"
   ],
   "SingleMoleculeFootprinting": [
-    "plyranges",
     "QuasR",
     "GenomicFeatures",
     "txdbmaker",
@@ -1172,8 +1164,7 @@
   "Ularcirc": [
     "GenomicFeatures",
     "Organism.dplyr",
-    "plotgardener",
-    "plyranges"
+    "plotgardener"
   ],
   "Uniquorn": [
     "VariantAnnotation",
@@ -1395,9 +1386,7 @@
   ],
   "cellity": [],
   "censcyt": [],
-  "cfDNAPro": [
-    "plyranges"
-  ],
+  "cfDNAPro": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -1931,7 +1920,6 @@
     "ensembldb"
   ],
   "katdetectr": [
-    "plyranges",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
@@ -1982,7 +1970,6 @@
     "TRESS"
   ],
   "mariner": [
-    "plyranges",
     "plotgardener"
   ],
   "maser": [
@@ -2013,7 +2000,6 @@
   "methrix": [],
   "methylCC": [
     "minfi",
-    "plyranges",
     "bumphunter",
     "GenomicFeatures"
   ],
@@ -2138,7 +2124,6 @@
     "CRISPRseek",
     "GenomicFeatures",
     "karyoploteR",
-    "plyranges",
     "regioneR",
     "biovizBase",
     "VariantAnnotation",
@@ -2170,7 +2155,6 @@
     "xcms"
   ],
   "nearBynding": [
-    "plyranges",
     "GenomicFeatures"
   ],
   "netSmooth": [
@@ -2181,9 +2165,7 @@
     "scuttle"
   ],
   "nnSVG": [],
-  "nullranges": [
-    "plyranges"
-  ],
+  "nullranges": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2228,13 +2210,8 @@
     "scuttle"
   ],
   "pipeFrame": [],
-  "plotgardener": [
-    "plyranges"
-  ],
-  "plyinteractions": [
-    "plyranges"
-  ],
-  "plyranges": [],
+  "plotgardener": [],
+  "plyinteractions": [],
   "podkat": [],
   "poem": [],
   "preciseTAD": [
@@ -2348,7 +2325,6 @@
     "TFBSTools"
   ],
   "rifi": [],
-  "rifiComparative": [],
   "rmspc": [],
   "rnaEditr": [
     "bumphunter",
@@ -2658,7 +2634,6 @@
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
   "tidyomics": [
-    "plyranges",
     "nullranges"
   ],
   "tigre": [],

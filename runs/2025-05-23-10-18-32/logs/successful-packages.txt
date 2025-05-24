@@ -1560,3 +1560,5 @@ mist
 MSnbase
 normr
 pram
+plyranges
+rifiComparative
