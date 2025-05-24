@@ -2241,3 +2241,5 @@ CAGEfightR
 enhancerHomologSearch
 spatzie
 tadar
+alabaster.sfe
+RNAmodR.AlkAnilineSeq
