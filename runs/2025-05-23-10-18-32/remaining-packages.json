@@ -265,7 +265,6 @@
     "TSCAN"
   ],
   "FLAMES": [
-    "bambu",
     "DropletUtils",
     "txdbmaker",
     "ggbio",
@@ -802,7 +801,6 @@
   ],
   "atSNP": [],
   "atena": [],
-  "bambu": [],
   "bandle": [],
   "batchelor": [],
   "benchdamic": [],
@@ -1106,7 +1104,6 @@
     "VariantAnnotation"
   ],
   "gINTomics": [],
-  "geneAttribution": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -1307,7 +1304,6 @@
   "myvariant": [
     "VariantAnnotation"
   ],
-  "nearBynding": [],
   "netSmooth": [
     "clusterExperiment",
     "mbkmeans"
@@ -1548,7 +1544,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "strandCheckR": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation"

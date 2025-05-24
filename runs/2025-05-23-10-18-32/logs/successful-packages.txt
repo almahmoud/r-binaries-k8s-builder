@@ -1878,3 +1878,7 @@ ChIPQC
 crupR
 factR
 gmoviz
+bambu
+geneAttribution
+nearBynding
+strandCheckR
