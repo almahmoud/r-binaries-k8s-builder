@@ -1959,3 +1959,8 @@ tLOH
 signeR
 transmogR
 vmrseq
+AHMassBank
+diffUTR
+epivizrData
+GRaNIE
+minfi

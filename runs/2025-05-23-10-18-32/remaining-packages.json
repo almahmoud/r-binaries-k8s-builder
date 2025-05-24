@@ -1,5 +1,4 @@
 {
-  "AHMassBank": [],
   "ASpli": [
     "Gviz",
     "biovizBase"
@@ -76,7 +75,6 @@
   ],
   "CexoR": [],
   "ChAMP": [
-    "minfi",
     "DMRcate",
     "wateRmelon",
     "goseq",
@@ -111,7 +109,6 @@
     "regioneR"
   ],
   "DMRcate": [
-    "minfi",
     "missMethyl",
     "Gviz",
     "biovizBase",
@@ -141,9 +138,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "ENmix": [
-    "minfi"
-  ],
+  "ENmix": [],
   "EpiCompare": [],
   "EventPointer": [],
   "ExperimentHubData": [],
@@ -163,7 +158,6 @@
   "GNOSIS": [
     "cBioPortalData"
   ],
-  "GRaNIE": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -210,18 +204,15 @@
   "MADSEQ": [],
   "MAGAR": [
     "RnBeads",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MEAL": [
-    "minfi",
     "Gviz",
     "missMethyl",
     "biovizBase",
     "methylumi"
   ],
   "MEAT": [
-    "minfi",
     "wateRmelon",
     "methylumi",
     "lumi"
@@ -239,13 +230,10 @@
     "mygene"
   ],
   "MethReg": [],
-  "MethylAid": [
-    "minfi"
-  ],
+  "MethylAid": [],
   "MineICA": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "Moonlight2R": [],
   "MungeSumstats": [],
@@ -290,9 +278,7 @@
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "REMP": [
-    "minfi"
-  ],
+  "REMP": [],
   "RESOLVE": [
     "MutationalPatterns"
   ],
@@ -343,8 +329,7 @@
   ],
   "Rmmquant": [],
   "RnBeads": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "RnaSeqSampleSize": [
     "recount",
@@ -455,8 +440,7 @@
   "appreci8R": [],
   "arrayMvout": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "atSNP": [],
   "bandle": [],
@@ -464,7 +448,6 @@
   "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
-    "minfi",
     "methylumi",
     "lumi"
   ],
@@ -542,9 +525,7 @@
     "EDASeq",
     "RUVSeq"
   ],
-  "conumee": [
-    "minfi"
-  ],
+  "conumee": [],
   "corral": [],
   "crisprShiny": [
     "crisprViz",
@@ -572,9 +553,7 @@
     "celda",
     "scran"
   ],
-  "deconvR": [
-    "minfi"
-  ],
+  "deconvR": [],
   "deepSNV": [],
   "derfinder": [],
   "derfinderPlot": [
@@ -582,7 +561,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "diffUTR": [],
   "dmrseq": [
     "annotatr",
     "regioneR"
@@ -593,7 +571,6 @@
     "motifmatchr"
   ],
   "epimutacions": [
-    "minfi",
     "Gviz",
     "biovizBase"
   ],
@@ -604,16 +581,10 @@
   "epiregulon.extra": [
     "scran"
   ],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "erma": [],
   "esATAC": [
@@ -624,12 +595,9 @@
   "fastLiquidAssociation": [],
   "ffpe": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "funtooNorm": [
-    "minfi"
-  ],
+  "funtooNorm": [],
   "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
@@ -649,12 +617,9 @@
   "hypeR": [],
   "iCheck": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "iNETgrate": [
-    "minfi"
-  ],
+  "iNETgrate": [],
   "iSEEtree": [],
   "ideal": [
     "mosdef",
@@ -671,8 +636,7 @@
   ],
   "lisaClust": [],
   "lumi": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "lute": [
     "scran"
@@ -693,12 +657,9 @@
     "annotatr",
     "regioneR"
   ],
-  "methylCC": [
-    "minfi"
-  ],
+  "methylCC": [],
   "methylGSA": [
     "missMethyl",
-    "minfi",
     "methylumi"
   ],
   "methylPipe": [
@@ -706,19 +667,14 @@
     "biovizBase"
   ],
   "methylclock": [
-    "minfi",
     "ExperimentHubData"
   ],
-  "methylumi": [
-    "minfi"
-  ],
+  "methylumi": [],
   "miaDash": [
     "iSEEtree"
   ],
-  "minfi": [],
   "missMethyl": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mitoClone2": [
     "deepSNV"
@@ -780,18 +736,14 @@
     "recount",
     "derfinder"
   ],
-  "quantro": [
-    "minfi"
-  ],
+  "quantro": [],
   "rGADEM": [],
   "rGREAT": [],
   "rTRMui": [],
   "recount": [
     "derfinder"
   ],
-  "recountmethylation": [
-    "minfi"
-  ],
+  "recountmethylation": [],
   "recoup": [],
   "regionReport": [
     "derfinder"
@@ -845,8 +797,7 @@
   "scTensor": [],
   "scTreeViz": [
     "epivizr",
-    "scran",
-    "epivizrData"
+    "scran"
   ],
   "scanMiRApp": [],
   "sccomp": [],
@@ -873,12 +824,8 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "shinyMethyl": [
-    "minfi"
-  ],
-  "shinyepico": [
-    "minfi"
-  ],
+  "shinyMethyl": [],
+  "shinyepico": [],
   "signifinder": [],
   "singleCellTK": [
     "batchelor",
@@ -893,7 +840,6 @@
   "skewr": [
     "methylumi",
     "wateRmelon",
-    "minfi",
     "lumi"
   ],
   "slingshot": [],
@@ -951,12 +897,10 @@
   ],
   "wateRmelon": [
     "methylumi",
-    "lumi",
-    "minfi"
+    "lumi"
   ],
   "wavClusteR": [],
   "yarn": [
-    "quantro",
-    "minfi"
+    "quantro"
   ]
 }
