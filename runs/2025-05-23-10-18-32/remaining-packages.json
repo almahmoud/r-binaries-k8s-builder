@@ -1449,7 +1449,6 @@
     "scater",
     "scran",
     "scuttle",
-    "wiggleplotr",
     "batchelor",
     "ensembldb",
     "GenomicFeatures"
@@ -1465,7 +1464,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "scater",
     "scran",
     "scuttle",
@@ -1796,8 +1794,7 @@
     "genomation"
   ],
   "factR": [
-    "GenomicFeatures",
-    "wiggleplotr"
+    "GenomicFeatures"
   ],
   "famat": [],
   "fastLiquidAssociation": [],
@@ -2852,7 +2849,6 @@
   "wavClusteR": [
     "GenomicFeatures"
   ],
-  "wiggleplotr": [],
   "xCell2": [],
   "xcms": [
     "MSnbase"

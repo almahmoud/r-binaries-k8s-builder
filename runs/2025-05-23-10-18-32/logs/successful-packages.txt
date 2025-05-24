@@ -1537,3 +1537,4 @@ ClusterFoldSimilarity
 CoSIA
 goSorensen
 miRspongeR
+wiggleplotr
