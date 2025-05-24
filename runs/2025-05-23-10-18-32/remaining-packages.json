@@ -1314,7 +1314,6 @@
     "deepSNV",
     "VariantAnnotation"
   ],
-  "monaLisa": [],
   "mosdef": [
     "goseq",
     "txdbmaker"
