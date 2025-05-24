@@ -1642,3 +1642,10 @@ r3Cseq
 scHOT
 scRepertoire
 SurfR
+CEMiTool
+EWCE
+fishpond
+GSEABenchmarkeR
+m6Aboost
+SeqGSEA
+zenith

@@ -154,7 +154,6 @@
     "GenomicFeatures"
   ],
   "CDI": [],
-  "CEMiTool": [],
   "CNEr": [],
   "CNVfilteR": [
     "regioneR",
@@ -370,7 +369,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "EWCE": [],
   "EasyCellType": [],
   "EnrichDO": [],
   "EpiCompare": [
@@ -450,7 +448,6 @@
     "GenomicFeatures"
   ],
   "GRmetrics": [],
-  "GSEABenchmarkeR": [],
   "GSReg": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -987,7 +984,6 @@
     "VariantAnnotation"
   ],
   "SVP": [],
-  "SeqGSEA": [],
   "SigsPack": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1537,9 +1533,7 @@
   "doubletrouble": [
     "GenomicFeatures"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "drugTargetInteractions": [
     "ensembldb",
     "GenomicFeatures"
@@ -1640,7 +1634,6 @@
     "minfi",
     "bumphunter"
   ],
-  "fishpond": [],
   "flagme": [
     "CAMERA"
   ],
@@ -1818,7 +1811,6 @@
   "lute": [
     "scran"
   ],
-  "m6Aboost": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -2520,7 +2512,6 @@
     "GenomicFeatures"
   ],
   "zellkonverter": [],
-  "zenith": [],
   "zinbwave": [],
   "zitools": []
 }
