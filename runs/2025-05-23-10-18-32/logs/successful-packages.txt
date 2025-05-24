@@ -2011,3 +2011,6 @@ sevenC
 dar
 fCCAC
 FindIT2
+cytoviewer
+magpie
+scTensor

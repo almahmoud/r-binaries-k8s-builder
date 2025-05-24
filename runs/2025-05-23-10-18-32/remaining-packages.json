@@ -481,7 +481,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "cytoviewer": [],
   "dagLogo": [],
   "decontX": [
     "celda",
@@ -564,7 +563,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "magpie": [],
   "maser": [
     "Gviz",
     "biovizBase"
@@ -680,7 +678,6 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scTensor": [],
   "scTreeViz": [
     "epivizr",
     "scran"
