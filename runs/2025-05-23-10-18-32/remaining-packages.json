@@ -263,7 +263,6 @@
   "RESOLVE": [
     "MutationalPatterns"
   ],
-  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount"
   ],
@@ -679,7 +678,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "rgsepd": [],
   "ribosomeProfilingQC": [
     "EDASeq",
     "RUVSeq"

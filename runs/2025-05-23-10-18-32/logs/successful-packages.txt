@@ -1993,3 +1993,5 @@ corral
 TAPseq
 scp
 signifinder
+rgsepd
+RJMCMCNucleosomes
