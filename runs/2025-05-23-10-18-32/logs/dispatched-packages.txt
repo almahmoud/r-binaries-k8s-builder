@@ -2142,3 +2142,9 @@ OMICsPCA
 condiments
 scRNAseqApp
 tradeSeq
+BubbleTree
+ChIPexoQual
+Gviz
+Rqc
+ggbio
+karyoploteR
