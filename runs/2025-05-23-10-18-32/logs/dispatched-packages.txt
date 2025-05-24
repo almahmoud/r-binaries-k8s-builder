@@ -2286,3 +2286,4 @@ scDblFinder
 scMerge
 scTreeViz
 wateRmelon
+biscuiteer
