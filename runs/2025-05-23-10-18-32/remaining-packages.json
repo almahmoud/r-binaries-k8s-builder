@@ -253,14 +253,12 @@
   "RnaSeqSampleSize": [],
   "Rqc": [],
   "SARC": [],
-  "SNPhood": [],
   "SOMNiBUS": [
     "annotatr"
   ],
   "SPLINTER": [
     "Gviz"
   ],
-  "SigsPack": [],
   "SingleCellSignalR": [
     "scran"
   ],
@@ -288,11 +286,9 @@
   "TVTB": [
     "Gviz"
   ],
-  "TitanCNA": [],
   "UMI4Cats": [],
   "UPDhmm": [],
   "Ularcirc": [],
-  "Uniquorn": [],
   "VariantFiltering": [
     "Gviz"
   ],
@@ -465,7 +461,6 @@
     "methylumi"
   ],
   "iNETgrate": [],
-  "iSEEtree": [],
   "intansv": [
     "ggbio"
   ],
@@ -498,9 +493,7 @@
   ],
   "methylclock": [],
   "methylumi": [],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "miaDash": [],
   "missMethyl": [
     "methylumi"
   ],
