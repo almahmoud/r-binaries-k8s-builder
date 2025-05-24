@@ -143,7 +143,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [],
   "CARDspa": [],
   "CATALYST": [
     "scater"
@@ -279,7 +278,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "DEFormats": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -555,9 +553,7 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "ITALICS": [],
   "IVAS": [
     "GenomicFeatures"
@@ -578,9 +574,7 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "LOBSTAHS": [
-    "CAMERA"
-  ],
+  "LOBSTAHS": [],
   "M3Drop": [
     "scater"
   ],
@@ -595,9 +589,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -1456,10 +1448,7 @@
     "CATALYST",
     "scater"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools"
@@ -1634,9 +1623,7 @@
     "minfi",
     "bumphunter"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "frma": [],
   "funtooNorm": [
     "minfi",
@@ -1736,16 +1723,13 @@
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
+  "iSEEfier": [],
   "iSEEtree": [
     "miaViz",
     "mia",
     "TreeSummarizedExperiment",
     "scater"
   ],
-  "iSEEu": [],
   "icetea": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1760,9 +1744,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "imcRtools": [
-    "cytomapper"
-  ],
+  "imcRtools": [],
   "infercnv": [],
   "intansv": [
     "ggbio",
@@ -1799,8 +1781,7 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "lumi": [
     "methylumi",
@@ -1836,9 +1817,7 @@
   ],
   "mastR": [],
   "mbkmeans": [],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metagene2": [],
   "metaseqR2": [
     "EDASeq",
@@ -2116,7 +2095,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicFeatures",
     "GenomicFiles",
@@ -2304,9 +2282,7 @@
     "GenomicFeatures"
   ],
   "simPIC": [],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "singleCellTK": [
     "batchelor",
     "ensembldb",
@@ -2360,8 +2336,7 @@
     "VariantAnnotation"
   ],
   "spicyR": [
-    "simpleSeg",
-    "cytomapper"
+    "simpleSeg"
   ],
   "spiky": [],
   "spillR": [
@@ -2399,7 +2374,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "switchde": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"

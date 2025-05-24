@@ -1649,3 +1649,8 @@ GSEABenchmarkeR
 m6Aboost
 SeqGSEA
 zenith
+CAMERA
+cytomapper
+DEFormats
+iSEEu
+switchde
