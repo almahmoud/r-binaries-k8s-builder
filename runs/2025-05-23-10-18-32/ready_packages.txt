@@ -1,2 +1,5 @@
-MetaboSignal
-SingleMoleculeFootprinting
+SMITE
+mosdef
+recount
+regionReport
+rgsepd

@@ -77,7 +77,6 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "Gviz",
     "methylumi",
@@ -119,7 +118,6 @@
   ],
   "Damsel": [
     "ggbio",
-    "goseq",
     "biovizBase"
   ],
   "DeconvoBuddies": [
@@ -163,16 +161,14 @@
   ],
   "GeDi": [
     "GeneTonic",
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
   ],
   "GeneTonic": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "GenomicInteractions": [
     "Gviz",
@@ -279,8 +275,7 @@
   ],
   "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [
     "Gviz",
@@ -327,16 +322,13 @@
     "methylumi"
   ],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "Rqc": [
     "biovizBase"
   ],
   "SARC": [],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SNPhood": [],
   "SOMNiBUS": [
     "annotatr",
@@ -376,7 +368,6 @@
   "StructuralVariantAnnotation": [],
   "TAPseq": [],
   "TFEA.ChIP": [],
-  "TFutils": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
@@ -429,7 +420,6 @@
   "annotatr": [
     "regioneR"
   ],
-  "appreci8R": [],
   "arrayMvout": [
     "lumi",
     "methylumi"
@@ -547,9 +537,7 @@
   ],
   "deconvR": [],
   "deepSNV": [],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio",
     "biovizBase"
   ],
@@ -577,7 +565,6 @@
   "epivizrStandalone": [
     "epivizr"
   ],
-  "erma": [],
   "esATAC": [
     "motifmatchr"
   ],
@@ -600,7 +587,6 @@
   ],
   "glmSparseNet": [],
   "gmapR": [],
-  "goseq": [],
   "gpuMagic": [],
   "graper": [],
   "gwascat": [],
@@ -612,8 +598,7 @@
   "iNETgrate": [],
   "iSEEtree": [],
   "ideal": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "igvR": [],
   "intansv": [
@@ -667,9 +652,7 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "mosdef": [
-    "goseq"
-  ],
+  "mosdef": [],
   "motifbreakR": [
     "Gviz",
     "biovizBase"
@@ -703,8 +686,7 @@
     "motifmatchr"
   ],
   "pcaExplorer": [
-    "mosdef",
-    "goseq"
+    "mosdef"
   ],
   "pipeComp": [
     "scran"
@@ -720,20 +702,14 @@
     "rGREAT"
   ],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "quantro": [],
   "rGADEM": [],
   "rGREAT": [],
-  "rTRMui": [],
-  "recount": [
-    "derfinder"
-  ],
+  "recount": [],
   "recountmethylation": [],
-  "regionReport": [
-    "derfinder"
-  ],
+  "regionReport": [],
   "regioneR": [],
   "regioneReloaded": [
     "regioneR"
@@ -742,9 +718,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [
     "EDASeq",
     "RUVSeq"
@@ -822,7 +796,6 @@
     "scDblFinder",
     "alabaster.sce"
   ],
-  "sitadela": [],
   "skewr": [
     "methylumi",
     "wateRmelon",

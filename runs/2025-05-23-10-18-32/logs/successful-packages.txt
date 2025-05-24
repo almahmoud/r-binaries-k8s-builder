@@ -1972,3 +1972,10 @@ VCFArray
 mygene
 QuasR
 recoup
+appreci8R
+derfinder
+erma
+goseq
+rTRMui
+sitadela
+TFutils
