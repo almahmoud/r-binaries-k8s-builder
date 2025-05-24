@@ -1890,3 +1890,7 @@ rCGH
 TCGAutils
 transcriptR
 txdbmaker
+CTexploreR
+NoRCE
+projectR
+TSCAN

@@ -115,7 +115,6 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CTexploreR": [],
   "CexoR": [],
   "ChAMP": [
     "minfi",
@@ -219,9 +218,7 @@
     "AnnotationHubData",
     "OrganismDbi"
   ],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "DropletUtils",
     "ggbio",
@@ -381,7 +378,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "NoRCE": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz",
@@ -590,7 +586,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "TSCAN": [],
   "TVTB": [
     "Gviz",
     "VariantAnnotation",
@@ -1137,7 +1132,6 @@
   "profileplyr": [
     "rGREAT"
   ],
-  "projectR": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -1283,7 +1277,6 @@
     "celda",
     "DropletUtils",
     "scDblFinder",
-    "TSCAN",
     "alabaster.sce"
   ],
   "sitadela": [],
