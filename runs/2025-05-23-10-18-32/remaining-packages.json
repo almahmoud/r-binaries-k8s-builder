@@ -189,7 +189,6 @@
   ],
   "CTSV": [],
   "CTexploreR": [],
-  "CaMutQC": [],
   "CatsCradle": [],
   "CeTF": [],
   "CellBench": [],
@@ -742,9 +741,7 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "POWSC": [],
   "PanomiR": [],
-  "PharmacoGx": [],
   "PhenStat": [],
   "Pigengene": [],
   "ProteoDisco": [
@@ -1118,9 +1115,7 @@
   "XeniumIO": [
     "VisiumIO"
   ],
-  "Xeva": [
-    "PharmacoGx"
-  ],
+  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -1636,12 +1631,9 @@
     "VariantAnnotation"
   ],
   "gDR": [
-    "gDRimport",
-    "PharmacoGx"
+    "gDRimport"
   ],
-  "gDRimport": [
-    "PharmacoGx"
-  ],
+  "gDRimport": [],
   "gINTomics": [
     "GenomicFeatures"
   ],
@@ -1745,7 +1737,6 @@
     "GenomicFeatures"
   ],
   "imcRtools": [],
-  "infercnv": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -2155,7 +2146,6 @@
     "scran",
     "scater"
   ],
-  "scDiagnostics": [],
   "scDotPlot": [
     "scater"
   ],
@@ -2207,7 +2197,6 @@
   "scds": [],
   "schex": [],
   "scider": [],
-  "scmap": [],
   "scmeth": [
     "annotatr",
     "GenomicFeatures",

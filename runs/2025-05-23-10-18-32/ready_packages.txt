@@ -1,9 +1,2 @@
-IPO
-LOBSTAHS
-MAIT
-cytoviewer
-flagme
-iSEEfier
-imcRtools
-metaMS
-simpleSeg
+Xeva
+gDRimport

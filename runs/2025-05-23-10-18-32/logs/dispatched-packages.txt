@@ -1860,3 +1860,5 @@ iSEEfier
 imcRtools
 metaMS
 simpleSeg
+Xeva
+gDRimport

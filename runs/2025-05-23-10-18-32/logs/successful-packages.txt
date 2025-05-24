@@ -1654,3 +1654,9 @@ cytomapper
 DEFormats
 iSEEu
 switchde
+CaMutQC
+infercnv
+PharmacoGx
+POWSC
+scDiagnostics
+scmap
