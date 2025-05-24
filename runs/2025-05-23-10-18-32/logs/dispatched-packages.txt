@@ -2199,3 +2199,6 @@ epivizrStandalone
 DaMiRseq
 RUVSeq
 metaseqR2
+RnBeads
+lumi
+missMethyl

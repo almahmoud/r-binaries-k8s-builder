@@ -2072,3 +2072,7 @@ EDASeq
 methylCC
 PureCN
 sccomp
+epivizrChart
+EventPointer
+methylumi
+MungeSumstats
