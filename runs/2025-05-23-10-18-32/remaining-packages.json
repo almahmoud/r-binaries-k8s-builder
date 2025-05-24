@@ -178,9 +178,7 @@
   ],
   "CODEX": [],
   "COTAN": [],
-  "CRISPRball": [
-    "dittoSeq"
-  ],
+  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures"
   ],
@@ -804,7 +802,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [],
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
@@ -961,9 +958,7 @@
     "GenomicFeatures",
     "regioneR"
   ],
-  "SPIAT": [
-    "dittoSeq"
-  ],
+  "SPIAT": [],
   "SPLINTER": [
     "GenomicFeatures",
     "Gviz",
@@ -971,7 +966,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SVP": [],
   "SigsPack": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1140,7 +1134,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "aggregateBioVar": [],
   "airpart": [
     "scater"
   ],
@@ -1241,7 +1234,6 @@
     "txdbmaker"
   ],
   "blacksheepr": [],
-  "bnbc": [],
   "branchpointer": [],
   "bumphunter": [
     "GenomicFeatures"
@@ -1506,7 +1498,6 @@
   "distinct": [
     "scater"
   ],
-  "dittoSeq": [],
   "dmrseq": [
     "bumphunter",
     "annotatr",
@@ -2167,12 +2158,8 @@
     "slingshot"
   ],
   "scReClassify": [],
-  "scTGIF": [
-    "schex"
-  ],
-  "scTensor": [
-    "schex"
-  ],
+  "scTGIF": [],
+  "scTensor": [],
   "scTreeViz": [
     "epivizr",
     "scran",
@@ -2192,7 +2179,6 @@
   "scater": [],
   "sccomp": [],
   "scds": [],
-  "schex": [],
   "scider": [],
   "scmeth": [
     "annotatr",

@@ -1862,3 +1862,7 @@ metaMS
 simpleSeg
 Xeva
 gDRimport
+CRISPRball
+SPIAT
+scTGIF
+scTensor

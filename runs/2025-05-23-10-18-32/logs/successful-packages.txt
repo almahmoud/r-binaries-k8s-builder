@@ -1664,3 +1664,9 @@ pathRender
 podkat
 SEraster
 sosta
+aggregateBioVar
+bnbc
+dittoSeq
+RFLOMICS
+schex
+SVP
