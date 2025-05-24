@@ -141,7 +141,6 @@
   "ENmix": [],
   "EpiCompare": [],
   "EventPointer": [],
-  "ExperimentHubData": [],
   "FEAST": [],
   "FLAMES": [
     "DropletUtils",
@@ -197,7 +196,6 @@
   "IMAS": [],
   "INSPEcT": [],
   "InPAS": [],
-  "IntEREst": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],
@@ -395,7 +393,6 @@
   "UPDhmm": [],
   "Ularcirc": [],
   "Uniquorn": [],
-  "VCFArray": [],
   "VariantFiltering": [
     "Gviz",
     "biovizBase"
@@ -566,7 +563,6 @@
     "regioneR"
   ],
   "doubletrouble": [],
-  "drugTargetInteractions": [],
   "enhancerHomologSearch": [
     "motifmatchr"
   ],
@@ -598,7 +594,6 @@
     "methylumi"
   ],
   "funtooNorm": [],
-  "gDNAx": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -666,9 +661,7 @@
     "Gviz",
     "biovizBase"
   ],
-  "methylclock": [
-    "ExperimentHubData"
-  ],
+  "methylclock": [],
   "methylumi": [],
   "miaDash": [
     "iSEEtree"
