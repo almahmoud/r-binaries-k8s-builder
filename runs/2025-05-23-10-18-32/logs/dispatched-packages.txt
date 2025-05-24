@@ -2227,3 +2227,7 @@ CNVfilteR
 CNViz
 Voyager
 alabaster.sfe
+ATACseqTFEA
+enhancerHomologSearch
+esATAC
+pageRank

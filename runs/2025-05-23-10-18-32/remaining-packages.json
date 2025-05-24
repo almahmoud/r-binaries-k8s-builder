@@ -3,9 +3,7 @@
   "ATACseqQC": [
     "ChIPpeakAnno"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
@@ -124,7 +122,6 @@
   "REDseq": [
     "ChIPpeakAnno"
   ],
-  "REMP": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
     "RNAmodR"
@@ -172,7 +169,6 @@
   "YAPSA": [
     "SomaticSignatures"
   ],
-  "ZygosityPredictor": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -232,21 +228,16 @@
   "dmrseq": [
     "annotatr"
   ],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "epimutacions": [],
   "epiregulon": [
-    "scran",
-    "motifmatchr"
+    "scran"
   ],
   "epiregulon.extra": [
     "scran"
   ],
   "epivizrStandalone": [],
-  "esATAC": [
-    "motifmatchr"
-  ],
+  "esATAC": [],
   "ffpe": [
     "lumi"
   ],
@@ -277,7 +268,6 @@
   "missMethyl": [],
   "mitoClone2": [],
   "motifbreakR": [],
-  "motifmatchr": [],
   "msImpute": [
     "scran"
   ],
@@ -287,9 +277,7 @@
   ],
   "musicatk": [],
   "octad": [],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "pipeComp": [
     "scran"
   ],
@@ -338,8 +326,7 @@
     "lumi"
   ],
   "spatzie": [
-    "GenomicInteractions",
-    "motifmatchr"
+    "GenomicInteractions"
   ],
   "srnadiff": [],
   "standR": [],
