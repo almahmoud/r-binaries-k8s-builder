@@ -41,7 +41,6 @@
   "CBNplot": [],
   "CNEr": [],
   "CNVfilteR": [],
-  "CNViz": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -200,7 +199,6 @@
     "annotatr"
   ],
   "cageminer": [],
-  "canceR": [],
   "cardelino": [],
   "celda": [
     "scran"
