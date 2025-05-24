@@ -1894,3 +1894,9 @@ CTexploreR
 NoRCE
 projectR
 TSCAN
+atena
+ChIPXpress
+DNAfusion
+gINTomics
+ReducedExperiment
+rmspc

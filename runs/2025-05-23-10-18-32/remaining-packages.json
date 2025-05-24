@@ -130,7 +130,6 @@
     "VariantAnnotation"
   ],
   "ChIPComp": [],
-  "ChIPXpress": [],
   "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
@@ -173,7 +172,6 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DNAfusion": [],
   "DaMiRseq": [
     "EDASeq"
   ],
@@ -479,7 +477,6 @@
     "VariantAnnotation"
   ],
   "RbowtieCuda": [],
-  "ReducedExperiment": [],
   "RegionalST": [
     "BayesSpace",
     "scran"
@@ -673,7 +670,6 @@
     "bumphunter"
   ],
   "atSNP": [],
-  "atena": [],
   "bandle": [],
   "batchelor": [],
   "benchdamic": [],
@@ -928,7 +924,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "gINTomics": [],
   "genoCN": [],
   "geomeTriD": [
     "trackViewer",
@@ -1180,7 +1175,6 @@
     "EDASeq",
     "RUVSeq"
   ],
-  "rmspc": [],
   "rnaEditr": [
     "bumphunter"
   ],
