@@ -188,7 +188,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COCOA": [],
   "CODEX": [],
   "COTAN": [],
   "CRISPRball": [
@@ -337,7 +336,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "DeMixT": [],
   "DeconvoBuddies": [
     "scran",
     "scuttle",
@@ -1721,7 +1719,6 @@
   ],
   "escheR": [],
   "evaluomeR": [],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -1904,7 +1901,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "kissDE": [],
   "lefser": [
     "mia",
     "TreeSummarizedExperiment",

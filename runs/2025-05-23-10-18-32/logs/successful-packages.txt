@@ -1571,3 +1571,7 @@ roar
 syntenet
 terapadog
 vidger
+COCOA
+DeMixT
+extraChIPs
+kissDE
