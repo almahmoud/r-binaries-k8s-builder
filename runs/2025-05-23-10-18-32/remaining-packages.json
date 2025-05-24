@@ -144,7 +144,6 @@
   "CRISPRseek": [],
   "CSSQ": [],
   "CTexploreR": [],
-  "CellBench": [],
   "CexoR": [],
   "ChAMP": [
     "minfi",
@@ -438,9 +437,7 @@
     "lumi"
   ],
   "MEDIPS": [],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -473,7 +470,6 @@
     "EpiMix"
   ],
   "MotifDb": [],
-  "MotifPeeker": [],
   "MungeSumstats": [
     "VariantAnnotation"
   ],
@@ -1042,9 +1038,7 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
   ],
@@ -1208,7 +1202,6 @@
     "VariantAnnotation"
   ],
   "hypeR": [],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -1223,8 +1216,7 @@
     "txdbmaker"
   ],
   "iSEEtree": [
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "icetea": [
     "VariantAnnotation"
@@ -1254,9 +1246,7 @@
   "katdetectr": [
     "VariantAnnotation"
   ],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lineagespot": [
     "VariantAnnotation"
   ],
@@ -1326,15 +1316,11 @@
     "bumphunter"
   ],
   "miQC": [],
-  "mia": [],
   "miaDash": [
     "iSEEtree",
-    "mia",
     "miaViz"
   ],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1684,11 +1670,9 @@
     "slingshot"
   ],
   "transcriptR": [],
-  "transformGamPoi": [],
   "transmogR": [
     "VariantAnnotation"
   ],
-  "tricycle": [],
   "trigger": [],
   "txcutr": [
     "txdbmaker"

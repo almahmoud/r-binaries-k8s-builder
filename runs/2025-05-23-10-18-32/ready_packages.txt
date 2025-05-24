@@ -1,4 +1,4 @@
-CexoR
-cytofQC
-fCCAC
-spillR
+MGnifyR
+dar
+lefser
+miaViz
