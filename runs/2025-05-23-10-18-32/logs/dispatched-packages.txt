@@ -1835,3 +1835,8 @@ tidyomics
 TENET
 iSEEu
 msmsTests
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

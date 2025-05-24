@@ -1612,3 +1612,10 @@ cellity
 evaluomeR
 qPLEXanalyzer
 topdownr
+ISLET
+mariner
+omicsPrint
+Rbec
+synapter
+tidyomics
+xcms

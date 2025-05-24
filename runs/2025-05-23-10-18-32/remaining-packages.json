@@ -150,9 +150,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CARDspa": [],
   "CATALYST": [
     "scater",
@@ -583,10 +581,8 @@
     "GenomicFeatures"
   ],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
-  "ISLET": [],
   "ITALICS": [],
   "IVAS": [
     "GenomicFeatures"
@@ -608,7 +604,6 @@
     "ensembldb"
   ],
   "LOBSTAHS": [
-    "xcms",
     "CAMERA"
   ],
   "M3Drop": [
@@ -627,8 +622,7 @@
     "bumphunter"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MEAL": [
     "minfi",
@@ -919,7 +913,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Rbec": [],
   "RbowtieCuda": [],
   "ReducedExperiment": [],
   "RegionalST": [
@@ -1412,9 +1405,7 @@
     "qpgraph",
     "GenomicFeatures"
   ],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clustSIGNAL": [
     "scater",
     "scuttle"
@@ -1465,9 +1456,7 @@
     "GenomicFeatures"
   ],
   "corral": [],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "cpvSNP": [
     "GenomicFeatures"
   ],
@@ -1714,7 +1703,6 @@
   ],
   "fishpond": [],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "frma": [],
@@ -1912,7 +1900,6 @@
     "GenomicFeatures",
     "TRESS"
   ],
-  "mariner": [],
   "maser": [
     "Gviz",
     "GenomicFeatures",
@@ -1923,8 +1910,7 @@
   "mastR": [],
   "mbkmeans": [],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metagene2": [],
   "metaseqR2": [
@@ -2085,9 +2071,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "nearBynding": [
     "GenomicFeatures"
   ],
@@ -2105,7 +2089,6 @@
     "GSVA",
     "GenomicFeatures"
   ],
-  "omicsPrint": [],
   "oppar": [
     "GSVA"
   ],
@@ -2504,9 +2487,7 @@
     "nnSVG",
     "scuttle"
   ],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",
@@ -2534,7 +2515,6 @@
     "GenomicFeatures"
   ],
   "switchde": [],
-  "synapter": [],
   "tLOH": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2553,7 +2533,6 @@
   ],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
-  "tidyomics": [],
   "tigre": [],
   "tpSVG": [],
   "trackViewer": [
@@ -2645,7 +2624,6 @@
     "GenomicFeatures"
   ],
   "xCell2": [],
-  "xcms": [],
   "xenLite": [],
   "yarn": [
     "quantro",
