@@ -156,7 +156,6 @@
   ],
   "FRASER": [],
   "FindIT2": [],
-  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq",
     "EDASeq"
@@ -165,7 +164,6 @@
     "cBioPortalData"
   ],
   "GRaNIE": [],
-  "GSReg": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -339,7 +337,6 @@
   "RgnTX": [
     "regioneR"
   ],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
     "biovizBase"
@@ -861,7 +858,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "scoreInvHap": [],
   "scp": [],
   "scran": [],
   "scruff": [
@@ -871,7 +867,6 @@
   "segmenter": [],
   "selectKSigs": [],
   "seqArchRplus": [],
-  "seqCAT": [],
   "sevenC": [],
   "shinyDSP": [
     "standR",
@@ -925,7 +920,6 @@
   "svaRetro": [
     "StructuralVariantAnnotation"
   ],
-  "tLOH": [],
   "tadar": [
     "Gviz",
     "biovizBase"

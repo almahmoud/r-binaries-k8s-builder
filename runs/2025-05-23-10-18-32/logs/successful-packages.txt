@@ -1950,3 +1950,9 @@ BatchSVG
 lineagespot
 myvariant
 rnaEditr
+GA4GHshiny
+GSReg
+RiboDiPA
+scoreInvHap
+seqCAT
+tLOH
