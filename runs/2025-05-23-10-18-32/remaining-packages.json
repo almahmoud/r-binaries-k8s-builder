@@ -4,15 +4,12 @@
   "AgiMicroRna": [
     "affycoretools"
   ],
-  "AllelicImbalance": [],
   "AneuFinder": [],
   "BASiCS": [],
   "BASiCStan": [
     "BASiCS"
   ],
-  "BatchQC": [],
   "BayesSpace": [],
-  "BioTIP": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -103,8 +100,6 @@
   "decontX": [
     "celda"
   ],
-  "deconvR": [],
-  "derfinderPlot": [],
   "enhancerHomologSearch": [],
   "epimutacions": [],
   "epiregulon": [],
@@ -123,7 +118,6 @@
     "missMethyl"
   ],
   "missMethyl": [],
-  "motifbreakR": [],
   "msImpute": [],
   "msgbsR": [],
   "mumosa": [],

@@ -2192,3 +2192,9 @@ intansv
 MethylAid
 scruff
 Ularcirc
+AllelicImbalance
+BatchQC
+BioTIP
+deconvR
+derfinderPlot
+motifbreakR
