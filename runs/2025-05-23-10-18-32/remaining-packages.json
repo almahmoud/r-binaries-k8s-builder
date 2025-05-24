@@ -40,7 +40,6 @@
   ],
   "CBNplot": [],
   "CNEr": [],
-  "CNVfilteR": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -90,7 +89,6 @@
   ],
   "HilbertVisGUI": [],
   "IsoformSwitchAnalyzeR": [],
-  "MADSEQ": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -165,7 +163,6 @@
   "Spaniel": [
     "scran"
   ],
-  "SplicingGraphs": [],
   "SpotClean": [],
   "StructuralVariantAnnotation": [],
   "TVTB": [],
@@ -182,7 +179,6 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "alabaster": [],
   "alabaster.sfe": [],
   "annotatr": [],
   "arrayMvout": [
@@ -192,14 +188,12 @@
     "wateRmelon",
     "lumi"
   ],
-  "bioCancer": [],
   "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr"
   ],
   "cageminer": [],
-  "cardelino": [],
   "celda": [
     "scran"
   ],

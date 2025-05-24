@@ -2117,3 +2117,9 @@ conumee
 scPipe
 canceR
 CNViz
+alabaster
+bioCancer
+cardelino
+CNVfilteR
+MADSEQ
+SplicingGraphs
