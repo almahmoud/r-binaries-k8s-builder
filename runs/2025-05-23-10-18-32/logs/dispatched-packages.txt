@@ -2125,3 +2125,9 @@ recount
 regionReport
 rgsepd
 alabaster.spatial
+ChIPpeakAnno
+RgnTX
+SpotSweeper
+UMI4Cats
+annotatr
+regioneReloaded
