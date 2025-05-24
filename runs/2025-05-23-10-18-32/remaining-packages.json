@@ -240,7 +240,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "CoGAPS": [],
   "Cogito": [
     "GenomicFeatures"
   ],
@@ -513,7 +512,6 @@
     "GenomicFeatures"
   ],
   "IPO": [],
-  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures"
   ],
@@ -617,7 +615,6 @@
   ],
   "MotifDb": [],
   "MotifPeeker": [],
-  "MuData": [],
   "MungeSumstats": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1562,7 +1559,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "hiReadsProcessor": [],
   "hypeR": [],
   "iCNV": [],
   "iCheck": [
@@ -1949,7 +1945,6 @@
   "scCB2": [
     "DropletUtils"
   ],
-  "scClassify": [],
   "scDD": [
     "scran"
   ],

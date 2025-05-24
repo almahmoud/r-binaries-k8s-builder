@@ -1778,3 +1778,8 @@ zitools
 GDCRNATools
 MoleculeExperiment
 VanillaICE
+CoGAPS
+hiReadsProcessor
+ITALICS
+MuData
+scClassify
