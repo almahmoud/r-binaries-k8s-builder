@@ -727,7 +727,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "scp": [],
   "scran": [],
   "scruff": [
     "ggbio",
@@ -744,7 +743,6 @@
   ],
   "shinyMethyl": [],
   "shinyepico": [],
-  "signifinder": [],
   "singleCellTK": [
     "batchelor",
     "scMerge",

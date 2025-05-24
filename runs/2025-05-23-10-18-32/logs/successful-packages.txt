@@ -1991,3 +1991,5 @@ glmSparseNet
 regioneR
 corral
 TAPseq
+scp
+signifinder
