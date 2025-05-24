@@ -1999,3 +1999,9 @@ batchelor
 fastLiquidAssociation
 mosdef
 wavClusteR
+cytofQC
+MGnifyR
+recount
+regionReport
+SMITE
+spillR

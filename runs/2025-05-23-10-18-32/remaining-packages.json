@@ -199,7 +199,6 @@
     "methylumi",
     "lumi"
   ],
-  "MGnifyR": [],
   "MOSClip": [],
   "MOSim": [
     "scran"
@@ -259,9 +258,7 @@
   "RESOLVE": [
     "MutationalPatterns"
   ],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RNAmodR": [
     "Gviz",
     "biovizBase"
@@ -304,14 +301,11 @@
   "RnBeads": [
     "methylumi"
   ],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "Rqc": [
     "biovizBase"
   ],
   "SARC": [],
-  "SMITE": [],
   "SNPhood": [],
   "SOMNiBUS": [
     "annotatr"
@@ -490,7 +484,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "cytofQC": [],
   "cytoviewer": [],
   "dagLogo": [],
   "dar": [],
@@ -649,15 +642,11 @@
   "profileplyr": [
     "rGREAT"
   ],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "quantro": [],
   "rGADEM": [],
   "rGREAT": [],
-  "recount": [],
   "recountmethylation": [],
-  "regionReport": [],
   "regioneReloaded": [],
   "regutools": [
     "Gviz",
@@ -744,7 +733,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "spillR": [],
   "splatter": [],
   "srnadiff": [
     "Gviz",
