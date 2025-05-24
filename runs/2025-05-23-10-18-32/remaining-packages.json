@@ -441,7 +441,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "GeneBreak": [],
   "GeneStructureTools": [
     "Gviz",
     "GenomicFeatures",
@@ -971,7 +970,6 @@
   "TAPseq": [
     "GenomicFeatures"
   ],
-  "TBSignatureProfiler": [],
   "TCGAutils": [
     "GenomicFeatures"
   ],
@@ -1537,7 +1535,6 @@
   "geneAttribution": [
     "GenomicFeatures"
   ],
-  "geneXtendeR": [],
   "genoCN": [],
   "genomation": [],
   "geomeTriD": [
@@ -1843,7 +1840,6 @@
     "EDASeq",
     "GenomicFeatures"
   ],
-  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"

@@ -1745,3 +1745,7 @@ dandelionR
 Glimma
 qsea
 VaSP
+GeneBreak
+geneXtendeR
+oppar
+TBSignatureProfiler
