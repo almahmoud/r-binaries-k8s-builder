@@ -1619,3 +1619,10 @@ Rbec
 synapter
 tidyomics
 xcms
+epidecodeR
+Prostar
+scDDboost
+scMET
+smoppix
+TENET
+tigre

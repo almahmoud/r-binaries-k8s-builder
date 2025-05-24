@@ -788,7 +788,6 @@
   "PharmacoGx": [],
   "PhenStat": [],
   "Pigengene": [],
-  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation"
@@ -1089,7 +1088,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TENET": [],
   "TFBSTools": [],
   "TFEA.ChIP": [
     "GenomicFeatures"
@@ -1608,7 +1606,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epigraHMM": [
     "GreyListChIP"
   ],
@@ -2260,7 +2257,6 @@
     "scran",
     "scuttle"
   ],
-  "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [
     "scran",
@@ -2282,7 +2278,6 @@
   ],
   "scGPS": [],
   "scHOT": [],
-  "scMET": [],
   "scMerge": [
     "M3Drop",
     "scater",
@@ -2449,7 +2444,6 @@
   "slalom": [],
   "slingshot": [],
   "smoothclust": [],
-  "smoppix": [],
   "soGGi": [],
   "sosta": [],
   "spaSim": [],
@@ -2533,7 +2527,6 @@
   ],
   "tidyCoverage": [],
   "tidySpatialExperiment": [],
-  "tigre": [],
   "tpSVG": [],
   "trackViewer": [
     "GenomicFeatures",
