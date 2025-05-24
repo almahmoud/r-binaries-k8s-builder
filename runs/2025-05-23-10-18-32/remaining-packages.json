@@ -338,11 +338,8 @@
   "epiregulon.extra": [
     "scran"
   ],
-  "epivizr": [],
   "epivizrChart": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
+  "epivizrStandalone": [],
   "esATAC": [
     "motifmatchr"
   ],
@@ -423,7 +420,6 @@
   "psichomics": [],
   "rGADEM": [],
   "rGREAT": [],
-  "recountmethylation": [],
   "regioneReloaded": [],
   "regutools": [],
   "ribosomeProfilingQC": [
@@ -433,7 +429,6 @@
   "saseR": [
     "ASpli"
   ],
-  "scBFA": [],
   "scCB2": [
     "DropletUtils"
   ],
@@ -455,7 +450,6 @@
   ],
   "scRNAseqApp": [],
   "scTreeViz": [
-    "epivizr",
     "scran"
   ],
   "sccomp": [],

@@ -2065,3 +2065,6 @@ ggbio
 quantro
 scDataviz
 shinyMethyl
+epivizr
+recountmethylation
+scBFA
