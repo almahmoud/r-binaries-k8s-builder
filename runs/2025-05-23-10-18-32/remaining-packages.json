@@ -422,7 +422,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "GOTHiC": [],
   "GRaNIE": [
     "ensembldb",
     "GenomicFeatures"
@@ -1151,7 +1150,6 @@
   "bedbaser": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
-    "zinbwave",
     "maaslin3"
   ],
   "bigmelon": [
@@ -1285,7 +1283,6 @@
     "scater"
   ],
   "clusterExperiment": [
-    "zinbwave",
     "mbkmeans"
   ],
   "cn.farms": [],
@@ -1874,7 +1871,6 @@
   "netSmooth": [
     "scater",
     "clusterExperiment",
-    "zinbwave",
     "mbkmeans"
   ],
   "octad": [
@@ -1925,7 +1921,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT"
@@ -2021,9 +2016,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scBFA": [
-    "zinbwave"
-  ],
+  "scBFA": [],
   "scCB2": [
     "DropletUtils"
   ],
@@ -2160,7 +2153,6 @@
     "scran",
     "celda",
     "DropletUtils",
-    "zinbwave",
     "scDblFinder",
     "TSCAN",
     "GenomicFeatures",
@@ -2182,8 +2174,6 @@
   "slalom": [],
   "slingshot": [],
   "smoothclust": [],
-  "soGGi": [],
-  "sparrow": [],
   "spatialHeatmap": [],
   "spatialSimGP": [],
   "spatzie": [
@@ -2203,7 +2193,6 @@
     "scater"
   ],
   "splatter": [],
-  "spoon": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",
@@ -2335,6 +2324,5 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "zinbwave": [],
   "zitools": []
 }

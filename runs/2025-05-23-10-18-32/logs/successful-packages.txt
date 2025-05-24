@@ -1728,3 +1728,8 @@ waddR
 blacksheepr
 IdeoViz
 MethylSeekR
+GOTHiC
+soGGi
+sparrow
+spoon
+zinbwave
