@@ -293,8 +293,7 @@
   ],
   "ExperimentSubset": [],
   "FEAST": [
-    "TSCAN",
-    "SC3"
+    "TSCAN"
   ],
   "FLAMES": [
     "bambu",
@@ -420,7 +419,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "LOBSTAHS": [],
   "M3Drop": [],
   "MADSEQ": [
     "VariantAnnotation"
@@ -700,7 +698,6 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SC3": [],
   "SCnorm": [],
   "SGSeq": [],
   "SMITE": [
@@ -1192,7 +1189,6 @@
     "minfi",
     "bumphunter"
   ],
-  "flagme": [],
   "funtooNorm": [
     "minfi",
     "bumphunter"
@@ -1201,10 +1197,7 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "gDR": [
-    "gDRimport"
-  ],
-  "gDRimport": [],
+  "gDR": [],
   "gINTomics": [],
   "geneAttribution": [],
   "genoCN": [],
@@ -1679,7 +1672,6 @@
     "lumi"
   ],
   "slingshot": [],
-  "smoothclust": [],
   "spatialHeatmap": [],
   "spatzie": [
     "GenomicInteractions",

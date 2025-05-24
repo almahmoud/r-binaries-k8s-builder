@@ -1793,3 +1793,8 @@ DESpace
 ILoReg
 MMDiff2
 Xeva
+flagme
+gDRimport
+LOBSTAHS
+SC3
+smoothclust
