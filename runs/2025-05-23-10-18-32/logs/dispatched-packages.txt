@@ -2244,3 +2244,6 @@ svaRetro
 RNAmodR.AlkAnilineSeq
 RNAmodR.ML
 RNAmodR.RiboMethSeq
+compEpiTools
+crisprShiny
+crisprVerse

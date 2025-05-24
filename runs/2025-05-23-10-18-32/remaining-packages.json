@@ -94,7 +94,6 @@
     "ATACseqQC"
   ],
   "NormqPCR": [],
-  "OGRE": [],
   "PICS": [],
   "PING": [
     "PICS"
@@ -172,17 +171,10 @@
   ],
   "cisPath": [],
   "cn.farms": [],
-  "compEpiTools": [
-    "methylPipe"
-  ],
+  "compEpiTools": [],
   "consensusDE": [],
-  "crisprShiny": [
-    "crisprViz"
-  ],
-  "crisprVerse": [
-    "crisprViz"
-  ],
-  "crisprViz": [],
+  "crisprShiny": [],
+  "crisprVerse": [],
   "decontX": [
     "celda",
     "scran"
@@ -227,7 +219,6 @@
   "methylGSA": [
     "missMethyl"
   ],
-  "methylPipe": [],
   "missMethyl": [],
   "mitoClone2": [],
   "motifbreakR": [],
@@ -247,7 +238,6 @@
   "primirTSS": [],
   "profileplyr": [],
   "rGADEM": [],
-  "regutools": [],
   "ribosomeProfilingQC": [],
   "saseR": [
     "ASpli"

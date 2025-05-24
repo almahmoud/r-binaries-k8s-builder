@@ -2149,3 +2149,7 @@ comapr
 cummeRbund
 chimeraviz
 maser
+crisprViz
+methylPipe
+OGRE
+regutools
