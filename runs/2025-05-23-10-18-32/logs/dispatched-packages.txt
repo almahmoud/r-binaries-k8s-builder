@@ -2138,3 +2138,7 @@ RNAAgeCalc
 RnaSeqSampleSize
 psichomics
 GeDi
+OMICsPCA
+condiments
+scRNAseqApp
+tradeSeq

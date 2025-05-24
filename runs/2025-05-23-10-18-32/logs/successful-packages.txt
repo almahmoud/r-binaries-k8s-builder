@@ -2028,3 +2028,7 @@ selectKSigs
 seqArchRplus
 splatter
 TFEA.ChIP
+HelloRanges
+lisaClust
+slingshot
+velociraptor
