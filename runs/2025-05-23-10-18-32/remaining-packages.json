@@ -76,9 +76,7 @@
     "missMethyl",
     "methylumi"
   ],
-  "DaMiRseq": [
-    "EDASeq"
-  ],
+  "DaMiRseq": [],
   "Damsel": [],
   "DeconvoBuddies": [
     "scran"
@@ -88,7 +86,6 @@
   ],
   "DropletUtils": [],
   "DuplexDiscovereR": [],
-  "EDASeq": [],
   "ELMER": [],
   "ENmix": [],
   "EpiCompare": [],
@@ -99,8 +96,7 @@
   ],
   "FRASER": [],
   "GARS": [
-    "DaMiRseq",
-    "EDASeq"
+    "DaMiRseq"
   ],
   "GNOSIS": [
     "cBioPortalData"
@@ -161,7 +157,6 @@
   ],
   "PhenStat": [],
   "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [],
   "R3CPET": [],
   "RAIDS": [],
@@ -183,9 +178,7 @@
   "RNAmodR.RiboMethSeq": [
     "RNAmodR"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RbowtieCuda": [],
   "RegionalST": [
     "BayesSpace",
@@ -306,7 +299,6 @@
   ],
   "condiments": [],
   "consensusDE": [
-    "EDASeq",
     "RUVSeq"
   ],
   "conumee": [],
@@ -370,13 +362,10 @@
   ],
   "mCSEA": [],
   "maser": [],
-  "metaseqR2": [
-    "EDASeq"
-  ],
+  "metaseqR2": [],
   "methodical": [
     "annotatr"
   ],
-  "methylCC": [],
   "methylGSA": [
     "missMethyl",
     "methylumi"
@@ -404,8 +393,7 @@
   "musicatk": [],
   "netSmooth": [],
   "octad": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "pageRank": [
     "motifmatchr"
@@ -423,7 +411,6 @@
   "regioneReloaded": [],
   "regutools": [],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "RUVSeq"
   ],
   "saseR": [
@@ -452,20 +439,17 @@
   "scTreeViz": [
     "scran"
   ],
-  "sccomp": [],
   "scmeth": [
     "annotatr"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scran": [],
   "scruff": [],
   "shinyDSP": [
     "standR",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "shinyepico": [],
   "singleCellTK": [
@@ -486,8 +470,7 @@
   ],
   "srnadiff": [],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "svaNUMT": [
     "StructuralVariantAnnotation"

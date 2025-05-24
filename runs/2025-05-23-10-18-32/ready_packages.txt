@@ -1,1 +1,3 @@
-epivizrStandalone
+DaMiRseq
+RUVSeq
+metaseqR2

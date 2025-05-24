@@ -2068,3 +2068,7 @@ shinyMethyl
 epivizr
 recountmethylation
 scBFA
+EDASeq
+methylCC
+PureCN
+sccomp

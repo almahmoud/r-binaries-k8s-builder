@@ -2196,3 +2196,6 @@ msgbsR
 scruff
 yarn
 epivizrStandalone
+DaMiRseq
+RUVSeq
+metaseqR2
