@@ -2134,3 +2134,10 @@ ZygosityPredictor
 ChIPpeakAnno
 RnaSeqSampleSize
 tradeSeq
+CBNplot
+GeDi
+GenomicInteractions
+SingleMoleculeFootprinting
+SPLINTER
+StructuralVariantAnnotation
+VariantTools

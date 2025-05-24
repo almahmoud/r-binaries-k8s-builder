@@ -1,5 +1,5 @@
-ATACseqQC
-DEScan2
-GUIDEseq
-REDseq
-vulcan
+CAGEfightR
+HiCDCPlus
+spatzie
+svaNUMT
+svaRetro

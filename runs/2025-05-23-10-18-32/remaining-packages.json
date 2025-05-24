@@ -26,14 +26,10 @@
     "scran"
   ],
   "CAFE": [],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
-  "CBNplot": [],
   "CNEr": [],
   "ChAMP": [
     "DMRcate",
@@ -68,14 +64,10 @@
   "FRASER": [],
   "GARS": [],
   "GUIDEseq": [],
-  "GeDi": [],
   "GeneStructureTools": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [],
   "Harshlight": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "HilbertVisGUI": [],
   "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
@@ -134,11 +126,9 @@
   "SOMNiBUS": [
     "annotatr"
   ],
-  "SPLINTER": [],
   "SingleCellSignalR": [
     "scran"
   ],
-  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
   "SpaNorm": [
     "scran"
@@ -147,12 +137,10 @@
     "scran"
   ],
   "SpotClean": [],
-  "StructuralVariantAnnotation": [],
   "TVTB": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "VariantFiltering": [],
-  "VariantTools": [],
   "Voyager": [],
   "XNAString": [],
   "YAPSA": [
@@ -314,17 +302,11 @@
     "wateRmelon",
     "lumi"
   ],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "srnadiff": [],
   "standR": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tadar": [],
   "trackViewer": [],
   "trigger": [],
