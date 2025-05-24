@@ -321,7 +321,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChromHeatMap": [],
   "ChromSCape": [
     "batchelor",
     "scran",
@@ -496,7 +495,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "ERSSA": [],
   "EWCE": [],
   "EasyCellType": [],
   "EnrichDO": [],
@@ -717,7 +715,6 @@
   "HoloFoodR": [
     "TreeSummarizedExperiment"
   ],
-  "IFAA": [],
   "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1740,7 +1737,6 @@
     "plyranges",
     "BSgenome"
   ],
-  "cfTools": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",

@@ -1472,3 +1472,7 @@ DMCFB
 EpipwR
 PhyloProfile
 systemPipeR
+cfTools
+ChromHeatMap
+ERSSA
+IFAA
