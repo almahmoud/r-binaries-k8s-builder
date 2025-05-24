@@ -1455,3 +1455,12 @@ miRLAB
 nucleR
 RSVSim
 segmentSeq
+BloodGen3Module
+chipseq
+dada2
+easier
+easyRNASeq
+girafe
+microbiomeExplorer
+orthos
+PROPS

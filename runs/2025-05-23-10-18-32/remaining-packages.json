@@ -143,7 +143,6 @@
     "scuttle"
   ],
   "BiocHubsShiny": [],
-  "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicFeatures",
@@ -298,7 +297,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures",
     "systemPipeR",
     "GreyListChIP",
@@ -1010,7 +1008,6 @@
   "PRONE": [
     "MSnbase"
   ],
-  "PROPS": [],
   "PanomiR": [],
   "PharmacoGx": [],
   "PhenStat": [],
@@ -1174,9 +1171,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RbowtieCuda": [],
   "ReducedExperiment": [],
   "RegionalST": [
@@ -1793,7 +1788,6 @@
     "VariantAnnotation"
   ],
   "chipenrich": [],
-  "chipseq": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome"
@@ -1977,7 +1971,6 @@
     "cytomapper",
     "SpatialExperiment"
   ],
-  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -2075,8 +2068,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easier": [],
-  "easyRNASeq": [],
   "easylift": [],
   "enhancerHomologSearch": [
     "BSgenome",
@@ -2256,7 +2247,6 @@
   "ggspavis": [
     "SpatialExperiment"
   ],
-  "girafe": [],
   "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2573,7 +2563,6 @@
   "microSTASIS": [
     "TreeSummarizedExperiment"
   ],
-  "microbiomeExplorer": [],
   "miloR": [],
   "mimager": [],
   "minfi": [
@@ -2628,7 +2617,6 @@
   ],
   "msgbsR": [
     "BSgenome",
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "biovizBase",
@@ -2717,7 +2705,6 @@
     "GSVA",
     "SpatialExperiment"
   ],
-  "orthos": [],
   "pRoloc": [
     "MSnbase"
   ],
@@ -2804,8 +2791,7 @@
     "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
-    "rGREAT",
-    "chipseq"
+    "rGREAT"
   ],
   "projectR": [],
   "psichomics": [
@@ -3159,9 +3145,7 @@
   "smoppix": [
     "SpatialExperiment"
   ],
-  "soGGi": [
-    "chipseq"
-  ],
+  "soGGi": [],
   "sosta": [
     "SpatialExperiment"
   ],
@@ -3310,7 +3294,6 @@
     "TrajectoryUtils"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures"
   ],
   "transformGamPoi": [
