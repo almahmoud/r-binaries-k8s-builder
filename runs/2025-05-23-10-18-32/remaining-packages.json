@@ -230,7 +230,6 @@
     "scuttle"
   ],
   "CellScore": [],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -445,7 +444,6 @@
   "EWCE": [],
   "EasyCellType": [],
   "EnrichDO": [],
-  "EnrichmentBrowser": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -528,9 +526,7 @@
     "GenomicFeatures"
   ],
   "GRmetrics": [],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GSEABenchmarkeR": [],
   "GSReg": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -1238,7 +1234,6 @@
   "TENET": [
     "sesame"
   ],
-  "TENxIO": [],
   "TFBSTools": [],
   "TFEA.ChIP": [
     "GenomicFeatures"
@@ -1298,7 +1293,6 @@
     "GenomicFiles",
     "GenomicFeatures"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown"
   ],
@@ -1319,7 +1313,6 @@
     "GenomicFeatures"
   ],
   "VisiumIO": [
-    "TENxIO",
     "SpatialExperiment"
   ],
   "Voyager": [
@@ -1330,7 +1323,6 @@
   ],
   "XNAString": [],
   "XeniumIO": [
-    "TENxIO",
     "SpatialExperiment",
     "VisiumIO"
   ],
@@ -1605,7 +1597,6 @@
     "zinbwave",
     "mbkmeans"
   ],
-  "clustifyr": [],
   "cn.farms": [],
   "coMethDMR": [
     "bumphunter",
@@ -1811,8 +1802,7 @@
     "GenomicFeatures"
   ],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "drugTargetInteractions": [
     "ensembldb",
@@ -3034,8 +3024,7 @@
     "MSnbase"
   ],
   "xenLite": [
-    "SpatialExperiment",
-    "TENxIO"
+    "SpatialExperiment"
   ],
   "yarn": [
     "quantro",
@@ -3044,9 +3033,7 @@
     "GenomicFeatures"
   ],
   "zellkonverter": [],
-  "zenith": [
-    "EnrichmentBrowser"
-  ],
+  "zenith": [],
   "zinbwave": [],
   "zitools": []
 }

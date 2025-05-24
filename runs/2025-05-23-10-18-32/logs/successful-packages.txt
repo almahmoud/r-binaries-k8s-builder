@@ -1496,3 +1496,8 @@ bayNorm
 NewWave
 SPsimSeq
 TrajectoryUtils
+CellTrails
+clustifyr
+EnrichmentBrowser
+TENxIO
+VDJdive
