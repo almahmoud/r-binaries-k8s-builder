@@ -2209,3 +2209,5 @@ MPAC
 SpaNorm
 DeconvoBuddies
 epimutacions
+RnBeads
+Spaniel
