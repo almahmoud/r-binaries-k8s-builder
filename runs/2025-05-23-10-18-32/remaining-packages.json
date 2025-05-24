@@ -151,7 +151,6 @@
     "scran"
   ],
   "MetaboSignal": [],
-  "MethReg": [],
   "MethylAid": [],
   "MineICA": [
     "lumi",
@@ -417,7 +416,6 @@
   "methylPipe": [],
   "methylclock": [],
   "methylumi": [],
-  "miaDash": [],
   "missMethyl": [
     "methylumi"
   ],
@@ -550,7 +548,6 @@
   "visiumStitched": [
     "DropletUtils"
   ],
-  "vtpnet": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],

@@ -2056,3 +2056,6 @@ OMICsPCA
 Rqc
 atSNP
 pRolocGUI
+MethReg
+miaDash
+vtpnet
