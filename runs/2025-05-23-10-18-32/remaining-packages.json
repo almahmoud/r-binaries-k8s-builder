@@ -51,7 +51,6 @@
   ],
   "MOSim": [],
   "MPAC": [],
-  "MethylAid": [],
   "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
@@ -78,7 +77,6 @@
   "SpaNorm": [],
   "Spaniel": [],
   "UMI4Cats": [],
-  "Ularcirc": [],
   "Voyager": [],
   "XNAString": [],
   "affycoretools": [],
@@ -100,7 +98,6 @@
   "cisPath": [],
   "cn.farms": [],
   "compEpiTools": [],
-  "consensusDE": [],
   "crisprShiny": [],
   "crisprVerse": [],
   "decontX": [
@@ -121,7 +118,6 @@
   "graper": [],
   "hypeR": [],
   "iCheck": [],
-  "intansv": [],
   "lute": [],
   "methylGSA": [
     "missMethyl"
@@ -144,7 +140,6 @@
   ],
   "scMerge": [],
   "scTreeViz": [],
-  "scruff": [],
   "shinyDSP": [
     "standR"
   ],
