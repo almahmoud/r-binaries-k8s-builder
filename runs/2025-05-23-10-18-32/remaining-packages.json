@@ -36,7 +36,6 @@
   "BatchQC": [
     "scran"
   ],
-  "BatchSVG": [],
   "BayesSpace": [
     "scran"
   ],
@@ -673,7 +672,6 @@
     "regioneR",
     "biovizBase"
   ],
-  "lineagespot": [],
   "lisaClust": [],
   "lumi": [
     "methylumi",
@@ -755,7 +753,6 @@
   ],
   "musicatk": [],
   "mygene": [],
-  "myvariant": [],
   "netSmooth": [],
   "octad": [
     "RUVSeq",
@@ -817,7 +814,6 @@
     "EDASeq",
     "RUVSeq"
   ],
-  "rnaEditr": [],
   "saseR": [
     "ASpli",
     "Gviz",
