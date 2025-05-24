@@ -1748,3 +1748,6 @@ regioneR
 spiky
 tRNAscanImport
 traseR
+SurfR
+TSCAN
+slingshot

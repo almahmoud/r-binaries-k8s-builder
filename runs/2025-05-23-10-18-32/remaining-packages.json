@@ -11,7 +11,6 @@
     "VariantAnnotation"
   ],
   "APL": [],
-  "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
     "Gviz",
@@ -476,8 +475,7 @@
   ],
   "FEAST": [
     "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "SC3"
   ],
   "FLAMES": [
     "bambu",
@@ -834,7 +832,6 @@
     "bsseq"
   ],
   "Nebulosa": [],
-  "NewWave": [],
   "NoRCE": [
     "GenomicFeatures"
   ],
@@ -1150,7 +1147,6 @@
     "VariantAnnotation"
   ],
   "SPOTlight": [],
-  "SPsimSeq": [],
   "SVP": [
     "SpatialExperiment"
   ],
@@ -1227,9 +1223,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SurfR": [
-    "SPsimSeq"
-  ],
+  "SurfR": [],
   "TAPseq": [
     "GenomicFeatures"
   ],
@@ -1262,9 +1256,7 @@
   "TRESS": [
     "GenomicFeatures"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -1277,7 +1269,6 @@
     "GenomicFeatures"
   ],
   "ToxicoGx": [],
-  "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "UCell": [],
   "UMI4Cats": [
@@ -1427,7 +1418,6 @@
   "atena": [
     "GenomicFeatures"
   ],
-  "attract": [],
   "ballgown": [],
   "bambu": [
     "GenomicFeatures"
@@ -1439,7 +1429,6 @@
   "batchelor": [
     "scuttle"
   ],
-  "bayNorm": [],
   "bedbaser": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
@@ -1642,7 +1631,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle"
@@ -2656,8 +2644,7 @@
   ],
   "scQTLtools": [],
   "scRNAseqApp": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "scReClassify": [],
   "scRepertoire": [],
@@ -2799,7 +2786,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "TrajectoryUtils",
     "scuttle",
     "zellkonverter",
     "GenomicFeatures",
@@ -2820,9 +2806,7 @@
     "lumi"
   ],
   "slalom": [],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -2962,8 +2946,7 @@
     "VariantAnnotation"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "GenomicFeatures"

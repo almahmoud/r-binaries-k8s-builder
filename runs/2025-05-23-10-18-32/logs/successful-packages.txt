@@ -1490,3 +1490,9 @@ HTSFilter
 LoomExperiment
 PDATK
 SiPSiC
+ASURAT
+attract
+bayNorm
+NewWave
+SPsimSeq
+TrajectoryUtils
