@@ -2287,3 +2287,5 @@ scMerge
 scTreeViz
 wateRmelon
 biscuiteer
+RegionalST
+scFeatures

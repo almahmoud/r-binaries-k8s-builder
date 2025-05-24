@@ -2198,3 +2198,8 @@ BioTIP
 deconvR
 derfinderPlot
 motifbreakR
+BayesSpace
+ChromSCape
+CiteFuse
+Dino
+SingleCellSignalR

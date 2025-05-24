@@ -9,7 +9,6 @@
   "BASiCStan": [
     "BASiCS"
   ],
-  "BayesSpace": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -21,14 +20,11 @@
     "missMethyl"
   ],
   "ChIPComp": [],
-  "ChromSCape": [],
-  "CiteFuse": [],
   "DEScan2": [],
   "DMRcate": [
     "missMethyl"
   ],
   "DeconvoBuddies": [],
-  "Dino": [],
   "EpiCompare": [],
   "FLAMES": [],
   "GUIDEseq": [],
@@ -65,12 +61,9 @@
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
-  "RegionalST": [
-    "BayesSpace"
-  ],
+  "RegionalST": [],
   "Repitools": [],
   "RnBeads": [],
-  "SingleCellSignalR": [],
   "SpaNorm": [],
   "Spaniel": [],
   "UMI4Cats": [],
@@ -129,9 +122,7 @@
   "saseR": [],
   "scDD": [],
   "scDblFinder": [],
-  "scFeatures": [
-    "SingleCellSignalR"
-  ],
+  "scFeatures": [],
   "scMerge": [],
   "scTreeViz": [],
   "shinyDSP": [
