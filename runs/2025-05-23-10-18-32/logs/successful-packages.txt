@@ -2185,3 +2185,5 @@ YAPSA
 dmrseq
 methodical
 SOMNiBUS
+scmeth
+scone
