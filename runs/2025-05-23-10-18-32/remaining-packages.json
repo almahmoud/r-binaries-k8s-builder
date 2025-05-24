@@ -772,7 +772,6 @@
   "TitanCNA": [
     "VariantAnnotation"
   ],
-  "ToxicoGx": [],
   "UMI4Cats": [
     "regioneR"
   ],
@@ -1401,7 +1400,6 @@
     "scran",
     "batchelor"
   ],
-  "muscat": [],
   "musicatk": [
     "VariantAnnotation",
     "decompTumor2Sig"
@@ -1592,7 +1590,6 @@
     "ensembldb"
   ],
   "scry": [],
-  "scviR": [],
   "segmenter": [
     "ChIPseeker"
   ],

@@ -1818,3 +1818,6 @@ gDR
 imcRtools
 peco
 SPIAT
+muscat
+scviR
+ToxicoGx
