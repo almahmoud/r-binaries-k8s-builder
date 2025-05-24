@@ -176,7 +176,6 @@
     "biovizBase"
   ],
   "HilbertVisGUI": [],
-  "IMAS": [],
   "INSPEcT": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
@@ -204,7 +203,6 @@
   "MPAC": [
     "scran"
   ],
-  "MSnID": [],
   "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [],
@@ -385,8 +383,6 @@
     "methylumi"
   ],
   "atSNP": [],
-  "bandle": [],
-  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "methylumi",
