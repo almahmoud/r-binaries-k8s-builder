@@ -2081,3 +2081,5 @@ vmrseq
 RiboCrypt
 TFHAZ
 clusterExperiment
+CircSeqAlignTk
+GenomicPlot

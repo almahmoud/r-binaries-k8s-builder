@@ -1912,3 +1912,9 @@ BUSpaRse
 mbkmeans
 ORFik
 xenLite
+CleanUpRNAseq
+EpiTxDb
+MAIT
+miQC
+RCAS
+Rhisat2

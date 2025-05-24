@@ -115,13 +115,10 @@
     "batchelor",
     "scran"
   ],
-  "CircSeqAlignTk": [
-    "Rhisat2"
-  ],
+  "CircSeqAlignTk": [],
   "CiteFuse": [
     "scran"
   ],
-  "CleanUpRNAseq": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -169,7 +166,6 @@
     "minfi"
   ],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "EventPointer": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -231,9 +227,7 @@
     "biovizBase",
     "OrganismDbi"
   ],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "Gviz": [
     "biovizBase"
   ],
@@ -260,7 +254,6 @@
     "methylumi",
     "minfi"
   ],
-  "MAIT": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -339,7 +332,6 @@
   ],
   "R453Plus1Toolbox": [],
   "RAIDS": [],
-  "RCAS": [],
   "REDseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -395,7 +387,6 @@
   "RgnTX": [
     "regioneR"
   ],
-  "Rhisat2": [],
   "RiboCrypt": [],
   "RiboDiPA": [],
   "RiboProfiling": [
@@ -828,7 +819,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miQC": [],
   "miaDash": [
     "iSEEtree"
   ],
