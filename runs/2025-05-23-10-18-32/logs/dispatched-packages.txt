@@ -2248,3 +2248,8 @@ compEpiTools
 crisprShiny
 crisprVerse
 geomeTriD
+SOMNiBUS
+YAPSA
+dmrseq
+methodical
+scmeth

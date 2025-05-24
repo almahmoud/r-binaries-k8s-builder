@@ -2159,3 +2159,9 @@ mitoClone2
 trackViewer
 VariantFiltering
 uncoverappLib
+annotatr
+CAFE
+mCSEA
+RiboProfiling
+SomaticSignatures
+yarn

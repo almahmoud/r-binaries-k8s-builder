@@ -24,7 +24,6 @@
   "BioTIP": [
     "scran"
   ],
-  "CAFE": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -110,15 +109,11 @@
   ],
   "Repitools": [],
   "ReportingTools": [],
-  "RiboProfiling": [],
   "RnBeads": [],
-  "SOMNiBUS": [
-    "annotatr"
-  ],
+  "SOMNiBUS": [],
   "SingleCellSignalR": [
     "scran"
   ],
-  "SomaticSignatures": [],
   "SpaNorm": [
     "scran"
   ],
@@ -130,14 +125,11 @@
   "Ularcirc": [],
   "Voyager": [],
   "XNAString": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affycoretools": [
     "ReportingTools"
   ],
   "alabaster.sfe": [],
-  "annotatr": [],
   "arrayMvout": [
     "lumi"
   ],
@@ -146,8 +138,7 @@
     "lumi"
   ],
   "biscuiteer": [
-    "dmrseq",
-    "annotatr"
+    "dmrseq"
   ],
   "cageminer": [],
   "celda": [
@@ -177,9 +168,7 @@
   ],
   "deconvR": [],
   "derfinderPlot": [],
-  "dmrseq": [
-    "annotatr"
-  ],
+  "dmrseq": [],
   "enhancerHomologSearch": [],
   "epimutacions": [],
   "epiregulon": [
@@ -206,10 +195,7 @@
   "lute": [
     "scran"
   ],
-  "mCSEA": [],
-  "methodical": [
-    "annotatr"
-  ],
+  "methodical": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -252,9 +238,7 @@
   "scTreeViz": [
     "scran"
   ],
-  "scmeth": [
-    "annotatr"
-  ],
+  "scmeth": [],
   "scone": [],
   "scran": [],
   "scruff": [],
@@ -281,6 +265,5 @@
   "vulcan": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
