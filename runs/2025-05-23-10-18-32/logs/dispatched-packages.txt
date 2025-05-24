@@ -1974,3 +1974,6 @@ MGnifyR
 dar
 lefser
 miaViz
+atSNP
+dagLogo
+lisaClust

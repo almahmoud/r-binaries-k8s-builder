@@ -1836,3 +1836,12 @@ tricycle
 CARDspa
 MSstatsQCgui
 scDotPlot
+BgeeDB
+chromVAR
+CuratedAtlasQueryR
+epigraHMM
+ggspavis
+MatrixRider
+motifStack
+SCnorm
+spicyR

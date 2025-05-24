@@ -16,7 +16,6 @@
   ],
   "ATACseqQC": [
     "ChIPpeakAnno",
-    "motifStack",
     "regioneR",
     "ensembldb"
   ],
@@ -80,7 +79,6 @@
   "BgeeCall": [
     "txdbmaker"
   ],
-  "BgeeDB": [],
   "BindingSiteFinder": [],
   "BioTIP": [
     "scran"
@@ -198,7 +196,6 @@
     "biovizBase",
     "ensembldb"
   ],
-  "CuratedAtlasQueryR": [],
   "DAMEfinder": [
     "VariantAnnotation",
     "bumphunter"
@@ -447,7 +444,6 @@
     "scran"
   ],
   "MSnID": [],
-  "MatrixRider": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -478,7 +474,6 @@
     "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno",
-    "motifStack",
     "Gviz",
     "txdbmaker",
     "regioneR",
@@ -568,7 +563,6 @@
     "VariantAnnotation"
   ],
   "RITAN": [
-    "BgeeDB",
     "ensembldb"
   ],
   "RJMCMCNucleosomes": [],
@@ -676,7 +670,6 @@
     "ensembldb"
   ],
   "SARC": [],
-  "SCnorm": [],
   "SGSeq": [],
   "SMITE": [
     "goseq",
@@ -844,9 +837,7 @@
     "minfi",
     "bumphunter"
   ],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "atena": [],
   "bambu": [],
   "bandle": [
@@ -941,7 +932,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "chromVAR": [],
   "cicero": [
     "Gviz",
     "ensembldb",
@@ -1033,9 +1023,7 @@
   ],
   "cytofQC": [],
   "cytoviewer": [],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "dar": [],
   "decompTumor2Sig": [
     "VariantAnnotation"
@@ -1087,7 +1075,6 @@
     "motifmatchr"
   ],
   "ensembldb": [],
-  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1180,7 +1167,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggspavis": [],
   "glmSparseNet": [
     "TCGAutils"
   ],
@@ -1248,9 +1234,7 @@
   "lineagespot": [
     "VariantAnnotation"
   ],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi",
@@ -1336,11 +1320,9 @@
     "goseq",
     "txdbmaker"
   ],
-  "motifStack": [],
   "motifbreakR": [
     "MotifDb",
     "VariantAnnotation",
-    "motifStack",
     "Gviz",
     "ensembldb",
     "biovizBase"
@@ -1478,7 +1460,6 @@
   ],
   "ribosomeProfilingQC": [
     "EDASeq",
-    "motifStack",
     "RUVSeq",
     "txdbmaker"
   ],
@@ -1621,7 +1602,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "spicyR": [],
   "spillR": [],
   "splatter": [],
   "srnadiff": [
