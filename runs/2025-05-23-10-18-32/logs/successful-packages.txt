@@ -2021,3 +2021,10 @@ MSnID
 GeneTonic
 segmenter
 ideal
+igvR
+Moonlight2R
+pcaExplorer
+selectKSigs
+seqArchRplus
+splatter
+TFEA.ChIP

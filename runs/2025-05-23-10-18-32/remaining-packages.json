@@ -207,7 +207,6 @@
     "lumi",
     "methylumi"
   ],
-  "Moonlight2R": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NADfinder": [
@@ -332,7 +331,6 @@
   "SpotClean": [],
   "SpotSweeper": [],
   "StructuralVariantAnnotation": [],
-  "TFEA.ChIP": [],
   "TVTB": [
     "Gviz",
     "biovizBase"
@@ -536,7 +534,6 @@
   ],
   "iNETgrate": [],
   "iSEEtree": [],
-  "igvR": [],
   "intansv": [
     "ggbio",
     "biovizBase"
@@ -615,7 +612,6 @@
   "pageRank": [
     "motifmatchr"
   ],
-  "pcaExplorer": [],
   "pipeComp": [
     "scran"
   ],
@@ -687,8 +683,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "selectKSigs": [],
-  "seqArchRplus": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
@@ -715,7 +709,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "splatter": [],
   "srnadiff": [
     "Gviz",
     "biovizBase"
