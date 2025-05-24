@@ -1,9 +1,6 @@
 {
   "ATACseqQC": [],
-  "ATACseqTFEA": [],
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "AneuFinder": [],
   "BASiCStan": [],
   "CAGEr": [],
@@ -16,7 +13,6 @@
     "missMethyl"
   ],
   "EpiCompare": [],
-  "GUIDEseq": [],
   "GeneStructureTools": [],
   "Harshlight": [],
   "HiCDCPlus": [],
@@ -25,7 +21,6 @@
   "MEAL": [
     "missMethyl"
   ],
-  "MEAT": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -41,7 +36,6 @@
   "RegionalST": [],
   "Repitools": [],
   "XNAString": [],
-  "affycoretools": [],
   "bigmelon": [],
   "biscuiteer": [],
   "chevreulPlot": [],
