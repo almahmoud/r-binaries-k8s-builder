@@ -879,7 +879,6 @@
   "shinyepico": [
     "minfi"
   ],
-  "signeR": [],
   "signifinder": [],
   "singleCellTK": [
     "batchelor",
@@ -932,7 +931,6 @@
   "tradeSeq": [
     "slingshot"
   ],
-  "transmogR": [],
   "trigger": [],
   "txcutr": [],
   "tximeta": [],
@@ -944,7 +942,6 @@
   "visiumStitched": [
     "DropletUtils"
   ],
-  "vmrseq": [],
   "vtpnet": [
     "gwascat"
   ],

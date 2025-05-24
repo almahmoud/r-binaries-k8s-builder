@@ -1956,3 +1956,6 @@ RiboDiPA
 scoreInvHap
 seqCAT
 tLOH
+signeR
+transmogR
+vmrseq
