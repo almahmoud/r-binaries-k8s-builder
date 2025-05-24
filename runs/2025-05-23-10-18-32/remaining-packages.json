@@ -227,7 +227,6 @@
   ],
   "condiments": [],
   "consensusDE": [],
-  "conumee": [],
   "crisprShiny": [
     "crisprViz"
   ],
@@ -328,7 +327,6 @@
   "scMerge": [
     "scran"
   ],
-  "scPipe": [],
   "scRNAseqApp": [],
   "scTreeViz": [
     "scran"

@@ -2113,3 +2113,5 @@ regioneReloaded
 RESOLVE
 SpatialFeatureExperiment
 visiumStitched
+conumee
+scPipe
