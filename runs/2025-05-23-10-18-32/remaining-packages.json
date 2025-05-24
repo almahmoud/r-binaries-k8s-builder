@@ -351,7 +351,6 @@
     "GenomicFeatures"
   ],
   "EasyCellType": [],
-  "EnrichDO": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -428,7 +427,6 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "GRmetrics": [],
   "GSReg": [
     "GenomicFeatures",
     "OrganismDbi",
@@ -715,7 +713,6 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "PanomiR": [],
   "PhenStat": [],
   "Pigengene": [],
   "ProteoDisco": [
@@ -1392,9 +1389,7 @@
   "dagLogo": [
     "motifStack"
   ],
-  "dandelionR": [
-    "destiny"
-  ],
+  "dandelionR": [],
   "dar": [
     "mia",
     "TreeSummarizedExperiment",
@@ -1441,7 +1436,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "destiny": [],
   "diffUTR": [
     "ensembldb",
     "GenomicFeatures"
@@ -1910,7 +1904,6 @@
   "peco": [
     "scater"
   ],
-  "periodicDNA": [],
   "pipeComp": [
     "scran",
     "scater"
@@ -2328,7 +2321,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",

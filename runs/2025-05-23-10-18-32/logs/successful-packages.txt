@@ -1719,3 +1719,9 @@ SpliceWiz
 GSVA
 poem
 scider
+destiny
+EnrichDO
+GRmetrics
+PanomiR
+periodicDNA
+waddR
