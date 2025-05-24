@@ -1979,3 +1979,10 @@ goseq
 rTRMui
 sitadela
 TFutils
+alabaster.sce
+preciseTAD
+proBAMr
+scanMiRApp
+scReClassify
+terraTCGAdata
+XeniumIO

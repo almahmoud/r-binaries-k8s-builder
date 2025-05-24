@@ -1,5 +1,1 @@
-SMITE
-mosdef
-recount
-regionReport
-rgsepd
+alabaster.spatial

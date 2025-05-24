@@ -389,7 +389,6 @@
     "DropletUtils"
   ],
   "XNAString": [],
-  "XeniumIO": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio",
@@ -402,20 +401,15 @@
     "biovizBase"
   ],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf"
   ],
-  "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
-    "alabaster.sce",
     "alabaster.spatial",
     "DropletUtils"
   ],
-  "alabaster.spatial": [
-    "alabaster.sce"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [],
   "annotatr": [
     "regioneR"
@@ -691,13 +685,11 @@
   "pipeComp": [
     "scran"
   ],
-  "preciseTAD": [],
   "primirTSS": [
     "Gviz",
     "biovizBase"
   ],
   "proActiv": [],
-  "proBAMr": [],
   "profileplyr": [
     "rGREAT"
   ],
@@ -753,13 +745,11 @@
   "scRNAseqApp": [
     "slingshot"
   ],
-  "scReClassify": [],
   "scTensor": [],
   "scTreeViz": [
     "epivizr",
     "scran"
   ],
-  "scanMiRApp": [],
   "sccomp": [],
   "scmeth": [
     "annotatr",
@@ -793,8 +783,7 @@
     "scran",
     "celda",
     "DropletUtils",
-    "scDblFinder",
-    "alabaster.sce"
+    "scDblFinder"
   ],
   "skewr": [
     "methylumi",
@@ -828,7 +817,6 @@
     "Gviz",
     "biovizBase"
   ],
-  "terraTCGAdata": [],
   "trackViewer": [
     "Gviz",
     "biovizBase"

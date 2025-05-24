@@ -2124,3 +2124,4 @@ mosdef
 recount
 regionReport
 rgsepd
+alabaster.spatial
