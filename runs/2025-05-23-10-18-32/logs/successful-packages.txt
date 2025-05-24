@@ -1484,3 +1484,9 @@ GloScope
 HIPPO
 MetaNeighbor
 RadioGx
+BSgenome
+HERON
+HTSFilter
+LoomExperiment
+PDATK
+SiPSiC
