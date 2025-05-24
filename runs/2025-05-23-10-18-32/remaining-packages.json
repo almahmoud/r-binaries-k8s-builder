@@ -170,7 +170,6 @@
     "chevreulPlot",
     "scran"
   ],
-  "chimeraviz": [],
   "cisPath": [],
   "cn.farms": [],
   "compEpiTools": [
@@ -222,7 +221,6 @@
     "scran"
   ],
   "mCSEA": [],
-  "maser": [],
   "methodical": [
     "annotatr"
   ],
