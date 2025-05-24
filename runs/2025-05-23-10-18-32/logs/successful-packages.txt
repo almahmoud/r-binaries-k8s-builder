@@ -1749,3 +1749,6 @@ GeneBreak
 geneXtendeR
 oppar
 TBSignatureProfiler
+EasyCellType
+pathMED
+PLSDAbatch

@@ -344,7 +344,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "EasyCellType": [],
   "EpiCompare": [
     "ChIPseeker",
     "genomation",
@@ -694,7 +693,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [],
   "PhenStat": [],
   "Pigengene": [],
   "ProteoDisco": [
@@ -1847,7 +1845,6 @@
   "pageRank": [
     "motifmatchr"
   ],
-  "pathMED": [],
   "pcaExplorer": [
     "mosdef",
     "goseq",
