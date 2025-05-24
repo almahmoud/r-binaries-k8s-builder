@@ -1697,3 +1697,7 @@ CDI
 gg4way
 scds
 SCOPE
+CTSV
+MetaPhOR
+scAnnotatR
+scQTLtools

@@ -12,3 +12,4 @@ trigger
 PICS
 AneuFinder
 CNEr
+XNAString

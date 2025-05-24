@@ -180,7 +180,6 @@
   "CSSQ": [
     "GenomicFeatures"
   ],
-  "CTSV": [],
   "CTexploreR": [],
   "CatsCradle": [],
   "CeTF": [],
@@ -622,7 +621,6 @@
   "MSstatsQCgui": [],
   "MatrixQCvis": [],
   "MatrixRider": [],
-  "MetaPhOR": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -2063,7 +2061,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scBFA": [
     "zinbwave"
   ],
@@ -2098,7 +2095,6 @@
   "scPipe": [
     "DropletUtils"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "slingshot"
   ],

@@ -1,0 +1,90 @@
++ Rscript -e 'Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE);
+  p <- .libPaths();
+  p <- c('\'''\'', '\'''\'', p);
+  .libPaths(p);
+  if(BiocManager::install('\''XNAString'\'', INSTALL_opts = '\''--build'\'', update = TRUE, quiet = FALSE, dependencies=TRUE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)'
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://p3m.dev/cran/__linux__/noble/latest
+Bioconductor version 3.21 (BiocManager 1.30.25), R 4.5.0 (2025-04-11)
+Installing package(s) 'XNAString'
+also installing the dependencies ‘abind’, ‘SparseArray’, ‘formatR’, ‘MatrixGenerics’, ‘Biobase’, ‘S4Arrays’, ‘DelayedArray’, ‘lambda.r’, ‘futile.options’, ‘SummarizedExperiment’, ‘RCurl’, ‘rjson’, ‘futile.logger’, ‘snow’, ‘BH’, ‘generics’, ‘UCSC.utils’, ‘GenomeInfoDbData’, ‘XML’, ‘httr’, ‘GenomicAlignments’, ‘restfulr’, ‘bitops’, ‘BiocParallel’, ‘Rhtslib’, ‘listenv’, ‘parallelly’, ‘BiocGenerics’, ‘XVector’, ‘GenomeInfoDb’, ‘BiocIO’, ‘rtracklayer’, ‘matrixStats’, ‘Rsamtools’, ‘future’, ‘globals’, ‘bookdown’, ‘litedown’, ‘Biostrings’, ‘pwalign’, ‘BSgenome’, ‘data.table’, ‘GenomicRanges’, ‘IRanges’, ‘S4Vectors’, ‘future.apply’, ‘formattable’, ‘BiocStyle’, ‘markdown’, ‘BSgenome.Hsapiens.UCSC.hg38’, ‘pander’
+
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/abind_1.4-8.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SparseArray_1.8.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formatR_1.14.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/MatrixGenerics_1.20.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Biobase_2.68.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/S4Arrays_1.8.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/DelayedArray_0.34.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/lambda.r_1.2.4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.options_1.0.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/SummarizedExperiment_1.38.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/RCurl_1.98-1.17.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/rjson_0.2.23.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/futile.logger_1.4.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/snow_0.4-4.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/BH_1.87.0-1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/UCSC.utils_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/GenomeInfoDbData_1.2.14.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/XML_3.99-0.18.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/httr_1.4.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomicAlignments_1.44.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/restfulr_0.0.15.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bitops_1.0-9.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocParallel_1.42.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Rhtslib_3.4.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/listenv_0.9.1.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/parallelly_1.44.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocGenerics_0.54.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/XVector_0.48.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomeInfoDb_1.44.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocIO_1.18.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/rtracklayer_1.68.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Rsamtools_2.24.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/future_1.49.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/globals_0.18.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/bookdown_0.43.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/litedown_0.7.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/Biostrings_2.76.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/pwalign_1.4.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BSgenome_1.76.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/data.table_1.17.2.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/GenomicRanges_1.60.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/IRanges_2.42.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/S4Vectors_0.46.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/future.apply_1.11.3.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/formattable_0.2.1.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/BiocStyle_2.36.0.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/markdown_2.0.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.5.tar.gz'
+trying URL 'https://p3m.dev/cran/__linux__/noble/latest/src/contrib/pander_0.6.6.tar.gz'
+trying URL 'https://bioconductor.org/packages/3.21/bioc/src/contrib/XNAString_1.15.0.tar.gz'
+* installing *binary* package ‘abind’ ...
+* ‘abind’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘abind’ as ‘abind_1.4-8_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (abind)
+* installing *binary* package ‘formatR’ ...
+* ‘formatR’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘formatR’ as ‘formatR_1.14_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (formatR)
+* installing *binary* package ‘futile.options’ ...
+* ‘futile.options’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘futile.options’ as ‘futile.options_1.0.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (futile.options)
+* installing *binary* package ‘rjson’ ...
+* ‘rjson’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rjson’ as ‘rjson_0.2.23_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rjson)
+* installing *binary* package ‘snow’ ...
+* ‘snow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘snow’ as ‘snow_0.4-4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (snow)
