@@ -12,7 +12,6 @@
     "missMethyl"
   ],
   "EpiCompare": [],
-  "GeneStructureTools": [],
   "Harshlight": [],
   "HilbertVisGUI": [],
   "MAGAR": [],
@@ -30,11 +29,9 @@
   "PhenStat": [],
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
-  "RegionalST": [],
   "Repitools": [],
   "XNAString": [],
   "bigmelon": [],
-  "biscuiteer": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"

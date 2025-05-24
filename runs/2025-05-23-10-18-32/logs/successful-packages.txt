@@ -2264,3 +2264,6 @@ CAGEr
 svaNUMT
 epivizrStandalone
 R3CPET
+biscuiteer
+GeneStructureTools
+RegionalST
