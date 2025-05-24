@@ -648,7 +648,6 @@
     "CAMERA",
     "MSnbase"
   ],
-  "LRcell": [],
   "M3Drop": [
     "scater",
     "scuttle"
@@ -901,7 +900,6 @@
     "txdbmaker",
     "genomation"
   ],
-  "RCSL": [],
   "REDseq": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -1062,7 +1060,6 @@
     "GenomicFeatures"
   ],
   "SC3": [],
-  "SCAN.UPC": [],
   "SCANVIS": [],
   "SCArray.sat": [],
   "SCOPE": [],
@@ -2329,7 +2326,6 @@
   "podkat": [],
   "poem": [],
   "pram": [],
-  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"

@@ -1525,3 +1525,7 @@ cydar
 diffHic
 pairedGSEA
 pathlinkR
+LRcell
+prebs
+RCSL
+SCAN.UPC
