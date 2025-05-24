@@ -1887,3 +1887,11 @@ oppar
 pathMED
 dandelionR
 scBFA
+ChIPXpress
+ExperimentSubset
+HoloFoodR
+PLSDAbatch
+maaslin3
+miaSim
+microSTASIS
+treeclimbR

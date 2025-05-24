@@ -1737,3 +1737,6 @@ Basic4Cseq
 bedbaser
 COTAN
 jazzPanda
+CatsCradle
+frma
+TreeSummarizedExperiment

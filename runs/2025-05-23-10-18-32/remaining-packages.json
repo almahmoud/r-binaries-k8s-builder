@@ -177,7 +177,6 @@
     "GenomicFeatures"
   ],
   "CTexploreR": [],
-  "CatsCradle": [],
   "CellBench": [],
   "CellMixS": [
     "scater"
@@ -209,9 +208,7 @@
     "DiffBind",
     "GenomicFeatures"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [],
   "ChIPexoQual": [
     "biovizBase",
@@ -371,9 +368,7 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExperimentSubset": [
-    "TreeSummarizedExperiment"
-  ],
+  "ExperimentSubset": [],
   "FEAST": [
     "TSCAN",
     "SC3"
@@ -518,9 +513,7 @@
     "GenomicFeatures"
   ],
   "HilbertVisGUI": [],
-  "HoloFoodR": [
-    "TreeSummarizedExperiment"
-  ],
+  "HoloFoodR": [],
   "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
@@ -589,7 +582,6 @@
   ],
   "MEDIPS": [],
   "MGnifyR": [
-    "TreeSummarizedExperiment",
     "mia",
     "scater"
   ],
@@ -705,9 +697,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "PLSDAbatch": [
-    "TreeSummarizedExperiment"
-  ],
+  "PLSDAbatch": [],
   "PhenStat": [],
   "Pigengene": [],
   "ProteoDisco": [
@@ -1016,7 +1006,6 @@
     "GenomicFeatures"
   ],
   "ToxicoGx": [],
-  "TreeSummarizedExperiment": [],
   "UMI4Cats": [
     "regioneR",
     "GenomicFeatures"
@@ -1146,7 +1135,6 @@
   ],
   "batchelor": [],
   "benchdamic": [
-    "TreeSummarizedExperiment",
     "maaslin3"
   ],
   "bigmelon": [
@@ -1383,7 +1371,6 @@
   "dandelionR": [],
   "dar": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "decompTumor2Sig": [
@@ -1536,7 +1523,6 @@
     "bumphunter"
   ],
   "flagme": [],
-  "frma": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -1631,7 +1617,6 @@
   "iSEEtree": [
     "miaViz",
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "icetea": [
@@ -1671,7 +1656,6 @@
   ],
   "lefser": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "lemur": [
@@ -1703,9 +1687,7 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [
-    "TreeSummarizedExperiment"
-  ],
+  "maaslin3": [],
   "magpie": [
     "GenomicFeatures",
     "TRESS"
@@ -1766,27 +1748,20 @@
   ],
   "miQC": [],
   "mia": [
-    "TreeSummarizedExperiment",
     "scater"
   ],
   "miaDash": [
     "iSEEtree",
     "mia",
     "scater",
-    "TreeSummarizedExperiment",
     "miaViz"
   ],
-  "miaSim": [
-    "TreeSummarizedExperiment"
-  ],
+  "miaSim": [],
   "miaViz": [
     "mia",
-    "TreeSummarizedExperiment",
     "scater"
   ],
-  "microSTASIS": [
-    "TreeSummarizedExperiment"
-  ],
+  "microSTASIS": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
@@ -2254,9 +2229,7 @@
     "VariantAnnotation"
   ],
   "traseR": [],
-  "treeclimbR": [
-    "TreeSummarizedExperiment"
-  ],
+  "treeclimbR": [],
   "tricycle": [
     "scater"
   ],
