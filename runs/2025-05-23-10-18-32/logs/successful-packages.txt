@@ -1464,3 +1464,11 @@ girafe
 microbiomeExplorer
 orthos
 PROPS
+adductomicsR
+BiocHubsShiny
+BiSeq
+DeepTarget
+DMCFB
+EpipwR
+PhyloProfile
+systemPipeR
