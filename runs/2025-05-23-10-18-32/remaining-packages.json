@@ -537,7 +537,6 @@
   "IVAS": [
     "GenomicFeatures"
   ],
-  "IdeoViz": [],
   "InPAS": [
     "GenomicFeatures"
   ],
@@ -625,7 +624,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "lumi",
     "methylumi",
@@ -1192,7 +1190,6 @@
     "regioneR",
     "txdbmaker"
   ],
-  "blacksheepr": [],
   "branchpointer": [],
   "bumphunter": [
     "GenomicFeatures"
