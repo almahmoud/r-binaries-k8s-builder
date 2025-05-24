@@ -185,7 +185,6 @@
     "mosdef",
     "goseq"
   ],
-  "GenVisR": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
@@ -203,7 +202,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "GenomicPlot": [],
   "Gviz": [
     "biovizBase"
   ],
@@ -597,12 +595,10 @@
     "Gviz",
     "biovizBase"
   ],
-  "customProDB": [],
   "cytofQC": [],
   "cytoviewer": [],
   "dagLogo": [],
   "dar": [],
-  "decompTumor2Sig": [],
   "decontX": [
     "celda",
     "scran"
@@ -663,7 +659,6 @@
   "escheR": [],
   "fCCAC": [],
   "fastLiquidAssociation": [],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -797,9 +792,7 @@
     "scran",
     "batchelor"
   ],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
+  "musicatk": [],
   "mygene": [],
   "myvariant": [],
   "netSmooth": [

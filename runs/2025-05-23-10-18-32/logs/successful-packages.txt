@@ -1931,3 +1931,8 @@ OrganismDbi
 TFHAZ
 GA4GHclient
 RiboCrypt
+customProDB
+decompTumor2Sig
+fcScan
+GenomicPlot
+GenVisR
