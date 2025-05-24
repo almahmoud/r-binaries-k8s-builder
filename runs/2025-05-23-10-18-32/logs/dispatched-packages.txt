@@ -1791,3 +1791,5 @@ celaref
 DSS
 MIRA
 NanoMethViz
+Statial
+tidySpatialExperiment

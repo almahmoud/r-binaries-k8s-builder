@@ -436,7 +436,6 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -598,7 +597,6 @@
   "HiLDA": [
     "GenomicFeatures"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "HilbertVisGUI": [],
   "HoloFoodR": [
@@ -627,7 +625,6 @@
     "GenomicFeatures",
     "plyranges"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "GenomicFeatures",
@@ -825,7 +822,6 @@
   "OutSplice": [
     "GenomicFeatures"
   ],
-  "PAST": [],
   "PICS": [],
   "PING": [
     "PICS",
@@ -1148,9 +1144,7 @@
   "SpotSweeper": [
     "escheR"
   ],
-  "Statial": [
-    "treekoR"
-  ],
+  "Statial": [],
   "StructuralVariantAnnotation": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -1200,7 +1194,6 @@
   ],
   "ToxicoGx": [],
   "TreeSummarizedExperiment": [],
-  "UCell": [],
   "UMI4Cats": [
     "regioneR",
     "GenomicFeatures"
@@ -1784,8 +1777,7 @@
     "motifmatchr"
   ],
   "escape": [
-    "GSVA",
-    "UCell"
+    "GSVA"
   ],
   "escheR": [],
   "evaluomeR": [],
@@ -2745,12 +2737,8 @@
     "GenomicFeatures"
   ],
   "tidyCoverage": [],
-  "tidySingleCellExperiment": [],
-  "tidySpatialExperiment": [
-    "tidySingleCellExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidyomics": [
-    "tidySingleCellExperiment",
     "plyranges",
     "nullranges"
   ],
@@ -2784,7 +2772,6 @@
   "treeclimbR": [
     "TreeSummarizedExperiment"
   ],
-  "treekoR": [],
   "tricycle": [
     "scater",
     "scuttle"

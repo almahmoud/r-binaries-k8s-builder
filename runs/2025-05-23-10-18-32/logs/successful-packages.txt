@@ -1538,3 +1538,10 @@ CoSIA
 goSorensen
 miRspongeR
 wiggleplotr
+ExCluster
+HiTC
+InTAD
+PAST
+tidySingleCellExperiment
+treekoR
+UCell
