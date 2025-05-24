@@ -1813,3 +1813,8 @@ CelliD
 clustSIGNAL
 MinimumDistance
 MIRit
+distinct
+gDR
+imcRtools
+peco
+SPIAT

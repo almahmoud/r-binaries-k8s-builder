@@ -703,7 +703,6 @@
     "annotatr",
     "regioneR"
   ],
-  "SPIAT": [],
   "SPLINTER": [
     "Gviz",
     "ensembldb",
@@ -993,8 +992,7 @@
     "VariantAnnotation"
   ],
   "condiments": [
-    "slingshot",
-    "distinct"
+    "slingshot"
   ],
   "consensusDE": [
     "EDASeq",
@@ -1095,7 +1093,6 @@
   "diffUTR": [
     "ensembldb"
   ],
-  "distinct": [],
   "dmrseq": [
     "bumphunter",
     "annotatr",
@@ -1186,7 +1183,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "gDR": [],
   "gINTomics": [],
   "geneAttribution": [],
   "genoCN": [],
@@ -1255,7 +1251,6 @@
   "igvR": [
     "VariantAnnotation"
   ],
-  "imcRtools": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -1438,7 +1433,6 @@
     "goseq",
     "txdbmaker"
   ],
-  "peco": [],
   "pipeComp": [
     "scran"
   ],
