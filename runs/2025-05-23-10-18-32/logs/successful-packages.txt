@@ -2102,3 +2102,7 @@ CopyNumberPlots
 RAIDS
 scCB2
 SpatialExperimentIO
+GNOSIS
+RgnTX
+SARC
+shinyepico

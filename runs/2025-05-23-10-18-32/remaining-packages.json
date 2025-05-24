@@ -79,7 +79,6 @@
   ],
   "FRASER": [],
   "GARS": [],
-  "GNOSIS": [],
   "GUIDEseq": [
     "ChIPpeakAnno"
   ],
@@ -151,11 +150,9 @@
   ],
   "Repitools": [],
   "ReportingTools": [],
-  "RgnTX": [],
   "RiboProfiling": [],
   "RnBeads": [],
   "RnaSeqSampleSize": [],
-  "SARC": [],
   "SOMNiBUS": [
     "annotatr"
   ],
@@ -355,7 +352,6 @@
   "shinyDSP": [
     "standR"
   ],
-  "shinyepico": [],
   "singleCellTK": [
     "scMerge",
     "scran",
