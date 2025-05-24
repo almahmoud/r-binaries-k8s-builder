@@ -1783,3 +1783,5 @@ hiReadsProcessor
 ITALICS
 MuData
 scClassify
+GenomicFeatures
+RUCova
