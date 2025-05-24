@@ -149,14 +149,11 @@
   "GUIDEseq": [
     "ChIPpeakAnno"
   ],
-  "GeDi": [
-    "GeneTonic"
-  ],
+  "GeDi": [],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
   ],
-  "GeneTonic": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -691,7 +688,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "segmenter": [],
   "selectKSigs": [],
   "seqArchRplus": [],
   "shinyDSP": [
