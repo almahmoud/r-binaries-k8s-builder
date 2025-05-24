@@ -6,10 +6,7 @@
   ],
   "AneuFinder": [],
   "BASiCStan": [],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
+  "CAGEr": [],
   "CNEr": [],
   "ChAMP": [
     "DMRcate",
@@ -62,7 +59,6 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "decontX": [],
-  "enhancerHomologSearch": [],
   "epivizrStandalone": [],
   "genoCN": [],
   "geomeTriD": [],
@@ -85,9 +81,7 @@
   ],
   "singleCellTK": [],
   "skewr": [],
-  "spatzie": [],
   "standR": [],
   "svaNUMT": [],
-  "tadar": [],
   "trigger": []
 }
