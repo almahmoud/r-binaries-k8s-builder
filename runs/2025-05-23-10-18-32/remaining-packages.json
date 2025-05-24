@@ -1,5 +1,4 @@
 {
-  "ADImpute": [],
   "AHMassBank": [
     "AnnotationHubData",
     "GenomicFeatures",
@@ -668,9 +667,7 @@
     "scran",
     "scuttle"
   ],
-  "MSnID": [
-    "msmsTests"
-  ],
+  "MSnID": [],
   "MSstatsQCgui": [],
   "MatrixQCvis": [],
   "MatrixRider": [
@@ -713,7 +710,6 @@
   "MotifPeeker": [],
   "MsQuality": [],
   "MuData": [],
-  "MultiRNAflow": [],
   "MungeSumstats": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -2035,7 +2031,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "msmsTests": [],
   "multiGSEA": [],
   "multicrispr": [
     "CRISPRseek",
@@ -2276,7 +2271,6 @@
     "scran",
     "scuttle"
   ],
-  "scGPS": [],
   "scHOT": [],
   "scMerge": [
     "M3Drop",
@@ -2463,7 +2457,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [
     "simpleSeg",
     "cytomapper"

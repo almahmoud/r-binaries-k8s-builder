@@ -1626,3 +1626,8 @@ scMET
 smoppix
 TENET
 tigre
+ADImpute
+msmsTests
+MultiRNAflow
+scGPS
+speckle
