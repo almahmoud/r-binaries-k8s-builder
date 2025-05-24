@@ -978,7 +978,6 @@
   "SpatialFeatureExperiment": [
     "DropletUtils"
   ],
-  "SpliceWiz": [],
   "SplicingGraphs": [
     "GenomicFeatures"
   ],
@@ -1239,7 +1238,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "celaref": [],
   "celda": [
     "scater",
     "scran"
@@ -1603,7 +1601,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "ggsc": [],
   "ggspavis": [],
   "glmGamPoi": [],
   "glmSparseNet": [
@@ -1898,7 +1895,6 @@
     "zinbwave",
     "mbkmeans"
   ],
-  "nnSVG": [],
   "octad": [
     "RUVSeq",
     "EDASeq",
@@ -2036,7 +2032,6 @@
     "RUVSeq",
     "txdbmaker"
   ],
-  "rifi": [],
   "rmspc": [],
   "rnaEditr": [
     "bumphunter",
@@ -2237,9 +2232,7 @@
     "scater"
   ],
   "splatter": [],
-  "spoon": [
-    "nnSVG"
-  ],
+  "spoon": [],
   "srnadiff": [
     "GenomicFeatures",
     "Gviz",

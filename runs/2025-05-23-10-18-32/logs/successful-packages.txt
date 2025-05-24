@@ -1711,3 +1711,8 @@ spacexr
 spaSim
 spatialDE
 spatialFDA
+celaref
+ggsc
+nnSVG
+rifi
+SpliceWiz

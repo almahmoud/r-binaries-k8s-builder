@@ -1878,3 +1878,4 @@ motifmatchr
 BgeeDB
 XeniumIO
 velociraptor
+spoon
