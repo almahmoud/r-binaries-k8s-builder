@@ -2008,3 +2008,6 @@ spillR
 InPAS
 Rmmquant
 sevenC
+dar
+fCCAC
+FindIT2

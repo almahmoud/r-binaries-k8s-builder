@@ -139,7 +139,6 @@
     "biovizBase"
   ],
   "FRASER": [],
-  "FindIT2": [],
   "GARS": [
     "DaMiRseq",
     "EDASeq"
@@ -484,7 +483,6 @@
   ],
   "cytoviewer": [],
   "dagLogo": [],
-  "dar": [],
   "decontX": [
     "celda",
     "scran"
@@ -521,7 +519,6 @@
   "esATAC": [
     "motifmatchr"
   ],
-  "fCCAC": [],
   "ffpe": [
     "lumi",
     "methylumi"
