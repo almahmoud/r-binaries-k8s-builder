@@ -166,10 +166,7 @@
   ],
   "FRASER": [],
   "FindIT2": [],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GARS": [
     "DaMiRseq",
     "EDASeq"
@@ -360,7 +357,6 @@
   "RgnTX": [
     "regioneR"
   ],
-  "RiboCrypt": [],
   "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio",
