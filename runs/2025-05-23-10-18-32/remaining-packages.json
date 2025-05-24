@@ -1335,7 +1335,6 @@
   ],
   "blacksheepr": [],
   "bnbc": [],
-  "borealis": [],
   "branchpointer": [],
   "bumphunter": [
     "GenomicFeatures"
@@ -1381,7 +1380,6 @@
   ],
   "cellity": [],
   "censcyt": [],
-  "cfDNAPro": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scater",
@@ -1848,7 +1846,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEhub": [],
   "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [
@@ -1968,7 +1965,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "methInheritSim": [],
   "methodical": [
     "annotatr",
     "GenomicFeatures",
@@ -2186,7 +2182,6 @@
   ],
   "pipeFrame": [],
   "plotgardener": [],
-  "plyinteractions": [],
   "podkat": [],
   "poem": [],
   "preciseTAD": [

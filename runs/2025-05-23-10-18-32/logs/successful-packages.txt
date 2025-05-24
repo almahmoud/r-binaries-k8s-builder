@@ -1578,3 +1578,8 @@ kissDE
 methylSig
 recount3
 seqsetvis
+borealis
+cfDNAPro
+iSEEhub
+methInheritSim
+plyinteractions
