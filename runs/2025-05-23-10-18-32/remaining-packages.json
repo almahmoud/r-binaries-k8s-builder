@@ -1,5 +1,4 @@
 {
-  "ASpli": [],
   "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
@@ -209,9 +208,7 @@
   "profileplyr": [],
   "rGADEM": [],
   "ribosomeProfilingQC": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scDD": [
     "scran"
   ],

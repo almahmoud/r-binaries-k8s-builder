@@ -2254,3 +2254,4 @@ dmrseq
 methodical
 scmeth
 affycoretools
+saseR
