@@ -44,7 +44,6 @@
   ],
   "PhenStat": [],
   "R3CPET": [],
-  "REDseq": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -60,7 +59,6 @@
     "wateRmelon"
   ],
   "biscuiteer": [],
-  "celda": [],
   "chevreulPlot": [],
   "chevreulShiny": [
     "chevreulPlot"
@@ -70,9 +68,7 @@
   "compEpiTools": [],
   "crisprShiny": [],
   "crisprVerse": [],
-  "decontX": [
-    "celda"
-  ],
+  "decontX": [],
   "enhancerHomologSearch": [],
   "epiregulon.extra": [],
   "epivizrStandalone": [],
@@ -86,22 +82,17 @@
     "missMethyl"
   ],
   "missMethyl": [],
-  "msgbsR": [],
   "musicatk": [],
   "pageRank": [],
   "primirTSS": [],
   "rGADEM": [],
   "saseR": [],
-  "scDblFinder": [],
   "scFeatures": [],
   "scTreeViz": [],
   "shinyDSP": [
     "standR"
   ],
-  "singleCellTK": [
-    "celda",
-    "scDblFinder"
-  ],
+  "singleCellTK": [],
   "skewr": [
     "wateRmelon"
   ],

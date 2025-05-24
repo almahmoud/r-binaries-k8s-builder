@@ -2292,3 +2292,5 @@ scFeatures
 BASiCStan
 MAGAR
 chevreulPlot
+decontX
+singleCellTK

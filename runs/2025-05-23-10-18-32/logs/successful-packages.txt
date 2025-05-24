@@ -2226,3 +2226,7 @@ epiregulon
 mumosa
 Pviz
 scMerge
+celda
+msgbsR
+REDseq
+scDblFinder
