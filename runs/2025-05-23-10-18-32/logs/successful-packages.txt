@@ -2176,3 +2176,6 @@ ASpli
 IsoformSwitchAnalyzeR
 ribosomeProfilingQC
 srnadiff
+GARS
+lumi
+scran

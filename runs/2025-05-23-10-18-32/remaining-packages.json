@@ -6,22 +6,13 @@
   ],
   "AllelicImbalance": [],
   "AneuFinder": [],
-  "BASiCS": [
-    "scran"
-  ],
+  "BASiCS": [],
   "BASiCStan": [
-    "BASiCS",
-    "scran"
+    "BASiCS"
   ],
-  "BatchQC": [
-    "scran"
-  ],
-  "BayesSpace": [
-    "scran"
-  ],
-  "BioTIP": [
-    "scran"
-  ],
+  "BatchQC": [],
+  "BayesSpace": [],
+  "BioTIP": [],
   "CAGEfightR": [],
   "CAGEr": [
     "CAGEfightR"
@@ -30,31 +21,19 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
-    "lumi"
+    "missMethyl"
   ],
   "ChIPComp": [],
-  "ChromSCape": [
-    "scran"
-  ],
-  "CiteFuse": [
-    "scran"
-  ],
+  "ChromSCape": [],
+  "CiteFuse": [],
   "DEScan2": [],
   "DMRcate": [
     "missMethyl"
   ],
-  "DeconvoBuddies": [
-    "scran"
-  ],
-  "Dino": [
-    "scran"
-  ],
+  "DeconvoBuddies": [],
+  "Dino": [],
   "EpiCompare": [],
-  "FLAMES": [
-    "scran"
-  ],
-  "GARS": [],
+  "FLAMES": [],
   "GUIDEseq": [],
   "GeneStructureTools": [],
   "GenomicOZone": [],
@@ -68,19 +47,12 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "MOSim": [
-    "scran"
-  ],
-  "MPAC": [
-    "scran"
-  ],
+  "MOSim": [],
+  "MPAC": [],
   "MethylAid": [],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -98,21 +70,14 @@
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "RegionalST": [
-    "BayesSpace",
-    "scran"
+    "BayesSpace"
   ],
   "Repitools": [],
   "RnBeads": [],
   "SOMNiBUS": [],
-  "SingleCellSignalR": [
-    "scran"
-  ],
-  "SpaNorm": [
-    "scran"
-  ],
-  "Spaniel": [
-    "scran"
-  ],
+  "SingleCellSignalR": [],
+  "SpaNorm": [],
+  "Spaniel": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "Voyager": [],
@@ -120,30 +85,21 @@
   "YAPSA": [],
   "affycoretools": [],
   "alabaster.sfe": [],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "biscuiteer": [
     "dmrseq"
   ],
-  "celda": [
-    "scran"
-  ],
+  "celda": [],
   "chevreulPlot": [
-    "chevreulProcess",
-    "scran"
+    "chevreulProcess"
   ],
-  "chevreulProcess": [
-    "scran"
-  ],
+  "chevreulProcess": [],
   "chevreulShiny": [
     "chevreulProcess",
-    "chevreulPlot",
-    "scran"
+    "chevreulPlot"
   ],
   "cisPath": [],
   "cn.farms": [],
@@ -152,93 +108,63 @@
   "crisprShiny": [],
   "crisprVerse": [],
   "decontX": [
-    "celda",
-    "scran"
+    "celda"
   ],
   "deconvR": [],
   "derfinderPlot": [],
   "dmrseq": [],
   "enhancerHomologSearch": [],
   "epimutacions": [],
-  "epiregulon": [
-    "scran"
-  ],
-  "epiregulon.extra": [
-    "scran"
-  ],
+  "epiregulon": [],
+  "epiregulon.extra": [],
   "epivizrStandalone": [],
   "esATAC": [],
-  "ffpe": [
-    "lumi"
-  ],
+  "ffpe": [],
   "genoCN": [],
   "geomeTriD": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "iCheck": [
-    "lumi"
-  ],
+  "iCheck": [],
   "intansv": [],
-  "lumi": [],
-  "lute": [
-    "scran"
-  ],
+  "lute": [],
   "methodical": [],
   "methylGSA": [
     "missMethyl"
   ],
   "missMethyl": [],
   "motifbreakR": [],
-  "msImpute": [
-    "scran"
-  ],
+  "msImpute": [],
   "msgbsR": [],
-  "mumosa": [
-    "scran"
-  ],
+  "mumosa": [],
   "musicatk": [],
   "octad": [],
   "pageRank": [],
-  "pipeComp": [
-    "scran"
-  ],
+  "pipeComp": [],
   "primirTSS": [],
   "profileplyr": [],
   "rGADEM": [],
   "saseR": [],
-  "scDD": [
-    "scran"
-  ],
-  "scDblFinder": [
-    "scran"
-  ],
+  "scDD": [],
+  "scDblFinder": [],
   "scFeatures": [
-    "SingleCellSignalR",
-    "scran"
+    "SingleCellSignalR"
   ],
-  "scMerge": [
-    "scran"
-  ],
-  "scTreeViz": [
-    "scran"
-  ],
+  "scMerge": [],
+  "scTreeViz": [],
   "scmeth": [],
   "scone": [],
-  "scran": [],
   "scruff": [],
   "shinyDSP": [
     "standR"
   ],
   "singleCellTK": [
     "scMerge",
-    "scran",
     "celda",
     "scDblFinder"
   ],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatzie": [],
   "standR": [],
@@ -247,7 +173,5 @@
   "tadar": [],
   "trigger": [],
   "vulcan": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }
