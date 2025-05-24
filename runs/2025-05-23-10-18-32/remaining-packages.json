@@ -361,7 +361,6 @@
     "RCAS",
     "txdbmaker"
   ],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
@@ -380,12 +379,9 @@
   ],
   "HiLDA": [],
   "HilbertVisGUI": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "INSPEcT": [],
   "IPO": [],
-  "IVAS": [],
   "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
@@ -1214,7 +1210,6 @@
   "katdetectr": [
     "VariantAnnotation"
   ],
-  "lefser": [],
   "lineagespot": [
     "VariantAnnotation"
   ],

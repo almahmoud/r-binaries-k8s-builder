@@ -1859,3 +1859,6 @@ miaViz
 Pigengene
 pRoloc
 tidySpatialExperiment
+Guitar
+IVAS
+lefser
