@@ -22,7 +22,6 @@
     "missMethyl"
   ],
   "EpiCompare": [],
-  "FLAMES": [],
   "GUIDEseq": [],
   "GeneStructureTools": [],
   "GenomicOZone": [],
@@ -36,7 +35,6 @@
   "MEAT": [
     "wateRmelon"
   ],
-  "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -60,7 +58,6 @@
   "XNAString": [],
   "affycoretools": [],
   "alabaster.sfe": [],
-  "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
   ],

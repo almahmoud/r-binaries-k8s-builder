@@ -2216,3 +2216,6 @@ lute
 msImpute
 pipeComp
 scDD
+arrayMvout
+FLAMES
+MineICA
