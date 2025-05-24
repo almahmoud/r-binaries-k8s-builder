@@ -1936,3 +1936,9 @@ decompTumor2Sig
 fcScan
 GenomicPlot
 GenVisR
+CircSeqAlignTk
+clusterExperiment
+crisprDesign
+demuxSNP
+gwasurvivr
+icetea

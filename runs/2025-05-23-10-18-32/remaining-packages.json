@@ -104,7 +104,6 @@
     "batchelor",
     "scran"
   ],
-  "CircSeqAlignTk": [],
   "CiteFuse": [
     "scran"
   ],
@@ -550,7 +549,6 @@
   ],
   "cisPath": [],
   "clipper": [],
-  "clusterExperiment": [],
   "cn.farms": [],
   "coMethDMR": [],
   "comapr": [
@@ -573,21 +571,17 @@
     "minfi"
   ],
   "corral": [],
-  "crisprDesign": [],
   "crisprShiny": [
-    "crisprDesign",
     "crisprViz",
     "Gviz",
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprDesign",
     "crisprViz",
     "Gviz",
     "biovizBase"
   ],
   "crisprViz": [
-    "crisprDesign",
     "Gviz",
     "biovizBase"
   ],
@@ -607,7 +601,6 @@
     "minfi"
   ],
   "deepSNV": [],
-  "demuxSNP": [],
   "derfinder": [
     "GenomicFiles"
   ],
@@ -685,7 +678,6 @@
   "gpuMagic": [],
   "graper": [],
   "gwascat": [],
-  "gwasurvivr": [],
   "hypeR": [],
   "iCheck": [
     "lumi",
@@ -696,7 +688,6 @@
     "minfi"
   ],
   "iSEEtree": [],
-  "icetea": [],
   "ideal": [
     "mosdef",
     "goseq"
@@ -795,9 +786,7 @@
   "musicatk": [],
   "mygene": [],
   "myvariant": [],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "octad": [
     "RUVSeq",
     "EDASeq"
