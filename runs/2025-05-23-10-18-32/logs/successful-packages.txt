@@ -1785,3 +1785,7 @@ MuData
 scClassify
 GenomicFeatures
 RUCova
+scater
+simpleSeg
+spatialSimGP
+SplineDV
