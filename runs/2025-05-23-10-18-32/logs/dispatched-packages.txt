@@ -1828,3 +1828,4 @@ iSEEhex
 iSEEhub
 iSEEindex
 iSEEpathways
+MSstatsQCgui

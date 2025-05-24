@@ -297,7 +297,6 @@
   ],
   "DAPAR": [],
   "DEFormats": [],
-  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "GenomicFeatures",
@@ -684,10 +683,7 @@
     "msmsTests",
     "msmsEDA"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
@@ -807,7 +803,6 @@
   "PharmacoGx": [],
   "PhenStat": [],
   "Pigengene": [],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
