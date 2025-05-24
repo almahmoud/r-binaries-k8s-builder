@@ -1833,3 +1833,6 @@ mia
 MotifPeeker
 transformGamPoi
 tricycle
+CARDspa
+MSstatsQCgui
+scDotPlot

@@ -115,7 +115,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CARDspa": [],
   "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation"
@@ -448,7 +447,6 @@
     "scran"
   ],
   "MSnID": [],
-  "MSstatsQCgui": [],
   "MatrixRider": [],
   "MetaboSignal": [
     "mygene",
@@ -1507,7 +1505,6 @@
   "scDblFinder": [
     "scran"
   ],
-  "scDotPlot": [],
   "scFeatures": [
     "ensembldb",
     "SingleCellSignalR",
