@@ -1506,3 +1506,7 @@ coseq
 Nebulosa
 SCArray
 SpatialExperiment
+BSgenomeForge
+cleanUpdTSeq
+cliProfiler
+MAST

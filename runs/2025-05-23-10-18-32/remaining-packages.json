@@ -81,7 +81,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "BSgenomeForge": [],
   "BUSpaRse": [
     "ensembldb",
     "GenomicFeatures",
@@ -634,7 +633,6 @@
   ],
   "IdeoViz": [],
   "InPAS": [
-    "cleanUpdTSeq",
     "GenomicFeatures",
     "plyranges"
   ],
@@ -677,7 +675,6 @@
     "xcms",
     "MSnbase"
   ],
-  "MAST": [],
   "MEAL": [
     "minfi",
     "Gviz",
@@ -855,9 +852,7 @@
   "PLSDAbatch": [
     "TreeSummarizedExperiment"
   ],
-  "POWSC": [
-    "MAST"
-  ],
+  "POWSC": [],
   "PRONE": [
     "MSnbase"
   ],
@@ -1378,7 +1373,6 @@
   "benchdamic": [
     "TreeSummarizedExperiment",
     "zinbwave",
-    "MAST",
     "maaslin3"
   ],
   "bigmelon": [
@@ -1465,9 +1459,7 @@
   ],
   "ccImpute": [],
   "ccfindR": [],
-  "celaref": [
-    "MAST"
-  ],
+  "celaref": [],
   "celda": [
     "scater",
     "scran",
@@ -1531,8 +1523,6 @@
     "VariantAnnotation"
   ],
   "cisPath": [],
-  "cleanUpdTSeq": [],
-  "cliProfiler": [],
   "clipper": [
     "qpgraph",
     "GenomicFeatures"
@@ -2687,7 +2677,6 @@
     "batchelor",
     "ensembldb",
     "GSVA",
-    "MAST",
     "scater",
     "scMerge",
     "scran",

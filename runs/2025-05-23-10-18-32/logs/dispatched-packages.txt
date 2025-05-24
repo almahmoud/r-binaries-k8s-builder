@@ -1786,3 +1786,5 @@ spatialSimGP
 stJoincount
 tpSVG
 xenLite
+POWSC
+celaref
