@@ -146,7 +146,6 @@
   "CSSQ": [],
   "CTexploreR": [],
   "CellBench": [],
-  "CelliD": [],
   "CexoR": [
     "genomation"
   ],
@@ -448,7 +447,6 @@
   "MGnifyR": [
     "mia"
   ],
-  "MIRit": [],
   "MOSClip": [
     "qpgraph"
   ],
@@ -477,7 +475,6 @@
     "minfi",
     "bumphunter"
   ],
-  "MinimumDistance": [],
   "Moonlight2R": [
     "EpiMix"
   ],
@@ -830,7 +827,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.sce",
     "alabaster.spatial",
@@ -976,7 +972,6 @@
   "clipper": [
     "qpgraph"
   ],
-  "clustSIGNAL": [],
   "clusterExperiment": [
     "mbkmeans"
   ],
