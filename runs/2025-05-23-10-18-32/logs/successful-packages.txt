@@ -2064,3 +2064,4 @@ deepSNV
 ggbio
 quantro
 scDataviz
+shinyMethyl

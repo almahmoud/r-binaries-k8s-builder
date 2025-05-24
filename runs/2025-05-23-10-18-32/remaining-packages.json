@@ -473,7 +473,6 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "shinyMethyl": [],
   "shinyepico": [],
   "singleCellTK": [
     "scMerge",
