@@ -1852,3 +1852,10 @@ CRISPRball
 CSSQ
 DiffBind
 scTGIF
+BindingSiteFinder
+censcyt
+ExperimentSubset
+miaViz
+Pigengene
+pRoloc
+tidySpatialExperiment

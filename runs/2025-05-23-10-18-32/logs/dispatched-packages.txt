@@ -1978,3 +1978,6 @@ atSNP
 dagLogo
 lisaClust
 ChIPQC
+bandle
+iSEEtree
+pRolocGUI

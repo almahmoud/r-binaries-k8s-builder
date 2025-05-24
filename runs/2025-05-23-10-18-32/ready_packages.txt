@@ -1,1 +1,3 @@
-ChIPQC
+bandle
+iSEEtree
+pRolocGUI

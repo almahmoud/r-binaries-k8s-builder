@@ -79,7 +79,6 @@
   "BgeeCall": [
     "txdbmaker"
   ],
-  "BindingSiteFinder": [],
   "BioTIP": [
     "scran"
   ],
@@ -272,7 +271,6 @@
     "OrganismDbi",
     "txdbmaker"
   ],
-  "ExperimentSubset": [],
   "FEAST": [
     "TSCAN"
   ],
@@ -506,7 +504,6 @@
     "VariantAnnotation"
   ],
   "PhenStat": [],
-  "Pigengene": [],
   "ProteoDisco": [
     "VariantAnnotation"
   ],
@@ -833,9 +830,7 @@
   "atSNP": [],
   "atena": [],
   "bambu": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "batchelor": [],
   "benchdamic": [],
   "bigmelon": [
@@ -900,7 +895,6 @@
   "celda": [
     "scran"
   ],
-  "censcyt": [],
   "chevreulPlot": [
     "chevreulProcess",
     "scran",
@@ -1186,15 +1180,12 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "bumphunter",
     "txdbmaker"
   ],
-  "iSEEtree": [
-    "miaViz"
-  ],
+  "iSEEtree": [],
   "icetea": [
     "VariantAnnotation"
   ],
@@ -1292,10 +1283,8 @@
   ],
   "miQC": [],
   "miaDash": [
-    "iSEEtree",
-    "miaViz"
+    "iSEEtree"
   ],
-  "miaViz": [],
   "minfi": [
     "bumphunter"
   ],
@@ -1363,10 +1352,7 @@
     "RUVSeq",
     "EDASeq"
   ],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr"
   ],
@@ -1626,7 +1612,6 @@
   "terraTCGAdata": [
     "TCGAutils"
   ],
-  "tidySpatialExperiment": [],
   "trackViewer": [
     "Gviz",
     "txdbmaker",
