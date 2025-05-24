@@ -327,7 +327,6 @@
   "EDASeq": [
     "GenomicFeatures"
   ],
-  "EGSEA": [],
   "ELMER": [
     "GenomicFeatures",
     "Gviz",
@@ -626,7 +625,6 @@
   ],
   "MotifDb": [],
   "MotifPeeker": [],
-  "MsQuality": [],
   "MuData": [],
   "MungeSumstats": [
     "VariantAnnotation",
@@ -1077,11 +1075,9 @@
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
-    "alabaster.mae",
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "alabaster.mae": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
@@ -1126,9 +1122,7 @@
     "pRoloc"
   ],
   "batchelor": [],
-  "benchdamic": [
-    "maaslin3"
-  ],
+  "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -1492,7 +1486,6 @@
     "GenomicFeatures",
     "motifmatchr"
   ],
-  "escape": [],
   "escheR": [],
   "fCCAC": [
     "genomation"
@@ -1676,7 +1669,6 @@
     "VariantAnnotation",
     "txdbmaker"
   ],
-  "maaslin3": [],
   "magpie": [
     "GenomicFeatures",
     "TRESS"
@@ -1750,7 +1742,6 @@
     "mia",
     "scater"
   ],
-  "microSTASIS": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
@@ -2213,7 +2204,6 @@
     "GenomicFeatures",
     "VariantAnnotation"
   ],
-  "traseR": [],
   "treeclimbR": [],
   "tricycle": [
     "scater"

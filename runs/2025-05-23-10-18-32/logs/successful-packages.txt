@@ -1752,3 +1752,10 @@ TBSignatureProfiler
 EasyCellType
 pathMED
 PLSDAbatch
+alabaster.mae
+EGSEA
+escape
+maaslin3
+microSTASIS
+MsQuality
+traseR
