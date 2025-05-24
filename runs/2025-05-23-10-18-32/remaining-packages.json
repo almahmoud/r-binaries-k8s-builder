@@ -83,7 +83,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Banksy": [],
   "Basic4Cseq": [],
   "BatchQC": [
     "scran"
@@ -176,7 +175,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "CODEX": [],
   "COTAN": [],
   "CRISPRball": [],
   "CRISPRseek": [
@@ -218,8 +216,7 @@
   "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
-    "GenomicFeatures",
-    "GreyListChIP"
+    "GenomicFeatures"
   ],
   "ChIPXpress": [
     "frma"
@@ -322,9 +319,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "DiffBind": [
-    "GreyListChIP"
-  ],
+  "DiffBind": [],
   "DifferentialRegulation": [],
   "Dino": [
     "scran"
@@ -512,7 +507,6 @@
     "txdbmaker"
   ],
   "Glimma": [],
-  "GreyListChIP": [],
   "Guitar": [
     "GenomicFeatures"
   ],
@@ -1514,9 +1508,7 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epigraHMM": [
-    "GreyListChIP"
-  ],
+  "epigraHMM": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -1680,9 +1672,7 @@
   ],
   "hicVennDiagram": [],
   "hypeR": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -1968,7 +1958,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "partCNV": [],
   "pathMED": [
     "GSVA"
   ],
@@ -2420,8 +2409,7 @@
     "DiffBind",
     "GenomicFeatures",
     "regioneR",
-    "ensembldb",
-    "GreyListChIP"
+    "ensembldb"
   ],
   "waddR": [],
   "wateRmelon": [
