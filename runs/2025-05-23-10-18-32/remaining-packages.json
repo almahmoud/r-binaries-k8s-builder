@@ -87,7 +87,6 @@
   ],
   "ChIPpeakAnno": [],
   "ChromSCape": [
-    "batchelor",
     "scran"
   ],
   "CiteFuse": [
@@ -152,16 +151,13 @@
     "ChIPpeakAnno"
   ],
   "GeDi": [
-    "GeneTonic",
-    "mosdef"
+    "GeneTonic"
   ],
   "GeneStructureTools": [
     "Gviz",
     "biovizBase"
   ],
-  "GeneTonic": [
-    "mosdef"
-  ],
+  "GeneTonic": [],
   "GenomicInteractions": [
     "Gviz",
     "biovizBase"
@@ -399,7 +395,6 @@
   ],
   "atSNP": [],
   "bandle": [],
-  "batchelor": [],
   "benchdamic": [],
   "bigmelon": [
     "wateRmelon",
@@ -435,18 +430,15 @@
   ],
   "chevreulPlot": [
     "chevreulProcess",
-    "scran",
-    "batchelor"
+    "scran"
   ],
   "chevreulProcess": [
-    "batchelor",
     "scran"
   ],
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "scran",
-    "batchelor"
+    "scran"
   ],
   "chimeraviz": [
     "Gviz",
@@ -539,7 +531,6 @@
     "motifmatchr"
   ],
   "fCCAC": [],
-  "fastLiquidAssociation": [],
   "ffpe": [
     "lumi",
     "methylumi"
@@ -565,9 +556,7 @@
   ],
   "iNETgrate": [],
   "iSEEtree": [],
-  "ideal": [
-    "mosdef"
-  ],
+  "ideal": [],
   "igvR": [],
   "intansv": [
     "ggbio",
@@ -618,7 +607,6 @@
   "mitoClone2": [
     "deepSNV"
   ],
-  "mosdef": [],
   "motifbreakR": [
     "Gviz",
     "biovizBase"
@@ -637,8 +625,7 @@
     "biovizBase"
   ],
   "mumosa": [
-    "scran",
-    "batchelor"
+    "scran"
   ],
   "musicatk": [],
   "netSmooth": [],
@@ -650,9 +637,7 @@
   "pageRank": [
     "motifmatchr"
   ],
-  "pcaExplorer": [
-    "mosdef"
-  ],
+  "pcaExplorer": [],
   "pipeComp": [
     "scran"
   ],
@@ -703,7 +688,6 @@
     "scran"
   ],
   "scMerge": [
-    "batchelor",
     "scran"
   ],
   "scPipe": [
@@ -742,7 +726,6 @@
   "shinyMethyl": [],
   "shinyepico": [],
   "singleCellTK": [
-    "batchelor",
     "scMerge",
     "scran",
     "celda",
@@ -809,7 +792,6 @@
     "methylumi",
     "lumi"
   ],
-  "wavClusteR": [],
   "yarn": [
     "quantro"
   ]

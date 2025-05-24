@@ -1995,3 +1995,7 @@ scp
 signifinder
 rgsepd
 RJMCMCNucleosomes
+batchelor
+fastLiquidAssociation
+mosdef
+wavClusteR
