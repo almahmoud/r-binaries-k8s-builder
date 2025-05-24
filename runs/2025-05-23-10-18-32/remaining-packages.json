@@ -1111,12 +1111,10 @@
   "SPOTlight": [],
   "SVP": [],
   "SeqGSEA": [],
-  "SeqSQC": [],
   "SigsPack": [
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle"
@@ -1590,10 +1588,7 @@
   "cpvSNP": [
     "GenomicFeatures"
   ],
-  "crisprBowtie": [],
-  "crisprBwa": [],
   "crisprDesign": [
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation"
@@ -1601,7 +1596,6 @@
   "crisprShiny": [
     "crisprDesign",
     "crisprViz",
-    "crisprBowtie",
     "GenomicFeatures",
     "txdbmaker",
     "VariantAnnotation",
@@ -1610,7 +1604,6 @@
     "biovizBase"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprDesign",
     "crisprViz",
     "GenomicFeatures",
@@ -1625,7 +1618,6 @@
     "GenomicFeatures",
     "Gviz",
     "txdbmaker",
-    "crisprBowtie",
     "VariantAnnotation",
     "ensembldb",
     "biovizBase"
@@ -1875,7 +1867,6 @@
   "gINTomics": [
     "GenomicFeatures"
   ],
-  "gcapc": [],
   "geneAttribution": [
     "GenomicFeatures"
   ],
@@ -2007,7 +1998,6 @@
     "scuttle",
     "cytomapper"
   ],
-  "immApex": [],
   "infercnv": [],
   "intansv": [
     "ggbio",
