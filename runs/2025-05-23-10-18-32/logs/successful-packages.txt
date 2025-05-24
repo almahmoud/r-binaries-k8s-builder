@@ -2268,3 +2268,7 @@ biscuiteer
 GeneStructureTools
 RegionalST
 scTreeViz
+BASiCStan
+missMethyl
+RNAmodR.RiboMethSeq
+singleCellTK

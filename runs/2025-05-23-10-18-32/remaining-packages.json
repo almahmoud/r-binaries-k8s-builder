@@ -2,22 +2,16 @@
   "ATACseqQC": [],
   "AgiMicroRna": [],
   "AneuFinder": [],
-  "BASiCStan": [],
   "CNEr": [],
   "ChAMP": [
-    "DMRcate",
-    "missMethyl"
+    "DMRcate"
   ],
-  "DMRcate": [
-    "missMethyl"
-  ],
+  "DMRcate": [],
   "EpiCompare": [],
   "Harshlight": [],
   "HilbertVisGUI": [],
   "MAGAR": [],
-  "MEAL": [
-    "missMethyl"
-  ],
+  "MEAL": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -27,7 +21,6 @@
     "PICS"
   ],
   "PhenStat": [],
-  "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "Repitools": [],
   "XNAString": [],
@@ -42,15 +35,11 @@
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
-  "methylGSA": [
-    "missMethyl"
-  ],
-  "missMethyl": [],
+  "methylGSA": [],
   "musicatk": [],
   "rGADEM": [],
   "scFeatures": [],
   "shinyDSP": [],
-  "singleCellTK": [],
   "skewr": [],
   "trigger": []
 }
