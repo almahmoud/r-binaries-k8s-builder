@@ -96,9 +96,7 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "BgeeDB": [
-    "zellkonverter"
-  ],
+  "BgeeDB": [],
   "BindingSiteFinder": [
     "GenomicFeatures"
   ],
@@ -182,7 +180,6 @@
   ],
   "CTexploreR": [],
   "CatsCradle": [],
-  "CeTF": [],
   "CellBench": [],
   "CellMixS": [
     "scater"
@@ -649,7 +646,6 @@
     "EpiMix",
     "GenomicFeatures"
   ],
-  "MoonlightR": [],
   "MotifDb": [],
   "MotifPeeker": [],
   "MsQuality": [],
@@ -788,8 +784,7 @@
   "RITAN": [
     "BgeeDB",
     "GenomicFeatures",
-    "ensembldb",
-    "zellkonverter"
+    "ensembldb"
   ],
   "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
@@ -1077,15 +1072,12 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils"
   ],
   "XNAString": [],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -1330,7 +1322,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "concordexR": [],
   "condiments": [
     "slingshot",
     "distinct",
@@ -2207,7 +2198,6 @@
     "zinbwave",
     "scDblFinder",
     "TSCAN",
-    "zellkonverter",
     "GenomicFeatures",
     "M3Drop",
     "alabaster.sce"
@@ -2348,9 +2338,7 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "velociraptor": [
-    "zellkonverter"
-  ],
+  "velociraptor": [],
   "visiumStitched": [
     "DropletUtils",
     "scater"
@@ -2389,7 +2377,6 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "zellkonverter": [],
   "zinbwave": [],
   "zitools": []
 }

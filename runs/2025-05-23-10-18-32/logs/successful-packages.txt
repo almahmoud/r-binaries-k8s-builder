@@ -1701,3 +1701,8 @@ CTSV
 MetaPhOR
 scAnnotatR
 scQTLtools
+CeTF
+concordexR
+MoonlightR
+VisiumIO
+zellkonverter
