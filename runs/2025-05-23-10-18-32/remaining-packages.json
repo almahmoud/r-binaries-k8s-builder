@@ -29,7 +29,6 @@
   "BioTIP": [
     "scran"
   ],
-  "BubbleTree": [],
   "CAFE": [],
   "CAGEfightR": [
     "GenomicInteractions"
@@ -47,7 +46,6 @@
     "lumi"
   ],
   "ChIPComp": [],
-  "ChIPexoQual": [],
   "ChIPpeakAnno": [],
   "ChromSCape": [
     "scran"
@@ -299,7 +297,6 @@
   ],
   "primirTSS": [],
   "profileplyr": [],
-  "psichomics": [],
   "rGADEM": [],
   "regutools": [],
   "ribosomeProfilingQC": [],
