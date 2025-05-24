@@ -2165,3 +2165,8 @@ mCSEA
 RiboProfiling
 SomaticSignatures
 yarn
+cageminer
+DuplexDiscovereR
+FRASER
+scRNAseqApp
+SpotClean

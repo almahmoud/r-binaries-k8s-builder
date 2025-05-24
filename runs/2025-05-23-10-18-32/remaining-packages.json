@@ -53,12 +53,10 @@
   "Dino": [
     "scran"
   ],
-  "DuplexDiscovereR": [],
   "EpiCompare": [],
   "FLAMES": [
     "scran"
   ],
-  "FRASER": [],
   "GARS": [],
   "GUIDEseq": [],
   "GeneStructureTools": [],
@@ -120,7 +118,6 @@
   "Spaniel": [
     "scran"
   ],
-  "SpotClean": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "Voyager": [],
@@ -140,7 +137,6 @@
   "biscuiteer": [
     "dmrseq"
   ],
-  "cageminer": [],
   "celda": [
     "scran"
   ],
@@ -234,7 +230,6 @@
   "scMerge": [
     "scran"
   ],
-  "scRNAseqApp": [],
   "scTreeViz": [
     "scran"
   ],
