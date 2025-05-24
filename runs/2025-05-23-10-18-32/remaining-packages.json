@@ -61,7 +61,6 @@
   "Harshlight": [],
   "HiCDCPlus": [],
   "HilbertVisGUI": [],
-  "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -207,7 +206,6 @@
   "primirTSS": [],
   "profileplyr": [],
   "rGADEM": [],
-  "ribosomeProfilingQC": [],
   "saseR": [],
   "scDD": [
     "scran"
@@ -243,7 +241,6 @@
     "lumi"
   ],
   "spatzie": [],
-  "srnadiff": [],
   "standR": [],
   "svaNUMT": [],
   "svaRetro": [],

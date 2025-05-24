@@ -2173,3 +2173,6 @@ SpotClean
 Damsel
 ReportingTools
 ASpli
+IsoformSwitchAnalyzeR
+ribosomeProfilingQC
+srnadiff
