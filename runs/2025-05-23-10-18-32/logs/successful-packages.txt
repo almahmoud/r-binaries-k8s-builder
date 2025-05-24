@@ -2245,3 +2245,5 @@ alabaster.sfe
 RNAmodR.AlkAnilineSeq
 crisprVerse
 RNAmodR.ML
+compEpiTools
+crisprShiny
