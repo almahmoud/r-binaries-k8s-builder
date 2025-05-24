@@ -81,7 +81,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "Basic4Cseq": [],
   "BatchQC": [
     "scran"
   ],
@@ -170,7 +169,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COTAN": [],
   "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures"
@@ -1147,7 +1145,6 @@
     "pRoloc"
   ],
   "batchelor": [],
-  "bedbaser": [],
   "benchdamic": [
     "TreeSummarizedExperiment",
     "maaslin3"
@@ -1661,7 +1658,6 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "jazzPanda": [],
   "karyoploteR": [
     "regioneR",
     "biovizBase",

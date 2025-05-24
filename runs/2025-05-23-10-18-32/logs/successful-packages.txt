@@ -1733,3 +1733,7 @@ soGGi
 sparrow
 spoon
 zinbwave
+Basic4Cseq
+bedbaser
+COTAN
+jazzPanda
