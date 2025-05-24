@@ -1674,3 +1674,13 @@ hoodscanR
 pdInfoBuilder
 pipeFrame
 SGCP
+cliqueMS
+cosmiq
+debrowser
+dreamlet
+methrix
+ncGTW
+spiky
+squallms
+tpSVG
+tRNAscanImport
