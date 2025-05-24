@@ -192,9 +192,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "CODEX": [],
   "COTAN": [],
   "CRISPRball": [
@@ -337,7 +335,6 @@
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DSS": [],
   "DaMiRseq": [
     "EDASeq",
     "GenomicFeatures"
@@ -353,9 +350,7 @@
     "ensembldb",
     "txdbmaker"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DeconvoBuddies": [
     "scran",
     "scuttle",
@@ -692,7 +687,6 @@
     "scater",
     "scuttle"
   ],
-  "MIRA": [],
   "MIRit": [],
   "MMDiff2": [],
   "MOSClip": [
@@ -1053,7 +1047,6 @@
     "GenomicFeatures"
   ],
   "SC3": [],
-  "SCANVIS": [],
   "SCArray.sat": [],
   "SCOPE": [],
   "SCnorm": [],
@@ -1386,9 +1379,7 @@
   ],
   "blacksheepr": [],
   "bnbc": [],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "branchpointer": [],
   "bumphunter": [
     "GenomicFeatures"
@@ -1981,9 +1972,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "lefser": [
     "mia",
     "TreeSummarizedExperiment",
@@ -2049,7 +2038,6 @@
   ],
   "metagene2": [],
   "metaseqR2": [
-    "DSS",
     "EDASeq",
     "GenomicFeatures",
     "txdbmaker"
@@ -2087,9 +2075,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData",
@@ -2105,7 +2091,6 @@
     "bumphunter"
   ],
   "miQC": [],
-  "miRSM": [],
   "mia": [
     "TreeSummarizedExperiment",
     "scater",

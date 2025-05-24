@@ -1,2 +1,5 @@
-Statial
-tidySpatialExperiment
+COCOA
+DeMixT
+borealis
+kissDE
+methylSig

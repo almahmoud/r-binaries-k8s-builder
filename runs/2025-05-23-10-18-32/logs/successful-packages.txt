@@ -1545,3 +1545,7 @@ PAST
 tidySingleCellExperiment
 treekoR
 UCell
+DSS
+MIRA
+miRSM
+SCANVIS
