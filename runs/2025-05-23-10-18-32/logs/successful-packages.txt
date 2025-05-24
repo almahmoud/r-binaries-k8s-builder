@@ -2280,3 +2280,5 @@ scFeatures
 skewr
 shinyDSP
 bigmelon
+chevreulShiny
+NADfinder
