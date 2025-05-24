@@ -1,6 +1,4 @@
 {
-  "ATACseqQC": [],
-  "AgiMicroRna": [],
   "AneuFinder": [],
   "CNEr": [],
   "ChAMP": [
@@ -10,11 +8,8 @@
   "EpiCompare": [],
   "Harshlight": [],
   "HilbertVisGUI": [],
-  "MAGAR": [],
   "MEAL": [],
-  "NADfinder": [
-    "ATACseqQC"
-  ],
+  "NADfinder": [],
   "NormqPCR": [],
   "PICS": [],
   "PING": [
@@ -35,8 +30,6 @@
   "methylGSA": [],
   "musicatk": [],
   "rGADEM": [],
-  "scFeatures": [],
   "shinyDSP": [],
-  "skewr": [],
   "trigger": []
 }
