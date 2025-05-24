@@ -3,8 +3,7 @@
   "ATACseqQC": [],
   "ATACseqTFEA": [],
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "AllelicImbalance": [],
   "AneuFinder": [],
@@ -46,7 +45,6 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "Damsel": [],
   "DeconvoBuddies": [
     "scran"
   ],
@@ -106,7 +104,6 @@
     "scran"
   ],
   "Repitools": [],
-  "ReportingTools": [],
   "RnBeads": [],
   "SOMNiBUS": [],
   "SingleCellSignalR": [
@@ -123,9 +120,7 @@
   "Voyager": [],
   "XNAString": [],
   "YAPSA": [],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "alabaster.sfe": [],
   "arrayMvout": [
     "lumi"

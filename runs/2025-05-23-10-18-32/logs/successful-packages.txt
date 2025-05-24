@@ -2170,3 +2170,5 @@ DuplexDiscovereR
 FRASER
 scRNAseqApp
 SpotClean
+Damsel
+ReportingTools

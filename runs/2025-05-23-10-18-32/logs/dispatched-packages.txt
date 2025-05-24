@@ -2253,3 +2253,4 @@ YAPSA
 dmrseq
 methodical
 scmeth
+affycoretools
