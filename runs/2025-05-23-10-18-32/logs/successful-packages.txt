@@ -2005,3 +2005,6 @@ recount
 regionReport
 SMITE
 spillR
+InPAS
+Rmmquant
+sevenC

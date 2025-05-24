@@ -179,7 +179,6 @@
   "HilbertVisGUI": [],
   "IMAS": [],
   "INSPEcT": [],
-  "InPAS": [],
   "IsoformSwitchAnalyzeR": [
     "tximeta"
   ],
@@ -297,7 +296,6 @@
     "ggbio",
     "biovizBase"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi"
   ],
@@ -706,7 +704,6 @@
   "segmenter": [],
   "selectKSigs": [],
   "seqArchRplus": [],
-  "sevenC": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
