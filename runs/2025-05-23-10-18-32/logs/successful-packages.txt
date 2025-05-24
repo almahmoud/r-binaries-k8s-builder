@@ -2039,3 +2039,7 @@ SigsPack
 SNPhood
 TitanCNA
 Uniquorn
+clipper
+dagLogo
+gwascat
+txcutr

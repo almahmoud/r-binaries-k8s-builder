@@ -371,11 +371,8 @@
   "cicero": [
     "Gviz"
   ],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "cisPath": [],
-  "clipper": [],
   "cn.farms": [],
   "coMethDMR": [],
   "comapr": [
@@ -405,7 +402,6 @@
   "cummeRbund": [
     "Gviz"
   ],
-  "dagLogo": [],
   "decontX": [
     "celda",
     "scran"
@@ -454,7 +450,6 @@
   "gmapR": [],
   "gpuMagic": [],
   "graper": [],
-  "gwascat": [],
   "hypeR": [],
   "iCheck": [
     "lumi",
@@ -637,7 +632,6 @@
   ],
   "tradeSeq": [],
   "trigger": [],
-  "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [
     "Gviz"
@@ -645,9 +639,7 @@
   "visiumStitched": [
     "DropletUtils"
   ],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],

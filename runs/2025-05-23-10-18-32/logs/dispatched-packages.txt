@@ -2149,3 +2149,5 @@ Rqc
 ggbio
 karyoploteR
 miaDash
+circRNAprofiler
+vtpnet
