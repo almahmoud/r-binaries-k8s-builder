@@ -443,7 +443,6 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "FeatSeekR": [],
   "FindIT2": [
     "GenomicFeatures"
   ],
@@ -699,7 +698,6 @@
     "GenomicFeatures"
   ],
   "MethylSeekR": [],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "lumi",
     "methylumi",
@@ -999,7 +997,6 @@
   "SCOPE": [],
   "SCnorm": [],
   "SEraster": [],
-  "SEtools": [],
   "SGCP": [],
   "SGSeq": [
     "GenomicFeatures"
@@ -1454,7 +1451,6 @@
     "scater",
     "scuttle"
   ],
-  "consICA": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -2111,7 +2107,6 @@
     "GSVA",
     "GenomicFeatures"
   ],
-  "omXplore": [],
   "omicsPrint": [],
   "oppar": [
     "GSVA"
@@ -2185,8 +2180,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "ptairMS": [],
-  "puma": [],
   "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures"
