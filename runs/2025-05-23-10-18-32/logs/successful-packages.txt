@@ -2251,3 +2251,5 @@ GenomicOZone
 geomeTriD
 saseR
 UMI4Cats
+decontX
+primirTSS
