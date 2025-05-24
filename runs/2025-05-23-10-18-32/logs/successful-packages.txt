@@ -1847,3 +1847,8 @@ SCnorm
 spicyR
 MEDIPS
 monaLisa
+Cogito
+CRISPRball
+CSSQ
+DiffBind
+scTGIF

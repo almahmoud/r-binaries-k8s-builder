@@ -137,9 +137,7 @@
   "CNVrd2": [
     "VariantAnnotation"
   ],
-  "CRISPRball": [],
   "CRISPRseek": [],
-  "CSSQ": [],
   "CTexploreR": [],
   "CexoR": [],
   "ChAMP": [
@@ -158,9 +156,7 @@
     "VariantAnnotation"
   ],
   "ChIPComp": [],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPXpress": [],
   "ChIPanalyser": [],
   "ChIPexoQual": [
@@ -188,7 +184,6 @@
   "CleanUpRNAseq": [
     "ensembldb"
   ],
-  "Cogito": [],
   "CopyNumberPlots": [
     "karyoploteR",
     "regioneR",
@@ -235,7 +230,6 @@
   "DegNorm": [
     "txdbmaker"
   ],
-  "DiffBind": [],
   "Dino": [
     "scran"
   ],
@@ -1500,7 +1494,6 @@
     "slingshot"
   ],
   "scReClassify": [],
-  "scTGIF": [],
   "scTensor": [],
   "scTreeViz": [
     "epivizr",
@@ -1678,7 +1671,6 @@
   ],
   "vulcan": [
     "ChIPpeakAnno",
-    "DiffBind",
     "regioneR",
     "ensembldb"
   ],
