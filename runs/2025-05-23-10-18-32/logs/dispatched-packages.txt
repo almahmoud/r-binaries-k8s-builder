@@ -2247,3 +2247,4 @@ RNAmodR.RiboMethSeq
 compEpiTools
 crisprShiny
 crisprVerse
+geomeTriD

@@ -15,7 +15,6 @@
     "BASiCS",
     "scran"
   ],
-  "BOBaFIT": [],
   "BatchQC": [
     "scran"
   ],
@@ -90,7 +89,6 @@
     "lumi"
   ],
   "NADfinder": [
-    "trackViewer",
     "ATACseqQC"
   ],
   "NormqPCR": [],
@@ -130,7 +128,6 @@
   "SpotClean": [],
   "UMI4Cats": [],
   "Ularcirc": [],
-  "VariantFiltering": [],
   "Voyager": [],
   "XNAString": [],
   "YAPSA": [
@@ -197,9 +194,7 @@
     "lumi"
   ],
   "genoCN": [],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "gpuMagic": [],
   "graper": [],
   "hypeR": [],
@@ -219,7 +214,6 @@
     "missMethyl"
   ],
   "missMethyl": [],
-  "mitoClone2": [],
   "motifbreakR": [],
   "msImpute": [
     "scran"
@@ -283,7 +277,6 @@
   "svaNUMT": [],
   "svaRetro": [],
   "tadar": [],
-  "trackViewer": [],
   "trigger": [],
   "uncoverappLib": [],
   "vulcan": [],

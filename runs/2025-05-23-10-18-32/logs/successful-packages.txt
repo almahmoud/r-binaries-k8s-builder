@@ -2154,3 +2154,7 @@ methylPipe
 OGRE
 regutools
 biomvRCNS
+BOBaFIT
+mitoClone2
+trackViewer
+VariantFiltering
