@@ -533,7 +533,6 @@
   ],
   "CATALYST": [
     "SingleCellExperiment",
-    "FlowSOM",
     "SummarizedExperiment",
     "scater",
     "scuttle",
@@ -1610,7 +1609,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FlowSOM": [],
   "FuseSOM": [
     "SummarizedExperiment"
   ],
@@ -2595,9 +2593,7 @@
   "MetNet": [
     "SummarizedExperiment"
   ],
-  "MetaCyto": [
-    "FlowSOM"
-  ],
+  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -4145,8 +4141,7 @@
     "SummarizedExperiment",
     "SpatialExperiment",
     "treekoR",
-    "diffcyt",
-    "FlowSOM"
+    "diffcyt"
   ],
   "StructuralVariantAnnotation": [
     "rtracklayer",
@@ -5262,8 +5257,7 @@
   ],
   "censcyt": [
     "diffcyt",
-    "SummarizedExperiment",
-    "FlowSOM"
+    "SummarizedExperiment"
   ],
   "cfDNAPro": [
     "GenomicAlignments",
@@ -5803,7 +5797,6 @@
     "CATALYST",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "FlowSOM",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -6005,7 +5998,6 @@
     "AnnotationDbi"
   ],
   "diffcyt": [
-    "FlowSOM",
     "SummarizedExperiment"
   ],
   "dinoR": [
@@ -6151,7 +6143,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "epialleleR": [],
   "epidecodeR": [
     "rtracklayer",
     "Rsamtools",
@@ -6620,7 +6611,6 @@
   "ggmanh": [
     "SeqArray"
   ],
-  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -6752,7 +6742,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "heatmaps": [],
   "hermes": [
     "SummarizedExperiment",
     "biomaRt",
@@ -6937,7 +6926,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "igvShiny": [],
   "imcRtools": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -8075,10 +8063,8 @@
     "AnnotationDbi",
     "DESeq2",
     "apeglm",
-    "phantasusLite",
     "SummarizedExperiment"
   ],
-  "phantasusLite": [],
   "phenoTest": [
     "annotate",
     "Category",
@@ -9014,7 +9000,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "heatmaps",
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
@@ -9331,7 +9316,6 @@
     "SummarizedExperiment",
     "CATALYST",
     "SingleCellExperiment",
-    "FlowSOM",
     "scater",
     "scuttle",
     "BiocSingular"
@@ -9686,13 +9670,11 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "FlowSOM",
     "SingleCellExperiment"
   ],
   "treekoR": [
     "SingleCellExperiment",
     "diffcyt",
-    "FlowSOM",
     "SummarizedExperiment"
   ],
   "tricycle": [

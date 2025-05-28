@@ -827,3 +827,9 @@ AssessORF
 cnvGSA
 methimpute
 packFinder
+epialleleR
+FlowSOM
+ggmsa
+heatmaps
+igvShiny
+phantasusLite
