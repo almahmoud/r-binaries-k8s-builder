@@ -691,3 +691,7 @@ mbQTL
 monocle
 simona
 snifter
+CIMICE
+KCsmart
+islify
+trio

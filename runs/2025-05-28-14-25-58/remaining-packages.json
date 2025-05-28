@@ -1192,9 +1192,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "CIMICE": [
-    "maftools"
-  ],
+  "CIMICE": [],
   "CINdex": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -1427,7 +1425,6 @@
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
-    "maftools",
     "AnnotationDbi",
     "DOSE",
     "enrichplot",
@@ -1600,7 +1597,6 @@
     "annotate",
     "rtracklayer",
     "Biostrings",
-    "siggenes",
     "DelayedMatrixStats",
     "genefilter",
     "GEOquery",
@@ -2341,7 +2337,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "genefilter",
     "GEOquery",
@@ -2850,7 +2845,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -2927,7 +2921,6 @@
     "AnnotationDbi",
     "GSEABase",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -3418,7 +3411,6 @@
     "XVector"
   ],
   "GNOSIS": [
-    "maftools",
     "cBioPortalData",
     "MultiAssayExperiment",
     "GenomeInfoDb",
@@ -3529,7 +3521,6 @@
     "ExperimentHub",
     "KEGGREST",
     "GSEABase",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -4494,9 +4485,7 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KCsmart": [
-    "siggenes"
-  ],
+  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "XVector",
@@ -4672,7 +4661,6 @@
     "KEGGREST",
     "rtracklayer",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "Rsamtools",
@@ -4782,7 +4770,6 @@
     "Rsamtools",
     "GenomicAlignments",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -4807,7 +4794,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -5421,7 +5407,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -5517,7 +5502,6 @@
     "SummarizedExperiment",
     "illuminaio",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -6217,7 +6201,6 @@
     "Biostrings"
   ],
   "PECA": [
-    "ROTS",
     "affy",
     "genefilter",
     "AnnotationDbi",
@@ -6309,7 +6292,6 @@
   "PRONE": [
     "SummarizedExperiment",
     "NormalyzerDE",
-    "ROTS",
     "MSnbase",
     "vsn",
     "POMA",
@@ -6730,7 +6712,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RBioFormats": [],
   "RCAS": [
     "GenomicRanges",
     "BSgenome",
@@ -6809,7 +6790,6 @@
     "XVector",
     "Rsamtools",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -7050,7 +7030,6 @@
     "SparseArray",
     "XVector"
   ],
-  "ROTS": [],
   "ROntoTools": [
     "KEGGREST",
     "Biostrings",
@@ -7079,7 +7058,6 @@
     "SparseArray"
   ],
   "RSeqAn": [],
-  "RTCA": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -7502,7 +7480,6 @@
     "Biostrings",
     "rtracklayer",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -7542,7 +7519,6 @@
     "affy"
   ],
   "RolDE": [
-    "ROTS",
     "SummarizedExperiment",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -7889,7 +7865,6 @@
     "h5mread"
   ],
   "SPEM": [],
-  "SPIA": [],
   "SPIAT": [
     "SpatialExperiment",
     "dittoSeq",
@@ -8490,7 +8465,6 @@
     "XVector",
     "ConsensusClusterPlus"
   ],
-  "Streamer": [],
   "Structstrings": [
     "Biostrings",
     "XVector",
@@ -9349,7 +9323,6 @@
   "XDE": [
     "genefilter",
     "GeneMeta",
-    "siggenes",
     "AnnotationDbi",
     "annotate",
     "KEGGREST",
@@ -9698,7 +9671,6 @@
     "alabaster.base",
     "alabaster.sce",
     "alabaster.spatial",
-    "RBioFormats",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "alabaster.schemas",
@@ -9917,7 +9889,6 @@
     "genefilter",
     "illuminaio",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -10237,7 +10208,6 @@
     "GenomicFeatures",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "DelayedArray",
     "HDF5Array",
@@ -11410,7 +11380,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -12031,7 +12000,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -12362,7 +12330,6 @@
     "GenomeInfoDb",
     "EnrichmentBrowser",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",
@@ -12570,7 +12537,6 @@
     "biovizBase",
     "GenomicAlignments",
     "OrganismDbi",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -12928,7 +12894,6 @@
     "XVector",
     "rtracklayer",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -12939,7 +12904,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "fgga": [],
   "findIPs": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -13116,7 +13080,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -13832,7 +13795,6 @@
     "XVector",
     "Biostrings"
   ],
-  "hmdbQuery": [],
   "hoodscanR": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -13900,7 +13862,6 @@
     "genefilter",
     "illuminaio",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -13923,7 +13884,6 @@
     "GenomicFeatures",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -14227,9 +14187,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "islify": [
-    "RBioFormats"
-  ],
+  "islify": [],
   "isobar": [
     "biomaRt",
     "AnnotationDbi",
@@ -14278,7 +14236,6 @@
     "BSgenome",
     "GenomeInfoDb",
     "GenomicRanges",
-    "maftools",
     "plyranges",
     "VariantAnnotation",
     "Biostrings",
@@ -14478,7 +14435,6 @@
     "genefilter",
     "illuminaio",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -14590,7 +14546,6 @@
     "SparseArray",
     "XVector"
   ],
-  "maftools": [],
   "magpie": [
     "rtracklayer",
     "GenomicRanges",
@@ -14909,7 +14864,6 @@
     "AnnotationDbi",
     "annotate",
     "XVector",
-    "siggenes",
     "illuminaio",
     "GEOquery",
     "rtracklayer",
@@ -14941,7 +14895,6 @@
     "illuminaio",
     "GenomicFeatures",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -15036,7 +14989,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -15085,7 +15037,6 @@
     "XVector",
     "rtracklayer",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -15345,7 +15296,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -15387,7 +15337,6 @@
     "GenomicFeatures",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -15809,7 +15758,6 @@
     "GenomicFeatures",
     "GenomicRanges",
     "decompTumor2Sig",
-    "maftools",
     "XVector",
     "rtracklayer",
     "Rsamtools",
@@ -17095,7 +17043,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -17323,7 +17270,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "genefilter",
     "GEOquery",
@@ -17608,7 +17554,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "roastgsa": [],
   "ropls": [
     "MultiAssayExperiment",
     "MultiDataSet",
@@ -18644,7 +18589,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -18672,7 +18616,6 @@
     "SummarizedExperiment",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -18698,7 +18641,6 @@
     "SparseArray",
     "XVector"
   ],
-  "siggenes": [],
   "signatureSearch": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -18863,7 +18805,6 @@
     "GenomicFeatures",
     "Biostrings",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -19922,9 +19863,7 @@
     "ScaledMatrix",
     "Biostrings"
   ],
-  "trio": [
-    "siggenes"
-  ],
+  "trio": [],
   "triplex": [
     "XVector",
     "Biostrings",
@@ -20197,7 +20136,6 @@
     "XVector",
     "rtracklayer",
     "bumphunter",
-    "siggenes",
     "DelayedMatrixStats",
     "GEOquery",
     "DelayedArray",
@@ -20350,7 +20288,6 @@
     "Biostrings",
     "bumphunter",
     "GenomeInfoDb",
-    "siggenes",
     "illuminaio",
     "DelayedMatrixStats",
     "genefilter",
@@ -20393,7 +20330,6 @@
     "SummarizedExperiment",
     "AnnotationDbi",
     "KEGGREST",
-    "SPIA",
     "graphite",
     "pathview",
     "safe",

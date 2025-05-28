@@ -533,3 +533,13 @@ RIVER
 RRHO
 SNPRelate
 subSeq
+fgga
+hmdbQuery
+maftools
+RBioFormats
+roastgsa
+ROTS
+RTCA
+siggenes
+SPIA
+Streamer
