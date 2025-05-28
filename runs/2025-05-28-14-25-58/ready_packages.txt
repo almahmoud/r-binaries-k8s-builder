@@ -1,5 +1,0 @@
-BiocSingular
-beachmat.tiledb
-clusterSeq
-scPCA
-scrapper

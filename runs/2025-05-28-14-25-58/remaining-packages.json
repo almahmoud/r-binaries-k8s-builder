@@ -201,7 +201,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "AssessORF": [],
   "BANDITS": [
     "DRIMSeq"
   ],
@@ -4676,7 +4675,6 @@
   ],
   "alabaster": [
     "alabaster.matrix",
-    "alabaster.ranges",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -4705,25 +4703,21 @@
     "MultiAssayExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
     "alabaster.matrix",
     "HDF5Array"
   ],
   "alabaster.matrix": [
     "HDF5Array"
   ],
-  "alabaster.ranges": [],
   "alabaster.sce": [
     "SingleCellExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
     "alabaster.matrix",
     "HDF5Array"
   ],
   "alabaster.se": [
     "SummarizedExperiment",
-    "alabaster.ranges",
     "alabaster.matrix",
     "HDF5Array"
   ],
@@ -4736,7 +4730,6 @@
     "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
-    "alabaster.ranges",
     "alabaster.matrix",
     "HDF5Array",
     "scuttle"
@@ -4747,7 +4740,6 @@
     "SingleCellExperiment",
     "alabaster.se",
     "SummarizedExperiment",
-    "alabaster.ranges",
     "alabaster.matrix",
     "HDF5Array"
   ],
@@ -4758,7 +4750,6 @@
     "alabaster.string",
     "Rsamtools",
     "SummarizedExperiment",
-    "alabaster.ranges",
     "alabaster.matrix",
     "AnnotationDbi",
     "rtracklayer",
@@ -5497,7 +5488,6 @@
   "cn.mops": [
     "Rsamtools"
   ],
-  "cnvGSA": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -7277,7 +7267,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "methimpute": [],
   "methodical": [
     "SummarizedExperiment",
     "AnnotationHub",
@@ -7986,7 +7975,6 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "packFinder": [],
   "padma": [
     "SummarizedExperiment",
     "MultiAssayExperiment"
