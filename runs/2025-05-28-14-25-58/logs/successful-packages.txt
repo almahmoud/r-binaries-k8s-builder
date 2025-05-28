@@ -862,3 +862,17 @@ rSWeeP
 seqPattern
 SynExtend
 transomics2cytoscape
+alabaster.bumpy
+flowClust
+flowTime
+flowViz
+ggseqalign
+GrafGen
+LinTInd
+MetaCyto
+MethTargetedNGS
+MSA2dist
+phyloseq
+QSutils
+sangerseqR
+scanMiR

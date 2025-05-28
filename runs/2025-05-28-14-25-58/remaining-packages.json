@@ -12,9 +12,7 @@
     "SummarizedExperiment",
     "AnnotationDbi"
   ],
-  "ADAPT": [
-    "phyloseq"
-  ],
+  "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -623,7 +621,6 @@
     "SummarizedExperiment"
   ],
   "CONFESS": [
-    "flowClust",
     "flowMerge"
   ],
   "COTAN": [
@@ -999,9 +996,7 @@
     "flowWorkspace",
     "openCyto",
     "ggcyto",
-    "ncdfFlow",
-    "flowViz",
-    "flowClust"
+    "ncdfFlow"
   ],
   "CytoPipeline": [
     "ggcyto",
@@ -1788,8 +1783,7 @@
     "AnnotationDbi"
   ],
   "GateFinder": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
   "GeneBreak": [
     "QDNAseq",
@@ -1928,7 +1922,6 @@
     "annotate",
     "AnnotationForge"
   ],
-  "GrafGen": [],
   "GreyListChIP": [
     "GenomicAlignments",
     "BSgenome",
@@ -2233,7 +2226,6 @@
   "LimROTS": [
     "SummarizedExperiment"
   ],
-  "LinTInd": [],
   "LinkHD": [
     "MultiAssayExperiment",
     "SummarizedExperiment"
@@ -2299,7 +2291,6 @@
     "SummarizedExperiment"
   ],
   "MBECS": [
-    "phyloseq",
     "sva",
     "genefilter",
     "AnnotationDbi",
@@ -2477,7 +2468,6 @@
   "MPRAnalyze": [
     "SummarizedExperiment"
   ],
-  "MSA2dist": [],
   "MSPrep": [
     "SummarizedExperiment",
     "sva",
@@ -2558,7 +2548,6 @@
   "MetNet": [
     "SummarizedExperiment"
   ],
-  "MetaCyto": [],
   "MetaNeighbor": [
     "SummarizedExperiment",
     "SingleCellExperiment"
@@ -2611,7 +2600,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "MethTargetedNGS": [],
   "MethylAid": [
     "minfi",
     "SummarizedExperiment",
@@ -3074,7 +3062,6 @@
     "annotate"
   ],
   "PathoStat": [
-    "phyloseq",
     "DESeq2",
     "SummarizedExperiment"
   ],
@@ -3181,7 +3168,6 @@
     "SummarizedExperiment",
     "AnnotationFilter"
   ],
-  "QSutils": [],
   "QTLExperiment": [
     "SummarizedExperiment"
   ],
@@ -3254,9 +3240,7 @@
     "biomaRt",
     "SummarizedExperiment"
   ],
-  "RCM": [
-    "phyloseq"
-  ],
+  "RCM": [],
   "RCSL": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -3424,9 +3408,7 @@
   "ROCpAI": [
     "SummarizedExperiment"
   ],
-  "RPA": [
-    "phyloseq"
-  ],
+  "RPA": [],
   "RSVSim": [
     "ShortRead",
     "Rsamtools",
@@ -3779,9 +3761,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "SIAMCAT": [
-    "phyloseq"
-  ],
+  "SIAMCAT": [],
   "SICtools": [
     "Rsamtools"
   ],
@@ -3858,7 +3838,6 @@
   ],
   "SPsimSeq": [
     "SingleCellExperiment",
-    "phyloseq",
     "SummarizedExperiment",
     "AnnotationDbi"
   ],
@@ -3930,7 +3909,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "SimFFPE": [
@@ -4110,8 +4088,7 @@
     "biomaRt",
     "SummarizedExperiment",
     "AnnotationDbi",
-    "SingleCellExperiment",
-    "phyloseq"
+    "SingleCellExperiment"
   ],
   "TADCompare": [
     "HiCcompare",
@@ -4616,7 +4593,6 @@
     "alabaster.spatial",
     "alabaster.string",
     "alabaster.vcf",
-    "alabaster.bumpy",
     "alabaster.mae",
     "MultiAssayExperiment",
     "HDF5Array",
@@ -4631,7 +4607,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "alabaster.bumpy": [],
   "alabaster.files": [
     "Rsamtools"
   ],
@@ -5446,7 +5421,6 @@
     "AnnotationFilter"
   ],
   "combi": [
-    "phyloseq",
     "SummarizedExperiment"
   ],
   "concordexR": [
@@ -5707,9 +5681,7 @@
     "BSgenome"
   ],
   "cyanoFilter": [
-    "flowDensity",
-    "flowClust",
-    "flowViz"
+    "flowDensity"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -5772,7 +5744,6 @@
   ],
   "dar": [
     "mia",
-    "phyloseq",
     "MultiAssayExperiment",
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -5782,8 +5753,7 @@
     "BiocSingular"
   ],
   "ddPCRclust": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
   "debCAM": [
     "SummarizedExperiment"
@@ -5977,7 +5947,6 @@
   ],
   "doubletrouble": [
     "syntenet",
-    "MSA2dist",
     "AnnotationDbi",
     "GenomicFeatures",
     "rtracklayer",
@@ -6313,46 +6282,30 @@
     "AnnotationFilter"
   ],
   "flowBin": [
-    "flowFP",
-    "flowViz"
+    "flowFP"
   ],
-  "flowClust": [],
   "flowCut": [
-    "flowDensity",
-    "flowViz"
+    "flowDensity"
   ],
-  "flowDensity": [
-    "flowViz"
-  ],
-  "flowFP": [
-    "flowViz"
-  ],
+  "flowDensity": [],
+  "flowFP": [],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
     "ncdfFlow"
   ],
-  "flowMerge": [
-    "flowClust"
-  ],
+  "flowMerge": [],
   "flowSpecs": [],
   "flowStats": [
     "flowWorkspace",
-    "ncdfFlow",
-    "flowViz"
+    "ncdfFlow"
   ],
-  "flowTime": [],
-  "flowTrans": [
-    "flowViz",
-    "flowClust"
-  ],
+  "flowTrans": [],
   "flowVS": [
-    "flowViz",
     "flowStats",
     "flowWorkspace",
     "ncdfFlow"
   ],
-  "flowViz": [],
   "flowWorkspace": [
     "ncdfFlow"
   ],
@@ -6534,7 +6487,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "ggseqalign": [],
   "ggspavis": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -7391,12 +7343,8 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "microbiome": [
-    "phyloseq"
-  ],
-  "microbiomeDASim": [
-    "phyloseq"
-  ],
+  "microbiome": [],
+  "microbiomeDASim": [],
   "microbiomeExplorer": [
     "DESeq2",
     "SummarizedExperiment"
@@ -7801,10 +7749,8 @@
     "AnnotationDbi"
   ],
   "openCyto": [
-    "flowViz",
     "ncdfFlow",
-    "flowWorkspace",
-    "flowClust"
+    "flowWorkspace"
   ],
   "oposSOM": [
     "biomaRt",
@@ -7974,7 +7920,6 @@
   "phenopath": [
     "SummarizedExperiment"
   ],
-  "phyloseq": [],
   "pipeComp": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8048,8 +7993,7 @@
     "GenomicAlignments",
     "RPA",
     "SummarizedExperiment",
-    "Rsamtools",
-    "phyloseq"
+    "Rsamtools"
   ],
   "preciseTAD": [
     "rCGH",
@@ -8279,9 +8223,7 @@
   "receptLoss": [
     "SummarizedExperiment"
   ],
-  "reconsi": [
-    "phyloseq"
-  ],
+  "reconsi": [],
   "recount": [
     "SummarizedExperiment",
     "derfinder",
@@ -8487,10 +8429,7 @@
     "AnnotationDbi",
     "biomaRt"
   ],
-  "sangeranalyseR": [
-    "sangerseqR"
-  ],
-  "sangerseqR": [],
+  "sangeranalyseR": [],
   "saseR": [
     "ASpli",
     "GenomicFeatures",
@@ -8707,9 +8646,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "scanMiR": [],
   "scanMiRApp": [
-    "scanMiR",
     "AnnotationDbi",
     "AnnotationFilter",
     "AnnotationHub",
@@ -8745,9 +8682,7 @@
     "SummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "scifer": [
-    "sangerseqR"
-  ],
+  "scifer": [],
   "scmap": [
     "SingleCellExperiment",
     "SummarizedExperiment"
@@ -9789,7 +9724,6 @@
     "annotate"
   ],
   "zitools": [
-    "phyloseq",
     "SummarizedExperiment",
     "DESeq2"
   ]
