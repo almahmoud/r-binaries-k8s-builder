@@ -3369,7 +3369,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "biotmle": [],
   "biovizBase": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -3530,7 +3529,6 @@
   "ccfindR": [
     "SingleCellExperiment"
   ],
-  "ccmap": [],
   "celda": [
     "SingleCellExperiment",
     "scater",
@@ -3713,7 +3711,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "combi": [],
   "concordexR": [
     "SingleCellExperiment",
     "SpatialExperiment"
@@ -3878,7 +3875,6 @@
     "SingleCellExperiment"
   ],
   "csaw": [],
-  "csdR": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -4891,8 +4887,7 @@
     "MultiAssayExperiment"
   ],
   "metabolomicsWorkbenchR": [
-    "MultiAssayExperiment",
-    "struct"
+    "MultiAssayExperiment"
   ],
   "metagene2": [
     "rtracklayer",
@@ -5929,7 +5924,6 @@
     "scuttle"
   ],
   "scMultiSim": [],
-  "scPCA": [],
   "scPipe": [
     "SingleCellExperiment",
     "DropletUtils",
@@ -6041,7 +6035,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scrapper": [],
   "screenCounter": [],
   "scruff": [
     "GenomicAlignments",
@@ -6367,16 +6360,12 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "struct": [],
-  "structToolbox": [
-    "struct"
-  ],
+  "structToolbox": [],
   "supersigs": [],
   "surfaltr": [],
   "survClust": [
     "MultiAssayExperiment"
   ],
-  "survtype": [],
   "sva": [
     "genefilter",
     "annotate"
@@ -6469,10 +6458,8 @@
     "tidySingleCellExperiment",
     "SingleCellExperiment"
   ],
-  "tidySummarizedExperiment": [],
   "tidybulk": [],
   "tidyomics": [
-    "tidySummarizedExperiment",
     "tidySingleCellExperiment",
     "tidybulk",
     "plyranges",
@@ -6709,7 +6696,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "zFPKM": [],
   "zellkonverter": [
     "SingleCellExperiment"
   ],

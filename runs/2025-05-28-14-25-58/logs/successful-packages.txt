@@ -935,3 +935,13 @@ RTN
 SeqArray
 tidytof
 transite
+biotmle
+ccmap
+combi
+csdR
+scPCA
+scrapper
+struct
+survtype
+tidySummarizedExperiment
+zFPKM

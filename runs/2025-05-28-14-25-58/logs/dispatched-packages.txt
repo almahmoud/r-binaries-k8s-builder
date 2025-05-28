@@ -1204,3 +1204,4 @@ seq2pathway
 ssviz
 surfaltr
 tracktables
+structToolbox
