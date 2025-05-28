@@ -522,3 +522,14 @@ TRONCO
 mnem
 netresponse
 paircompviz
+AlpsNMR
+BiocNeighbors
+MSstatsBig
+MSstatsBioNet
+MSstatsTMT
+MethylMix
+basilisk
+basilisk.utils
+biocmake
+rebook
+statTarget
