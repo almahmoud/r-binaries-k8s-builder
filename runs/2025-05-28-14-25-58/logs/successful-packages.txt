@@ -786,3 +786,9 @@ MsBackendRawFileReader
 MSstatsShiny
 PWMEnrich
 Structstrings
+affyILM
+affyPLM
+GenomicRanges
+idpr
+maskBAD
+rhdf5client
