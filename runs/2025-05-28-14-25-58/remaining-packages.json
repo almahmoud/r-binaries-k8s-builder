@@ -3766,7 +3766,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "customCMPdb": [],
   "customProDB": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -4566,7 +4565,6 @@
     "genefilter",
     "annotate"
   ],
-  "ipdDb": [],
   "isobar": [],
   "isomiRs": [
     "DEGreport",
@@ -4584,7 +4582,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "keggorthology": [],
   "kissDE": [
     "DESeq2",
     "DSS",
@@ -4769,7 +4766,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "methyLImp2": [],
   "methylCC": [
     "minfi",
     "bsseq",
@@ -4839,7 +4835,6 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "methylscaper": [],
   "methylumi": [
     "minfi",
     "annotate",
@@ -5013,7 +5008,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "mpra": [],
   "msImpute": [
     "scran",
     "SingleCellExperiment",
@@ -5032,7 +5026,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "mslp": [],
   "msmsEDA": [
     "MSnbase",
     "PSMatch",
@@ -5061,7 +5054,6 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "multiWGCNA": [],
   "multistateQTL": [
     "QTLExperiment"
   ],
@@ -5185,7 +5177,6 @@
     "RaggedExperiment"
   ],
   "omicsViewer": [],
-  "oncomix": [],
   "ontoProc": [],
   "openCyto": [
     "ncdfFlow",
@@ -5472,7 +5463,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rGenomeTracks": [],
   "rScudo": [],
   "rTRM": [],
   "rTRMui": [
