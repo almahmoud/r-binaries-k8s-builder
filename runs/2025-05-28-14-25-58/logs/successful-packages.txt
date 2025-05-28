@@ -1052,3 +1052,13 @@ pogos
 proDA
 rTRM
 smartid
+beachmat.hdf5
+GBScleanR
+ggmanh
+IgGeneUsage
+multistateQTL
+omicplotR
+oposSOM
+rfPred
+safe
+structToolbox

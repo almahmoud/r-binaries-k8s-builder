@@ -947,7 +947,6 @@
   ],
   "EnrichmentBrowser": [
     "GSEABase",
-    "safe",
     "annotate"
   ],
   "EpiCompare": [
@@ -1078,7 +1077,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GBScleanR": [],
   "GDCRNATools": [
     "DESeq2",
     "clusterProfiler",
@@ -1132,7 +1130,6 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
     "GSEABase",
-    "safe",
     "annotate"
   ],
   "GSRI": [
@@ -1386,7 +1383,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "IgGeneUsage": [],
   "InPAS": [
     "BSgenome",
     "cleanUpdTSeq",
@@ -3147,7 +3143,6 @@
   "bayNorm": [
     "SingleCellExperiment"
   ],
-  "beachmat.hdf5": [],
   "beadarray": [],
   "bedbaser": [
     "rtracklayer",
@@ -3883,8 +3878,7 @@
     "GSEABase",
     "zenith",
     "annotate",
-    "EnrichmentBrowser",
-    "safe"
+    "EnrichmentBrowser"
   ],
   "drugTargetInteractions": [
     "UniProt.ws",
@@ -4238,7 +4232,6 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "ggmanh": [],
   "ggsc": [
     "SingleCellExperiment"
   ],
@@ -4944,7 +4937,6 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "multistateQTL": [],
   "mumosa": [
     "SingleCellExperiment",
     "scuttle",
@@ -5055,7 +5047,6 @@
     "genefilter",
     "annotate"
   ],
-  "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment",
     "RaggedExperiment"
@@ -5064,7 +5055,6 @@
     "ncdfFlow",
     "flowWorkspace"
   ],
-  "oposSOM": [],
   "oppar": [
     "GSEABase",
     "GSVA",
@@ -5413,7 +5403,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "rfPred": [],
   "rgsepd": [
     "DESeq2",
     "goseq",
@@ -5473,7 +5462,6 @@
     "GenomicAlignments"
   ],
   "sSNAPPY": [],
-  "safe": [],
   "sampleClassifier": [
     "MGFM",
     "MGFR",
@@ -5999,7 +5987,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "structToolbox": [],
   "surfaltr": [],
   "survClust": [
     "MultiAssayExperiment"
@@ -6315,7 +6302,6 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "safe",
     "annotate"
   ],
   "zinbwave": [
