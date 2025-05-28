@@ -396,13 +396,11 @@
   "CHETAH": [
     "SingleCellExperiment"
   ],
-  "CHRONOS": [],
   "CINdex": [],
   "CNTools": [
     "genefilter",
     "annotate"
   ],
-  "CNVPanelizer": [],
   "CNVRanger": [
     "RaggedExperiment",
     "GDSArray"
@@ -2354,10 +2352,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNduals": [],
-  "RTNsurvival": [
-    "RTNduals"
-  ],
+  "RTNsurvival": [],
   "RUCova": [
     "SingleCellExperiment"
   ],
@@ -3689,7 +3684,6 @@
     "SingleCellExperiment"
   ],
   "cmapR": [],
-  "cn.mops": [],
   "coMethDMR": [
     "AnnotationHub",
     "bumphunter",
@@ -4446,7 +4440,6 @@
     "annotate"
   ],
   "getDEE2": [],
-  "geyser": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -5413,9 +5406,7 @@
     "annotate"
   ],
   "pairkat": [],
-  "panelcn.mops": [
-    "cn.mops"
-  ],
+  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub"
@@ -6499,7 +6490,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tracktables": [],
   "tradeSeq": [
     "SingleCellExperiment",
     "slingshot",

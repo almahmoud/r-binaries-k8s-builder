@@ -1205,3 +1205,5 @@ ssviz
 surfaltr
 tracktables
 structToolbox
+RTNsurvival
+panelcn.mops

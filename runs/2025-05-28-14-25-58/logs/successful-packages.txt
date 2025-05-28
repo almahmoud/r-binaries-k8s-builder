@@ -945,3 +945,9 @@ struct
 survtype
 tidySummarizedExperiment
 zFPKM
+CHRONOS
+cn.mops
+CNVPanelizer
+geyser
+RTNduals
+tracktables
