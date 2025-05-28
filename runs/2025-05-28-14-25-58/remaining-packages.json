@@ -799,7 +799,6 @@
     "Biostrings",
     "XVector"
   ],
-  "BiocPkgTools": [],
   "BiocSet": [
     "AnnotationDbi",
     "KEGGREST",
@@ -2537,7 +2536,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "EBcoexpress": [],
   "EDASeq": [
     "ShortRead",
     "Rsamtools",
@@ -3926,7 +3924,6 @@
     "GenomicAlignments",
     "Rsamtools",
     "DESeq2",
-    "plgem",
     "rtracklayer",
     "SummarizedExperiment",
     "Biostrings",
@@ -4473,7 +4470,6 @@
     "Biostrings",
     "XVector"
   ],
-  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -5015,9 +5011,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Mfuzz": [
-    "tkWidgets"
-  ],
+  "Mfuzz": [],
   "MiChip": [],
   "MiRaGE": [
     "AnnotationDbi",
@@ -5304,7 +5298,6 @@
     "DESeq2",
     "SummarizedExperiment",
     "GenomicRanges",
-    "tkWidgets",
     "S4Arrays",
     "DelayedArray",
     "SparseArray",
@@ -5502,9 +5495,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "OLINgui": [
-    "tkWidgets"
-  ],
+  "OLINgui": [],
   "OMICsPCA": [
     "HelloRanges",
     "MultiAssayExperiment",
@@ -6311,7 +6302,6 @@
     "h5mread",
     "Biostrings"
   ],
-  "RImmPort": [],
   "RJMCMCNucleosomes": [
     "GenomicRanges",
     "consensusSeekeR",
@@ -6506,7 +6496,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RSeqAn": [],
   "RTCGAToolbox": [
     "DelayedArray",
     "GenomicRanges",
@@ -6671,7 +6660,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "ReUseData": [],
   "ReactomeGSA": [
     "BiocSingular",
     "SummarizedExperiment",
@@ -7183,9 +7171,7 @@
   "SIMAT": [
     "mzR"
   ],
-  "SIMD": [
-    "methylMnM"
-  ],
+  "SIMD": [],
   "SMITE": [
     "GenomicRanges",
     "AnnotationDbi",
@@ -8222,7 +8208,6 @@
   "TargetDecoy": [
     "mzR"
   ],
-  "TargetScore": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray",
@@ -9436,7 +9421,6 @@
   "bioCancer": [
     "cBioPortalData",
     "AnnotationDbi",
-    "geNetClassifier",
     "DOSE",
     "clusterProfiler",
     "ReactomePA",
@@ -9779,7 +9763,6 @@
   "canceR": [
     "cBioPortalData",
     "GSEABase",
-    "geNetClassifier",
     "phenoTest",
     "MultiAssayExperiment",
     "GenomicRanges",
@@ -9825,7 +9808,6 @@
   ],
   "casper": [
     "GenomicRanges",
-    "gaga",
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
@@ -10374,7 +10356,6 @@
     "Biostrings",
     "XVector"
   ],
-  "cogena": [],
   "cogeqc": [
     "ggtree",
     "Biostrings",
@@ -10859,8 +10840,7 @@
     "flowViz"
   ],
   "cycle": [
-    "Mfuzz",
-    "tkWidgets"
+    "Mfuzz"
   ],
   "cydar": [
     "SingleCellExperiment",
@@ -12155,7 +12135,6 @@
     "SparseArray",
     "XVector"
   ],
-  "gDRstyle": [],
   "gDRutils": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -12190,7 +12169,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "gaga": [],
   "gage": [
     "KEGGREST",
     "AnnotationDbi",
@@ -12222,7 +12200,6 @@
     "XVector",
     "Biostrings"
   ],
-  "geNetClassifier": [],
   "gemma.R": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -13586,7 +13563,6 @@
   "metaSeq": [
     "NOISeq"
   ],
-  "metabCombiner": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",
@@ -13790,7 +13766,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "methylMnM": [],
   "methylPipe": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -14621,7 +14596,6 @@
   "ncdfFlow": [
     "flowCore"
   ],
-  "ndexr": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -14682,7 +14656,6 @@
     "SparseArray",
     "XVector"
   ],
-  "nnNorm": [],
   "nnSVG": [
     "SpatialExperiment",
     "SingleCellExperiment",
@@ -14697,7 +14670,6 @@
     "HTqPCR",
     "affy"
   ],
-  "normalize450K": [],
   "npGSEA": [
     "GSEABase",
     "annotate",
@@ -15303,7 +15275,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "plgem": [],
   "plier": [
     "affy"
   ],
@@ -15885,7 +15856,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "randPack": [],
   "rbsurv": [],
   "rebook": [],
   "receptLoss": [
@@ -17132,7 +17102,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sevenbridges": [],
   "shinyDSP": [
     "AnnotationHub",
     "ExperimentHub",
@@ -17782,7 +17751,6 @@
     "GenomicAlignments",
     "pwalign"
   ],
-  "stepNorm": [],
   "strandCheckR": [
     "Rsamtools",
     "GenomicAlignments",
@@ -18151,7 +18119,6 @@
     "Biostrings",
     "XVector"
   ],
-  "tkWidgets": [],
   "tomoda": [
     "SummarizedExperiment",
     "GenomicRanges",

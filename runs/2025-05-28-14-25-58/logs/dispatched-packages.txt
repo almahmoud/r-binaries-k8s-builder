@@ -708,3 +708,6 @@ geNetClassifier
 mosbi
 ndexr
 normalize450K
+Mfuzz
+OLINgui
+SIMD
