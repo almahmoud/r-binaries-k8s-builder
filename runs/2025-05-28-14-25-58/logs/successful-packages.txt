@@ -951,3 +951,17 @@ CNVPanelizer
 geyser
 RTNduals
 tracktables
+AnnotationForge
+BPRMeth
+chromPlot
+cmapR
+dominoSignal
+eudysbiome
+genefu
+microbiome
+Modstrings
+QDNAseq
+sangeranalyseR
+supersigs
+wpm
+yamss
