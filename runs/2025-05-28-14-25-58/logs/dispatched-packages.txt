@@ -919,3 +919,6 @@ seqPattern
 target
 transite
 triplex
+HDF5Array
+memes
+motifTestR

@@ -792,3 +792,12 @@ GenomicRanges
 idpr
 maskBAD
 rhdf5client
+CytoDx
+DelayedRandomArray
+flowAI
+h5mread
+msPurity
+Rarr
+Sconify
+SQLDataFrame
+universalmotif
