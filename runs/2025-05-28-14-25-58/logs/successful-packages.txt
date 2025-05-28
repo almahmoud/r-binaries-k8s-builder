@@ -898,3 +898,13 @@ adverSCarial
 CNVMetrics
 CompoundDb
 SigFuge
+AnnotationDbi
+DMRScan
+DRIMSeq
+FELLA
+GMRP
+memes
+SummarizedExperiment
+tidyFlowCore
+TnT
+triplex
