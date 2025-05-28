@@ -452,3 +452,5 @@ profileScoreDist
 snpStats
 unifiedWMWqPCR
 wppi
+fobitools
+metapone

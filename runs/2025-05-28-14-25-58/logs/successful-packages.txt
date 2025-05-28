@@ -273,3 +273,12 @@ GSCA
 iChip
 IntramiRExploreR
 Oscope
+fgsea
+GSEAmining
+Harman
+interactiveDisplayBase
+OPWeight
+QRscore
+RGSEA
+SharedObject
+TaxSEA
