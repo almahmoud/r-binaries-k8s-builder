@@ -695,3 +695,9 @@ CIMICE
 KCsmart
 islify
 trio
+MEIGOR
+MMUPHin
+RcwlPipelines
+dupRadar
+gDRstyle
+nempi

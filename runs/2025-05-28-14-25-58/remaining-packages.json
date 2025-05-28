@@ -80,7 +80,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
     "GenomeInfoDb",
@@ -128,7 +127,6 @@
     "GenomicAlignments",
     "DESeq2",
     "SummarizedExperiment",
-    "Rsubread",
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
@@ -375,7 +373,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
     "GenomeInfoDb",
@@ -843,7 +840,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "BioQC": [],
   "BioTIP": [
     "GenomicRanges",
     "scran",
@@ -860,7 +856,6 @@
     "SparseArray",
     "ScaledMatrix"
   ],
-  "BiocCheck": [],
   "BiocHail": [],
   "BiocHubsShiny": [
     "AnnotationHub",
@@ -1199,10 +1194,6 @@
     "XVector"
   ],
   "CMA": [],
-  "CNORdt": [],
-  "CNORfeeder": [],
-  "CNORfuzzy": [],
-  "CNORode": [],
   "CNTools": [
     "genefilter",
     "AnnotationDbi",
@@ -1860,7 +1851,6 @@
     "GenomicRanges",
     "qsmooth",
     "Rsamtools",
-    "Rsubread",
     "SummarizedExperiment",
     "XVector",
     "rtracklayer",
@@ -1894,7 +1884,6 @@
     "SparseArray",
     "XVector"
   ],
-  "ClustAll": [],
   "ClusterFoldSimilarity": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2349,7 +2338,6 @@
     "annotate",
     "h5mread"
   ],
-  "DNAcycP2": [],
   "DNAfusion": [
     "GenomicRanges",
     "Rsamtools",
@@ -2453,7 +2441,6 @@
     "goseq",
     "plyranges",
     "Rsamtools",
-    "Rsubread",
     "KEGGREST",
     "XVector",
     "rtracklayer",
@@ -3027,7 +3014,6 @@
     "SparseArray"
   ],
   "ExCluster": [
-    "Rsubread",
     "GenomicRanges",
     "rtracklayer",
     "GenomeInfoDb",
@@ -3059,7 +3045,6 @@
     "GenomicFeatures",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "AnnotationDbi",
     "Biostrings",
     "GenomeInfoDb",
@@ -3169,7 +3154,6 @@
     "HDF5Array",
     "OUTRIDER",
     "pcaMethods",
-    "Rsubread",
     "KEGGREST",
     "Biostrings",
     "rtracklayer",
@@ -3360,7 +3344,6 @@
     "XVector"
   ],
   "GENESIS": [
-    "GWASTools",
     "GenomicRanges",
     "SeqArray",
     "SeqVarTools",
@@ -3609,7 +3592,6 @@
     "SparseArray",
     "AnnotationFilter"
   ],
-  "GWASTools": [],
   "GWENA": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4485,7 +4467,6 @@
     "AnnotationFilter",
     "annotate"
   ],
-  "KCsmart": [],
   "KEGGREST": [
     "Biostrings",
     "XVector",
@@ -4852,9 +4833,7 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "MEIGOR": [
-    "CNORode"
-  ],
+  "MEIGOR": [],
   "MGFM": [
     "AnnotationDbi",
     "annotate",
@@ -4988,9 +4967,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MMUPHin": [
-    "Maaslin2"
-  ],
+  "MMUPHin": [],
   "MODA": [
     "AnnotationDbi",
     "KEGGREST",
@@ -5208,11 +5185,9 @@
     "XVector",
     "SparseArray"
   ],
-  "Maaslin2": [],
   "Macarron": [
     "SummarizedExperiment",
     "DelayedArray",
-    "Maaslin2",
     "S4Arrays",
     "SparseArray",
     "GenomicRanges",
@@ -6317,7 +6292,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "PROPER": [],
   "PROPS": [
     "sva",
     "genefilter",
@@ -6703,7 +6677,6 @@
     "rtracklayer",
     "XVector",
     "GenomicFeatures",
-    "GWASTools",
     "SeqArray",
     "SeqVarTools",
     "SummarizedExperiment",
@@ -7139,8 +7112,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "RUVcorr": [],
-  "RUVnormalize": [],
   "RadioGx": [
     "CoreGx",
     "SummarizedExperiment",
@@ -7238,12 +7209,8 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "Rcwl": [],
-  "RcwlPipelines": [
-    "Rcwl"
-  ],
+  "RcwlPipelines": [],
   "ReUseData": [
-    "Rcwl",
     "RcwlPipelines"
   ],
   "ReactomeGSA": [
@@ -7557,7 +7524,6 @@
     "Biostrings",
     "XVector"
   ],
-  "Rsubread": [],
   "Rtpca": [],
   "S4Arrays": [],
   "SAIGEgds": [
@@ -10415,7 +10381,6 @@
     "Biostrings"
   ],
   "bnem": [
-    "epiNEM",
     "affy",
     "sva",
     "vsn",
@@ -10695,7 +10660,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "cbpManager": [],
   "ccImpute": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -11771,7 +11735,6 @@
   "cypress": [
     "TOAST",
     "SummarizedExperiment",
-    "PROPER",
     "DESeq2",
     "GenomicRanges",
     "GenomeInfoDb",
@@ -12145,7 +12108,6 @@
     "SummarizedExperiment",
     "DEXSeq",
     "GenomicRanges",
-    "Rsubread",
     "rtracklayer",
     "GenomeInfoDb",
     "ensembldb",
@@ -12355,9 +12317,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "dupRadar": [
-    "Rsubread"
-  ],
+  "dupRadar": [],
   "easier": [
     "progeny",
     "quantiseqr",
@@ -12480,7 +12440,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "epiNEM": [],
   "epialleleR": [
     "GenomicRanges",
     "GenomeInfoDb",
@@ -13148,9 +13107,7 @@
     "SparseArray",
     "XVector"
   ],
-  "gDRstyle": [
-    "BiocCheck"
-  ],
+  "gDRstyle": [],
   "gDRutils": [
     "MultiAssayExperiment",
     "SummarizedExperiment",
@@ -13673,7 +13630,6 @@
     "SparseArray"
   ],
   "gwasurvivr": [
-    "GWASTools",
     "VariantAnnotation",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -14187,7 +14143,6 @@
     "XVector",
     "GenomeInfoDb"
   ],
-  "islify": [],
   "isobar": [
     "biomaRt",
     "AnnotationDbi",
@@ -14481,7 +14436,6 @@
   ],
   "mBPCR": [
     "oligoClasses",
-    "GWASTools",
     "GenomicRanges",
     "SummarizedExperiment",
     "Biostrings",
@@ -14641,7 +14595,6 @@
     "XVector",
     "Biostrings"
   ],
-  "mbQTL": [],
   "mbkmeans": [
     "DelayedArray",
     "SingleCellExperiment",
@@ -14800,7 +14753,6 @@
     "SummarizedExperiment",
     "AnnotationHub",
     "annotatr",
-    "BiocCheck",
     "Biostrings",
     "BSgenome",
     "DelayedArray",
@@ -15006,7 +14958,6 @@
     "KEGGREST",
     "Rsamtools",
     "rtracklayer",
-    "BiocCheck",
     "OrganismDbi",
     "AnnotationForge",
     "GenomicAlignments"
@@ -15855,9 +15806,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "nempi": [
-    "epiNEM"
-  ],
+  "nempi": [],
   "netSmooth": [
     "scater",
     "clusterExperiment",
@@ -17467,7 +17416,6 @@
     "rtracklayer",
     "Rsamtools",
     "RUVSeq",
-    "Rsubread",
     "XVector",
     "txdbmaker",
     "KEGGREST",
@@ -17997,7 +17945,6 @@
     "GenomicAlignments",
     "MultiAssayExperiment",
     "Rsamtools",
-    "Rsubread",
     "rtracklayer",
     "SummarizedExperiment",
     "KEGGREST",
@@ -18349,7 +18296,6 @@
     "rtracklayer",
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "Rsubread",
     "KEGGREST",
     "XVector",
     "biovizBase",
@@ -18886,7 +18832,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "snifter": [],
   "soGGi": [
     "SummarizedExperiment",
     "GenomeInfoDb",
