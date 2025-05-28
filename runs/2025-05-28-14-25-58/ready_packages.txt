@@ -1,3 +1,5 @@
-HDF5Array
-memes
-motifTestR
+BiocSingular
+beachmat.tiledb
+clusterSeq
+scPCA
+scrapper
