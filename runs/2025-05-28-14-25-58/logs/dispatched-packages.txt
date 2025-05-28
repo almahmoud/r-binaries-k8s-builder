@@ -711,3 +711,14 @@ normalize450K
 Mfuzz
 OLINgui
 SIMD
+CGHcall
+CGHregions
+cycle
+ggtreeDendro
+ggtreeExtra
+ggtreeSpace
+hyperdraw
+philr
+scBubbletree
+sitePath
+tanggle
