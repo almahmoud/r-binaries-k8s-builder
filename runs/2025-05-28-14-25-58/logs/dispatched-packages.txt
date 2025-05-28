@@ -1243,3 +1243,4 @@ multiGSEA
 orthos
 sSNAPPY
 sesame
+SBGNview

@@ -949,7 +949,6 @@
   ],
   "EnrichmentBrowser": [
     "GSEABase",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -972,7 +971,6 @@
   "EpiTxDb": [
     "GenomicFeatures",
     "txdbmaker",
-    "tRNAdbImport",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -1087,7 +1085,6 @@
     "DESeq2",
     "clusterProfiler",
     "DOSE",
-    "pathview",
     "enrichplot",
     "GOSemSim"
   ],
@@ -1137,7 +1134,6 @@
   "GSEABenchmarkeR": [
     "EnrichmentBrowser",
     "GSEABase",
-    "pathview",
     "safe",
     "annotate"
   ],
@@ -2395,9 +2391,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SBGNview": [
-    "pathview"
-  ],
+  "SBGNview": [],
   "SC3": [
     "SingleCellExperiment"
   ],
@@ -3721,7 +3715,6 @@
     "TOAST",
     "DESeq2"
   ],
-  "cytoKernel": [],
   "cytofQC": [
     "CATALYST",
     "SingleCellExperiment",
@@ -3773,7 +3766,6 @@
     "clusterProfiler",
     "sva",
     "enrichplot",
-    "pathview",
     "apeglm",
     "GOSemSim",
     "genefilter"
@@ -3905,7 +3897,6 @@
     "zenith",
     "annotate",
     "EnrichmentBrowser",
-    "pathview",
     "safe"
   ],
   "drugTargetInteractions": [
@@ -4315,7 +4306,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gsean": [],
   "gwascat": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -5157,7 +5147,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "pathview": [],
   "pdInfoBuilder": [
     "oligo",
     "oligoClasses"
@@ -5205,7 +5194,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "planttfhunter": [],
   "plotgardener": [
     "plyranges",
     "rtracklayer",
@@ -5221,7 +5209,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "pmp": [],
   "podkat": [
     "BSgenome",
     "rtracklayer",
@@ -5387,7 +5374,6 @@
   "ramwas": [
     "GenomicAlignments"
   ],
-  "receptLoss": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -5445,7 +5431,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "regsplice": [],
   "regutools": [
     "Gviz",
     "rtracklayer",
@@ -5515,8 +5500,6 @@
   "rtracklayer": [
     "GenomicAlignments"
   ],
-  "runibic": [],
-  "sRACIPE": [],
   "sSNAPPY": [],
   "safe": [],
   "sampleClassifier": [
@@ -5630,7 +5613,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "scMultiSim": [],
   "scPipe": [
     "SingleCellExperiment",
     "DropletUtils",
@@ -6100,7 +6082,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNAdbImport": [],
   "tRNAscanImport": [
     "rtracklayer",
     "BSgenome",
@@ -6373,7 +6354,6 @@
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",
-    "pathview",
     "safe",
     "annotate"
   ],

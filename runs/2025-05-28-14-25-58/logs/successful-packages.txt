@@ -1020,3 +1020,14 @@ omicsViewer
 pathRender
 pgxRpi
 phenopath
+cytoKernel
+gsean
+pathview
+planttfhunter
+pmp
+receptLoss
+regsplice
+runibic
+scMultiSim
+sRACIPE
+tRNAdbImport
