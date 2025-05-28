@@ -737,3 +737,11 @@ MsBackendMgf
 pvca
 STATegRa
 TMixClust
+affyContam
+makecdfenv
+philr
+plier
+Rnits
+scde
+TargetDecoy
+TurboNorm

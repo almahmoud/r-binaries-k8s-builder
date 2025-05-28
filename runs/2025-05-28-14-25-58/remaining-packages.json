@@ -5758,7 +5758,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "Rnits": [],
   "RolDE": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6831,7 +6830,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "TargetDecoy": [],
   "TileDBArray": [
     "SparseArray",
     "DelayedArray"
@@ -6879,7 +6877,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "TurboNorm": [],
   "UCell": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -7248,7 +7245,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "affyContam": [],
   "affyILM": [
     "gcrma",
     "Biostrings"
@@ -7466,7 +7462,6 @@
     "h5mread"
   ],
   "altcdfenvs": [
-    "makecdfenv",
     "Biostrings"
   ],
   "amplican": [
@@ -7562,7 +7557,6 @@
     "GenomicAlignments"
   ],
   "arrayMvout": [
-    "affyContam",
     "lumi",
     "methylumi",
     "GenomicFeatures",
@@ -11223,7 +11217,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "makecdfenv": [],
   "mariner": [
     "GenomicRanges",
     "InteractionSet",
@@ -12719,7 +12712,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "philr": [],
   "phyloseq": [
     "Biostrings"
   ],
@@ -12755,7 +12747,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "plier": [],
   "plotgardener": [
     "GenomicRanges",
     "plyranges",
@@ -13971,7 +13962,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "scde": [],
   "scds": [
     "SingleCellExperiment",
     "SummarizedExperiment",
