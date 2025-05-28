@@ -508,3 +508,17 @@ DeepPINCS
 MOGAMUN
 fedup
 ggtree
+AnVILPublish
+AnVILWorkflow
+GenProSeq
+GeneNetworkBuilder
+IsoCorrectoRGUI
+KEGGgraph
+MANOR
+MSstats
+OncoSimulR
+PROcess
+TRONCO
+mnem
+netresponse
+paircompviz
