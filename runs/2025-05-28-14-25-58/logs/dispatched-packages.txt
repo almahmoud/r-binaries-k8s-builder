@@ -1212,3 +1212,12 @@ GeneBreak
 Melissa
 cfdnakit
 tRNA
+CONFESS
+ExperimentHub
+GenomicScores
+cTRAP
+customCMPdb
+gsean
+ipdDb
+ontoProc
+rGenomeTracks

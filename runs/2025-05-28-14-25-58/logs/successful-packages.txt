@@ -972,3 +972,17 @@ panelcn.mops
 plyxp
 reconsi
 RTNsurvival
+ACE
+AnnotationHub
+CINdex
+flowMerge
+flowTrans
+GeneBreak
+goProfiles
+goTools
+Melissa
+microbiomeDASim
+PolySTest
+PPInfer
+sigFeature
+tidybulk
