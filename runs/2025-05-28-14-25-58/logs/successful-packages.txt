@@ -965,3 +965,10 @@ sangeranalyseR
 supersigs
 wpm
 yamss
+chihaya
+csaw
+getDEE2
+panelcn.mops
+plyxp
+reconsi
+RTNsurvival

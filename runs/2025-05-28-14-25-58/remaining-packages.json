@@ -1910,7 +1910,6 @@
     "rtracklayer",
     "trackViewer",
     "ATACseqQC",
-    "csaw",
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicScores",
@@ -2329,7 +2328,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RTNsurvival": [],
   "RUCova": [
     "SingleCellExperiment"
   ],
@@ -3559,7 +3557,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "chihaya": [],
   "chimeraviz": [
     "Gviz",
     "ensembldb",
@@ -3834,7 +3831,6 @@
   "crumblr": [
     "SingleCellExperiment"
   ],
-  "csaw": [],
   "cummeRbund": [
     "rtracklayer",
     "Gviz",
@@ -3996,7 +3992,6 @@
   "diffHic": [
     "InteractionSet",
     "BSgenome",
-    "csaw",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4219,7 +4214,6 @@
     "MultiAssayExperiment"
   ],
   "extraChIPs": [
-    "csaw",
     "InteractionSet",
     "rtracklayer",
     "GenomicAlignments"
@@ -4402,7 +4396,6 @@
     "GSEABase",
     "annotate"
   ],
-  "getDEE2": [],
   "gg4way": [
     "DESeq2"
   ],
@@ -4625,7 +4618,6 @@
     "GenomicAlignments",
     "rtracklayer",
     "VariantAnnotation",
-    "csaw",
     "DESeq2",
     "BSgenome"
   ],
@@ -5366,7 +5358,6 @@
     "annotate"
   ],
   "pairkat": [],
-  "panelcn.mops": [],
   "partCNV": [
     "SingleCellExperiment",
     "AnnotationHub"
@@ -5452,7 +5443,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "plyxp": [],
   "pmp": [],
   "podkat": [
     "BSgenome",
@@ -5626,7 +5616,6 @@
     "GenomicAlignments"
   ],
   "receptLoss": [],
-  "reconsi": [],
   "recount": [
     "derfinder",
     "GEOquery",
@@ -6561,7 +6550,6 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "csaw",
     "DESeq2",
     "GenomicAlignments",
     "GenomicFeatures",
