@@ -769,3 +769,12 @@ R4RNA
 SELEX
 seqArchR
 sscu
+bcSeq
+cleaver
+cogeqc
+coRdon
+DelayedArray
+gcrma
+GeneRegionScan
+MsBackendSql
+SpectraQL
