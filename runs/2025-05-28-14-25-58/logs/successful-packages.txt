@@ -1010,3 +1010,13 @@ mslp
 multiWGCNA
 oncomix
 rGenomeTracks
+cTRAP
+ExperimentHub
+FeatSeekR
+graphite
+netboost
+omicade4
+omicsViewer
+pathRender
+pgxRpi
+phenopath
