@@ -1,16 +1,1 @@
-DelayedDataFrame
-DelayedMatrixStats
-DelayedRandomArray
-Rarr
-ResidualMatrix
-SQLDataFrame
-ScaledMatrix
-TileDBArray
-adverSCarial
-affyILM
-affyPLM
-beachmat
-maskBAD
-orthogene
-rhdf5client
-sketchR
+procoil

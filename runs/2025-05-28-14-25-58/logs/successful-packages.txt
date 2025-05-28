@@ -778,3 +778,11 @@ gcrma
 GeneRegionScan
 MsBackendSql
 SpectraQL
+altcdfenvs
+bluster
+kebabs
+MEDME
+MsBackendRawFileReader
+MSstatsShiny
+PWMEnrich
+Structstrings
