@@ -750,3 +750,13 @@ MsBackendMsp
 panp
 SparseArray
 TPP
+a4Classif
+alabaster.base
+BCRANK
+BRAIN
+DECIPHER
+KEGGREST
+MsBackendMetaboLights
+nondetects
+Polytect
+SIMAT

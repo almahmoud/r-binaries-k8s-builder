@@ -809,3 +809,10 @@ scoup
 seqArchR
 sscu
 universalmotif
+AnnotationDbi
+FELLA
+ROntoTools
+SynExtend
+alabaster.bumpy
+alabaster.string
+transomics2cytoscape
