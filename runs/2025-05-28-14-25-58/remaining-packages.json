@@ -3,7 +3,6 @@
     "QDNAseq",
     "GenomicRanges",
     "XVector",
-    "CGHcall",
     "Rsamtools",
     "Biostrings"
   ],
@@ -118,7 +117,6 @@
     "rtracklayer",
     "VariantAnnotation",
     "Rsamtools",
-    "HybridMTest",
     "Biostrings",
     "AnnotationDbi",
     "XVector",
@@ -687,9 +685,7 @@
     "GenomicRanges",
     "XVector"
   ],
-  "BiGGR": [
-    "hyperdraw"
-  ],
+  "BiGGR": [],
   "BiSeq": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -1060,14 +1056,9 @@
     "Biostrings",
     "XVector"
   ],
-  "CGHcall": [],
-  "CGHnormaliter": [
-    "CGHcall"
-  ],
-  "CGHregions": [],
+  "CGHnormaliter": [],
   "CHETAH": [
     "SingleCellExperiment",
-    "bioDist",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray",
@@ -1100,7 +1091,6 @@
   ],
   "CNVPanelizer": [
     "GenomicRanges",
-    "NOISeq",
     "Rsamtools",
     "XVector",
     "Biostrings"
@@ -3327,13 +3317,11 @@
   ],
   "GeneBreak": [
     "QDNAseq",
-    "CGHcall",
     "GenomicRanges",
     "XVector",
     "Rsamtools",
     "Biostrings"
   ],
-  "GeneExpressionSignature": [],
   "GeneMeta": [
     "genefilter",
     "AnnotationDbi",
@@ -3641,7 +3629,6 @@
     "S4Arrays",
     "XVector"
   ],
-  "HEM": [],
   "HERON": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3854,7 +3841,6 @@
     "SparseArray",
     "XVector"
   ],
-  "HybridMTest": [],
   "IFAA": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4916,7 +4902,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "MethPed": [],
   "MethReg": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -4982,7 +4967,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "MiChip": [],
   "MiRaGE": [
     "AnnotationDbi",
     "KEGGREST",
@@ -5230,7 +5214,6 @@
     "GenomicRanges",
     "XVector"
   ],
-  "Mulcom": [],
   "MultiAssayExperiment": [
     "SummarizedExperiment",
     "DelayedArray",
@@ -5362,7 +5345,6 @@
     "XVector",
     "Biostrings"
   ],
-  "NOISeq": [],
   "NanoMethViz": [
     "SummarizedExperiment",
     "BiocSingular",
@@ -5433,9 +5415,7 @@
     "SparseArray",
     "XVector"
   ],
-  "NormqPCR": [
-    "ReadqPCR"
-  ],
+  "NormqPCR": [],
   "OCplus": [],
   "OGRE": [
     "GenomicRanges",
@@ -5563,7 +5543,6 @@
     "Biostrings",
     "XVector"
   ],
-  "OncoSimulR": [],
   "Organism.dplyr": [
     "AnnotationFilter",
     "GenomicRanges",
@@ -5874,7 +5853,6 @@
     "XVector"
   ],
   "PhyloProfile": [
-    "bioDist",
     "Biostrings",
     "ExperimentHub",
     "XVector",
@@ -6015,7 +5993,6 @@
     "SparseArray"
   ],
   "QDNAseq": [
-    "CGHcall",
     "GenomicRanges",
     "Rsamtools",
     "XVector",
@@ -6639,7 +6616,6 @@
     "Biostrings",
     "XVector"
   ],
-  "ReadqPCR": [],
   "ReducedExperiment": [
     "SummarizedExperiment",
     "clusterProfiler",
@@ -7012,7 +6988,6 @@
     "GenomicRanges",
     "XVector"
   ],
-  "SCBN": [],
   "SCOPE": [
     "GenomicRanges",
     "Rsamtools",
@@ -7925,7 +7900,6 @@
     "biomaRt",
     "DESeq2",
     "rtracklayer",
-    "SCBN",
     "SummarizedExperiment",
     "GenomicRanges",
     "AnnotationDbi",
@@ -8255,7 +8229,6 @@
     "KEGGREST",
     "SparseArray"
   ],
-  "UNDO": [],
   "UPDhmm": [
     "VariantAnnotation",
     "GenomicRanges",
@@ -8614,7 +8587,6 @@
     "a4Base",
     "a4Preproc",
     "a4Classif",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -8625,7 +8597,6 @@
   ],
   "a4Base": [
     "a4Preproc",
-    "a4Core",
     "annaffy",
     "genefilter",
     "AnnotationDbi",
@@ -8635,10 +8606,8 @@
     "XVector"
   ],
   "a4Classif": [
-    "a4Core",
     "a4Preproc"
   ],
-  "a4Core": [],
   "a4Preproc": [],
   "aCGH": [],
   "adSplit": [
@@ -9396,7 +9365,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "bioDist": [],
   "biobroom": [],
   "biocGraph": [
     "geneplotter",
@@ -9498,7 +9466,6 @@
     "AnnotationDbi",
     "OrganismDbi",
     "GenomicFeatures",
-    "CGHcall",
     "GenomicAlignments",
     "KEGGREST",
     "regioneR"
@@ -9606,7 +9573,6 @@
     "SummarizedExperiment",
     "DELocal",
     "DESeq2",
-    "NOISeq",
     "genefilter",
     "clusterProfiler",
     "sechm",
@@ -9888,7 +9854,6 @@
     "QDNAseq",
     "Rsamtools",
     "XVector",
-    "CGHcall",
     "Biostrings"
   ],
   "cghMCR": [
@@ -10079,7 +10044,6 @@
     "GenomicAlignments"
   ],
   "cicero": [
-    "monocle",
     "Gviz",
     "GenomicRanges",
     "XVector",
@@ -10782,7 +10746,6 @@
     "flowClust",
     "flowViz"
   ],
-  "cycle": [],
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -12346,7 +12309,6 @@
   ],
   "ggtreeDendro": [],
   "ggtreeExtra": [],
-  "ggtreeSpace": [],
   "ginmappeR": [
     "KEGGREST",
     "UniProt.ws",
@@ -12668,7 +12630,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "hyperdraw": [],
   "iCNV": [
     "CODEX",
     "Rsamtools",
@@ -13476,9 +13437,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "metaSeq": [
-    "NOISeq"
-  ],
+  "metaSeq": [],
   "metabolomicsWorkbenchR": [
     "MultiAssayExperiment",
     "struct",
@@ -14142,7 +14101,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "monocle": [],
   "mosaics": [
     "GenomicRanges",
     "GenomicAlignments",
@@ -17213,7 +17171,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "sitePath": [],
   "sketchR": [
     "DelayedArray",
     "S4Arrays",
@@ -17868,7 +17825,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "tanggle": [],
   "target": [
     "GenomicRanges",
     "XVector"
@@ -18259,9 +18215,7 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "uSORT": [
-    "monocle"
-  ],
+  "uSORT": [],
   "uncoverappLib": [
     "Gviz",
     "OrganismDbi",

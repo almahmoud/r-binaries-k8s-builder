@@ -1,11 +1,5 @@
-CGHcall
-CGHregions
-cycle
-ggtreeDendro
-ggtreeExtra
-ggtreeSpace
-hyperdraw
-philr
-scBubbletree
-sitePath
-tanggle
+BiGGR
+CGHnormaliter
+NormqPCR
+metaSeq
+uSORT
