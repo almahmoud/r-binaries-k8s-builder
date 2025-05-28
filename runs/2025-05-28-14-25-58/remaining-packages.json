@@ -2069,7 +2069,6 @@
     "SparseArray",
     "GenomicAlignments"
   ],
-  "Doscheda": [],
   "DropletUtils": [
     "SingleCellExperiment",
     "GenomicRanges",
@@ -2351,7 +2350,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "ExiMiR": [],
   "ExperimentHub": [
     "AnnotationHub",
     "AnnotationDbi",
@@ -3104,7 +3102,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "HTqPCR": [],
   "HarmonizR": [
     "sva",
     "SummarizedExperiment",
@@ -4058,7 +4055,6 @@
     "AnnotationDbi",
     "KEGGREST"
   ],
-  "MetCirc": [],
   "MetNet": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -4341,9 +4337,7 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "MsBackendMassbank": [],
   "MsBackendMetaboLights": [],
-  "MsBackendMgf": [],
   "MsBackendMsp": [],
   "MsBackendRawFileReader": [],
   "MsBackendSql": [],
@@ -6088,7 +6082,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "STATegRa": [],
   "SVMDO": [
     "DOSE",
     "AnnotationDbi",
@@ -6765,7 +6758,6 @@
     "KEGGREST",
     "Biostrings"
   ],
-  "TMixClust": [],
   "TOAST": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -6785,9 +6777,7 @@
     "SparseArray",
     "Biostrings"
   ],
-  "TPP": [
-    "biobroom"
-  ],
+  "TPP": [],
   "TREG": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -7861,7 +7851,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "biobroom": [],
   "biocGraph": [
     "geneplotter",
     "annotate",
@@ -12277,9 +12266,7 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "nondetects": [
-    "HTqPCR"
-  ],
+  "nondetects": [],
   "npGSEA": [
     "GSEABase",
     "annotate",
@@ -13029,7 +13016,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "pvca": [],
   "pwalign": [
     "Biostrings"
   ],

@@ -727,3 +727,13 @@ S4Arrays
 SpeCond
 SPEM
 vsn
+biobroom
+Doscheda
+ExiMiR
+HTqPCR
+MetCirc
+MsBackendMassbank
+MsBackendMgf
+pvca
+STATegRa
+TMixClust
