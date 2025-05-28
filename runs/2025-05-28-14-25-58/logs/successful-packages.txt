@@ -850,3 +850,15 @@ sarks
 scoup
 sketchR
 SynMut
+IMMAN
+immunoClust
+infinityFlow
+procoil
+ramr
+rigvf
+ROntoTools
+rprimer
+rSWeeP
+seqPattern
+SynExtend
+transomics2cytoscape

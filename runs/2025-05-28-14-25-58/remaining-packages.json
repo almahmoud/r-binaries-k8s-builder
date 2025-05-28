@@ -245,7 +245,6 @@
     "annotate"
   ],
   "BLMA": [
-    "ROntoTools",
     "PADOG",
     "AnnotationDbi"
   ],
@@ -751,7 +750,6 @@
     "genomation",
     "BSgenome",
     "GenomicAlignments",
-    "seqPattern",
     "SummarizedExperiment"
   ],
   "ChAMP": [
@@ -1448,7 +1446,6 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "DOSE",
     "GOSemSim",
     "SummarizedExperiment"
@@ -1892,7 +1889,6 @@
     "genomation",
     "txdbmaker",
     "BSgenome",
-    "seqPattern",
     "SummarizedExperiment",
     "AnnotationDbi",
     "biomaRt"
@@ -2086,7 +2082,6 @@
     "SummarizedExperiment",
     "rtracklayer"
   ],
-  "IMMAN": [],
   "INSPEcT": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -3255,7 +3250,6 @@
     "genomation",
     "Rsamtools",
     "GenomicAlignments",
-    "seqPattern",
     "AnnotationDbi",
     "biomaRt",
     "SummarizedExperiment"
@@ -3430,7 +3424,6 @@
   "ROCpAI": [
     "SummarizedExperiment"
   ],
-  "ROntoTools": [],
   "RPA": [
     "phyloseq"
   ],
@@ -4120,7 +4113,6 @@
     "SingleCellExperiment",
     "phyloseq"
   ],
-  "SynExtend": [],
   "TADCompare": [
     "HiCcompare",
     "InteractionSet",
@@ -6252,7 +6244,6 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "SummarizedExperiment"
   ],
@@ -6479,7 +6470,6 @@
     "BSgenome",
     "GenomicAlignments",
     "Rsamtools",
-    "seqPattern",
     "rtracklayer",
     "SummarizedExperiment"
   ],
@@ -6863,12 +6853,10 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "immunoClust": [],
   "infercnv": [
     "SummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "infinityFlow": [],
   "intansv": [
     "ggbio",
     "biovizBase",
@@ -7441,7 +7429,6 @@
     "GenomicAlignments"
   ],
   "mirIntegrator": [
-    "ROntoTools",
     "AnnotationDbi"
   ],
   "missMethyl": [
@@ -8116,7 +8103,6 @@
   "proDA": [
     "SummarizedExperiment"
   ],
-  "procoil": [],
   "profileplyr": [
     "SummarizedExperiment",
     "soGGi",
@@ -8258,7 +8244,6 @@
     "AnnotationDbi"
   ],
   "rRDP": [],
-  "rSWeeP": [],
   "rScudo": [
     "SummarizedExperiment"
   ],
@@ -8284,7 +8269,6 @@
     "rtracklayer",
     "AnnotationDbi"
   ],
-  "ramr": [],
   "ramwas": [
     "GenomicAlignments",
     "Rsamtools",
@@ -8441,7 +8425,6 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "rigvf": [],
   "rmspc": [
     "rtracklayer",
     "Rsamtools",
@@ -8468,7 +8451,6 @@
     "MultiDataSet",
     "SummarizedExperiment"
   ],
-  "rprimer": [],
   "rqt": [
     "SummarizedExperiment",
     "ropls",
@@ -8886,7 +8868,6 @@
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
-    "seqPattern",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -8907,7 +8888,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "seqPattern": [],
   "seqsetvis": [
     "GenomicAlignments",
     "Rsamtools",
@@ -9534,7 +9514,6 @@
     "AnnotationDbi",
     "GenomicAlignments"
   ],
-  "transomics2cytoscape": [],
   "traseR": [
     "BSgenome",
     "rtracklayer",
