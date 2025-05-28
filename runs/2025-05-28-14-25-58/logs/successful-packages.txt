@@ -267,3 +267,9 @@ RNAdecay
 SCFA
 SwathXtend
 TreeAndLeaf
+abseqR
+bacon
+GSCA
+iChip
+IntramiRExploreR
+Oscope

@@ -5103,7 +5103,6 @@
   ],
   "GSALightning": [],
   "GSAR": [],
-  "GSCA": [],
   "GSEABase": [
     "Biobase",
     "annotate",
@@ -6479,7 +6478,6 @@
     "S4Vectors",
     "IRanges"
   ],
-  "IntramiRExploreR": [],
   "IsoBayes": [
     "SummarizedExperiment",
     "S4Vectors",
@@ -8985,7 +8983,6 @@
     "DelayedArray",
     "SparseArray"
   ],
-  "Oscope": [],
   "OutSplice": [
     "AnnotationDbi",
     "GenomicRanges",
@@ -13799,7 +13796,6 @@
     "multtest",
     "Biobase"
   ],
-  "abseqR": [],
   "adSplit": [
     "AnnotationDbi",
     "Biobase",
@@ -14589,7 +14585,6 @@
     "UCSC.utils",
     "XVector"
   ],
-  "bacon": [],
   "ballgown": [
     "GenomicRanges",
     "IRanges",
@@ -20251,7 +20246,6 @@
     "Rhtslib",
     "multtest"
   ],
-  "iChip": [],
   "iNETgrate": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -25916,7 +25910,6 @@
   ],
   "scDDboost": [
     "SingleCellExperiment",
-    "Oscope",
     "SummarizedExperiment",
     "S4Vectors",
     "GenomicRanges",
