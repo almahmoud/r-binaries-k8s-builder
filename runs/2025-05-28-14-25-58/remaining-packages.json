@@ -996,7 +996,6 @@
     "txdbmaker",
     "tRNAdbImport",
     "rtracklayer",
-    "tRNA",
     "GenomicAlignments"
   ],
   "EpipwR": [
@@ -1130,7 +1129,6 @@
     "annotate"
   ],
   "GEOquery": [],
-  "GNET2": [],
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
@@ -2815,7 +2813,6 @@
     "genefilter",
     "annotate"
   ],
-  "TREG": [],
   "TRESS": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3437,7 +3434,6 @@
     "scran",
     "scuttle"
   ],
-  "cellbaseR": [],
   "censcyt": [
     "diffcyt"
   ],
@@ -3450,7 +3446,6 @@
   "cfTools": [
     "ExperimentHub"
   ],
-  "cfdnakit": [],
   "cghMCR": [
     "CNTools",
     "genefilter",
@@ -4390,7 +4385,6 @@
     "GenomicAlignments",
     "rtracklayer"
   ],
-  "gscreend": [],
   "gsean": [],
   "gwascat": [
     "GenomicFeatures",
@@ -4441,7 +4435,6 @@
   "hpar": [
     "ExperimentHub"
   ],
-  "hummingbird": [],
   "iCNV": [
     "CODEX",
     "BSgenome",
@@ -4579,7 +4572,6 @@
     "DEGreport",
     "DESeq2"
   ],
-  "ivygapSE": [],
   "jazzPanda": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -4601,7 +4593,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "kmcut": [],
   "knowYourCG": [
     "ExperimentHub"
   ],
@@ -4625,7 +4616,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "lionessR": [],
   "lipidr": [
     "ropls",
     "MultiAssayExperiment",
@@ -4683,7 +4673,6 @@
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
   ],
-  "made4": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4698,7 +4687,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "marr": [],
   "maser": [
     "rtracklayer",
     "Gviz",
@@ -4873,7 +4861,6 @@
     "genefilter",
     "annotate"
   ],
-  "miRNAmeConverter": [],
   "miRNAtap": [],
   "miRSM": [
     "BicARE",
@@ -5074,7 +5061,6 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "multiMiR": [],
   "multiWGCNA": [],
   "multistateQTL": [
     "QTLExperiment"
@@ -5189,13 +5175,10 @@
     "sva",
     "omicade4",
     "MultiDataSet",
-    "made4",
     "genefilter",
     "annotate"
   ],
-  "omicade4": [
-    "made4"
-  ],
+  "omicade4": [],
   "omicplotR": [],
   "omicsPrint": [
     "MultiAssayExperiment",
@@ -6228,12 +6211,8 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "tRNA": [],
-  "tRNAdbImport": [
-    "tRNA"
-  ],
+  "tRNAdbImport": [],
   "tRNAscanImport": [
-    "tRNA",
     "rtracklayer",
     "BSgenome",
     "GenomicAlignments"

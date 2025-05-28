@@ -986,3 +986,17 @@ PolySTest
 PPInfer
 sigFeature
 tidybulk
+cellbaseR
+cfdnakit
+GNET2
+gscreend
+hummingbird
+ivygapSE
+kmcut
+lionessR
+made4
+marr
+miRNAmeConverter
+multiMiR
+TREG
+tRNA
