@@ -751,3 +751,15 @@ qpcrNorm
 rexposome
 scde
 vsn
+Biostrings
+CRImage
+GenomicRanges
+MetCirc
+MsBackendMassbank
+MsBackendMetaboLights
+MsBackendMgf
+MsBackendMsp
+MsBackendRawFileReader
+MsBackendSql
+SpectraQL
+a4Classif
