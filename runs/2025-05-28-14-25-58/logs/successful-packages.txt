@@ -760,3 +760,12 @@ MsBackendMetaboLights
 nondetects
 Polytect
 SIMAT
+flowCore
+frmaTools
+MSstatsPTM
+OmicsMLRepoR
+qcmetrics
+R4RNA
+SELEX
+seqArchR
+sscu

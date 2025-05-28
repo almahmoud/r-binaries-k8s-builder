@@ -679,7 +679,6 @@
   ],
   "CATALYST": [
     "SingleCellExperiment",
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "scater",
@@ -801,7 +800,6 @@
     "DelayedArray"
   ],
   "CONFESS": [
-    "flowCore",
     "flowClust",
     "flowMeans",
     "flowMerge"
@@ -1282,11 +1280,8 @@
     "h5mread",
     "GenomicRanges"
   ],
-  "CytoDx": [
-    "flowCore"
-  ],
+  "CytoDx": [],
   "CytoMDS": [
-    "flowCore",
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
@@ -1296,7 +1291,6 @@
     "DelayedArray"
   ],
   "CytoML": [
-    "flowCore",
     "flowWorkspace",
     "openCyto",
     "ggcyto",
@@ -1307,7 +1301,6 @@
   ],
   "CytoPipeline": [
     "ggcyto",
-    "flowCore",
     "PeacoQC",
     "flowAI",
     "ncdfFlow",
@@ -1316,7 +1309,6 @@
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "flowCore",
     "ggcyto",
     "PeacoQC",
     "flowAI",
@@ -2075,9 +2067,7 @@
     "Rsamtools",
     "GenomicAlignments"
   ],
-  "FlowSOM": [
-    "flowCore"
-  ],
+  "FlowSOM": [],
   "FuseSOM": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -2327,7 +2317,6 @@
     "AnnotationDbi"
   ],
   "GateFinder": [
-    "flowCore",
     "flowFP",
     "flowViz"
   ],
@@ -2995,9 +2984,7 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "MAPFX": [
-    "flowCore"
-  ],
+  "MAPFX": [],
   "MBASED": [
     "GenomicRanges",
     "SummarizedExperiment",
@@ -3276,10 +3263,8 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "MSstatsPTM": [],
   "MSstatsQC": [
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3291,7 +3276,6 @@
   "MSstatsQCgui": [
     "MSstatsQC",
     "MSnbase",
-    "qcmetrics",
     "PSMatch",
     "QFeatures",
     "MultiAssayExperiment",
@@ -3300,9 +3284,7 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "MSstatsShiny": [
-    "MSstatsPTM"
-  ],
+  "MSstatsShiny": [],
   "MWASTools": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -3353,7 +3335,6 @@
     "DelayedArray"
   ],
   "MetaCyto": [
-    "flowCore",
     "FlowSOM"
   ],
   "MetaNeighbor": [
@@ -3844,7 +3825,6 @@
   "OmicCircos": [
     "GenomicRanges"
   ],
-  "OmicsMLRepoR": [],
   "OncoScore": [
     "biomaRt",
     "AnnotationDbi"
@@ -4018,7 +3998,6 @@
     "DelayedArray"
   ],
   "PeacoQC": [
-    "flowCore",
     "flowWorkspace",
     "ncdfFlow",
     "DelayedArray"
@@ -4208,7 +4187,6 @@
     "DelayedArray",
     "GenomicFeatures"
   ],
-  "R4RNA": [],
   "RAIDS": [
     "GENESIS",
     "Rsamtools",
@@ -4867,7 +4845,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "SELEX": [],
   "SEraster": [
     "SpatialExperiment",
     "SummarizedExperiment",
@@ -5041,9 +5018,7 @@
   "ScaledMatrix": [
     "DelayedArray"
   ],
-  "Sconify": [
-    "flowCore"
-  ],
+  "Sconify": [],
   "SemDist": [
     "AnnotationDbi",
     "annotate"
@@ -5346,7 +5321,6 @@
     "GenomicRanges",
     "DelayedArray",
     "diffcyt",
-    "flowCore",
     "FlowSOM"
   ],
   "Structstrings": [],
@@ -6790,7 +6764,6 @@
   "censcyt": [
     "diffcyt",
     "SummarizedExperiment",
-    "flowCore",
     "FlowSOM",
     "GenomicRanges",
     "DelayedArray"
@@ -7081,7 +7054,6 @@
     "DelayedArray"
   ],
   "cmapR": [
-    "flowCore",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -7457,7 +7429,6 @@
     "DelayedArray"
   ],
   "cyanoFilter": [
-    "flowCore",
     "flowDensity",
     "flowClust",
     "flowViz"
@@ -7465,7 +7436,6 @@
   "cydar": [
     "SingleCellExperiment",
     "SummarizedExperiment",
-    "flowCore",
     "GenomicRanges",
     "DelayedArray"
   ],
@@ -7481,12 +7451,9 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "cytoMEM": [
-    "flowCore"
-  ],
+  "cytoMEM": [],
   "cytofQC": [
     "CATALYST",
-    "flowCore",
     "SingleCellExperiment",
     "SummarizedExperiment",
     "FlowSOM",
@@ -7571,7 +7538,6 @@
     "ScaledMatrix"
   ],
   "ddPCRclust": [
-    "flowCore",
     "flowDensity",
     "flowViz"
   ],
@@ -7751,7 +7717,6 @@
     "AnnotationDbi"
   ],
   "diffcyt": [
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
@@ -8249,91 +8214,58 @@
     "MultiAssayExperiment",
     "AnnotationFilter"
   ],
-  "flowAI": [
-    "flowCore"
-  ],
-  "flowBeads": [
-    "flowCore"
-  ],
+  "flowAI": [],
+  "flowBeads": [],
   "flowBin": [
-    "flowCore",
     "flowFP",
     "flowViz"
   ],
-  "flowCHIC": [
-    "flowCore"
-  ],
-  "flowClean": [
-    "flowCore"
-  ],
-  "flowClust": [
-    "flowCore"
-  ],
-  "flowCore": [],
+  "flowCHIC": [],
+  "flowClean": [],
+  "flowClust": [],
   "flowCut": [
-    "flowCore",
     "flowDensity",
     "flowViz"
   ],
   "flowDensity": [
-    "flowCore",
     "flowViz"
   ],
   "flowFP": [
-    "flowCore",
     "flowViz"
   ],
   "flowGate": [
     "flowWorkspace",
     "ggcyto",
-    "flowCore",
     "ncdfFlow",
     "DelayedArray"
   ],
-  "flowMatch": [
-    "flowCore"
-  ],
-  "flowMeans": [
-    "flowCore"
-  ],
+  "flowMatch": [],
+  "flowMeans": [],
   "flowMerge": [
-    "flowClust",
-    "flowCore"
+    "flowClust"
   ],
-  "flowPloidy": [
-    "flowCore"
-  ],
-  "flowSpecs": [
-    "flowCore"
-  ],
+  "flowPloidy": [],
+  "flowSpecs": [],
   "flowStats": [
-    "flowCore",
     "flowWorkspace",
     "ncdfFlow",
     "flowViz",
     "DelayedArray"
   ],
-  "flowTime": [
-    "flowCore"
-  ],
+  "flowTime": [],
   "flowTrans": [
-    "flowCore",
     "flowViz",
     "flowClust"
   ],
   "flowVS": [
-    "flowCore",
     "flowViz",
     "flowStats",
     "flowWorkspace",
     "ncdfFlow",
     "DelayedArray"
   ],
-  "flowViz": [
-    "flowCore"
-  ],
+  "flowViz": [],
   "flowWorkspace": [
-    "flowCore",
     "ncdfFlow",
     "DelayedArray"
   ],
@@ -8344,7 +8276,6 @@
     "SummarizedExperiment",
     "DelayedArray"
   ],
-  "frmaTools": [],
   "funOmics": [
     "AnnotationDbi"
   ],
@@ -8554,7 +8485,6 @@
     "DelayedArray"
   ],
   "ggcyto": [
-    "flowCore",
     "ncdfFlow",
     "flowWorkspace",
     "DelayedArray"
@@ -8563,9 +8493,7 @@
     "SeqArray",
     "GenomicRanges"
   ],
-  "ggmsa": [
-    "R4RNA"
-  ],
+  "ggmsa": [],
   "ggsc": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -8993,18 +8921,14 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "immunoClust": [
-    "flowCore"
-  ],
+  "immunoClust": [],
   "infercnv": [
     "SummarizedExperiment",
     "SingleCellExperiment",
     "GenomicRanges",
     "DelayedArray"
   ],
-  "infinityFlow": [
-    "flowCore"
-  ],
+  "infinityFlow": [],
   "intansv": [
     "ggbio",
     "GenomicRanges",
@@ -10094,9 +10018,7 @@
   "ncRNAtools": [
     "GenomicRanges"
   ],
-  "ncdfFlow": [
-    "flowCore"
-  ],
+  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "Rsamtools",
@@ -10274,7 +10196,6 @@
     "DelayedArray"
   ],
   "openCyto": [
-    "flowCore",
     "flowViz",
     "ncdfFlow",
     "flowWorkspace",
@@ -10303,8 +10224,7 @@
     "GenomicRanges"
   ],
   "optimalFlow": [
-    "flowMeans",
-    "flowCore"
+    "flowMeans"
   ],
   "orthogene": [
     "DelayedArray"
@@ -10769,7 +10689,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "qcmetrics": [],
   "qmtools": [
     "SummarizedExperiment",
     "GenomicRanges",
@@ -11292,7 +11211,6 @@
   ],
   "scDataviz": [
     "SingleCellExperiment",
-    "flowCore",
     "SummarizedExperiment",
     "GenomicRanges",
     "DelayedArray"
@@ -11561,7 +11479,6 @@
   ],
   "scifer": [
     "sangerseqR",
-    "flowCore",
     "pwalign"
   ],
   "scmap": [
@@ -11729,14 +11646,12 @@
     "GenomicRanges",
     "AnnotationDbi"
   ],
-  "seqArchR": [],
   "seqArchRplus": [
     "GenomicRanges",
     "BSgenome",
     "ChIPseeker",
     "clusterProfiler",
     "heatmaps",
-    "seqArchR",
     "seqPattern",
     "rtracklayer",
     "Rsamtools",
@@ -12144,7 +12059,6 @@
     "SummarizedExperiment",
     "CATALYST",
     "SingleCellExperiment",
-    "flowCore",
     "FlowSOM",
     "scater",
     "GenomicRanges",
@@ -12218,7 +12132,6 @@
     "GenomicRanges",
     "DelayedArray"
   ],
-  "sscu": [],
   "ssviz": [
     "Rsamtools",
     "GenomicRanges"
@@ -12449,9 +12362,7 @@
     "GenomicAlignments",
     "DelayedArray"
   ],
-  "tidyFlowCore": [
-    "flowCore"
-  ],
+  "tidyFlowCore": [],
   "tidySingleCellExperiment": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -12491,9 +12402,7 @@
     "SingleCellExperiment",
     "DelayedArray"
   ],
-  "tidytof": [
-    "flowCore"
-  ],
+  "tidytof": [],
   "tigre": [
     "AnnotationDbi",
     "annotate"
@@ -12609,7 +12518,6 @@
     "TreeSummarizedExperiment",
     "SummarizedExperiment",
     "diffcyt",
-    "flowCore",
     "FlowSOM",
     "GenomicRanges",
     "DelayedArray",
@@ -12618,7 +12526,6 @@
   "treekoR": [
     "SingleCellExperiment",
     "diffcyt",
-    "flowCore",
     "FlowSOM",
     "SummarizedExperiment",
     "GenomicRanges",
