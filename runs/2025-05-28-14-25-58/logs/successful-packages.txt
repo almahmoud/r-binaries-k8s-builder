@@ -833,3 +833,7 @@ ggmsa
 heatmaps
 igvShiny
 phantasusLite
+megadepth
+microRNA
+muscle
+ngsReports

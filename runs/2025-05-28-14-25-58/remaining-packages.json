@@ -5292,7 +5292,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "SummarizedExperiment",
     "BiocSingular",
     "rtracklayer",
@@ -5307,7 +5306,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "scran",
     "scuttle",
     "SummarizedExperiment",
@@ -5329,7 +5327,6 @@
     "batchelor",
     "ensembldb",
     "GenomicFeatures",
-    "megadepth",
     "SummarizedExperiment",
     "rtracklayer",
     "BiocSingular",
@@ -7187,7 +7184,6 @@
     "SingleCellExperiment",
     "SummarizedExperiment"
   ],
-  "megadepth": [],
   "memes": [],
   "meshes": [
     "AnnotationDbi",
@@ -7476,7 +7472,6 @@
     "scuttle",
     "BiocSingular"
   ],
-  "microRNA": [],
   "microSTASIS": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment",
@@ -7729,7 +7724,6 @@
     "SummarizedExperiment",
     "BiocSingular"
   ],
-  "muscle": [],
   "musicatk": [
     "SummarizedExperiment",
     "VariantAnnotation",
@@ -7799,7 +7793,6 @@
   "netboost": [
     "AnnotationDbi"
   ],
-  "ngsReports": [],
   "nipalsMCIA": [
     "MultiAssayExperiment",
     "SummarizedExperiment"
