@@ -52,11 +52,20 @@ spec:
           
           # Handle old packages if URL provided
           if [ -n "${OLD_URL}" ] && curl -sfL "${OLD_URL}" -o /tmp/old_packages; then
+            mkdir -p /tmp/pkglinks
+        
             grep "^Package:" /tmp/old_packages | cut -d' ' -f2 > /tmp/old_packages.txt
-            comm -23 <(sort /tmp/old_packages.txt) <(sort /tmp/new_packages.txt) | while read pkg; do
-              pkg_pattern="\${pkg}_.*\\.tar\\.gz"
-              old_tarball=\$(grep -h "\$pkg_pattern" /tmp/old_packages | grep "^Filename:" | cut -d' ' -f2)
-              [ -n "\$old_tarball" ] && curl -sfL "${OLD_URL%/*}/\$old_tarball" -o "/tmp/pkglinks/\$old_tarball"
+        
+            comm -23 <(sort /tmp/old_packages.txt) <(sort /tmp/new_packages.txt) | while read -r pkg; do
+              # Escape the package name for use in a regex
+              pkg_escaped=$(printf '%s' "$pkg" | sed 's/[][\.^$*]/\\&/g')
+              pkg_pattern="${pkg_escaped}_.*\.tar\.gz"
+        
+              old_tarball=$(grep -E "$pkg_pattern" /tmp/old_packages | grep "^Filename:" | cut -d' ' -f2 | head -n1)
+        
+              if [ -n "$old_tarball" ]; then
+                curl -sfL "${OLD_URL%/*}/$old_tarball" -o "/tmp/pkglinks/$(basename "$old_tarball")"
+              fi
             done
           fi
           
