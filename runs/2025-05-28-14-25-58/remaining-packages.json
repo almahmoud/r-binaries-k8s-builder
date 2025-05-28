@@ -62,7 +62,6 @@
     "BSgenome",
     "ChIPpeakAnno",
     "GenomicAlignments",
-    "GenomicScores",
     "rtracklayer",
     "motifStack",
     "GenomicFeatures",
@@ -1231,7 +1230,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "GenomicScores": [],
   "GenomicSuperSignature": [],
   "GeoTcgaData": [],
   "Glimma": [
@@ -1641,7 +1639,6 @@
   "MWASTools": [],
   "Macarron": [],
   "MatrixQCvis": [
-    "proDA",
     "sva",
     "genefilter",
     "annotate"
@@ -1821,7 +1818,6 @@
     "ATACseqQC",
     "BSgenome",
     "ChIPpeakAnno",
-    "GenomicScores",
     "motifStack",
     "GenomicFeatures",
     "Gviz",
@@ -2246,7 +2242,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -2875,7 +2870,6 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "BSgenome",
-    "GenomicScores",
     "Gviz",
     "rtracklayer",
     "ensembldb",
@@ -3072,7 +3066,6 @@
     "VariantAnnotation",
     "BSgenome",
     "GenomicFeatures",
-    "GenomicScores",
     "rtracklayer",
     "OrganismDbi",
     "GenomicAlignments"
@@ -4572,7 +4565,6 @@
     "OrganismDbi",
     "VariantAnnotation"
   ],
-  "maPredictDSC": [],
   "maaslin3": [
     "TreeSummarizedExperiment",
     "SingleCellExperiment"
@@ -4835,7 +4827,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "mirIntegrator": [],
   "missMethyl": [
     "methylumi",
     "minfi",
@@ -5119,7 +5110,6 @@
     "genefilter",
     "annotate"
   ],
-  "pairkat": [],
   "partCNV": [
     "SingleCellExperiment"
   ],
@@ -5208,7 +5198,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "pogos": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"
@@ -5225,7 +5214,6 @@
   ],
   "primirTSS": [
     "rtracklayer",
-    "GenomicScores",
     "Gviz",
     "TFBSTools",
     "BSgenome",
@@ -5248,7 +5236,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "proDA": [],
   "profileplyr": [
     "soGGi",
     "ChIPseeker",
@@ -5344,9 +5331,7 @@
     "GenomicAlignments"
   ],
   "rScudo": [],
-  "rTRM": [],
   "rTRMui": [
-    "rTRM",
     "MotifDb",
     "rtracklayer",
     "GenomicAlignments"
@@ -5874,7 +5859,6 @@
     "TrajectoryUtils",
     "SingleCellExperiment"
   ],
-  "smartid": [],
   "smoothclust": [
     "SpatialExperiment",
     "SingleCellExperiment"

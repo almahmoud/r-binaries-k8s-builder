@@ -1044,3 +1044,11 @@ screenCounter
 SDAMS
 simplifyEnrichment
 stageR
+GenomicScores
+maPredictDSC
+mirIntegrator
+pairkat
+pogos
+proDA
+rTRM
+smartid
