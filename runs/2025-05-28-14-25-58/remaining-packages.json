@@ -569,7 +569,6 @@
     "AnnotationDbi",
     "annotate"
   ],
-  "CNVMetrics": [],
   "CNVPanelizer": [
     "Rsamtools"
   ],
@@ -935,7 +934,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "CompoundDb": [],
   "Coralysis": [
     "SingleCellExperiment",
     "SummarizedExperiment",
@@ -2514,7 +2512,6 @@
     "SummarizedExperiment",
     "QFeatures",
     "AnnotationHub",
-    "CompoundDb",
     "AnnotationDbi",
     "MultiAssayExperiment"
   ],
@@ -3821,7 +3818,6 @@
     "SummarizedExperiment",
     "AnnotationDbi"
   ],
-  "SigFuge": [],
   "SigsPack": [
     "BSgenome",
     "VariantAnnotation",
@@ -4462,7 +4458,6 @@
     "AnnotationHub",
     "AnnotationDbi"
   ],
-  "adverSCarial": [],
   "affycoretools": [
     "GOstats",
     "AnnotationDbi",
