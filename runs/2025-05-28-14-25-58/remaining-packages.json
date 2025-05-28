@@ -400,7 +400,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "CONFESS": [],
   "COTAN": [
     "SingleCellExperiment"
   ],
@@ -2428,7 +2427,6 @@
     "SingleCellExperiment"
   ],
   "SEtools": [
-    "sechm",
     "DESeq2",
     "sva",
     "genefilter",
@@ -3276,7 +3274,6 @@
     "DESeq2",
     "genefilter",
     "clusterProfiler",
-    "sechm",
     "DOSE",
     "enrichplot",
     "GOSemSim",
@@ -3907,7 +3904,6 @@
     "GenomicAlignments"
   ],
   "easier": [
-    "quantiseqr",
     "DESeq2"
   ],
   "easyRNASeq": [
@@ -5078,7 +5074,6 @@
     "MultiAssayExperiment",
     "RaggedExperiment"
   ],
-  "ontoProc": [],
   "openCyto": [
     "ncdfFlow",
     "flowWorkspace"
@@ -5218,9 +5213,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "pogos": [
-    "ontoProc"
-  ],
+  "pogos": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"
@@ -5331,7 +5324,6 @@
     "genefilter",
     "annotate"
   ],
-  "quantiseqr": [],
   "quantro": [
     "minfi",
     "bumphunter",
@@ -5748,7 +5740,6 @@
     "scater",
     "scuttle"
   ],
-  "sechm": [],
   "segmentSeq": [
     "ShortRead",
     "GenomicAlignments"
@@ -5900,7 +5891,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "snapcount": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
@@ -5993,7 +5983,6 @@
     "scuttle",
     "SingleCellExperiment"
   ],
-  "spqn": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -6014,7 +6003,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssPATHS": [],
   "ssviz": [],
   "stJoincount": [
     "SpatialExperiment",
@@ -6097,9 +6085,7 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "tenXplore": [
-    "ontoProc"
-  ],
+  "tenXplore": [],
   "terapadog": [
     "DESeq2"
   ],

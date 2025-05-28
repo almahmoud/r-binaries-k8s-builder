@@ -1031,3 +1031,10 @@ runibic
 scMultiSim
 sRACIPE
 tRNAdbImport
+CONFESS
+ontoProc
+quantiseqr
+sechm
+snapcount
+spqn
+ssPATHS

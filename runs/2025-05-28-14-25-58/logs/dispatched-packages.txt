@@ -1244,3 +1244,5 @@ orthos
 sSNAPPY
 sesame
 SBGNview
+pogos
+tenXplore
