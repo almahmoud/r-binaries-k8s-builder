@@ -876,3 +876,16 @@ phyloseq
 QSutils
 sangerseqR
 scanMiR
+alabaster.string
+AnnotationFilter
+cytoMEM
+DMRcaller
+flowSpecs
+GenomAutomorphism
+LymphoSeq
+odseq
+orthogene
+PIPETS
+Qtlizer
+rRDP
+TDbasedUFE

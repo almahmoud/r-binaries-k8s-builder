@@ -952,3 +952,4 @@ microbiomeDASim
 reconsi
 sangeranalyseR
 scifer
+CompoundDb

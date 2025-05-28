@@ -1,13 +1,1 @@
-ADAPT
-RCM
-RPA
-SIAMCAT
-flowDensity
-flowFP
-flowMerge
-flowTrans
-microbiome
-microbiomeDASim
-reconsi
-sangeranalyseR
-scifer
+CompoundDb
