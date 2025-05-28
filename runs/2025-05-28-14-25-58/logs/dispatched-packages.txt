@@ -928,3 +928,14 @@ clusterSeq
 scPCA
 scrapper
 MetaCyto
+IMMAN
+LinTInd
+LymphoSeq
+MSA2dist
+MethTargetedNGS
+QSutils
+ggseqalign
+odseq
+optimalFlow
+sangerseqR
+scanMiR

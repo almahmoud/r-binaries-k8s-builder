@@ -1,0 +1,11 @@
+IMMAN
+LinTInd
+LymphoSeq
+MSA2dist
+MethTargetedNGS
+QSutils
+ggseqalign
+odseq
+optimalFlow
+sangerseqR
+scanMiR

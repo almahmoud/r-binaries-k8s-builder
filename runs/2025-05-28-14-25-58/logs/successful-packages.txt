@@ -837,3 +837,16 @@ megadepth
 microRNA
 muscle
 ngsReports
+flowMatch
+flowMeans
+flowPloidy
+msa
+pepStat
+pqsfinder
+pwalign
+rfaRm
+rhinotypeR
+sarks
+scoup
+sketchR
+SynMut
