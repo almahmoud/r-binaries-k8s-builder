@@ -257,7 +257,6 @@
     "AnnotationDbi"
   ],
   "BPRMeth": [],
-  "BREW3R.r": [],
   "BSgenome": [
     "rtracklayer",
     "Rsamtools",
@@ -1391,7 +1390,6 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "EnrichedHeatmap": [],
   "EnrichmentBrowser": [
     "SummarizedExperiment",
     "AnnotationDbi",
@@ -2080,7 +2078,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "IWTomics": [],
   "IdeoViz": [
     "rtracklayer",
     "Rsamtools",
@@ -7636,7 +7633,6 @@
     "HDF5Array",
     "BiocSingular"
   ],
-  "optimalFlow": [],
   "orthos": [
     "SummarizedExperiment",
     "AnnotationHub",
@@ -7917,7 +7913,6 @@
     "ChIPseeker",
     "GenomicFeatures",
     "rGREAT",
-    "EnrichedHeatmap",
     "rtracklayer",
     "Rsamtools",
     "AnnotationDbi",
@@ -9158,7 +9153,6 @@
     "GenomicAlignments",
     "SummarizedExperiment"
   ],
-  "target": [],
   "tenXplore": [
     "ontoProc",
     "SummarizedExperiment",

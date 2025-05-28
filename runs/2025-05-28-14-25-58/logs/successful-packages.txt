@@ -889,3 +889,8 @@ PIPETS
 Qtlizer
 rRDP
 TDbasedUFE
+BREW3R.r
+EnrichedHeatmap
+IWTomics
+optimalFlow
+target
