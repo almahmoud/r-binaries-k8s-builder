@@ -1421,7 +1421,6 @@
   "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
-    "satuRn",
     "sva",
     "BSgenome",
     "rtracklayer",
@@ -2052,7 +2051,6 @@
   "QFeatures": [
     "MultiAssayExperiment"
   ],
-  "QTLExperiment": [],
   "QuasR": [
     "BSgenome",
     "GenomicFeatures",
@@ -2421,7 +2419,6 @@
   "SCnorm": [
     "SingleCellExperiment"
   ],
-  "SDAMS": [],
   "SEraster": [
     "SpatialExperiment",
     "SingleCellExperiment"
@@ -4956,9 +4953,7 @@
     "HiCcompare",
     "InteractionSet"
   ],
-  "multistateQTL": [
-    "QTLExperiment"
-  ],
+  "multistateQTL": [],
   "mumosa": [
     "SingleCellExperiment",
     "scuttle",
@@ -5516,7 +5511,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "satuRn": [],
   "scAnnotatR": [
     "SingleCellExperiment"
   ],
@@ -5714,7 +5708,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "screenCounter": [],
   "scruff": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5849,7 +5842,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "simplifyEnrichment": [],
   "singscore": [
     "GSEABase",
     "annotate"
@@ -6008,7 +6000,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "stageR": [],
   "standR": [
     "SpatialExperiment",
     "SingleCellExperiment",
