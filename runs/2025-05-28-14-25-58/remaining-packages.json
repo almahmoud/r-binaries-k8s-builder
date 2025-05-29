@@ -58,7 +58,6 @@
   "PhenStat": [],
   "R3CPET": [],
   "REDseq": [],
-  "REMP": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -94,7 +93,6 @@
   ],
   "cageminer": [],
   "consensusDE": [],
-  "conumee": [],
   "crisprDesign": [
     "crisprScore"
   ],
