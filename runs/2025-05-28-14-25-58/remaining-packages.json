@@ -278,7 +278,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "CARDspa": [],
   "CATALYST": [
     "scater"
   ],
@@ -551,7 +550,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "DEGreport": [],
   "DELocal": [],
   "DEP": [
     "MSnbase",
@@ -568,7 +566,6 @@
     "ensembldb",
     "BSgenome"
   ],
-  "DEWSeq": [],
   "DEXSeq": [
     "geneplotter",
     "genefilter",
@@ -767,7 +764,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EpipwR": [],
   "EventPointer": [
     "SGSeq",
     "GenomicFeatures",
@@ -1152,7 +1148,6 @@
   "M3Drop": [
     "scater"
   ],
-  "MACSr": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -3596,9 +3591,7 @@
     "genefilter",
     "annotate"
   ],
-  "isomiRs": [
-    "DEGreport"
-  ],
+  "isomiRs": [],
   "katdetectr": [
     "BSgenome",
     "plyranges",
@@ -4678,7 +4671,6 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "simPIC": [],
   "simpleSeg": [],
   "singscore": [
     "GSEABase",
@@ -4755,7 +4747,6 @@
     "GSEABase",
     "annotate"
   ],
-  "spoon": [],
   "squallms": [
     "xcms",
     "MSnbase",
@@ -4854,7 +4845,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "tidySpatialExperiment": [],
   "tidyomics": [
     "plyranges",
     "nullranges",

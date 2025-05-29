@@ -1306,3 +1306,11 @@ DESpace
 DropletUtils
 PCAtools
 PepSetTest
+CARDspa
+DEGreport
+DEWSeq
+EpipwR
+MACSr
+simPIC
+spoon
+tidySpatialExperiment
