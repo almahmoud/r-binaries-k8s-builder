@@ -2203,3 +2203,8 @@ YAPSA
 epivizrStandalone
 scTreeViz
 biscuiteer
+MineICA
+arrayMvout
+ffpe
+iCheck
+wateRmelon

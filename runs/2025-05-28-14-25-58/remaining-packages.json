@@ -12,8 +12,7 @@
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
-    "missMethyl",
-    "lumi"
+    "missMethyl"
   ],
   "DMRcate": [
     "missMethyl"
@@ -21,7 +20,6 @@
   "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "GenomicPlot": [],
   "HiCDCPlus": [],
   "MAGAR": [
     "RnBeads"
@@ -30,12 +28,9 @@
     "missMethyl"
   ],
   "MEAT": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
-  "MineICA": [
-    "lumi"
-  ],
+  "MineICA": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -49,12 +44,9 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "arrayMvout": [
-    "lumi"
-  ],
+  "arrayMvout": [],
   "bigmelon": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "biscuiteer": [],
   "consensusDE": [],
@@ -77,14 +69,8 @@
     "crisprScore"
   ],
   "derfinderPlot": [],
-  "ffpe": [
-    "lumi"
-  ],
-  "iCheck": [
-    "lumi"
-  ],
-  "intansv": [],
-  "lumi": [],
+  "ffpe": [],
+  "iCheck": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -95,12 +81,9 @@
   "scifer": [],
   "scruff": [],
   "skewr": [
-    "wateRmelon",
-    "lumi"
+    "wateRmelon"
   ],
   "spatzie": [],
   "velociraptor": [],
-  "wateRmelon": [
-    "lumi"
-  ]
+  "wateRmelon": []
 }

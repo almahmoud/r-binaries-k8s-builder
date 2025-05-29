@@ -2174,3 +2174,6 @@ GenomicOZone
 epivizrStandalone
 scmeth
 YAPSA
+GenomicPlot
+intansv
+lumi
