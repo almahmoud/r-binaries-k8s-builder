@@ -1871,3 +1871,9 @@ Basic4Cseq
 demuxSNP
 GOstats
 tximeta
+ASpli
+GEOexplorer
+HarmonizR
+KnowSeq
+pRoloc
+VariantTools

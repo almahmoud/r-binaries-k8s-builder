@@ -6,7 +6,6 @@
   "APAlyzer": [],
   "ASICS": [],
   "ASSIGN": [],
-  "ASpli": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
@@ -122,7 +121,6 @@
   "GARS": [
     "DaMiRseq"
   ],
-  "GEOexplorer": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
   "GSRI": [],
@@ -140,7 +138,6 @@
     "RCAS"
   ],
   "GmicR": [],
-  "HarmonizR": [],
   "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions"
@@ -150,7 +147,6 @@
     "GenomicFiles"
   ],
   "IsoformSwitchAnalyzeR": [],
-  "KnowSeq": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -323,7 +319,6 @@
   "VanillaICE": [],
   "VarCon": [],
   "VariantFiltering": [],
-  "VariantTools": [],
   "XDE": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -353,9 +348,7 @@
   ],
   "attract": [],
   "ballgown": [],
-  "bandle": [
-    "pRoloc"
-  ],
+  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -600,10 +593,7 @@
   ],
   "octad": [],
   "omicRexposome": [],
-  "pRoloc": [],
-  "pRolocGUI": [
-    "pRoloc"
-  ],
+  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
@@ -655,9 +645,7 @@
   ],
   "rnaEditr": [],
   "rqt": [],
-  "saseR": [
-    "ASpli"
-  ],
+  "saseR": [],
   "scBFA": [
     "zinbwave"
   ],
