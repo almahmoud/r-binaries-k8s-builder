@@ -833,7 +833,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "IsoBayes": [],
   "IsoformSwitchAnalyzeR": [
     "DEXSeq",
     "sva",
@@ -851,7 +850,6 @@
     "sva",
     "genefilter"
   ],
-  "LRBaseDbi": [],
   "M3Drop": [],
   "MAGAR": [
     "RnBeads",
@@ -1750,7 +1748,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
     "BSgenome",
@@ -2472,7 +2469,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "ggsc": [],
   "ginmappeR": [],
   "glmSparseNet": [
     "TCGAutils",
@@ -2577,7 +2573,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "infercnv": [],
   "intansv": [
     "ggbio",
     "biovizBase",

@@ -1494,3 +1494,8 @@ PharmacoGx
 scDDboost
 scviR
 ToxicoGx
+apComplex
+ggsc
+infercnv
+IsoBayes
+LRBaseDbi
