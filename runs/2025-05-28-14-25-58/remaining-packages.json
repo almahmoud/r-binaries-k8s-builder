@@ -119,11 +119,9 @@
     "ATACseqQC",
     "ChIPpeakAnno"
   ],
-  "NanoMethViz": [],
   "NormqPCR": [],
   "OGRE": [],
   "OMICsPCA": [],
-  "ORFik": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "Pviz": [],
@@ -138,9 +136,7 @@
   "REMP": [
     "minfi"
   ],
-  "RNAAgeCalc": [
-    "recount"
-  ],
+  "RNAAgeCalc": [],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
     "RNAmodR"
@@ -158,7 +154,6 @@
   ],
   "RgnTX": [],
   "Rhisat2": [],
-  "RiboDiPA": [],
   "RiboProfiling": [
     "ggbio"
   ],
@@ -166,9 +161,7 @@
     "methylumi",
     "minfi"
   ],
-  "RnaSeqSampleSize": [
-    "recount"
-  ],
+  "RnaSeqSampleSize": [],
   "Rqc": [],
   "SMITE": [],
   "SOMNiBUS": [
@@ -182,13 +175,10 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TFHAZ": [
-    "ORFik"
-  ],
+  "TFHAZ": [],
   "TVTB": [],
   "UMI4Cats": [],
   "Ularcirc": [],
-  "VaSP": [],
   "VanillaICE": [],
   "VariantFiltering": [],
   "YAPSA": [
@@ -218,7 +208,6 @@
     "lumi"
   ],
   "biomvRCNS": [],
-  "biosigner": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr"
@@ -369,7 +358,6 @@
   "netSmooth": [
     "clusterExperiment"
   ],
-  "octad": [],
   "omicRexposome": [],
   "pageRank": [],
   "pathMED": [],
@@ -380,18 +368,14 @@
   "proBAMr": [],
   "profileplyr": [],
   "protGear": [],
-  "psichomics": [
-    "recount"
-  ],
+  "psichomics": [],
   "quantro": [
     "minfi"
   ],
-  "recount": [],
   "recountmethylation": [
     "minfi"
   ],
   "recoup": [],
-  "regionReport": [],
   "regioneReloaded": [],
   "regutools": [],
   "rgsepd": [],

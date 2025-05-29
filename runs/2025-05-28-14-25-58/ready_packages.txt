@@ -1,2 +1,4 @@
-ChIPQC
-shinyDSP
+RNAAgeCalc
+RnaSeqSampleSize
+TFHAZ
+psichomics

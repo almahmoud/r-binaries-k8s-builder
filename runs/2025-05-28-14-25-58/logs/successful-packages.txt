@@ -1998,3 +1998,11 @@ G4SNVHunter
 mastR
 selectKSigs
 standR
+biosigner
+NanoMethViz
+octad
+ORFik
+recount
+regionReport
+RiboDiPA
+VaSP

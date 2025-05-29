@@ -7,3 +7,4 @@ BulkSignalR
 velociraptor
 Repitools
 musicatk
+EpiCompare

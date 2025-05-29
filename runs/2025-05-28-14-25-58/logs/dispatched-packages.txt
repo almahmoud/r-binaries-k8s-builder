@@ -2134,3 +2134,7 @@ epivizr
 epivizrChart
 ChIPQC
 shinyDSP
+RNAAgeCalc
+RnaSeqSampleSize
+TFHAZ
+psichomics
