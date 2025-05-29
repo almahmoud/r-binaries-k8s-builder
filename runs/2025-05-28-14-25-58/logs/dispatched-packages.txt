@@ -1972,3 +1972,7 @@ musicatk
 InPAS
 cBioPortalData
 hiReadsProcessor
+CexoR
+EpiCompare
+RCAS
+fCCAC

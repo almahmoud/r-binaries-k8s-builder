@@ -1785,3 +1785,11 @@ hiAnnotator
 RTCGAToolbox
 SCOPE
 svaRetro
+crisprBwa
+gcapc
+genomation
+gmapR
+pipeFrame
+splineTimeR
+svaNUMT
+TENET

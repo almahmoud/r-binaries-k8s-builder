@@ -85,9 +85,7 @@
   "CODEX": [],
   "Category": [],
   "Cepo": [],
-  "CexoR": [
-    "genomation"
-  ],
+  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -167,9 +165,7 @@
     "minfi"
   ],
   "EnrichmentBrowser": [],
-  "EpiCompare": [
-    "genomation"
-  ],
+  "EpiCompare": [],
   "EpiTxDb": [],
   "ExCluster": [],
   "ExperimentHubData": [],
@@ -219,8 +215,7 @@
     "ggbio"
   ],
   "GenomicPlot": [
-    "RCAS",
-    "genomation"
+    "RCAS"
   ],
   "GlobalAncova": [],
   "GmicR": [
@@ -362,9 +357,7 @@
   "R3CPET": [
     "ggbio"
   ],
-  "RCAS": [
-    "genomation"
-  ],
+  "RCAS": [],
   "REDseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -466,7 +459,6 @@
     "singscore",
     "sva"
   ],
-  "TENET": [],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik"
@@ -634,7 +626,6 @@
   "countsimQC": [],
   "covRNA": [],
   "crisprBowtie": [],
-  "crisprBwa": [],
   "crisprDesign": [
     "crisprBowtie",
     "crisprScore"
@@ -731,13 +722,10 @@
     "epivizrData"
   ],
   "esATAC": [
-    "pipeFrame",
     "TFBSTools",
     "motifmatchr"
   ],
-  "fCCAC": [
-    "genomation"
-  ],
+  "fCCAC": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -747,15 +735,12 @@
   "funtooNorm": [
     "minfi"
   ],
-  "gcapc": [],
-  "genomation": [],
   "geomeTriD": [
     "trackViewer",
     "Gviz"
   ],
   "gep2pep": [],
   "ggbio": [],
-  "gmapR": [],
   "gmoviz": [],
   "goseq": [],
   "gwascat": [],
@@ -931,7 +916,6 @@
   "phenomis": [
     "ropls"
   ],
-  "pipeFrame": [],
   "podkat": [],
   "preciseTAD": [],
   "primirTSS": [
@@ -1065,7 +1049,6 @@
   ],
   "spicyR": [],
   "spiky": [],
-  "splineTimeR": [],
   "srnadiff": [
     "Gviz"
   ],
@@ -1073,7 +1056,6 @@
     "RUVSeq"
   ],
   "sva": [],
-  "svaNUMT": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [
