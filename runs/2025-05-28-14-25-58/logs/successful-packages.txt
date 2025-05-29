@@ -1388,3 +1388,10 @@ xcore
 autonomics
 adSplit
 msImpute
+flowGate
+gDRcore
+lute
+mia
+pipeComp
+scDD
+Spaniel

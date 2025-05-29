@@ -1129,9 +1129,7 @@
   "MGFR": [
     "annotate"
   ],
-  "MGnifyR": [
-    "mia"
-  ],
+  "MGnifyR": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1886,7 +1884,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "Spaniel": [],
   "SparseSignatures": [
     "BSgenome",
     "rtracklayer",
@@ -2752,9 +2749,7 @@
     "destiny",
     "miloR"
   ],
-  "dar": [
-    "mia"
-  ],
+  "dar": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -3038,7 +3033,6 @@
     "flowFP"
   ],
   "flowFP": [],
-  "flowGate": [],
   "flowVS": [],
   "frma": [],
   "funOmics": [],
@@ -3053,11 +3047,9 @@
   ],
   "gCrisprTools": [],
   "gDR": [
-    "gDRcore",
     "gDRimport",
     "PharmacoGx"
   ],
-  "gDRcore": [],
   "gDRimport": [
     "PharmacoGx"
   ],
@@ -3249,8 +3241,7 @@
   ],
   "iSEEtree": [
     "iSEE",
-    "miaViz",
-    "mia"
+    "miaViz"
   ],
   "iSEEu": [
     "iSEE",
@@ -3308,9 +3299,7 @@
     "GenomicAlignments"
   ],
   "knowYourCG": [],
-  "lefser": [
-    "mia"
-  ],
+  "lefser": [],
   "lemur": [
     "glmGamPoi"
   ],
@@ -3343,7 +3332,6 @@
     "bumphunter",
     "GenomicAlignments"
   ],
-  "lute": [],
   "m6Aboost": [
     "rtracklayer",
     "BSgenome",
@@ -3532,16 +3520,12 @@
     "ReactomePA",
     "enrichplot"
   ],
-  "mia": [],
   "miaDash": [
     "iSEE",
     "iSEEtree",
-    "mia",
     "miaViz"
   ],
-  "miaViz": [
-    "mia"
-  ],
+  "miaViz": [],
   "microbiomeExplorer": [],
   "miloR": [],
   "mimager": [],
@@ -3791,7 +3775,6 @@
     "MultiDataSet",
     "ropls"
   ],
-  "pipeComp": [],
   "pipeFrame": [
     "BSgenome",
     "rtracklayer",
@@ -4090,7 +4073,6 @@
     "GSEABase",
     "annotate"
   ],
-  "scDD": [],
   "scDDboost": [],
   "scDataviz": [],
   "scDblFinder": [

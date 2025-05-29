@@ -1537,3 +1537,7 @@ hdxmsqc
 mspms
 msqrob2
 scp
+MGnifyR
+dar
+lefser
+miaViz
