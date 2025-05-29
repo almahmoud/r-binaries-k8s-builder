@@ -86,7 +86,6 @@
     "methylumi"
   ],
   "DSS": [],
-  "DaMiRseq": [],
   "Damsel": [
     "ggbio"
   ],
@@ -97,7 +96,6 @@
   "DegNorm": [],
   "DiffBind": [],
   "DominoEffect": [],
-  "DuplexDiscovereR": [],
   "ELMER": [],
   "ELViS": [],
   "ENmix": [
@@ -118,9 +116,7 @@
   "GA4GHshiny": [
     "GA4GHclient"
   ],
-  "GARS": [
-    "DaMiRseq"
-  ],
+  "GARS": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
   "GSRI": [],
@@ -128,7 +124,6 @@
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "GeneStructureTools": [],
   "GenomicFiles": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
@@ -153,7 +148,6 @@
     "minfi"
   ],
   "MAIT": [],
-  "MBECS": [],
   "MEAL": [
     "minfi",
     "missMethyl",
@@ -166,8 +160,6 @@
     "lumi"
   ],
   "MIRA": [],
-  "MSPrep": [],
-  "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -207,12 +199,10 @@
   ],
   "ORFik": [],
   "OUTRIDER": [],
-  "PAA": [],
   "POMA": [],
   "PRONE": [
     "POMA"
   ],
-  "PROPS": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "PureCN": [],
@@ -292,7 +282,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "Statial": [],
   "TBSignatureProfiler": [
     "ASSIGN"
   ],

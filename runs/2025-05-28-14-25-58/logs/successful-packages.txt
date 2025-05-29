@@ -1877,3 +1877,12 @@ HarmonizR
 KnowSeq
 pRoloc
 VariantTools
+DaMiRseq
+DuplexDiscovereR
+GeneStructureTools
+MatrixQCvis
+MBECS
+MSPrep
+PAA
+PROPS
+Statial
