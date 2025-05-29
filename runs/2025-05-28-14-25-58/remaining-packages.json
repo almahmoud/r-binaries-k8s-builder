@@ -278,12 +278,10 @@
     "methylumi",
     "lumi"
   ],
-  "MEDIPS": [],
   "MIRA": [
     "bsseq"
   ],
   "MLInterfaces": [],
-  "MMDiff2": [],
   "MSPrep": [
     "sva"
   ],
@@ -302,7 +300,6 @@
   "MethylAid": [
     "minfi"
   ],
-  "MethylSeekR": [],
   "MineICA": [
     "GOstats",
     "lumi",
@@ -315,7 +312,6 @@
   ],
   "Motif2Site": [],
   "MotifDb": [],
-  "MotifPeeker": [],
   "MultiBaC": [
     "ropls"
   ],
@@ -340,7 +336,6 @@
   "OMICsPCA": [
     "HelloRanges"
   ],
-  "ORFhunteR": [],
   "ORFik": [],
   "OUTRIDER": [],
   "PAA": [
@@ -525,10 +520,7 @@
     "Category",
     "ggbio"
   ],
-  "alabaster": [
-    "alabaster.vcf"
-  ],
-  "alabaster.vcf": [],
+  "alabaster": [],
   "annmap": [],
   "annotatr": [
     "regioneR"
@@ -694,7 +686,6 @@
   "debrowser": [
     "sva"
   ],
-  "decompTumor2Sig": [],
   "deconvR": [
     "methylKit",
     "minfi"
@@ -762,7 +753,6 @@
   "fCCAC": [
     "genomation"
   ],
-  "fcScan": [],
   "ffpe": [
     "lumi",
     "methylumi",
@@ -915,9 +905,7 @@
   "msgbsR": [
     "ggbio"
   ],
-  "musicatk": [
-    "decompTumor2Sig"
-  ],
+  "musicatk": [],
   "mygene": [],
   "myvariant": [],
   "nearBynding": [],

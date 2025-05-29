@@ -1767,3 +1767,11 @@ StructuralVariantAnnotation
 cardelino
 chevreulProcess
 deepSNV
+alabaster.vcf
+decompTumor2Sig
+fcScan
+MEDIPS
+MethylSeekR
+MMDiff2
+MotifPeeker
+ORFhunteR
