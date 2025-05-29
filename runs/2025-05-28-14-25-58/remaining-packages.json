@@ -379,7 +379,6 @@
     "scater",
     "scuttle"
   ],
-  "CellTrails": [],
   "CelliD": [
     "scater",
     "scuttle"
@@ -514,7 +513,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "ClusterFoldSimilarity": [],
   "CoGAPS": [],
   "CoSIA": [],
   "Cogito": [
@@ -2164,9 +2162,7 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [
-    "escheR"
-  ],
+  "SpotSweeper": [],
   "Statial": [
     "treekoR",
     "diffcyt"
@@ -2289,7 +2285,6 @@
     "MultiAssayExperiment"
   ],
   "Trendy": [],
-  "UCell": [],
   "UMI4Cats": [
     "ShortRead",
     "regioneR",
@@ -3358,7 +3353,6 @@
     "enrichplot"
   ],
   "escape": [],
-  "escheR": [],
   "esetVis": [],
   "evaluomeR": [
     "MultiAssayExperiment"
@@ -3538,7 +3532,6 @@
     "flowWorkspace"
   ],
   "ggsc": [],
-  "ggspavis": [],
   "ginmappeR": [
     "UniProt.ws"
   ],
@@ -4003,7 +3996,6 @@
     "MultiAssayExperiment",
     "scuttle"
   ],
-  "microSTASIS": [],
   "microbiomeExplorer": [],
   "midasHLA": [
     "MultiAssayExperiment"
@@ -4344,7 +4336,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "poem": [],
   "pram": [
     "GenomicAlignments",
     "rtracklayer"
@@ -4721,7 +4712,6 @@
     "scuttle"
   ],
   "schex": [],
-  "scider": [],
   "scifer": [],
   "scmap": [],
   "scmeth": [

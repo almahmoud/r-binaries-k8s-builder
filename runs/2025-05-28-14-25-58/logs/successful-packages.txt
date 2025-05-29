@@ -1228,3 +1228,11 @@ VisiumIO
 cytomapper
 maaslin3
 mBPCR
+CellTrails
+ClusterFoldSimilarity
+escheR
+ggspavis
+microSTASIS
+poem
+scider
+UCell
