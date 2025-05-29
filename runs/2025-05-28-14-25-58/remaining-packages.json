@@ -1,5 +1,4 @@
 {
-  "ADImpute": [],
   "ADaCGH2": [
     "tilingArray",
     "genefilter",
@@ -372,10 +371,7 @@
   "CTSV": [
     "SpatialExperiment"
   ],
-  "CTdata": [],
-  "CTexploreR": [
-    "CTdata"
-  ],
+  "CTexploreR": [],
   "CaMutQC": [
     "clusterProfiler",
     "MesKit",
@@ -665,7 +661,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "DNAshapeR": [],
   "DNEA": [
     "genefilter",
     "annotate"
@@ -746,7 +741,6 @@
     "scran",
     "scuttle"
   ],
-  "DiscoRhythm": [],
   "DominoEffect": [
     "VariantAnnotation",
     "rtracklayer",
@@ -894,7 +888,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "FilterFFPE": [],
   "FindIT2": [
     "rtracklayer",
     "GenomicFeatures",
@@ -1132,9 +1125,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiCDOC": [
-    "multiHiCcompare"
-  ],
+  "HiCDOC": [],
   "HiContacts": [],
   "HiCool": [],
   "HiLDA": [
@@ -1427,7 +1418,6 @@
     "GenomicAlignments"
   ],
   "MesKit": [],
-  "MetNet": [],
   "MetaNeighbor": [],
   "MetaPhOR": [
     "clusterProfiler",
@@ -1527,7 +1517,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MouseFM": [],
   "MsDataHub": [],
   "MsExperiment": [
     "QFeatures",
@@ -2256,7 +2245,6 @@
     "SpatialExperiment",
     "scuttle"
   ],
-  "SpectralTAD": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -2296,7 +2284,6 @@
     "SPsimSeq",
     "TCGAbiolinks"
   ],
-  "TADCompare": [],
   "TAPseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -2341,7 +2328,6 @@
     "GenomicAlignments"
   ],
   "TENxIO": [],
-  "TEQC": [],
   "TFARM": [],
   "TFBSTools": [
     "BSgenome",
@@ -3233,9 +3219,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cyanoFilter": [
-    "flowDensity"
-  ],
+  "cyanoFilter": [],
   "cydar": [],
   "cypress": [],
   "cytofQC": [
@@ -3273,9 +3257,7 @@
     "scater",
     "scuttle"
   ],
-  "ddPCRclust": [
-    "flowDensity"
-  ],
+  "ddPCRclust": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -3364,7 +3346,6 @@
   ],
   "diffcoexp": [],
   "diffcyt": [],
-  "dinoR": [],
   "distinct": [
     "scater",
     "scuttle"
@@ -3584,10 +3565,7 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowCut": [
-    "flowDensity"
-  ],
-  "flowDensity": [],
+  "flowCut": [],
   "flowFP": [],
   "flowGate": [
     "flowWorkspace",
@@ -3864,7 +3842,6 @@
     "iSEE",
     "iSEEhex"
   ],
-  "iasva": [],
   "icetea": [
     "GenomicFeatures",
     "ShortRead",
@@ -4330,7 +4307,6 @@
     "MultiAssayExperiment"
   ],
   "multiGSEA": [],
-  "multiHiCcompare": [],
   "mumosa": [
     "scuttle",
     "scran",
@@ -4681,7 +4657,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "rScudo": [],
   "rTRMui": [
     "MotifDb",
     "rtracklayer",
@@ -4885,7 +4860,6 @@
   ],
   "scGPS": [],
   "scHOT": [],
-  "scHiCcompare": [],
   "scMET": [],
   "scMerge": [
     "M3Drop",

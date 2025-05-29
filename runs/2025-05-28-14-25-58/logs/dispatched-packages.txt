@@ -1377,3 +1377,8 @@ vidger
 waddR
 zellkonverter
 zitools
+CTexploreR
+HiCDOC
+cyanoFilter
+ddPCRclust
+flowCut
