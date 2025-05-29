@@ -1572,3 +1572,9 @@ TCseq
 CrispRVariants
 goSorensen
 ShortRead
+CRISPRball
+DEP
+iSEEhub
+MEB
+MGFR
+xcms

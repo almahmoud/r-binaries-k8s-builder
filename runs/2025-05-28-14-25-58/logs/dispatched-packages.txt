@@ -1655,3 +1655,8 @@ easyRNASeq
 nucleR
 segmentSeq
 systemPipeR
+CAMERA
+cliqueMS
+cosmiq
+ncGTW
+squallms

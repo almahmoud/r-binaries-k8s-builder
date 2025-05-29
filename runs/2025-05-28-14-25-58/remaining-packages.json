@@ -205,9 +205,7 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [
-    "xcms"
-  ],
+  "CAMERA": [],
   "CCAFE": [
     "VariantAnnotation",
     "rtracklayer",
@@ -237,7 +235,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "CRISPRball": [],
   "CRISPRseek": [
     "GenomicFeatures",
     "BSgenome",
@@ -358,7 +355,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "rtracklayer",
@@ -752,7 +748,6 @@
   ],
   "IONiseR": [],
   "IPO": [
-    "xcms",
     "CAMERA"
   ],
   "IVAS": [
@@ -809,8 +804,7 @@
     "bumphunter"
   ],
   "MAIT": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "MBECS": [
     "sva",
@@ -843,13 +837,11 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "MEB": [],
   "MEDIPS": [
     "BSgenome",
     "rtracklayer"
   ],
   "MGFM": [],
-  "MGFR": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1899,9 +1891,7 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "cliqueMS": [
-    "xcms"
-  ],
+  "cliqueMS": [],
   "clusterExperiment": [
     "zinbwave",
     "mbkmeans",
@@ -1943,9 +1933,7 @@
     "genefilter",
     "GenomicFeatures"
   ],
-  "cosmiq": [
-    "xcms"
-  ],
+  "cosmiq": [],
   "cosmosR": [
     "GSEABase"
   ],
@@ -2248,7 +2236,6 @@
   ],
   "fishpond": [],
   "flagme": [
-    "xcms",
     "CAMERA"
   ],
   "flowBin": [
@@ -2386,7 +2373,6 @@
     "iSEEhex"
   ],
   "iSEEhex": [],
-  "iSEEhub": [],
   "iSEEindex": [],
   "iSEEpathways": [],
   "iSEEtree": [],
@@ -2500,8 +2486,7 @@
     "genefilter"
   ],
   "metaMS": [
-    "CAMERA",
-    "xcms"
+    "CAMERA"
   ],
   "metagene2": [
     "rtracklayer"
@@ -2692,9 +2677,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "ncGTW": [
-    "xcms"
-  ],
+  "ncGTW": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -2977,8 +2960,7 @@
   ],
   "rtracklayer": [],
   "sampleClassifier": [
-    "MGFM",
-    "MGFR"
+    "MGFM"
   ],
   "saseR": [
     "ASpli",
@@ -3189,9 +3171,7 @@
   "splineTimeR": [
     "GSEABase"
   ],
-  "squallms": [
-    "xcms"
-  ],
+  "squallms": [],
   "srnadiff": [
     "rtracklayer",
     "GenomicFeatures",
@@ -3371,7 +3351,6 @@
     "singscore",
     "GSEABase"
   ],
-  "xcms": [],
   "yarn": [
     "quantro",
     "minfi",
