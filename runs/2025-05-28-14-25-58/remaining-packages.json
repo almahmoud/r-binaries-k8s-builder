@@ -46,7 +46,6 @@
   "ReportingTools": [],
   "RnBeads": [],
   "Ularcirc": [],
-  "YAPSA": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -78,7 +77,6 @@
     "crisprScore"
   ],
   "derfinderPlot": [],
-  "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
@@ -95,7 +93,6 @@
   "musicatk": [],
   "scTreeViz": [],
   "scifer": [],
-  "scmeth": [],
   "scruff": [],
   "skewr": [
     "wateRmelon",

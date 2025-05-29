@@ -2171,3 +2171,6 @@ SOMNiBUS
 BOBaFIT
 CAFE
 GenomicOZone
+epivizrStandalone
+scmeth
+YAPSA
