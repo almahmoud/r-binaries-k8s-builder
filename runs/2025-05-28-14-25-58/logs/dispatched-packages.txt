@@ -1637,3 +1637,5 @@ goSorensen
 miRspongeR
 pathlinkR
 alabaster.sfe
+MSstatsQCgui
+msmsTests

@@ -1537,3 +1537,9 @@ CaMutQC
 EnrichDO
 MetaPhOR
 MicrobiomeProfiler
+CBNplot
+CeTF
+EasyCellType
+msmsEDA
+MSstatsQC
+PrInCE

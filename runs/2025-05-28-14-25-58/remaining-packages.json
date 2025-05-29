@@ -209,7 +209,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CBNplot": [],
   "CCAFE": [
     "VariantAnnotation",
     "rtracklayer",
@@ -255,7 +254,6 @@
     "genefilter"
   ],
   "CatsCradle": [],
-  "CeTF": [],
   "CellBarcode": [
     "ShortRead"
   ],
@@ -515,7 +513,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "EasyCellType": [],
   "EnrichmentBrowser": [
     "GSEABase"
   ],
@@ -901,13 +898,9 @@
     "genefilter"
   ],
   "MSnID": [
-    "msmsTests",
-    "msmsEDA"
+    "msmsTests"
   ],
-  "MSstatsQC": [],
-  "MSstatsQCgui": [
-    "MSstatsQC"
-  ],
+  "MSstatsQCgui": [],
   "MatrixQCvis": [
     "sva",
     "genefilter"
@@ -1096,7 +1089,6 @@
   ],
   "PhenStat": [],
   "Pigengene": [],
-  "PrInCE": [],
   "Prostar": [
     "DAPAR"
   ],
@@ -2753,10 +2745,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "msmsEDA": [],
-  "msmsTests": [
-    "msmsEDA"
-  ],
+  "msmsTests": [],
   "musicatk": [
     "VariantAnnotation",
     "BSgenome",
