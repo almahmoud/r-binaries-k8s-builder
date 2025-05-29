@@ -2180,3 +2180,4 @@ lumi
 derfinderPlot
 msgbsR
 scruff
+ATACseqQC
