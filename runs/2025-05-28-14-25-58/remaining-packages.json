@@ -75,7 +75,6 @@
     "MIRA"
   ],
   "CODEX": [],
-  "Cepo": [],
   "CexoR": [],
   "ChAMP": [
     "minfi",
@@ -89,10 +88,8 @@
     "lumi"
   ],
   "ChIPQC": [
-    "DiffBind",
-    "GreyListChIP"
+    "DiffBind"
   ],
-  "ChIPanalyser": [],
   "ChIPexoQual": [],
   "ChIPpeakAnno": [
     "regioneR"
@@ -118,7 +115,6 @@
     "Gviz",
     "methylumi"
   ],
-  "DNEA": [],
   "DSS": [],
   "DaMiRseq": [
     "sva"
@@ -133,9 +129,7 @@
   ],
   "DegCre": [],
   "DegNorm": [],
-  "DiffBind": [
-    "GreyListChIP"
-  ],
+  "DiffBind": [],
   "DominoEffect": [],
   "DuplexDiscovereR": [
     "Gviz"
@@ -193,7 +187,6 @@
   "GmicR": [
     "GOstats"
   ],
-  "GreyListChIP": [],
   "Gviz": [],
   "HarmonizR": [
     "sva"
@@ -843,9 +836,7 @@
   "scBFA": [
     "zinbwave"
   ],
-  "scClassify": [
-    "Cepo"
-  ],
+  "scClassify": [],
   "scFeatures": [],
   "scTreeViz": [
     "epivizr",
@@ -886,7 +877,6 @@
     "minfi",
     "lumi"
   ],
-  "slalom": [],
   "sparrow": [],
   "spatzie": [
     "GenomicInteractions",
@@ -900,7 +890,6 @@
   ],
   "standR": [],
   "sva": [],
-  "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [
     "Gviz"
@@ -926,8 +915,7 @@
   "vulcan": [
     "ChIPpeakAnno",
     "DiffBind",
-    "regioneR",
-    "GreyListChIP"
+    "regioneR"
   ],
   "wateRmelon": [
     "methylumi",

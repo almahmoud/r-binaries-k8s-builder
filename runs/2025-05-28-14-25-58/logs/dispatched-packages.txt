@@ -2007,3 +2007,5 @@ blacksheepr
 diffUTR
 pathMED
 xCell2
+DiffBind
+scClassify

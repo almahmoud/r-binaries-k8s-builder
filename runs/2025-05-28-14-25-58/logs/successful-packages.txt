@@ -1847,3 +1847,9 @@ scTGIF
 singscore
 bioCancer
 GlobalAncova
+Cepo
+ChIPanalyser
+DNEA
+GreyListChIP
+slalom
+tLOH
