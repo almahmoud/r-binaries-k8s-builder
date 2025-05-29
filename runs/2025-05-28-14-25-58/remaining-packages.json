@@ -63,7 +63,6 @@
     "methylumi",
     "lumi"
   ],
-  "MetaboSignal": [],
   "MethylAid": [],
   "MineICA": [
     "lumi",
@@ -125,7 +124,6 @@
   ],
   "borealis": [],
   "cageminer": [],
-  "clusterExperiment": [],
   "consensusDE": [],
   "consensusOV": [],
   "conumee": [],
@@ -156,7 +154,6 @@
   "dreamlet": [],
   "drugTargetInteractions": [],
   "epimutacions": [],
-  "epiregulon": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -192,7 +189,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylInheritance": [],
   "methylSig": [],
   "methylclock": [],
   "methylumi": [],
@@ -200,12 +196,9 @@
     "methylumi"
   ],
   "mitoClone2": [],
-  "motifbreakR": [],
   "msgbsR": [],
   "musicatk": [],
-  "netSmooth": [
-    "clusterExperiment"
-  ],
+  "netSmooth": [],
   "pathMED": [],
   "proBAMr": [],
   "profileplyr": [],

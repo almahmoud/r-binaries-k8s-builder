@@ -1,15 +1,1 @@
-ENmix
-MethylAid
-REMP
-conumee
-deconvR
-epimutacions
-funtooNorm
-iNETgrate
-methylCC
-methylclock
-methylumi
-quantro
-recountmethylation
-shinyMethyl
-shinyepico
+netSmooth

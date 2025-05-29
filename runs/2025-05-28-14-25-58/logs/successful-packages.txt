@@ -2090,3 +2090,8 @@ scBFA
 esATAC
 MAIT
 minfi
+clusterExperiment
+epiregulon
+MetaboSignal
+methylInheritance
+motifbreakR
