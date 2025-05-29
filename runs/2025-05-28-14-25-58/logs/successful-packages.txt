@@ -1079,3 +1079,8 @@ h5vc
 MAI
 MPRAnalyze
 tenXplore
+BioGA
+BreastSubtypeR
+BUMHMM
+GOSemSim
+isobar

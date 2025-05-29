@@ -1252,3 +1252,6 @@ blima
 epigenomix
 fastLiquidAssociation
 EGAD
+DOSE
+Rcpi
+rrvgo
