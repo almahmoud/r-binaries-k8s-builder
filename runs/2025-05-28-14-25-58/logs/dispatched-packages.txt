@@ -1965,3 +1965,5 @@ Gviz
 ggbio
 svaNUMT
 svaRetro
+chevreulPlot
+mitoClone2

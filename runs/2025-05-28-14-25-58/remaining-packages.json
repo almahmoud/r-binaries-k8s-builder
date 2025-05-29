@@ -608,7 +608,6 @@
     "RTCGAToolbox",
     "Category"
   ],
-  "cardelino": [],
   "categoryCompare": [
     "Category",
     "GOstats"
@@ -620,12 +619,8 @@
   "cghMCR": [
     "CNTools"
   ],
-  "chevreulPlot": [
-    "chevreulProcess"
-  ],
-  "chevreulProcess": [],
+  "chevreulPlot": [],
   "chevreulShiny": [
-    "chevreulProcess",
     "chevreulPlot"
   ],
   "chimeraviz": [
@@ -704,7 +699,6 @@
     "methylKit",
     "minfi"
   ],
-  "deepSNV": [],
   "demuxSNP": [],
   "derfinder": [
     "GenomicFiles"
@@ -901,9 +895,7 @@
     "minfi"
   ],
   "mist": [],
-  "mitoClone2": [
-    "deepSNV"
-  ],
+  "mitoClone2": [],
   "mogsa": [],
   "monaLisa": [
     "TFBSTools"
