@@ -1179,3 +1179,9 @@ SC3
 SeqGSEA
 TCC
 TrajectoryUtils
+GENESIS
+GloScope
+HIPPO
+Nebulosa
+ReactomeGSA
+SVMDO

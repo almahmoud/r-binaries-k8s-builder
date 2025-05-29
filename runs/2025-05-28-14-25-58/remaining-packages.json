@@ -928,7 +928,6 @@
     "enrichplot"
   ],
   "GDSArray": [],
-  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "genefilter",
@@ -1063,7 +1062,6 @@
   "GenomicSuperSignature": [],
   "GeoTcgaData": [],
   "Glimma": [],
-  "GloScope": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -1095,7 +1093,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "HIPPO": [],
   "HTSFilter": [],
   "HarmonizR": [
     "sva",
@@ -1576,7 +1573,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Nebulosa": [],
   "NetSAM": [],
   "NormalyzerDE": [],
   "NormqPCR": [],
@@ -1791,7 +1787,6 @@
     "GenomicFeatures"
   ],
   "RAIDS": [
-    "GENESIS",
     "ensembldb",
     "BSgenome",
     "VariantAnnotation",
@@ -1956,7 +1951,6 @@
     "annotate"
   ],
   "Rcpi": [],
-  "ReactomeGSA": [],
   "ReactomePA": [
     "enrichplot"
   ],
@@ -2148,7 +2142,6 @@
   ],
   "SPOTlight": [],
   "SPsimSeq": [],
-  "SVMDO": [],
   "SVP": [
     "SpatialExperiment"
   ],
