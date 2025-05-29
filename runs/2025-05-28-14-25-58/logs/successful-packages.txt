@@ -1891,3 +1891,10 @@ ELMER
 POMA
 scFeatures
 SEtools
+ballgown
+bnem
+categoryCompare
+GmicR
+IsoformSwitchAnalyzeR
+SCAN.UPC
+SGCP

@@ -130,7 +130,6 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "GmicR": [],
   "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions"
@@ -139,7 +138,6 @@
   "IntEREst": [
     "GenomicFiles"
   ],
-  "IsoformSwitchAnalyzeR": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -260,8 +258,6 @@
   "Rqc": [
     "GenomicFiles"
   ],
-  "SCAN.UPC": [],
-  "SGCP": [],
   "SMITE": [],
   "SOMNiBUS": [
     "annotatr",
@@ -296,9 +292,7 @@
   "VCFArray": [
     "GenomicFiles"
   ],
-  "VaSP": [
-    "ballgown"
-  ],
+  "VaSP": [],
   "VanillaICE": [],
   "VarCon": [],
   "VariantFiltering": [],
@@ -330,7 +324,6 @@
     "TFBSTools"
   ],
   "attract": [],
-  "ballgown": [],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
@@ -347,7 +340,6 @@
   ],
   "blacksheepr": [],
   "bnbc": [],
-  "bnem": [],
   "borealis": [
     "DSS"
   ],
@@ -359,7 +351,6 @@
   "canceR": [
     "phenoTest"
   ],
-  "categoryCompare": [],
   "cghMCR": [
     "CNTools"
   ],
