@@ -175,7 +175,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "Banksy": [],
   "Basic4Cseq": [
     "GenomicAlignments",
     "BSgenome",
@@ -4890,21 +4889,15 @@
     "chipseq",
     "ShortRead"
   ],
-  "sosta": [],
-  "spaSim": [],
-  "spacexr": [],
   "sparrow": [
     "BiocSet",
     "GSEABase",
     "annotate"
   ],
-  "spatialDE": [],
-  "spatialFDA": [],
   "spatialHeatmap": [
     "genefilter",
     "annotate"
   ],
-  "spatialSimGP": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",

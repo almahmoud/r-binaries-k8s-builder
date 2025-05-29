@@ -1236,3 +1236,10 @@ microSTASIS
 poem
 scider
 UCell
+Banksy
+sosta
+spacexr
+spaSim
+spatialDE
+spatialFDA
+spatialSimGP
