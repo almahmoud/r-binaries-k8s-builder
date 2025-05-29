@@ -1404,3 +1404,7 @@ mspms
 mumosa
 PSMatch
 Rcpi
+annaffy
+cypress
+deltaCaptureC
+MetaboAnnotation

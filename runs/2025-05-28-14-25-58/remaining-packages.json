@@ -1175,7 +1175,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "MetaboAnnotation": [],
   "MetaboSignal": [
     "hpar",
     "mygene",
@@ -2103,12 +2102,10 @@
   ],
   "a4": [
     "a4Base",
-    "annaffy",
     "genefilter",
     "annotate"
   ],
   "a4Base": [
-    "annaffy",
     "genefilter",
     "annotate"
   ],
@@ -2161,7 +2158,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "annaffy": [],
   "annmap": [
     "genefilter",
     "annotate"
@@ -2693,7 +2689,6 @@
     "BSgenome"
   ],
   "cydar": [],
-  "cypress": [],
   "cytofQC": [
     "CATALYST"
   ],
@@ -2748,7 +2743,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "deltaCaptureC": [],
   "demuxSNP": [
     "VariantAnnotation",
     "ensembldb",
@@ -4499,9 +4493,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "webbioc": [
-    "annaffy"
-  ],
+  "webbioc": [],
   "wiggleplotr": [
     "rtracklayer",
     "GenomicAlignments"
