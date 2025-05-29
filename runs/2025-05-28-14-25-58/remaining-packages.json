@@ -1581,9 +1581,7 @@
     "GenomicAlignments"
   ],
   "Nebulosa": [],
-  "NetActivity": [],
   "NetSAM": [],
-  "NewWave": [],
   "NormalyzerDE": [],
   "NormqPCR": [],
   "OGRE": [
@@ -1708,7 +1706,6 @@
     "enrichplot",
     "annotate"
   ],
-  "PathoStat": [],
   "PeacoQC": [
     "flowWorkspace",
     "ncdfFlow"
@@ -2165,11 +2162,9 @@
   ],
   "SeqGSEA": [],
   "SeqGate": [],
-  "SeqSQC": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
-  "SiPSiC": [],
   "SigCheck": [
     "MLInterfaces",
     "annotate",
@@ -2699,7 +2694,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "barbieQ": [],
   "basecallQC": [
     "ShortRead",
     "GenomicAlignments"

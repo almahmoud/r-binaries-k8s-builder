@@ -1167,3 +1167,9 @@ diffcoexp
 RCSL
 RUCova
 SCnorm
+barbieQ
+NetActivity
+NewWave
+PathoStat
+SeqSQC
+SiPSiC
