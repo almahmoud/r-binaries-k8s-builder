@@ -5,13 +5,14 @@
 ## Summary
 
 - 2210 packages built successfully
-- 11 packages failed to build
-- 5 packages not yet processed
+- 12 packages failed to build
+- 4 packages not yet processed
 
-## Failed Builds (11)
+## Failed Builds (12)
 | Package                                                                            | Status   | Log                                     | BBS Status                                                                   | Failure Reasons                                                  |
 |------------------------------------------------------------------------------------|----------|-----------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------|
 | [BulkSignalR](https://bioconductor.org/packages/3.22/bioc/html/BulkSignalR.html)   | Failed   | [Log](logs/BulkSignalR/build-fail.log)  | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/BulkSignalR)     | Build failed with unknown error                                  |
+| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)               | Failed   | [Log](logs/ChAMP/build-fail.log)        | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/ChAMP)           | Build failed with unknown error                                  |
 | [EpiCompare](https://bioconductor.org/packages/3.22/bioc/html/EpiCompare.html)     | Failed   | [Log](logs/EpiCompare/build-fail.log)   | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/EpiCompare)      | Build failed with unknown error                                  |
 | [NormqPCR](https://bioconductor.org/packages/3.22/bioc/html/NormqPCR.html)         | Failed   | [Log](logs/NormqPCR/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/NormqPCR)        | ERROR: dependency ‘qpcR’ is not available for package ‘NormqPCR’ |
 | [PhenStat](https://bioconductor.org/packages/3.22/bioc/html/PhenStat.html)         | Failed   | [Log](logs/PhenStat/build-fail.log)     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/PhenStat)        | Build failed with unknown error                                  |
@@ -2237,10 +2238,9 @@
 | [zinbwave](https://bioconductor.org/packages/3.22/bioc/html/zinbwave.html)                                       | Built    | [Log](logs/zinbwave/build-success.log)                    | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zinbwave)                    |
 | [zitools](https://bioconductor.org/packages/3.22/bioc/html/zitools.html)                                         | Built    | [Log](logs/zitools/build-success.log)                     | [OK](https://bioconductor.org/checkResults/3.22/bioc-LATEST/zitools)                     |
 
-## Not Yet Processed (5)
+## Not Yet Processed (4)
 | Package                                                                            | Status      |
 |------------------------------------------------------------------------------------|-------------|
-| [ChAMP](https://bioconductor.org/packages/3.22/bioc/html/ChAMP.html)               | Unprocessed |
 | [crisprDesign](https://bioconductor.org/packages/3.22/bioc/html/crisprDesign.html) | Unprocessed |
 | [crisprShiny](https://bioconductor.org/packages/3.22/bioc/html/crisprShiny.html)   | Unprocessed |
 | [crisprVerse](https://bioconductor.org/packages/3.22/bioc/html/crisprVerse.html)   | Unprocessed |
