@@ -1861,3 +1861,9 @@ Gviz
 rTRMui
 sva
 txcutr
+AHMassBank
+cliProfiler
+goseq
+iSEEu
+oppar
+ropls

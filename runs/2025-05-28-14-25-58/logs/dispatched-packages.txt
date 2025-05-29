@@ -2061,3 +2061,12 @@ omicRexposome
 pairedGSEA
 qsmooth
 qsvaR
+ASICS
+MultiBaC
+SMITE
+biosigner
+iSEEfier
+lipidr
+phenomis
+rgsepd
+rqt

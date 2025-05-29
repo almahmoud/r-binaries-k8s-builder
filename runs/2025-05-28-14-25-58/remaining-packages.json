@@ -3,11 +3,8 @@
     "tilingArray"
   ],
   "AGDEX": [],
-  "AHMassBank": [],
   "APAlyzer": [],
-  "ASICS": [
-    "ropls"
-  ],
+  "ASICS": [],
   "ASSIGN": [],
   "ASpli": [],
   "ATACseqQC": [
@@ -65,7 +62,6 @@
     "minfi",
     "DMRcate",
     "wateRmelon",
-    "goseq",
     "missMethyl",
     "methylumi",
     "lumi"
@@ -95,8 +91,7 @@
   "DSS": [],
   "DaMiRseq": [],
   "Damsel": [
-    "ggbio",
-    "goseq"
+    "ggbio"
   ],
   "DeMixT": [
     "DSS"
@@ -205,9 +200,7 @@
   "MinimumDistance": [
     "VanillaICE"
   ],
-  "MultiBaC": [
-    "ropls"
-  ],
+  "MultiBaC": [],
   "MungeSumstats": [],
   "MutationalPatterns": [],
   "NADfinder": [
@@ -300,9 +293,7 @@
   "SGCP": [
     "GOstats"
   ],
-  "SMITE": [
-    "goseq"
-  ],
+  "SMITE": [],
   "SOMNiBUS": [
     "annotatr",
     "regioneR"
@@ -386,9 +377,7 @@
     "lumi"
   ],
   "biomvRCNS": [],
-  "biosigner": [
-    "ropls"
-  ],
+  "biosigner": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr",
@@ -426,7 +415,6 @@
   "circRNAprofiler": [
     "gwascat"
   ],
-  "cliProfiler": [],
   "clusterExperiment": [
     "zinbwave"
   ],
@@ -528,7 +516,6 @@
     "trackViewer"
   ],
   "ggbio": [],
-  "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
   "hicVennDiagram": [],
@@ -543,10 +530,7 @@
   "iNETgrate": [
     "minfi"
   ],
-  "iSEEfier": [
-    "iSEEu"
-  ],
-  "iSEEu": [],
+  "iSEEfier": [],
   "icetea": [],
   "igvR": [],
   "intansv": [
@@ -558,9 +542,7 @@
     "DSS"
   ],
   "lineagespot": [],
-  "lipidr": [
-    "ropls"
-  ],
+  "lipidr": [],
   "lisaClust": [
     "spicyR"
   ],
@@ -637,7 +619,6 @@
   ],
   "octad": [],
   "omicRexposome": [],
-  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -650,9 +631,7 @@
   "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
-  "phenomis": [
-    "ropls"
-  ],
+  "phenomis": [],
   "preciseTAD": [],
   "primirTSS": [
     "TFBSTools"
@@ -688,18 +667,13 @@
     "regioneR"
   ],
   "regutools": [],
-  "rgsepd": [
-    "goseq"
-  ],
+  "rgsepd": [],
   "ribosomeProfilingQC": [
     "motifStack",
     "TFBSTools"
   ],
   "rnaEditr": [],
-  "ropls": [],
-  "rqt": [
-    "ropls"
-  ],
+  "rqt": [],
   "saseR": [
     "ASpli"
   ],
