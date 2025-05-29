@@ -482,21 +482,18 @@
   ],
   "CytoMDS": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoML": [
     "openCyto",
     "ggcyto"
   ],
   "CytoPipeline": [
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
-    "ggcyto",
-    "PeacoQC"
+    "ggcyto"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -823,7 +820,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "GOpro": [],
   "GOstats": [
     "Category",
     "annotate",
@@ -1079,9 +1075,7 @@
     "annotate"
   ],
   "LRBaseDbi": [],
-  "Lheuristic": [],
   "LimROTS": [],
-  "LinkHD": [],
   "M3Drop": [],
   "MAGAR": [
     "RnBeads",
@@ -1174,7 +1168,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MOMA": [],
   "MOSClip": [
     "qpgraph",
     "annotate",
@@ -1324,7 +1317,6 @@
     "MultiDataSet"
   ],
   "MultiDataSet": [],
-  "MultimodalExperiment": [],
   "MungeSumstats": [
     "BSgenome",
     "VariantAnnotation",
@@ -1478,7 +1470,6 @@
     "enrichplot",
     "annotate"
   ],
-  "PeacoQC": [],
   "PharmacoGx": [],
   "PhenStat": [],
   "PhosR": [],
@@ -1905,7 +1896,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SingleCellSignalR": [],
   "SingleMoleculeFootprinting": [
     "BSgenome",
     "plyranges",
@@ -1930,7 +1920,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "SpaNorm": [],
   "Spaniel": [],
   "SparseSignatures": [
     "BSgenome",
@@ -3042,7 +3031,6 @@
     "motifmatchr",
     "enrichplot"
   ],
-  "escape": [],
   "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer",
@@ -3099,10 +3087,7 @@
   "flowGate": [
     "ggcyto"
   ],
-  "flowStats": [],
-  "flowVS": [
-    "flowStats"
-  ],
+  "flowVS": [],
   "frma": [],
   "funOmics": [],
   "funtooNorm": [
@@ -4196,7 +4181,6 @@
     "GSVA",
     "ensembldb",
     "AUCell",
-    "SingleCellSignalR",
     "GSEABase",
     "GenomicFeatures",
     "rtracklayer",

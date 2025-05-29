@@ -1353,3 +1353,13 @@ CoreGx
 Dino
 MOSim
 MPAC
+escape
+flowStats
+GOpro
+Lheuristic
+LinkHD
+MOMA
+MultimodalExperiment
+PeacoQC
+SingleCellSignalR
+SpaNorm
