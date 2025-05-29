@@ -3,3 +3,4 @@ RbowtieCuda
 NormqPCR
 scifer
 crisprScore
+BulkSignalR

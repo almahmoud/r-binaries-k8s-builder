@@ -187,7 +187,6 @@
     "genefilter",
     "annotate"
   ],
-  "BatchSVG": [],
   "BgeeCall": [
     "GenomicFeatures",
     "rtracklayer",
@@ -522,26 +521,22 @@
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoML": [
     "flowWorkspace",
     "openCyto",
-    "ggcyto",
-    "ncdfFlow"
+    "ggcyto"
   ],
   "CytoPipeline": [
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "CytoPipelineGUI": [
     "CytoPipeline",
     "ggcyto",
     "PeacoQC",
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "DAMEfinder": [
@@ -1601,8 +1596,7 @@
     "annotate"
   ],
   "PeacoQC": [
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "PepSetTest": [],
   "PharmacoGx": [
@@ -2367,7 +2361,6 @@
     "annotate"
   ],
   "adSplit": [],
-  "adductomicsR": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
@@ -2521,7 +2514,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "beer": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3169,7 +3161,6 @@
     "genefilter",
     "annotate"
   ],
-  "eisaR": [],
   "enhancerHomologSearch": [
     "BSgenome",
     "motifmatchr",
@@ -3330,21 +3321,16 @@
   "flowFP": [],
   "flowGate": [
     "flowWorkspace",
-    "ggcyto",
-    "ncdfFlow"
+    "ggcyto"
   ],
   "flowStats": [
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
   "flowVS": [
     "flowStats",
-    "flowWorkspace",
-    "ncdfFlow"
+    "flowWorkspace"
   ],
-  "flowWorkspace": [
-    "ncdfFlow"
-  ],
+  "flowWorkspace": [],
   "frma": [],
   "funOmics": [],
   "funtooNorm": [
@@ -3442,7 +3428,6 @@
     "ensembldb"
   ],
   "ggcyto": [
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "ggsc": [],
@@ -4057,7 +4042,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "ncdfFlow": [],
   "nearBynding": [
     "plyranges",
     "rtracklayer",
@@ -4116,7 +4100,6 @@
     "RaggedExperiment"
   ],
   "openCyto": [
-    "ncdfFlow",
     "flowWorkspace"
   ],
   "oppar": [

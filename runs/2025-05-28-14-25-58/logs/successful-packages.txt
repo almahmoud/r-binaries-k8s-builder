@@ -1293,3 +1293,8 @@ tidySingleCellExperiment
 orthos
 partCNV
 ROCpAI
+adductomicsR
+BatchSVG
+beer
+eisaR
+ncdfFlow
