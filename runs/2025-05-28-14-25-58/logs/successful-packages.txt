@@ -1569,3 +1569,6 @@ ptairMS
 qPLEXanalyzer
 RegEnrich
 TCseq
+CrispRVariants
+goSorensen
+ShortRead
