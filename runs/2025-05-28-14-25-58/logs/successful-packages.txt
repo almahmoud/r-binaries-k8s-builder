@@ -1932,3 +1932,9 @@ TBSignatureProfiler
 XDE
 chevreulPlot
 MutationalPatterns
+BgeeCall
+ExCluster
+GenomicFiles
+miRSM
+mygene
+sitadela

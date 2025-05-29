@@ -2087,3 +2087,10 @@ CleanUpRNAseq
 iCNV
 RESOLVE
 chevreulShiny
+IntEREst
+MetaboSignal
+QuasR
+Rqc
+TFutils
+VCFArray
+derfinder

@@ -26,18 +26,15 @@
     "ggbio"
   ],
   "BSgenomeForge": [],
-  "BgeeCall": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
   ],
   "CAGEfightR": [
-    "GenomicFiles",
     "GenomicInteractions"
   ],
   "CAGEr": [
     "CAGEfightR",
-    "GenomicFiles",
     "GenomicInteractions"
   ],
   "CCAFE": [],
@@ -89,7 +86,6 @@
   ],
   "EpiCompare": [],
   "EpiTxDb": [],
-  "ExCluster": [],
   "ExperimentHubData": [],
   "FLAMES": [
     "ggbio"
@@ -109,7 +105,6 @@
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "GenomicFiles": [],
   "GenomicInteractions": [],
   "GenomicOZone": [
     "ggbio"
@@ -122,9 +117,7 @@
     "GenomicInteractions"
   ],
   "IMAS": [],
-  "IntEREst": [
-    "GenomicFiles"
-  ],
+  "IntEREst": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -146,9 +139,7 @@
   "MatrixRider": [
     "TFBSTools"
   ],
-  "MetaboSignal": [
-    "mygene"
-  ],
+  "MetaboSignal": [],
   "MethReg": [
     "TFBSTools"
   ],
@@ -185,9 +176,7 @@
   "ProteoDisco": [],
   "PureCN": [],
   "Pviz": [],
-  "QuasR": [
-    "GenomicFiles"
-  ],
+  "QuasR": [],
   "R3CPET": [
     "ggbio"
   ],
@@ -202,8 +191,7 @@
   "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -234,12 +222,9 @@
   ],
   "RnaSeqSampleSize": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
-  "Rqc": [
-    "GenomicFiles"
-  ],
+  "Rqc": [],
   "SMITE": [],
   "SOMNiBUS": [
     "annotatr",
@@ -248,8 +233,7 @@
   "SPLINTER": [],
   "SigCheck": [],
   "SingleMoleculeFootprinting": [
-    "QuasR",
-    "GenomicFiles"
+    "QuasR"
   ],
   "SomaticSignatures": [
     "ggbio"
@@ -258,18 +242,14 @@
   "TFHAZ": [
     "ORFik"
   ],
-  "TFutils": [
-    "GenomicFiles"
-  ],
+  "TFutils": [],
   "TVTB": [],
   "TissueEnrich": [],
   "UMI4Cats": [
     "regioneR"
   ],
   "Ularcirc": [],
-  "VCFArray": [
-    "GenomicFiles"
-  ],
+  "VCFArray": [],
   "VaSP": [],
   "VanillaICE": [],
   "VarCon": [],
@@ -374,13 +354,10 @@
   "deconvR": [
     "minfi"
   ],
-  "derfinder": [
-    "GenomicFiles"
-  ],
+  "derfinder": [],
   "derfinderPlot": [
     "derfinder",
-    "ggbio",
-    "GenomicFiles"
+    "ggbio"
   ],
   "diffHic": [],
   "diffUTR": [],
@@ -496,7 +473,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miRSM": [],
   "minfi": [],
   "missMethyl": [
     "methylumi",
@@ -520,7 +496,6 @@
     "ggbio"
   ],
   "musicatk": [],
-  "mygene": [],
   "myvariant": [],
   "netSmooth": [
     "clusterExperiment",
@@ -545,23 +520,20 @@
   "protGear": [],
   "psichomics": [
     "recount",
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "quantro": [
     "minfi"
   ],
   "recount": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "recountmethylation": [
     "minfi"
   ],
   "recoup": [],
   "regionReport": [
-    "derfinder",
-    "GenomicFiles"
+    "derfinder"
   ],
   "regioneR": [],
   "regioneReloaded": [
@@ -611,7 +583,6 @@
   "signifinder": [
     "consensusOV"
   ],
-  "sitadela": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
