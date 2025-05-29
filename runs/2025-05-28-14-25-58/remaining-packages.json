@@ -554,7 +554,6 @@
   ],
   "CircSeqAlignTk": [
     "ShortRead",
-    "Rbowtie2",
     "Rhisat2",
     "txdbmaker",
     "SGSeq",
@@ -856,7 +855,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EDIRquery": [],
   "ELMER": [
     "GenomicFeatures",
     "TCGAbiolinks",
@@ -1376,7 +1374,6 @@
   "LinkHD": [
     "MultiAssayExperiment"
   ],
-  "LipidTrend": [],
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
@@ -1826,7 +1823,6 @@
     "annotate"
   ],
   "PADOG": [],
-  "PAIRADISE": [],
   "PAST": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2150,7 +2146,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "Rbowtie2": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell",
@@ -2668,7 +2663,6 @@
     "regioneR",
     "BSgenome",
     "DESeq2",
-    "Rbowtie2",
     "GenomicAlignments",
     "annotate",
     "GenomicFeatures",
@@ -2944,7 +2938,6 @@
     "genefilter",
     "annotate"
   ],
-  "artMS": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -2967,7 +2960,6 @@
   "autonomics": [
     "MultiAssayExperiment"
   ],
-  "awst": [],
   "ballgown": [
     "sva",
     "rtracklayer",
@@ -3851,7 +3843,6 @@
   "esATAC": [
     "ShortRead",
     "pipeFrame",
-    "Rbowtie2",
     "rtracklayer",
     "ChIPseeker",
     "clusterProfiler",
@@ -4554,7 +4545,6 @@
     "genefilter",
     "annotate"
   ],
-  "miRNAtap": [],
   "miRSM": [
     "BicARE",
     "GSEABase",

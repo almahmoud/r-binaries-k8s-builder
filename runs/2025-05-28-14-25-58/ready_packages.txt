@@ -1,3 +1,0 @@
-ADAMgui
-GENESIS
-esetVis
