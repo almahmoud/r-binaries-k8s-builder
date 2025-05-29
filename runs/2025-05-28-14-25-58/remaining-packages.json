@@ -261,7 +261,6 @@
   "CellBarcode": [
     "ShortRead"
   ],
-  "CelliD": [],
   "Cepo": [
     "GSEABase"
   ],
@@ -360,7 +359,6 @@
     "genefilter"
   ],
   "CluMSID": [],
-  "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1077,7 +1075,6 @@
   "PAST": [
     "rtracklayer"
   ],
-  "PDATK": [],
   "PECA": [
     "genefilter"
   ],
@@ -2397,7 +2394,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "ginmappeR": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3126,7 +3122,6 @@
   "scPipe": [
     "rtracklayer"
   ],
-  "scQTLtools": [],
   "scRNAseqApp": [
     "rtracklayer"
   ],

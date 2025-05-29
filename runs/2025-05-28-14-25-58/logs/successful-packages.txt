@@ -1522,3 +1522,8 @@ airpart
 genomicInstability
 gg4way
 scHOT
+CelliD
+CoSIA
+ginmappeR
+PDATK
+scQTLtools
