@@ -60,7 +60,6 @@
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
-  "IntEREst": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -121,7 +120,6 @@
     "methylumi",
     "minfi"
   ],
-  "Rqc": [],
   "SMITE": [],
   "SOMNiBUS": [
     "annotatr"
@@ -168,7 +166,6 @@
   "cicero": [],
   "circRNAprofiler": [],
   "clusterExperiment": [],
-  "comapr": [],
   "consensusDE": [],
   "consensusOV": [],
   "conumee": [
@@ -201,7 +198,6 @@
   "dmrseq": [
     "annotatr"
   ],
-  "doubletrouble": [],
   "dreamlet": [
     "zenith"
   ],
