@@ -1283,3 +1283,10 @@ gemma.R
 immApex
 MetaboDynamics
 scuttle
+CuratedAtlasQueryR
+esetVis
+LACE
+LRcell
+PhIPData
+scmap
+tidySingleCellExperiment

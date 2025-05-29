@@ -1449,3 +1449,5 @@ simPIC
 splatter
 spoon
 velociraptor
+beer
+tidySpatialExperiment

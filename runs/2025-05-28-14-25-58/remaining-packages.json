@@ -518,7 +518,6 @@
   "CrispRVariants": [
     "GenomicAlignments"
   ],
-  "CuratedAtlasQueryR": [],
   "CytoMDS": [
     "CytoPipeline",
     "ggcyto",
@@ -1152,9 +1151,7 @@
     "genefilter",
     "annotate"
   ],
-  "LACE": [],
   "LRBaseDbi": [],
-  "LRcell": [],
   "Lheuristic": [
     "MultiAssayExperiment"
   ],
@@ -1608,7 +1605,6 @@
     "ncdfFlow"
   ],
   "PepSetTest": [],
-  "PhIPData": [],
   "PharmacoGx": [
     "CoreGx",
     "MultiAssayExperiment"
@@ -2526,9 +2522,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "beer": [
-    "PhIPData"
-  ],
+  "beer": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -3279,7 +3273,6 @@
     "enrichplot"
   ],
   "escape": [],
-  "esetVis": [],
   "evaluomeR": [
     "MultiAssayExperiment"
   ],
@@ -4596,7 +4589,6 @@
   ],
   "scater": [],
   "scifer": [],
-  "scmap": [],
   "scmeth": [
     "bsseq",
     "BSgenome",
@@ -4905,12 +4897,8 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "tidySingleCellExperiment": [],
-  "tidySpatialExperiment": [
-    "tidySingleCellExperiment"
-  ],
+  "tidySpatialExperiment": [],
   "tidyomics": [
-    "tidySingleCellExperiment",
     "plyranges",
     "nullranges",
     "rtracklayer",
