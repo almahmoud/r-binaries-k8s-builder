@@ -83,7 +83,6 @@
   "DegCre": [],
   "DegNorm": [],
   "DiffBind": [],
-  "DominoEffect": [],
   "ELViS": [],
   "ENmix": [
     "minfi"
@@ -258,7 +257,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TBSignatureProfiler": [],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik"
@@ -279,7 +277,6 @@
   "VanillaICE": [],
   "VarCon": [],
   "VariantFiltering": [],
-  "XDE": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
