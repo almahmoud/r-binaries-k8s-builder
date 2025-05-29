@@ -1467,3 +1467,8 @@ GenomicAlignments
 microbiomeExplorer
 motifcounter
 transformGamPoi
+alabaster.files
+ccfindR
+GRmetrics
+ITALICS
+miloR

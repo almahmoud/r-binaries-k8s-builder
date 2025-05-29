@@ -684,7 +684,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "GRmetrics": [],
   "GSEABase": [
     "annotate"
   ],
@@ -850,7 +849,6 @@
     "xcms",
     "CAMERA"
   ],
-  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "rtracklayer"
@@ -1827,7 +1825,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.files": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
     "alabaster.sce",
@@ -2071,7 +2068,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "ccfindR": [],
   "censcyt": [
     "diffcyt"
   ],
@@ -2322,8 +2318,7 @@
     "rtracklayer"
   ],
   "dandelionR": [
-    "destiny",
-    "miloR"
+    "destiny"
   ],
   "debCAM": [],
   "debrowser": [
@@ -2978,7 +2973,6 @@
     "iSEE",
     "iSEEtree"
   ],
-  "miloR": [],
   "minfi": [
     "bumphunter",
     "genefilter",
