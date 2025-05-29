@@ -1663,3 +1663,11 @@ CAMERA
 mobileRNA
 rifi
 rifiComparative
+chipenrich
+gDR
+GenomicFeatures
+groHMM
+plyranges
+rmspc
+roar
+sampleClassifier
