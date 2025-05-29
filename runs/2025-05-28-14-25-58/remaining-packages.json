@@ -5,7 +5,6 @@
   "AGDEX": [],
   "APAlyzer": [],
   "ASICS": [],
-  "ASSIGN": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
@@ -23,7 +22,6 @@
   ],
   "BBCAnalyzer": [],
   "BEAT": [],
-  "BERT": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -114,7 +112,6 @@
   "GA4GHshiny": [
     "GA4GHclient"
   ],
-  "GARS": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
   "GSRI": [],
@@ -272,9 +269,7 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TBSignatureProfiler": [
-    "ASSIGN"
-  ],
+  "TBSignatureProfiler": [],
   "TFBSTools": [],
   "TFHAZ": [
     "ORFik"
@@ -323,7 +318,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "attract": [],
   "bandle": [],
   "bigmelon": [
     "wateRmelon",
@@ -339,7 +333,6 @@
     "regioneR"
   ],
   "blacksheepr": [],
-  "bnbc": [],
   "borealis": [
     "DSS"
   ],
@@ -420,7 +413,6 @@
     "annotatr",
     "regioneR"
   ],
-  "doppelgangR": [],
   "doubletrouble": [],
   "dreamlet": [
     "zenith"
@@ -534,7 +526,6 @@
   "methylumi": [
     "minfi"
   ],
-  "miRLAB": [],
   "miRSM": [],
   "minfi": [],
   "missMethyl": [
@@ -591,7 +582,6 @@
     "GenomicFiles"
   ],
   "qsmooth": [],
-  "qsvaR": [],
   "quantro": [
     "minfi"
   ],
@@ -619,7 +609,6 @@
   ],
   "rnaEditr": [],
   "rqt": [],
-  "saseR": [],
   "scBFA": [
     "zinbwave"
   ],

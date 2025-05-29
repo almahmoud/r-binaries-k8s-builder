@@ -6,3 +6,4 @@ crisprScore
 BulkSignalR
 velociraptor
 Repitools
+musicatk

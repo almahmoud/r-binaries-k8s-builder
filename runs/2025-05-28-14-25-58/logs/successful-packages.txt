@@ -1898,3 +1898,12 @@ GmicR
 IsoformSwitchAnalyzeR
 SCAN.UPC
 SGCP
+ASSIGN
+attract
+BERT
+bnbc
+doppelgangR
+GARS
+miRLAB
+qsvaR
+saseR
