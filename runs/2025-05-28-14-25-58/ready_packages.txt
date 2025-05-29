@@ -1,2 +1,6 @@
-CCPROMISE
-rTRMui
+GOstats
+GSEABenchmarkeR
+interactiveDisplay
+meshr
+phenoTest
+zenith

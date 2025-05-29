@@ -28,7 +28,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio"
   ],
   "AllelicImbalance": [
@@ -78,7 +77,6 @@
     "bsseq"
   ],
   "CODEX": [],
-  "Category": [],
   "Cepo": [],
   "CexoR": [],
   "ChAMP": [
@@ -157,7 +155,6 @@
   "ENmix": [
     "minfi"
   ],
-  "EnrichmentBrowser": [],
   "EpiCompare": [],
   "EpiTxDb": [],
   "ExCluster": [],
@@ -181,12 +178,8 @@
     "sva"
   ],
   "GOTHiC": [],
-  "GOstats": [
-    "Category"
-  ],
-  "GSEABenchmarkeR": [
-    "EnrichmentBrowser"
-  ],
+  "GOstats": [],
+  "GSEABenchmarkeR": [],
   "GSRI": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
@@ -207,7 +200,6 @@
   ],
   "GlobalAncova": [],
   "GmicR": [
-    "Category",
     "GOstats"
   ],
   "GreyListChIP": [],
@@ -279,7 +271,6 @@
   "MineICA": [
     "GOstats",
     "lumi",
-    "Category",
     "methylumi",
     "minfi"
   ],
@@ -373,7 +364,6 @@
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [
-    "Category",
     "GOstats",
     "ggbio"
   ],
@@ -404,8 +394,7 @@
     "sva"
   ],
   "SGCP": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "SMITE": [
     "goseq"
@@ -473,7 +462,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Category",
     "ggbio"
   ],
   "annmap": [],
@@ -491,8 +479,7 @@
     "TFBSTools"
   ],
   "attract": [
-    "GOstats",
-    "Category"
+    "GOstats"
   ],
   "ballgown": [
     "sva"
@@ -541,11 +528,9 @@
     "sva"
   ],
   "canceR": [
-    "phenoTest",
-    "Category"
+    "phenoTest"
   ],
   "categoryCompare": [
-    "Category",
     "GOstats"
   ],
   "cghMCR": [
@@ -580,7 +565,6 @@
   "conumee": [
     "minfi"
   ],
-  "cosmosR": [],
   "countsimQC": [],
   "covRNA": [],
   "crisprDesign": [
@@ -641,8 +625,7 @@
   ],
   "doubletrouble": [],
   "dreamlet": [
-    "zenith",
-    "EnrichmentBrowser"
+    "zenith"
   ],
   "drugTargetInteractions": [],
   "easylift": [],
@@ -715,9 +698,7 @@
   "intansv": [
     "ggbio"
   ],
-  "interactiveDisplay": [
-    "Category"
-  ],
+  "interactiveDisplay": [],
   "katdetectr": [],
   "kissDE": [
     "DSS",
@@ -743,9 +724,7 @@
     "Gviz"
   ],
   "mastR": [],
-  "meshr": [
-    "Category"
-  ],
+  "meshr": [],
   "metaseqR2": [
     "DSS",
     "bsseq"
@@ -780,7 +759,6 @@
     "minfi"
   ],
   "miRLAB": [
-    "Category",
     "GOstats"
   ],
   "miRSM": [],
@@ -815,7 +793,6 @@
     "clusterExperiment",
     "zinbwave"
   ],
-  "npGSEA": [],
   "octad": [],
   "omicRexposome": [
     "sva"
@@ -837,9 +814,7 @@
     "singscore"
   ],
   "periodicDNA": [],
-  "phenoTest": [
-    "Category"
-  ],
+  "phenoTest": [],
   "phenomis": [
     "ropls"
   ],
@@ -955,7 +930,6 @@
   ],
   "slalom": [],
   "sparrow": [],
-  "spatialHeatmap": [],
   "spatzie": [
     "GenomicInteractions",
     "motifmatchr",
@@ -1009,8 +983,6 @@
     "quantro",
     "minfi"
   ],
-  "zenith": [
-    "EnrichmentBrowser"
-  ],
+  "zenith": [],
   "zinbwave": []
 }

@@ -1830,3 +1830,8 @@ MotifDb
 nearBynding
 PROMISE
 RcisTarget
+Category
+cosmosR
+EnrichmentBrowser
+npGSEA
+spatialHeatmap
