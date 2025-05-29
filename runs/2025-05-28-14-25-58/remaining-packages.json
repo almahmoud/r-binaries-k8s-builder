@@ -468,7 +468,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "Coralysis": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -981,7 +980,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "HoloFoodR": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -1287,7 +1285,6 @@
   "MsQuality": [
     "MsExperiment"
   ],
-  "MuData": [],
   "MultiBaC": [
     "ropls",
     "MultiDataSet"
@@ -2105,7 +2102,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "Voyager": [],
   "VplotR": [
     "GenomicAlignments"
   ],
@@ -2627,7 +2623,6 @@
     "GenomicFeatures",
     "annotate"
   ],
-  "corral": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -3201,7 +3196,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "hipathia": [],
   "hpar": [],
   "iCNV": [
     "CODEX",
@@ -4546,7 +4540,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "vsclust": [],
   "vtpnet": [
     "gwascat",
     "GenomicFeatures",
@@ -4601,7 +4594,6 @@
     "MsExperiment",
     "PSMatch"
   ],
-  "xcore": [],
   "yarn": [
     "quantro",
     "minfi",
