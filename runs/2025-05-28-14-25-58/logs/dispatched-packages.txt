@@ -1256,3 +1256,7 @@ DOSE
 Rcpi
 rrvgo
 gatom
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare

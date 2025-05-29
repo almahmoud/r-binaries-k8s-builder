@@ -1,1 +1,4 @@
-gatom
+EDIRquery
+HiCExperiment
+HiCParser
+HiCcompare

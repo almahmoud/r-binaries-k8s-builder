@@ -1097,3 +1097,10 @@ epigenomix
 fastLiquidAssociation
 GOfuncR
 SPONGE
+apeglm
+barcodetrackR
+CoCiteStats
+FuseSOM
+InteractionSet
+MeSHDbi
+StabMap
