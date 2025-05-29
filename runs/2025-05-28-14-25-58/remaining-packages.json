@@ -50,7 +50,6 @@
   ],
   "BgeeCall": [],
   "BiSeq": [],
-  "BicARE": [],
   "BioNERO": [
     "sva"
   ],
@@ -112,7 +111,6 @@
     "qsmooth",
     "sva"
   ],
-  "CoverageView": [],
   "DAMEfinder": [],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -227,7 +225,6 @@
     "Gviz"
   ],
   "IMAS": [],
-  "IPO": [],
   "IdeoViz": [],
   "IntEREst": [
     "GenomicFiles",
@@ -381,7 +378,6 @@
     "RNAmodR",
     "Gviz"
   ],
-  "RUVSeq": [],
   "RbowtieCuda": [],
   "RcisTarget": [],
   "Repitools": [],
@@ -420,7 +416,6 @@
     "GOstats",
     "Category"
   ],
-  "SIM": [],
   "SMITE": [
     "goseq"
   ],
@@ -591,9 +586,7 @@
   "comapr": [
     "Gviz"
   ],
-  "consensusDE": [
-    "RUVSeq"
-  ],
+  "consensusDE": [],
   "consensusOV": [
     "GSVA"
   ],
@@ -707,7 +700,6 @@
     "methylumi",
     "minfi"
   ],
-  "flagme": [],
   "funtooNorm": [
     "minfi"
   ],
@@ -810,9 +802,7 @@
     "Category",
     "GOstats"
   ],
-  "miRSM": [
-    "BicARE"
-  ],
+  "miRSM": [],
   "minfi": [],
   "missMethyl": [
     "methylumi",
@@ -849,7 +839,6 @@
   ],
   "npGSEA": [],
   "octad": [
-    "RUVSeq",
     "GSVA"
   ],
   "omicRexposome": [
@@ -932,7 +921,6 @@
   ],
   "ribosomeProfilingQC": [
     "motifStack",
-    "RUVSeq",
     "TFBSTools"
   ],
   "rnaEditr": [],
@@ -966,9 +954,7 @@
     "annotatr",
     "regioneR"
   ],
-  "scone": [
-    "RUVSeq"
-  ],
+  "scone": [],
   "scoreInvHap": [],
   "scruff": [
     "ggbio"
@@ -977,8 +963,7 @@
   "seqCAT": [],
   "seqsetvis": [],
   "shinyDSP": [
-    "standR",
-    "RUVSeq"
+    "standR"
   ],
   "shinyMethyl": [
     "minfi"
@@ -1013,9 +998,7 @@
   "srnadiff": [
     "Gviz"
   ],
-  "standR": [
-    "RUVSeq"
-  ],
+  "standR": [],
   "sva": [],
   "tLOH": [],
   "tRNAscanImport": [],

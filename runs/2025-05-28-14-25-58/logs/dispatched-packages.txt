@@ -1984,3 +1984,7 @@ GNOSIS
 bioCancer
 cbaf
 RcisTarget
+consensusDE
+miRSM
+scone
+standR

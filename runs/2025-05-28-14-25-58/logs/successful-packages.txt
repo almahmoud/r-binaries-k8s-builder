@@ -1812,3 +1812,9 @@ ChIPComp
 gmoviz
 InPAS
 methrix
+BicARE
+CoverageView
+flagme
+IPO
+RUVSeq
+SIM
