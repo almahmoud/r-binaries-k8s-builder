@@ -1595,3 +1595,10 @@ iSEEde
 iSEEpathways
 mbkmeans
 miQC
+amplican
+basecallQC
+dada2
+iSEEtree
+nucleR
+RSVSim
+topdownr

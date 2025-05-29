@@ -1708,3 +1708,5 @@ tidyCoverage
 visiumStitched
 wiggleplotr
 biocGraph
+Rbec
+miaDash

@@ -1016,7 +1016,6 @@
     "txdbmaker",
     "VariantAnnotation"
   ],
-  "RSVSim": [],
   "RTCGAToolbox": [
     "TCGAutils",
     "GenomicFeatures"
@@ -1030,9 +1029,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "Rbec": [
-    "dada2"
-  ],
+  "Rbec": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell",
@@ -1376,7 +1373,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "amplican": [],
   "annmap": [
     "genefilter"
   ],
@@ -1429,7 +1425,6 @@
     "MLInterfaces",
     "genefilter"
   ],
-  "basecallQC": [],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
@@ -1735,7 +1730,6 @@
     "BSgenome"
   ],
   "cytofQC": [],
-  "dada2": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -2025,7 +2019,6 @@
   ],
   "iSEEhex": [],
   "iSEEindex": [],
-  "iSEEtree": [],
   "iSEEu": [
     "iSEEhex"
   ],
@@ -2206,9 +2199,7 @@
     "BicARE",
     "GSEABase"
   ],
-  "miaDash": [
-    "iSEEtree"
-  ],
+  "miaDash": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -2296,7 +2287,6 @@
   "npGSEA": [
     "GSEABase"
   ],
-  "nucleR": [],
   "nullranges": [
     "plyranges"
   ],
@@ -2754,7 +2744,6 @@
   "tilingArray": [
     "genefilter"
   ],
-  "topdownr": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
