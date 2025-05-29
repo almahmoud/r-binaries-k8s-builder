@@ -47,7 +47,6 @@
   "FLAMES": [],
   "FRASER": [],
   "GA4GHshiny": [],
-  "GOTHiC": [],
   "GSEABenchmarkeR": [],
   "GUIDEseq": [
     "ChIPpeakAnno"
@@ -97,8 +96,6 @@
   "NormqPCR": [],
   "OMICsPCA": [],
   "PhenStat": [],
-  "Pviz": [],
-  "QuasR": [],
   "R3CPET": [],
   "RCAS": [],
   "REDseq": [
@@ -125,9 +122,7 @@
   ],
   "SPLINTER": [],
   "SigCheck": [],
-  "SingleMoleculeFootprinting": [
-    "QuasR"
-  ],
+  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
   "UMI4Cats": [],
   "Ularcirc": [],
@@ -159,7 +154,6 @@
   ],
   "borealis": [],
   "cageminer": [],
-  "cicero": [],
   "circRNAprofiler": [],
   "clusterExperiment": [],
   "consensusDE": [],

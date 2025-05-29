@@ -2062,3 +2062,7 @@ myvariant
 recoup
 regioneReloaded
 RgnTX
+cicero
+GOTHiC
+Pviz
+QuasR
