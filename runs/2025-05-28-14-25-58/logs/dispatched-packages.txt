@@ -1427,3 +1427,5 @@ xenLite
 FEAST
 tradeSeq
 XeniumIO
+cytoviewer
+simpleSeg

@@ -1225,3 +1225,6 @@ hoodscanR
 scds
 SpotClean
 VisiumIO
+cytomapper
+maaslin3
+mBPCR

@@ -3087,10 +3087,7 @@
     "scater",
     "scuttle"
   ],
-  "cytomapper": [],
-  "cytoviewer": [
-    "cytomapper"
-  ],
+  "cytoviewer": [],
   "dada2": [
     "ShortRead",
     "GenomicAlignments"
@@ -3707,8 +3704,7 @@
     "GenomicFeatures"
   ],
   "imcRtools": [
-    "scuttle",
-    "cytomapper"
+    "scuttle"
   ],
   "immApex": [],
   "infercnv": [],
@@ -3774,7 +3770,6 @@
   "lisaClust": [
     "spicyR",
     "simpleSeg",
-    "cytomapper",
     "ClassifyR",
     "MultiAssayExperiment",
     "genefilter",
@@ -3799,7 +3794,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "mBPCR": [],
   "mCSEA": [
     "GenomicFeatures",
     "Gviz",
@@ -3811,7 +3805,6 @@
     "OrganismDbi",
     "VariantAnnotation"
   ],
-  "maaslin3": [],
   "magpie": [
     "rtracklayer",
     "GenomicFeatures",
@@ -4872,9 +4865,7 @@
   "simPIC": [
     "scuttle"
   ],
-  "simpleSeg": [
-    "cytomapper"
-  ],
+  "simpleSeg": [],
   "singscore": [
     "GSEABase",
     "annotate"
@@ -4943,7 +4934,6 @@
     "simpleSeg",
     "MultiAssayExperiment",
     "genefilter",
-    "cytomapper",
     "annotate"
   ],
   "spiky": [
