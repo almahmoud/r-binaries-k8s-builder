@@ -1161,3 +1161,9 @@ scHiCcompare
 SpectralTAD
 TADCompare
 TEQC
+Anaquin
+BloodGen3Module
+diffcoexp
+RCSL
+RUCova
+SCnorm

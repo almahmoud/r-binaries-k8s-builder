@@ -102,7 +102,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "Anaquin": [],
   "AnnotationHubData": [
     "GenomicFeatures",
     "rtracklayer",
@@ -237,7 +236,6 @@
   ],
   "BiocHubsShiny": [],
   "BiocSet": [],
-  "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
     "GenomicAlignments",
@@ -1816,7 +1814,6 @@
     "genomation",
     "GenomicAlignments"
   ],
-  "RCSL": [],
   "REDseq": [
     "BSgenome",
     "ChIPpeakAnno",
@@ -1935,7 +1932,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RUCova": [],
   "RUVSeq": [
     "EDASeq",
     "ShortRead",
@@ -2097,7 +2093,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SCnorm": [],
   "SEraster": [
     "SpatialExperiment"
   ],
@@ -3344,7 +3339,6 @@
     "GenomicAlignments",
     "annotate"
   ],
-  "diffcoexp": [],
   "diffcyt": [],
   "distinct": [
     "scater",
