@@ -310,7 +310,6 @@
   "MinimumDistance": [
     "VanillaICE"
   ],
-  "Motif2Site": [],
   "MotifDb": [],
   "MultiBaC": [
     "ropls"
@@ -465,8 +464,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "SparseSignatures": [],
-  "SpliceWiz": [],
   "Statial": [],
   "TBSignatureProfiler": [
     "ASSIGN",
@@ -770,7 +767,6 @@
   ],
   "gep2pep": [],
   "ggbio": [],
-  "glmSparseNet": [],
   "gmapR": [],
   "gmoviz": [],
   "goseq": [],

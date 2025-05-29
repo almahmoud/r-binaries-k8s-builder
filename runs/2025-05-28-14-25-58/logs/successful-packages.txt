@@ -1775,3 +1775,7 @@ MethylSeekR
 MMDiff2
 MotifPeeker
 ORFhunteR
+glmSparseNet
+Motif2Site
+SparseSignatures
+SpliceWiz
