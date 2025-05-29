@@ -2209,3 +2209,5 @@ ffpe
 iCheck
 wateRmelon
 NADfinder
+CAGEr
+affycoretools

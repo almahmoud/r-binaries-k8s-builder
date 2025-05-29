@@ -1,13 +1,9 @@
 {
   "AgiMicroRna": [
-    "affycoretools",
-    "ReportingTools"
+    "affycoretools"
   ],
   "BulkSignalR": [],
-  "CAGEfightR": [],
-  "CAGEr": [
-    "CAGEfightR"
-  ],
+  "CAGEr": [],
   "ChAMP": [
     "DMRcate",
     "wateRmelon",
@@ -16,7 +12,6 @@
   "DMRcate": [
     "missMethyl"
   ],
-  "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
   "HiCDCPlus": [],
@@ -35,18 +30,14 @@
   "PhenStat": [],
   "RbowtieCuda": [],
   "Repitools": [],
-  "ReportingTools": [],
   "RnBeads": [],
   "Ularcirc": [],
-  "affycoretools": [
-    "ReportingTools"
-  ],
+  "affycoretools": [],
   "arrayMvout": [],
   "bigmelon": [
     "wateRmelon"
   ],
   "biscuiteer": [],
-  "consensusDE": [],
   "crisprDesign": [
     "crisprScore"
   ],

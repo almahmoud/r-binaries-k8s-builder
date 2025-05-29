@@ -2181,3 +2181,7 @@ derfinderPlot
 msgbsR
 scruff
 ATACseqQC
+CAGEfightR
+consensusDE
+Damsel
+ReportingTools
