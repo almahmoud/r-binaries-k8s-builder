@@ -1561,3 +1561,5 @@ KEGGlincs
 MIRit
 pathlinkR
 RFLOMICS
+miRspongeR
+RadioGx

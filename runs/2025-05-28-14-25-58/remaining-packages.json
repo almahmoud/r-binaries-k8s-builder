@@ -1238,7 +1238,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "RadioGx": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2652,7 +2651,6 @@
     "BicARE",
     "GSEABase"
   ],
-  "miRspongeR": [],
   "miaDash": [
     "iSEEtree"
   ],
