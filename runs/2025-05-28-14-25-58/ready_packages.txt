@@ -1,6 +1,1 @@
-ChIPpeakAnno
-FRASER
-RgnTX
-UMI4Cats
-annotatr
-regioneReloaded
+OMICsPCA

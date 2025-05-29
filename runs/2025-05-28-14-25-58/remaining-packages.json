@@ -1,5 +1,4 @@
 {
-  "ADaCGH2": [],
   "AGDEX": [],
   "APAlyzer": [],
   "ASICS": [],
@@ -100,7 +99,6 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -149,9 +147,7 @@
   "NanoMethViz": [],
   "NormqPCR": [],
   "OGRE": [],
-  "OMICsPCA": [
-    "HelloRanges"
-  ],
+  "OMICsPCA": [],
   "ORFik": [],
   "PhenStat": [],
   "ProteoDisco": [],
@@ -167,7 +163,6 @@
   "REMP": [
     "minfi"
   ],
-  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder"
@@ -266,7 +261,6 @@
   "borealis": [
     "DSS"
   ],
-  "broadSeq": [],
   "cageminer": [
     "ggbio"
   ],
@@ -511,7 +505,6 @@
     "ggbio"
   ],
   "selectKSigs": [],
-  "seqCAT": [],
   "shinyDSP": [
     "standR"
   ],
@@ -521,7 +514,6 @@
   "shinyepico": [
     "minfi"
   ],
-  "signatureSearch": [],
   "signeR": [],
   "signifinder": [
     "consensusOV"
