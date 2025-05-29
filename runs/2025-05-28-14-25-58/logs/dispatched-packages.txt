@@ -1263,3 +1263,7 @@ HiCcompare
 ADAMgui
 GENESIS
 esetVis
+SpectralTAD
+TADCompare
+multiHiCcompare
+scHiCcompare

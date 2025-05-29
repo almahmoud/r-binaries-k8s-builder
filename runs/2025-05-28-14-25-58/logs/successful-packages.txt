@@ -1126,3 +1126,9 @@ Scale4C
 SIAMCAT
 Site2Target
 weitrix
+ADAMgui
+gatom
+HiCcompare
+MiRaGE
+sSNAPPY
+VegaMC
