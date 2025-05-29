@@ -166,7 +166,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "BUSseq": [],
   "BaalChIP": [
     "GenomicAlignments"
   ],
@@ -309,12 +308,10 @@
     "GSEABase",
     "annotate"
   ],
-  "CDI": [],
   "CEMiTool": [
     "clusterProfiler",
     "enrichplot"
   ],
-  "CHETAH": [],
   "CNTools": [
     "genefilter",
     "annotate"
@@ -379,7 +376,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "CellBench": [],
   "CellMixS": [
     "scater",
     "scuttle"
@@ -582,7 +578,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "DEFormats": [],
   "DEGreport": [],
   "DELocal": [],
   "DEP": [
@@ -609,7 +604,6 @@
     "genefilter",
     "annotate"
   ],
-  "DEsubs": [],
   "DExMA": [
     "sva",
     "genefilter",
@@ -719,7 +713,6 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "DifferentialRegulation": [],
   "Dino": [
     "scran",
     "scuttle"
@@ -779,7 +772,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "ERSSA": [],
   "EWCE": [],
   "EasyCellType": [
     "clusterProfiler",
@@ -833,9 +825,7 @@
     "GenomicAlignments"
   ],
   "ExperimentSubset": [],
-  "FEAST": [
-    "TSCAN"
-  ],
+  "FEAST": [],
   "FLAMES": [
     "bambu",
     "DropletUtils",
@@ -1096,7 +1086,6 @@
     "VariantAnnotation"
   ],
   "HiCDOC": [],
-  "HiContacts": [],
   "HiLDA": [
     "GenomicFeatures",
     "BSgenome",
@@ -2115,7 +2104,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SingleCellAlleleExperiment": [],
   "SingleCellSignalR": [
     "scran",
     "scuttle"
@@ -2289,7 +2277,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "TSCAN": [],
   "TTMap": [],
   "TVTB": [
     "ensembldb",
@@ -2476,7 +2463,6 @@
     "ensembldb"
   ],
   "affylmGUI": [],
-  "aggregateBioVar": [],
   "airpart": [
     "scater",
     "scuttle"
@@ -4550,7 +4536,6 @@
   ],
   "regionReport": [
     "derfinder",
-    "DEFormats",
     "bumphunter",
     "GenomicAlignments",
     "GenomicFeatures",
