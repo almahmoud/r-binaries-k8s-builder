@@ -1547,3 +1547,6 @@ CNVRanger
 DAPAR
 MoonlightR
 peakPantheR
+CluMSID
+GDCRNATools
+ReducedExperiment

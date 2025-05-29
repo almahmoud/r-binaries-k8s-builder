@@ -353,7 +353,6 @@
     "sva",
     "genefilter"
   ],
-  "CluMSID": [],
   "Cogito": [
     "GenomicFeatures",
     "rtracklayer"
@@ -600,7 +599,6 @@
     "genefilter",
     "rtracklayer"
   ],
-  "GDCRNATools": [],
   "GEOexplorer": [
     "sva",
     "genefilter"
@@ -1260,7 +1258,6 @@
     "AUCell",
     "GSEABase"
   ],
-  "ReducedExperiment": [],
   "RegEnrich": [],
   "Repitools": [
     "rtracklayer",
