@@ -498,7 +498,6 @@
     "annotate",
     "rtracklayer",
     "genefilter",
-    "GEOquery",
     "methylumi",
     "lumi",
     "BSgenome",
@@ -527,7 +526,6 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "GEOquery",
     "frma",
     "oligo",
     "oligoClasses"
@@ -729,7 +727,6 @@
     "DESeq2"
   ],
   "DExMA": [
-    "GEOquery",
     "sva",
     "genefilter",
     "annotate"
@@ -755,7 +752,6 @@
     "GenomicAlignments",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "methylumi",
     "VariantAnnotation",
     "annotate"
@@ -894,9 +890,7 @@
   "EDIRquery": [
     "InteractionSet"
   ],
-  "EGAD": [
-    "GEOquery"
-  ],
+  "EGAD": [],
   "ELMER": [
     "GenomicFeatures",
     "TCGAbiolinks",
@@ -921,7 +915,6 @@
     "genefilter",
     "annotate",
     "bumphunter",
-    "GEOquery",
     "GenomicFeatures",
     "rtracklayer",
     "GenomicAlignments"
@@ -1090,11 +1083,9 @@
   ],
   "GEOexplorer": [
     "sva",
-    "GEOquery",
     "genefilter",
     "annotate"
   ],
-  "GEOquery": [],
   "GNOSIS": [
     "cBioPortalData",
     "MultiAssayExperiment",
@@ -1160,7 +1151,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "GWENA": [],
   "GateFinder": [
     "flowFP"
   ],
@@ -1465,10 +1455,8 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
-  "MAI": [],
   "MAIT": [
     "CAMERA",
     "xcms",
@@ -1502,7 +1490,6 @@
     "GenomicAlignments",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "methylumi",
     "sva",
     "VariantAnnotation",
@@ -1513,7 +1500,6 @@
     "wateRmelon",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "methylumi",
     "lumi",
     "GenomicFeatures",
@@ -1597,7 +1583,6 @@
     "scran",
     "scuttle"
   ],
-  "MPRAnalyze": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -1680,7 +1665,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -1713,7 +1697,6 @@
     "rtracklayer",
     "minfi",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "MinimumDistance": [
@@ -1731,7 +1714,6 @@
   "Moonlight2R": [
     "clusterProfiler",
     "DOSE",
-    "GEOquery",
     "rtracklayer",
     "EpiMix",
     "enrichplot",
@@ -1743,7 +1725,6 @@
     "clusterProfiler",
     "DOSE",
     "TCGAbiolinks",
-    "GEOquery",
     "enrichplot",
     "GOSemSim"
   ],
@@ -2107,7 +2088,6 @@
     "BSgenome",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicAlignments",
     "GenomicFeatures",
     "annotate"
@@ -2145,7 +2125,6 @@
   "RNAAgeCalc": [
     "recount",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -2340,13 +2319,11 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "RnaSeqSampleSize": [
     "recount",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -2380,7 +2357,6 @@
   ],
   "SCAN.UPC": [
     "oligo",
-    "GEOquery",
     "sva",
     "oligoClasses",
     "genefilter",
@@ -3058,7 +3034,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
@@ -3136,7 +3111,6 @@
     "wateRmelon",
     "minfi",
     "methylumi",
-    "GEOquery",
     "annotate",
     "genefilter",
     "GenomicFeatures",
@@ -3535,7 +3509,6 @@
     "rtracklayer",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicAlignments",
     "GenomicFeatures",
     "annotate"
@@ -3751,7 +3724,6 @@
     "rtracklayer",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "GenomicAlignments"
@@ -3921,7 +3893,6 @@
     "GenomicAlignments",
     "OrganismDbi",
     "genefilter",
-    "GEOquery",
     "VariantAnnotation",
     "annotate"
   ],
@@ -4051,7 +4022,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "findIPs": [],
@@ -4102,7 +4072,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -4273,7 +4242,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "h5vc": [],
   "hdxmsqc": [
     "QFeatures",
     "MultiAssayExperiment"
@@ -4321,7 +4289,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "iNETgrate": [
@@ -4331,7 +4298,6 @@
     "GenomicFeatures",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
@@ -4505,7 +4471,6 @@
     "minfi",
     "genefilter",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "lute": [
@@ -4639,7 +4604,6 @@
     "BSgenome",
     "GenomicFeatures",
     "annotate",
-    "GEOquery",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4655,7 +4619,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "GEOquery",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -4690,7 +4653,6 @@
     "ExperimentHubData",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "AnnotationHubData",
     "annotate",
@@ -4705,7 +4667,6 @@
     "GenomicFeatures",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "miQC": [
@@ -4788,7 +4749,6 @@
   "minfi": [
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -4801,7 +4761,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "GEOquery",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -5112,7 +5071,6 @@
     "GenomicAlignments"
   ],
   "phantasus": [
-    "GEOquery",
     "DESeq2",
     "apeglm"
   ],
@@ -5223,7 +5181,6 @@
   "psichomics": [
     "recount",
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -5274,7 +5231,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -5312,7 +5268,6 @@
   ],
   "recount": [
     "derfinder",
-    "GEOquery",
     "rtracklayer",
     "bumphunter",
     "GenomicAlignments",
@@ -5329,7 +5284,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -5737,7 +5691,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",
@@ -5748,7 +5701,6 @@
     "rtracklayer",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicAlignments",
     "GenomicFeatures",
     "annotate"
@@ -5807,7 +5759,6 @@
     "genefilter",
     "GenomicFeatures",
     "bumphunter",
-    "GEOquery",
     "lumi",
     "rtracklayer",
     "GenomicAlignments"
@@ -6020,7 +5971,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "tenXplore": [],
   "terapadog": [
     "DESeq2"
   ],
@@ -6220,7 +6170,6 @@
     "genefilter",
     "rtracklayer",
     "bumphunter",
-    "GEOquery",
     "GenomicAlignments"
   ],
   "wavClusteR": [
@@ -6263,7 +6212,6 @@
     "minfi",
     "bumphunter",
     "genefilter",
-    "GEOquery",
     "GenomicFeatures",
     "annotate",
     "rtracklayer",

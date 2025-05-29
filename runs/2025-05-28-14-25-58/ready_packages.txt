@@ -1,4 +1,1 @@
-alabaster.se
-blima
-epigenomix
-fastLiquidAssociation
+EGAD

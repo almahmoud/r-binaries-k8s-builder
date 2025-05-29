@@ -1073,3 +1073,9 @@ SICtools
 SimFFPE
 surfaltr
 SWATH2stats
+GEOquery
+GWENA
+h5vc
+MAI
+MPRAnalyze
+tenXplore
