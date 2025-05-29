@@ -21,7 +21,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "AllelicImbalance": [],
   "BBCAnalyzer": [],
   "BEAT": [],
   "BERT": [],
@@ -96,7 +95,6 @@
   "DegNorm": [],
   "DiffBind": [],
   "DominoEffect": [],
-  "ELMER": [],
   "ELViS": [],
   "ENmix": [
     "minfi"
@@ -199,10 +197,7 @@
   ],
   "ORFik": [],
   "OUTRIDER": [],
-  "POMA": [],
-  "PRONE": [
-    "POMA"
-  ],
+  "PRONE": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "PureCN": [],
@@ -639,7 +634,6 @@
     "zinbwave"
   ],
   "scClassify": [],
-  "scFeatures": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
