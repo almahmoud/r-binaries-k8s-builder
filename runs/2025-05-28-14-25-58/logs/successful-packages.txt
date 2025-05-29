@@ -2078,3 +2078,8 @@ dagLogo
 circRNAprofiler
 a4
 trackViewer
+ATACseqTFEA
+pageRank
+periodicDNA
+ribosomeProfilingQC
+SingleMoleculeFootprinting

@@ -2,7 +2,6 @@
   "ATACseqQC": [
     "ChIPpeakAnno"
   ],
-  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
@@ -116,7 +115,6 @@
     "annotatr"
   ],
   "SPLINTER": [],
-  "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
   "Ularcirc": [],
   "VanillaICE": [],
@@ -250,9 +248,7 @@
   "netSmooth": [
     "clusterExperiment"
   ],
-  "pageRank": [],
   "pathMED": [],
-  "periodicDNA": [],
   "proBAMr": [],
   "profileplyr": [],
   "quantro": [
@@ -262,7 +258,6 @@
     "minfi"
   ],
   "rgsepd": [],
-  "ribosomeProfilingQC": [],
   "scBFA": [],
   "scTreeViz": [
     "epivizr"
