@@ -345,7 +345,6 @@
   "GenomicFiles": [
     "VariantAnnotation"
   ],
-  "GenomicInteractionNodes": [],
   "GenomicInteractions": [
     "Gviz",
     "ensembldb",
@@ -388,12 +387,8 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "HiLDA": [],
-  "IMAS": [
-    "IVAS"
-  ],
+  "IMAS": [],
   "IPO": [],
-  "IVAS": [],
   "IdeoViz": [],
   "InPAS": [
     "cleanUpdTSeq"
@@ -1609,7 +1604,6 @@
     "ensembldb",
     "AUCell"
   ],
-  "scPipe": [],
   "scTGIF": [],
   "scTreeViz": [
     "epivizr",
@@ -1642,9 +1636,7 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "selectKSigs": [
-    "HiLDA"
-  ],
+  "selectKSigs": [],
   "seqArchRplus": [
     "ChIPseeker"
   ],

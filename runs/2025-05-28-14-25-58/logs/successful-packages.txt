@@ -1695,3 +1695,7 @@ Guitar
 INSPEcT
 scDblFinder
 visiumStitched
+GenomicInteractionNodes
+HiLDA
+IVAS
+scPipe
