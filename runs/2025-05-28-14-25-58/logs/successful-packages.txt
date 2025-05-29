@@ -1529,3 +1529,7 @@ PDATK
 scQTLtools
 flowVS
 scDotPlot
+alabaster.spatial
+CEMiTool
+crumblr
+tricycle
