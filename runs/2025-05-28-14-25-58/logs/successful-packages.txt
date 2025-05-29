@@ -1452,3 +1452,8 @@ OVESEG
 pdInfoBuilder
 scDataviz
 simpleSeg
+lemur
+mimager
+NormalyzerDE
+Pirat
+puma
