@@ -1514,3 +1514,7 @@ CATALYST
 CellMixS
 gCrisprTools
 M3Drop
+clusterProfiler
+destiny
+distinct
+muscat
