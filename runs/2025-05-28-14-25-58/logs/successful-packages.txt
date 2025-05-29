@@ -1988,3 +1988,6 @@ blacksheepr
 GSRI
 MultiBaC
 TissueEnrich
+DSS
+edge
+rqt

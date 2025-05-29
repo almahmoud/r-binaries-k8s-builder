@@ -55,13 +55,10 @@
     "missMethyl",
     "methylumi"
   ],
-  "DSS": [],
   "Damsel": [
     "ggbio"
   ],
-  "DeMixT": [
-    "DSS"
-  ],
+  "DeMixT": [],
   "DegNorm": [],
   "DiffBind": [],
   "ENmix": [
@@ -231,9 +228,7 @@
     "dmrseq",
     "annotatr"
   ],
-  "borealis": [
-    "DSS"
-  ],
+  "borealis": [],
   "cageminer": [
     "ggbio"
   ],
@@ -291,7 +286,6 @@
     "zenith"
   ],
   "drugTargetInteractions": [],
-  "edge": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
     "minfi"
@@ -338,9 +332,7 @@
     "ggbio"
   ],
   "interactiveDisplay": [],
-  "kissDE": [
-    "DSS"
-  ],
+  "kissDE": [],
   "lineagespot": [],
   "lipidr": [],
   "lumi": [
@@ -352,9 +344,7 @@
   "maser": [],
   "mastR": [],
   "meshr": [],
-  "metaseqR2": [
-    "DSS"
-  ],
+  "metaseqR2": [],
   "methodical": [
     "annotatr"
   ],
@@ -368,9 +358,7 @@
   ],
   "methylInheritance": [],
   "methylPipe": [],
-  "methylSig": [
-    "DSS"
-  ],
+  "methylSig": [],
   "methylclock": [
     "minfi",
     "ExperimentHubData"
@@ -421,7 +409,6 @@
   "rgsepd": [],
   "ribosomeProfilingQC": [],
   "rnaEditr": [],
-  "rqt": [],
   "scBFA": [],
   "scTreeViz": [
     "epivizr",
