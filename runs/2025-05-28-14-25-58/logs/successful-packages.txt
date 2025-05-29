@@ -2161,3 +2161,10 @@ R3CPET
 REDseq
 yarn
 vulcan
+cageminer
+dmrseq
+GUIDEseq
+methodical
+MinimumDistance
+proBAMr
+SOMNiBUS

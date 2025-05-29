@@ -23,7 +23,6 @@
   "Damsel": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "GUIDEseq": [],
   "GenomicOZone": [],
   "GenomicPlot": [],
   "HiCDCPlus": [],
@@ -40,7 +39,6 @@
   "MineICA": [
     "lumi"
   ],
-  "MinimumDistance": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -50,7 +48,6 @@
   "Repitools": [],
   "ReportingTools": [],
   "RnBeads": [],
-  "SOMNiBUS": [],
   "Ularcirc": [],
   "YAPSA": [],
   "affycoretools": [
@@ -63,10 +60,7 @@
     "wateRmelon",
     "lumi"
   ],
-  "biscuiteer": [
-    "dmrseq"
-  ],
-  "cageminer": [],
+  "biscuiteer": [],
   "consensusDE": [],
   "crisprDesign": [
     "crisprScore"
@@ -87,7 +81,6 @@
     "crisprScore"
   ],
   "derfinderPlot": [],
-  "dmrseq": [],
   "epivizrStandalone": [],
   "ffpe": [
     "lumi"
@@ -97,14 +90,12 @@
   ],
   "intansv": [],
   "lumi": [],
-  "methodical": [],
   "methylGSA": [
     "missMethyl"
   ],
   "missMethyl": [],
   "msgbsR": [],
   "musicatk": [],
-  "proBAMr": [],
   "scTreeViz": [],
   "scifer": [],
   "scmeth": [],
