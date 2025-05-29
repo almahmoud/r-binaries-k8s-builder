@@ -28,8 +28,6 @@
   "DeMixT": [],
   "EpiCompare": [],
   "FLAMES": [],
-  "FRASER": [],
-  "GSEABenchmarkeR": [],
   "GUIDEseq": [],
   "GenomicInteractions": [],
   "GenomicOZone": [],
@@ -59,17 +57,13 @@
   "R3CPET": [],
   "REDseq": [],
   "RNAmodR.AlkAnilineSeq": [],
-  "RNAmodR.ML": [],
-  "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnBeads": [],
   "SMITE": [],
-  "SOMNiBUS": [
-    "annotatr"
-  ],
+  "SOMNiBUS": [],
   "SomaticSignatures": [],
   "Ularcirc": [],
   "YAPSA": [
@@ -78,18 +72,15 @@
   "affycoretools": [
     "ReportingTools"
   ],
-  "annotatr": [],
   "arrayMvout": [
     "lumi"
   ],
-  "arrayQualityMetrics": [],
   "bigmelon": [
     "wateRmelon",
     "lumi"
   ],
   "biscuiteer": [
-    "dmrseq",
-    "annotatr"
+    "dmrseq"
   ],
   "cageminer": [],
   "consensusDE": [],
@@ -113,9 +104,7 @@
   ],
   "cummeRbund": [],
   "derfinderPlot": [],
-  "dmrseq": [
-    "annotatr"
-  ],
+  "dmrseq": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -127,13 +116,10 @@
   "iCheck": [
     "lumi"
   ],
-  "iNETgrate": [],
   "intansv": [],
   "lumi": [],
   "metaseqR2": [],
-  "methodical": [
-    "annotatr"
-  ],
+  "methodical": [],
   "methylGSA": [
     "missMethyl"
   ],
@@ -146,9 +132,7 @@
     "epivizr"
   ],
   "scifer": [],
-  "scmeth": [
-    "annotatr"
-  ],
+  "scmeth": [],
   "scruff": [],
   "skewr": [
     "wateRmelon",
@@ -158,9 +142,6 @@
   "spatzie": [
     "GenomicInteractions"
   ],
-  "tadar": [],
-  "tidyomics": [],
-  "transmogR": [],
   "velociraptor": [],
   "vmrseq": [],
   "vulcan": [],

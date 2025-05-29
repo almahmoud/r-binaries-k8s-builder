@@ -2192,3 +2192,7 @@ RnBeads
 lumi
 missMethyl
 GenomicPlot
+SOMNiBUS
+dmrseq
+methodical
+scmeth

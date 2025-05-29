@@ -2133,3 +2133,13 @@ shinyepico
 terraTCGAdata
 conumee
 REMP
+annotatr
+arrayQualityMetrics
+FRASER
+GSEABenchmarkeR
+iNETgrate
+RNAmodR.ML
+RNAmodR.RiboMethSeq
+tadar
+tidyomics
+transmogR
