@@ -1981,3 +1981,5 @@ GA4GHclient
 lisaClust
 primirTSS
 zinbwave
+MIRA
+scClassify

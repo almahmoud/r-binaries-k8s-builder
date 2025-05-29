@@ -30,9 +30,7 @@
   ],
   "CCAFE": [],
   "CNTools": [],
-  "COCOA": [
-    "MIRA"
-  ],
+  "COCOA": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -114,7 +112,6 @@
     "methylumi",
     "lumi"
   ],
-  "MIRA": [],
   "MetaboSignal": [],
   "MethylAid": [
     "minfi"
@@ -431,7 +428,6 @@
   "rnaEditr": [],
   "rqt": [],
   "scBFA": [],
-  "scClassify": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
