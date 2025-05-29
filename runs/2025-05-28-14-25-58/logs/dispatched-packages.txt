@@ -1557,3 +1557,17 @@ lemur
 transformGamPoi
 CNVRanger
 omicsPrint
+CluMSID
+DAPAR
+DEP
+MSstatsQC
+PrInCE
+RMassBank
+ginmappeR
+msmsEDA
+omXplore
+peakPantheR
+ptairMS
+qPLEXanalyzer
+topdownr
+xcms

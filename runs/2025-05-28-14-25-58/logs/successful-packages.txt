@@ -1439,3 +1439,9 @@ knowYourCG
 RaggedExperiment
 TDbasedUFEadv
 XeniumIO
+cytoviewer
+LimROTS
+MSnbase
+ReactomePA
+scGPS
+UniProt.ws
