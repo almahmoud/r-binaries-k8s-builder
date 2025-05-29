@@ -1988,3 +1988,7 @@ consensusDE
 miRSM
 scone
 standR
+consensusOV
+octad
+oppar
+scFeatures

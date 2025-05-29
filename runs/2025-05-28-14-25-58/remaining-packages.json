@@ -182,7 +182,6 @@
   "GEOexplorer": [
     "sva"
   ],
-  "GNOSIS": [],
   "GOTHiC": [],
   "GOstats": [
     "Category"
@@ -191,7 +190,6 @@
     "EnrichmentBrowser"
   ],
   "GSRI": [],
-  "GSVA": [],
   "GUIDEseq": [
     "ChIPpeakAnno",
     "regioneR"
@@ -437,7 +435,6 @@
   "Statial": [],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "GSVA",
     "singscore",
     "sva"
   ],
@@ -586,9 +583,7 @@
     "Gviz"
   ],
   "consensusDE": [],
-  "consensusOV": [
-    "GSVA"
-  ],
+  "consensusOV": [],
   "conumee": [
     "minfi"
   ],
@@ -831,15 +826,11 @@
     "zinbwave"
   ],
   "npGSEA": [],
-  "octad": [
-    "GSVA"
-  ],
+  "octad": [],
   "omicRexposome": [
     "sva"
   ],
-  "oppar": [
-    "GSVA"
-  ],
+  "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
     "pRoloc"
@@ -853,7 +844,6 @@
     "sva"
   ],
   "pathMED": [
-    "GSVA",
     "singscore"
   ],
   "periodicDNA": [],
@@ -932,9 +922,7 @@
   "scClassify": [
     "Cepo"
   ],
-  "scFeatures": [
-    "GSVA"
-  ],
+  "scFeatures": [],
   "scTGIF": [],
   "scTreeViz": [
     "epivizr",
@@ -967,8 +955,7 @@
   "signatureSearch": [],
   "signeR": [],
   "signifinder": [
-    "consensusOV",
-    "GSVA"
+    "consensusOV"
   ],
   "singscore": [],
   "sitadela": [],
