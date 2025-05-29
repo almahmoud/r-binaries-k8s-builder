@@ -1214,3 +1214,7 @@ ERSSA
 HiContacts
 SingleCellAlleleExperiment
 TSCAN
+EWCE
+sccomp
+SEraster
+slingshot

@@ -772,7 +772,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "EWCE": [],
   "EasyCellType": [
     "clusterProfiler",
     "enrichplot"
@@ -2024,7 +2023,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SEraster": [],
   "SEtools": [
     "sva",
     "genefilter",
@@ -2947,7 +2945,6 @@
   ],
   "concordexR": [],
   "condiments": [
-    "slingshot",
     "distinct",
     "scater",
     "scuttle"
@@ -4710,7 +4707,6 @@
   "scQTLtools": [],
   "scRNAseqApp": [
     "rtracklayer",
-    "slingshot",
     "GenomicAlignments"
   ],
   "scReClassify": [],
@@ -4745,7 +4741,6 @@
   "scater": [
     "scuttle"
   ],
-  "sccomp": [],
   "scds": [],
   "schex": [],
   "scider": [],
@@ -4921,7 +4916,6 @@
     "GSEABase",
     "annotate"
   ],
-  "slingshot": [],
   "smoothclust": [],
   "smoppix": [],
   "soGGi": [
@@ -5126,9 +5120,7 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [
-    "slingshot"
-  ],
+  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicAlignments",
