@@ -2188,3 +2188,12 @@ ReportingTools
 scTreeViz
 spatzie
 HiCDCPlus
+arrayMvout
+biscuiteer
+CAGEr
+ffpe
+FLAMES
+iCheck
+MineICA
+missMethyl
+wateRmelon
