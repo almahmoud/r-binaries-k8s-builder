@@ -1861,3 +1861,4 @@ wavClusteR
 GateFinder
 factR
 flowBin
+RUVSeq

@@ -210,13 +210,11 @@
     "methylumi",
     "VariantAnnotation"
   ],
-  "DNAfusion": [],
   "DNEA": [],
   "DSS": [
     "bsseq"
   ],
   "DaMiRseq": [
-    "EDASeq",
     "sva"
   ],
   "Damsel": [
@@ -252,7 +250,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "EDASeq": [],
   "ELMER": [
     "Gviz",
     "ensembldb",
@@ -309,7 +306,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "EDASeq",
     "sva"
   ],
   "GEOexplorer": [
@@ -374,7 +370,6 @@
     "GOstats"
   ],
   "GreyListChIP": [],
-  "Guitar": [],
   "Gviz": [
     "ensembldb",
     "biovizBase",
@@ -397,7 +392,6 @@
   "IMAS": [
     "IVAS"
   ],
-  "INSPEcT": [],
   "IPO": [],
   "IVAS": [],
   "IdeoViz": [],
@@ -650,9 +644,7 @@
   "RTCGAToolbox": [
     "TCGAutils"
   ],
-  "RUVSeq": [
-    "EDASeq"
-  ],
+  "RUVSeq": [],
   "RareVariantVis": [
     "VariantAnnotation"
   ],
@@ -1035,7 +1027,6 @@
     "VariantAnnotation"
   ],
   "consensusDE": [
-    "EDASeq",
     "ensembldb",
     "RUVSeq"
   ],
@@ -1355,7 +1346,6 @@
   "metaMS": [],
   "metaseqR2": [
     "DSS",
-    "EDASeq",
     "txdbmaker",
     "bsseq"
   ],
@@ -1468,7 +1458,6 @@
   "nullranges": [],
   "octad": [
     "RUVSeq",
-    "EDASeq",
     "GSVA"
   ],
   "omicRexposome": [
@@ -1588,7 +1577,6 @@
     "txdbmaker"
   ],
   "ribosomeProfilingQC": [
-    "EDASeq",
     "motifStack",
     "RUVSeq",
     "txdbmaker",
@@ -1616,7 +1604,6 @@
   "scClassify": [
     "Cepo"
   ],
-  "scDblFinder": [],
   "scFeatures": [
     "GSVA",
     "ensembldb",
@@ -1642,8 +1629,7 @@
     "regioneR"
   ],
   "scone": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "scoreInvHap": [
     "VariantAnnotation"
@@ -1668,8 +1654,7 @@
   "seqsetvis": [],
   "shinyDSP": [
     "standR",
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "shinyMethyl": [
     "minfi",
@@ -1723,8 +1708,7 @@
     "VariantAnnotation"
   ],
   "standR": [
-    "RUVSeq",
-    "EDASeq"
+    "RUVSeq"
   ],
   "strandCheckR": [],
   "sva": [],
@@ -1783,7 +1767,6 @@
     "VariantAnnotation"
   ],
   "velociraptor": [],
-  "visiumStitched": [],
   "vissE": [],
   "vmrseq": [
     "bumphunter"

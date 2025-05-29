@@ -1689,3 +1689,9 @@ censcyt
 Cogito
 CSSQ
 iSEEindex
+DNAfusion
+EDASeq
+Guitar
+INSPEcT
+scDblFinder
+visiumStitched
