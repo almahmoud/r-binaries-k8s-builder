@@ -1521,3 +1521,7 @@ vsclust
 xcore
 BLMA
 Voyager
+PDATK
+PharmacoGx
+RadioGx
+ToxicoGx

@@ -15,7 +15,6 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "AMARETTO": [],
   "APAlyzer": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -65,7 +64,6 @@
     "GSEABase",
     "annotate"
   ],
-  "AffiXcan": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -448,7 +446,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "CiteFuse": [],
   "ClassifyR": [
     "genefilter",
     "annotate"
@@ -476,7 +473,6 @@
     "GenomicAlignments"
   ],
   "Coralysis": [],
-  "CoreGx": [],
   "CoverageView": [
     "rtracklayer",
     "GenomicAlignments"
@@ -639,7 +635,6 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "Dino": [],
   "DominoEffect": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1187,8 +1182,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MOSim": [],
-  "MPAC": [],
   "MSPrep": [
     "sva",
     "genefilter",
@@ -1441,9 +1434,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "PDATK": [
-    "CoreGx"
-  ],
+  "PDATK": [],
   "PECA": [
     "genefilter",
     "annotate"
@@ -1488,9 +1479,7 @@
     "annotate"
   ],
   "PeacoQC": [],
-  "PharmacoGx": [
-    "CoreGx"
-  ],
+  "PharmacoGx": [],
   "PhenStat": [],
   "PhosR": [],
   "PhyloProfile": [],
@@ -1698,9 +1687,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "RadioGx": [
-    "CoreGx"
-  ],
+  "RadioGx": [],
   "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
@@ -2073,9 +2060,7 @@
     "GSEABase",
     "annotate"
   ],
-  "ToxicoGx": [
-    "CoreGx"
-  ],
+  "ToxicoGx": [],
   "Trendy": [],
   "UMI4Cats": [
     "ShortRead",
@@ -2173,8 +2158,7 @@
   ],
   "XeniumIO": [],
   "Xeva": [
-    "PharmacoGx",
-    "CoreGx"
+    "PharmacoGx"
   ],
   "YAPSA": [
     "SomaticSignatures",
@@ -3135,14 +3119,12 @@
     "gDRcore",
     "gDRimport",
     "gDRutils",
-    "CoreGx",
     "PharmacoGx"
   ],
   "gDRcore": [
     "gDRutils"
   ],
   "gDRimport": [
-    "CoreGx",
     "PharmacoGx",
     "gDRutils"
   ],
