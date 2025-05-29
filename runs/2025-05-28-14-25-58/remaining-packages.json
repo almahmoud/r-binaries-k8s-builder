@@ -2058,7 +2058,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPsimSeq": [],
   "SemDist": [
     "annotate"
   ],
@@ -2159,7 +2158,6 @@
   ],
   "SubCellBarCode": [],
   "SurfR": [
-    "SPsimSeq",
     "TCGAbiolinks"
   ],
   "TAPseq": [
@@ -2484,7 +2482,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "anota2seq": [],
   "apComplex": [],
   "appreci8R": [
     "VariantAnnotation",
@@ -3085,7 +3082,6 @@
     "scater",
     "scuttle"
   ],
-  "ddPCRclust": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -4652,7 +4648,6 @@
   ],
   "scTGIF": [
     "GSEABase",
-    "schex",
     "annotate"
   ],
   "scTreeViz": [
@@ -4678,7 +4673,6 @@
   "scater": [
     "scuttle"
   ],
-  "schex": [],
   "scifer": [],
   "scmap": [],
   "scmeth": [
@@ -5099,7 +5093,6 @@
     "VariantAnnotation"
   ],
   "velociraptor": [
-    "zellkonverter",
     "scuttle"
   ],
   "visiumStitched": [
@@ -5191,7 +5184,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "zellkonverter": [],
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase",

@@ -1271,3 +1271,8 @@ COTAN
 ExperimentSubset
 MicrobiotaProcess
 waddR
+anota2seq
+ddPCRclust
+schex
+SPsimSeq
+zellkonverter
