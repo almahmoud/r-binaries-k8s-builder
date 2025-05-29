@@ -173,11 +173,9 @@
     "regioneR",
     "ensembldb"
   ],
-  "ChIPseeker": [],
   "CircSeqAlignTk": [
     "Rhisat2",
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "ClassifyR": [],
   "CleanUpRNAseq": [
@@ -231,7 +229,6 @@
     "sva",
     "bsseq"
   ],
-  "DeconvoBuddies": [],
   "DegCre": [
     "plotgardener"
   ],
@@ -265,15 +262,12 @@
   ],
   "EnrichmentBrowser": [],
   "EpiCompare": [
-    "ChIPseeker",
     "genomation"
   ],
   "EpiTxDb": [
     "txdbmaker"
   ],
-  "EventPointer": [
-    "SGSeq"
-  ],
+  "EventPointer": [],
   "ExCluster": [],
   "ExperimentHubData": [
     "AnnotationHubData",
@@ -525,9 +519,7 @@
   "OUTRIDER": [
     "txdbmaker"
   ],
-  "Organism.dplyr": [],
   "OrganismDbi": [],
-  "OutSplice": [],
   "PAA": [
     "sva"
   ],
@@ -658,8 +650,7 @@
     "regioneR"
   ],
   "Rhisat2": [
-    "txdbmaker",
-    "SGSeq"
+    "txdbmaker"
   ],
   "RiboDiPA": [
     "txdbmaker"
@@ -671,7 +662,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "Rmmquant": [],
   "RnBeads": [
     "methylumi",
     "minfi",
@@ -702,7 +692,6 @@
     "GOstats",
     "Category"
   ],
-  "SGSeq": [],
   "SIM": [],
   "SMITE": [
     "goseq",
@@ -748,7 +737,6 @@
   "StructuralVariantAnnotation": [
     "VariantAnnotation"
   ],
-  "TAPseq": [],
   "TBSignatureProfiler": [
     "ASSIGN",
     "GSVA",
@@ -771,7 +759,6 @@
   "TOP": [
     "ClassifyR"
   ],
-  "TRESS": [],
   "TVTB": [
     "ensembldb",
     "Gviz",
@@ -786,7 +773,6 @@
     "VariantAnnotation"
   ],
   "Ularcirc": [
-    "Organism.dplyr",
     "plotgardener"
   ],
   "Uniquorn": [
@@ -1190,7 +1176,6 @@
   ],
   "esATAC": [
     "pipeFrame",
-    "ChIPseeker",
     "TFBSTools",
     "motifmatchr"
   ],
@@ -1207,7 +1192,6 @@
     "bumphunter"
   ],
   "flagme": [],
-  "flowBin": [],
   "funtooNorm": [
     "minfi",
     "bumphunter"
@@ -1316,9 +1300,7 @@
     "OrganismDbi",
     "VariantAnnotation"
   ],
-  "magpie": [
-    "TRESS"
-  ],
+  "magpie": [],
   "mariner": [
     "plotgardener"
   ],
@@ -1502,7 +1484,6 @@
     "txdbmaker"
   ],
   "profileplyr": [
-    "ChIPseeker",
     "rGREAT"
   ],
   "protGear": [],
@@ -1631,9 +1612,7 @@
     "ensembldb"
   ],
   "selectKSigs": [],
-  "seqArchRplus": [
-    "ChIPseeker"
-  ],
+  "seqArchRplus": [],
   "seqCAT": [
     "VariantAnnotation"
   ],

@@ -1703,3 +1703,12 @@ cliqueMS
 EpiMix
 factR
 GateFinder
+ChIPseeker
+DeconvoBuddies
+flowBin
+Organism.dplyr
+OutSplice
+Rmmquant
+SGSeq
+TAPseq
+TRESS

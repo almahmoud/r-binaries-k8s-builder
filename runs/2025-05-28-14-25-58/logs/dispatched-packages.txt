@@ -1865,3 +1865,6 @@ RUVSeq
 IMAS
 selectKSigs
 Moonlight2R
+EventPointer
+magpie
+seqArchRplus
