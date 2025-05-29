@@ -1589,3 +1589,9 @@ geneplotter
 omXplore
 OTUbase
 VAExprs
+epiregulon.extra
+IONiseR
+iSEEde
+iSEEpathways
+mbkmeans
+miQC

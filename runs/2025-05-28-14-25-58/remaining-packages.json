@@ -634,7 +634,6 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IONiseR": [],
   "IPO": [
     "CAMERA"
   ],
@@ -1622,7 +1621,6 @@
   "cliqueMS": [],
   "clusterExperiment": [
     "zinbwave",
-    "mbkmeans",
     "genefilter"
   ],
   "coMethDMR": [
@@ -1858,7 +1856,6 @@
     "BSgenome",
     "TFBSTools"
   ],
-  "epiregulon.extra": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -2022,14 +2019,12 @@
     "bumphunter",
     "genefilter"
   ],
-  "iSEEde": [],
   "iSEEfier": [
     "iSEEu",
     "iSEEhex"
   ],
   "iSEEhex": [],
   "iSEEindex": [],
-  "iSEEpathways": [],
   "iSEEtree": [],
   "iSEEu": [
     "iSEEhex"
@@ -2122,7 +2117,6 @@
   "mastR": [
     "GSEABase"
   ],
-  "mbkmeans": [],
   "meshr": [
     "Category",
     "GSEABase",
@@ -2202,7 +2196,6 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "miQC": [],
   "miRLAB": [
     "Category",
     "GOstats",
@@ -2298,7 +2291,6 @@
   "netSmooth": [
     "clusterExperiment",
     "zinbwave",
-    "mbkmeans",
     "genefilter"
   ],
   "npGSEA": [
