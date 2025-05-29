@@ -1673,3 +1673,10 @@ roar
 sampleClassifier
 MSnID
 recount3
+breakpointR
+DMCHMM
+extraChIPs
+HicAggR
+PAST
+pram
+scRNAseqApp

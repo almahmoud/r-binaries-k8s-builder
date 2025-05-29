@@ -201,7 +201,6 @@
   "DExMA": [
     "sva"
   ],
-  "DMCHMM": [],
   "DMRcate": [
     "bsseq",
     "minfi",
@@ -399,7 +398,6 @@
     "VariantAnnotation"
   ],
   "HiLDA": [],
-  "HicAggR": [],
   "IMAS": [
     "IVAS"
   ],
@@ -553,7 +551,6 @@
   "PAA": [
     "sva"
   ],
-  "PAST": [],
   "PECA": [],
   "POMA": [
     "sva"
@@ -953,7 +950,6 @@
     "DSS"
   ],
   "branchpointer": [],
-  "breakpointR": [],
   "broadSeq": [],
   "bsseq": [],
   "bumphunter": [],
@@ -1225,7 +1221,6 @@
     "TFBSTools",
     "motifmatchr"
   ],
-  "extraChIPs": [],
   "fCCAC": [
     "genomation"
   ],
@@ -1527,7 +1522,6 @@
   "plotgardener": [],
   "plyinteractions": [],
   "podkat": [],
-  "pram": [],
   "preciseTAD": [
     "rCGH"
   ],
@@ -1644,7 +1638,6 @@
     "AUCell"
   ],
   "scPipe": [],
-  "scRNAseqApp": [],
   "scTGIF": [],
   "scTreeViz": [
     "epivizr",
