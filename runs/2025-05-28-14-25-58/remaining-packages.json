@@ -273,7 +273,6 @@
   "MIRA": [
     "bsseq"
   ],
-  "MLInterfaces": [],
   "MSPrep": [
     "sva"
   ],
@@ -442,9 +441,7 @@
   "SPLINTER": [
     "Gviz"
   ],
-  "SigCheck": [
-    "MLInterfaces"
-  ],
+  "SigCheck": [],
   "SingleMoleculeFootprinting": [
     "QuasR",
     "GenomicFiles"
@@ -528,8 +525,7 @@
     "sva"
   ],
   "bandle": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "bedbaser": [],
   "bigmelon": [
@@ -890,12 +886,9 @@
   "oppar": [
     "GSVA"
   ],
-  "pRoloc": [
-    "MLInterfaces"
-  ],
+  "pRoloc": [],
   "pRolocGUI": [
-    "pRoloc",
-    "MLInterfaces"
+    "pRoloc"
   ],
   "pageRank": [
     "motifmatchr",
@@ -931,7 +924,6 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "qsea": [],
   "qsmooth": [
     "sva"
   ],
@@ -1069,7 +1061,6 @@
     "Gviz"
   ],
   "transmogR": [],
-  "traseR": [],
   "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [

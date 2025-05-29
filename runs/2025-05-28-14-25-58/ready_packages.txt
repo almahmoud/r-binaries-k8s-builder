@@ -1,4 +1,2 @@
-CexoR
-EpiCompare
-RCAS
-fCCAC
+SigCheck
+pRoloc
