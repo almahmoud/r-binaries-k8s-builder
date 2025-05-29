@@ -318,7 +318,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "bandle": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -558,12 +557,10 @@
   ],
   "octad": [],
   "omicRexposome": [],
-  "pRolocGUI": [],
   "pageRank": [
     "motifmatchr",
     "TFBSTools"
   ],
-  "pairedGSEA": [],
   "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
