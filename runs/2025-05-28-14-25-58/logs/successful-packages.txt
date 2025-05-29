@@ -2025,3 +2025,9 @@ ChIPQC
 CNTools
 shinyDSP
 TFHAZ
+AGDEX
+lineagespot
+meshr
+RnaSeqSampleSize
+scoreInvHap
+uncoverappLib

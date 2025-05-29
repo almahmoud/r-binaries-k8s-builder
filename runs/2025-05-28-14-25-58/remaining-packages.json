@@ -1,5 +1,4 @@
 {
-  "AGDEX": [],
   "ATACseqQC": [
     "ChIPpeakAnno"
   ],
@@ -146,7 +145,6 @@
     "methylumi",
     "minfi"
   ],
-  "RnaSeqSampleSize": [],
   "Rqc": [],
   "SMITE": [],
   "SOMNiBUS": [
@@ -289,7 +287,6 @@
   ],
   "interactiveDisplay": [],
   "kissDE": [],
-  "lineagespot": [],
   "lipidr": [],
   "lumi": [
     "methylumi",
@@ -298,7 +295,6 @@
   "m6Aboost": [],
   "mCSEA": [],
   "maser": [],
-  "meshr": [],
   "metaseqR2": [],
   "methodical": [
     "annotatr"
@@ -363,7 +359,6 @@
   "scmeth": [
     "annotatr"
   ],
-  "scoreInvHap": [],
   "scruff": [
     "ggbio"
   ],
@@ -391,7 +386,6 @@
   "tidyomics": [],
   "trackViewer": [],
   "transmogR": [],
-  "uncoverappLib": [],
   "velociraptor": [],
   "vmrseq": [],
   "vtpnet": [
