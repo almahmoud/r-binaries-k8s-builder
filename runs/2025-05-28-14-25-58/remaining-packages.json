@@ -1,8 +1,5 @@
 {
-  "ADAM": [],
-  "ADAMgui": [
-    "ADAM"
-  ],
+  "ADAMgui": [],
   "ADAPT": [],
   "ADImpute": [
     "SingleCellExperiment"
@@ -1041,9 +1038,7 @@
     "enrichplot"
   ],
   "GDSArray": [],
-  "GENESIS": [
-    "SeqVarTools"
-  ],
+  "GENESIS": [],
   "GEOexplorer": [
     "sva",
     "genefilter",
@@ -1498,7 +1493,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLP": [],
   "MLSeq": [
     "DESeq2"
   ],
@@ -1938,7 +1932,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "ProteoMM": [],
   "PureCN": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1995,7 +1988,6 @@
     "VariantAnnotation",
     "rtracklayer",
     "GenomicFeatures",
-    "SeqVarTools",
     "GenomicAlignments"
   ],
   "RCAS": [
@@ -2399,7 +2391,6 @@
   ],
   "SeqGate": [],
   "SeqSQC": [],
-  "SeqVarTools": [],
   "ShortRead": [
     "GenomicAlignments"
   ],
@@ -3877,9 +3868,7 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "esetVis": [
-    "MLP"
-  ],
+  "esetVis": [],
   "evaluomeR": [
     "MultiAssayExperiment"
   ],
@@ -5215,7 +5204,6 @@
     "txdbmaker",
     "GenomicAlignments"
   ],
-  "riboSeqR": [],
   "ribosomeProfilingQC": [
     "BSgenome",
     "EDASeq",
@@ -5517,7 +5505,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "seq2pathway": [],
   "seqArchRplus": [
     "BSgenome",
     "ChIPseeker",

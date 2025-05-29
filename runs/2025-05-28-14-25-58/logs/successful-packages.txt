@@ -1104,3 +1104,9 @@ FuseSOM
 InteractionSet
 MeSHDbi
 StabMap
+ADAM
+MLP
+ProteoMM
+riboSeqR
+seq2pathway
+SeqVarTools

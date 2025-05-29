@@ -1260,3 +1260,6 @@ EDIRquery
 HiCExperiment
 HiCParser
 HiCcompare
+ADAMgui
+GENESIS
+esetVis

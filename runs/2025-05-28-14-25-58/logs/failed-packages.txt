@@ -1,3 +1,4 @@
 PhenStat
 RbowtieCuda
 NormqPCR
+scifer
