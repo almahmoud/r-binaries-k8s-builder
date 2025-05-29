@@ -244,7 +244,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
     "txdbmaker",
@@ -280,7 +279,6 @@
   "DExMA": [
     "sva"
   ],
-  "DMCFB": [],
   "DMCHMM": [],
   "DMRcate": [
     "bsseq",
@@ -557,7 +555,6 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "HiTC": [],
   "HicAggR": [],
   "IMAS": [
     "GenomicFeatures",
@@ -1000,7 +997,6 @@
   "SCAN.UPC": [
     "sva"
   ],
-  "SCANVIS": [],
   "SCOPE": [
     "BSgenome"
   ],

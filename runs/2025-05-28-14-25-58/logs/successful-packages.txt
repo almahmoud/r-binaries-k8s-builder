@@ -1644,3 +1644,7 @@ spillR
 gDRimport
 msmsTests
 MSstatsQCgui
+ChromHeatMap
+DMCFB
+HiTC
+SCANVIS
