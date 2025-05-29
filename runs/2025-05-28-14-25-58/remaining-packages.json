@@ -225,7 +225,6 @@
     "GreyListChIP",
     "BSgenome"
   ],
-  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome"
   ],
@@ -780,7 +779,6 @@
   ],
   "PAST": [],
   "PECA": [],
-  "PICB": [],
   "POMA": [
     "sva"
   ],
@@ -1557,7 +1555,6 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cytofQC": [],
   "dagLogo": [
     "motifStack",
     "TFBSTools",
@@ -1986,7 +1983,6 @@
   "miRSM": [
     "BicARE"
   ],
-  "miaDash": [],
   "minfi": [
     "bumphunter",
     "GenomicFeatures"
@@ -2404,7 +2400,6 @@
   "spiky": [
     "BSgenome"
   ],
-  "spillR": [],
   "splineTimeR": [],
   "squallms": [],
   "srnadiff": [

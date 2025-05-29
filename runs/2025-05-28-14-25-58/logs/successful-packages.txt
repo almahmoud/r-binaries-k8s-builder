@@ -1636,3 +1636,8 @@ ramwas
 scDesign3
 treekoR
 Xeva
+ChIPXpress
+cytofQC
+miaDash
+PICB
+spillR
