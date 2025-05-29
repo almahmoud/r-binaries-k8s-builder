@@ -2155,3 +2155,8 @@ metaseqR2
 RNAmodR.AlkAnilineSeq
 SomaticSignatures
 sparrow
+DEScan2
+pathMED
+R3CPET
+REDseq
+yarn

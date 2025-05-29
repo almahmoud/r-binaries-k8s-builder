@@ -17,7 +17,6 @@
     "missMethyl",
     "lumi"
   ],
-  "DEScan2": [],
   "DMRcate": [
     "missMethyl"
   ],
@@ -47,8 +46,6 @@
   ],
   "NormqPCR": [],
   "PhenStat": [],
-  "R3CPET": [],
-  "REDseq": [],
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [],
@@ -107,7 +104,6 @@
   "missMethyl": [],
   "msgbsR": [],
   "musicatk": [],
-  "pathMED": [],
   "proBAMr": [],
   "scTreeViz": [],
   "scifer": [],
@@ -122,6 +118,5 @@
   "vulcan": [],
   "wateRmelon": [
     "lumi"
-  ],
-  "yarn": []
+  ]
 }
