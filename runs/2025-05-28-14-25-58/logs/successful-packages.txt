@@ -1266,3 +1266,8 @@ scry
 speckle
 xenLite
 zitools
+CoGAPS
+COTAN
+ExperimentSubset
+MicrobiotaProcess
+waddR

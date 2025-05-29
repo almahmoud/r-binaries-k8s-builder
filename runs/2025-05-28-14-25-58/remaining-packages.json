@@ -334,7 +334,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "COTAN": [],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools"
@@ -508,7 +507,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "CoGAPS": [],
   "CoSIA": [],
   "Cogito": [
     "GenomicFeatures",
@@ -815,7 +813,6 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "ExperimentSubset": [],
   "FEAST": [],
   "FLAMES": [
     "bambu",
@@ -1397,7 +1394,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "MicrobiotaProcess": [],
   "MineICA": [
     "GOstats",
     "annotate",
@@ -5147,7 +5143,6 @@
     "BSgenome",
     "ShortRead"
   ],
-  "waddR": [],
   "wateRmelon": [
     "methylumi",
     "lumi",
