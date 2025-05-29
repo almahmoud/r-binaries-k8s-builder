@@ -2130,3 +2130,5 @@ borealis
 kissDE
 metaseqR2
 methylSig
+epivizr
+epivizrChart

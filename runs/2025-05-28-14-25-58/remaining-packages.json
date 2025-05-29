@@ -291,16 +291,10 @@
     "minfi"
   ],
   "epiregulon": [],
-  "epivizr": [
-    "epivizrData"
-  ],
-  "epivizrChart": [
-    "epivizrData"
-  ],
-  "epivizrData": [],
+  "epivizr": [],
+  "epivizrChart": [],
   "epivizrStandalone": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "esATAC": [],
   "fCCAC": [],
@@ -411,8 +405,7 @@
   "rnaEditr": [],
   "scBFA": [],
   "scTreeViz": [
-    "epivizr",
-    "epivizrData"
+    "epivizr"
   ],
   "scanMiRApp": [],
   "scifer": [],
