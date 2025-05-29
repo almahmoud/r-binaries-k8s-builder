@@ -1255,3 +1255,9 @@ PLSDAbatch
 smoothclust
 smoppix
 tradeSeq
+oligo
+SpotSweeper
+switchde
+terapadog
+tpSVG
+vidger

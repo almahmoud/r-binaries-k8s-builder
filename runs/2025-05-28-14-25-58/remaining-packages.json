@@ -432,8 +432,7 @@
     "BSgenome"
   ],
   "ChIPXpress": [
-    "frma",
-    "oligo"
+    "frma"
   ],
   "ChIPanalyser": [
     "BSgenome",
@@ -1119,9 +1118,7 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "ITALICS": [
-    "oligo"
-  ],
+  "ITALICS": [],
   "IVAS": [
     "GenomicFeatures",
     "rtracklayer",
@@ -1996,7 +1993,6 @@
   ],
   "SBGNview": [],
   "SCAN.UPC": [
-    "oligo",
     "sva",
     "genefilter",
     "annotate"
@@ -2156,7 +2152,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotSweeper": [],
   "Statial": [
     "treekoR",
     "diffcyt"
@@ -3418,9 +3413,7 @@
   "flowWorkspace": [
     "ncdfFlow"
   ],
-  "frma": [
-    "oligo"
-  ],
+  "frma": [],
   "funOmics": [],
   "funtooNorm": [
     "minfi",
@@ -3989,9 +3982,7 @@
     "MultiAssayExperiment"
   ],
   "miloR": [],
-  "mimager": [
-    "oligo"
-  ],
+  "mimager": [],
   "minfi": [
     "bumphunter",
     "genefilter",
@@ -4191,7 +4182,6 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "oligo": [],
   "omXplore": [
     "MSnbase",
     "PSMatch",
@@ -4265,9 +4255,7 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "pdInfoBuilder": [
-    "oligo"
-  ],
+  "pdInfoBuilder": [],
   "peakPantheR": [
     "MSnbase",
     "PSMatch",
@@ -4393,9 +4381,7 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "puma": [
-    "oligo"
-  ],
+  "puma": [],
   "qPLEXanalyzer": [
     "MSnbase",
     "PSMatch",
@@ -4982,7 +4968,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "switchde": [],
   "syntenet": [
     "rtracklayer",
     "GenomicAlignments"
@@ -5014,7 +4999,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "terapadog": [],
   "terraTCGAdata": [
     "MultiAssayExperiment",
     "RaggedExperiment",
@@ -5052,7 +5036,6 @@
     "QFeatures",
     "MultiAssayExperiment"
   ],
-  "tpSVG": [],
   "trackViewer": [
     "GenomicAlignments",
     "GenomicFeatures",
@@ -5129,7 +5112,6 @@
     "zellkonverter",
     "scuttle"
   ],
-  "vidger": [],
   "visiumStitched": [
     "DropletUtils",
     "scuttle",
