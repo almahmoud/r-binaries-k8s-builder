@@ -1340,3 +1340,7 @@ scCB2
 TIN
 TTMap
 XAItest
+gage
+PADOG
+regionalpcs
+SpatialFeatureExperiment

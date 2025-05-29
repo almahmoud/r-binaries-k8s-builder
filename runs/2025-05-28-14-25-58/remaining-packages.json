@@ -123,9 +123,7 @@
     "genefilter",
     "annotate"
   ],
-  "BLMA": [
-    "PADOG"
-  ],
+  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -1441,7 +1439,6 @@
     "genefilter",
     "annotate"
   ],
-  "PADOG": [],
   "PAST": [
     "rtracklayer",
     "GenomicAlignments"
@@ -1956,7 +1953,6 @@
     "GenomicAlignments"
   ],
   "SpatialCPie": [],
-  "SpatialFeatureExperiment": [],
   "SpliceWiz": [
     "BSgenome",
     "genefilter",
@@ -2168,9 +2164,7 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "Voyager": [
-    "SpatialFeatureExperiment"
-  ],
+  "Voyager": [],
   "VplotR": [
     "GenomicAlignments"
   ],
@@ -2249,7 +2243,6 @@
   "alabaster.mae": [],
   "alabaster.sce": [],
   "alabaster.sfe": [
-    "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial"
   ],
@@ -3164,7 +3157,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "gage": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4106,7 +4098,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "regionalpcs": [],
   "regioneR": [
     "BSgenome",
     "rtracklayer",
