@@ -2,3 +2,4 @@ PhenStat
 RbowtieCuda
 NormqPCR
 scifer
+crisprScore

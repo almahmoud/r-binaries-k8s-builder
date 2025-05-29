@@ -1806,7 +1806,6 @@
     "VariantAnnotation"
   ],
   "RNAsense": [],
-  "ROCpAI": [],
   "RSVSim": [
     "ShortRead",
     "GenomicAlignments"
@@ -4125,7 +4124,6 @@
     "GSVA",
     "annotate"
   ],
-  "orthos": [],
   "pRoloc": [
     "MSnbase",
     "MLInterfaces",
@@ -4162,7 +4160,6 @@
     "genefilter",
     "annotate"
   ],
-  "partCNV": [],
   "pathMED": [
     "GSVA",
     "singscore",
