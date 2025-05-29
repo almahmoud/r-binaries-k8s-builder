@@ -26,7 +26,6 @@
     "ggbio"
   ],
   "BSgenomeForge": [],
-  "BadRegionFinder": [],
   "BgeeCall": [],
   "BulkSignalR": [],
   "CAFE": [
@@ -43,7 +42,6 @@
   ],
   "CCAFE": [],
   "CNTools": [],
-  "CNVrd2": [],
   "COCOA": [
     "MIRA"
   ],
@@ -185,7 +183,6 @@
   ],
   "ORFik": [],
   "OUTRIDER": [],
-  "PRONE": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "PureCN": [],
@@ -446,7 +443,6 @@
   ],
   "ggbio": [],
   "gwascat": [],
-  "hicVennDiagram": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -457,7 +453,6 @@
     "minfi"
   ],
   "iSEEfier": [],
-  "icetea": [],
   "igvR": [],
   "intansv": [
     "ggbio"
@@ -550,7 +545,6 @@
   "periodicDNA": [],
   "phenoTest": [],
   "phenomis": [],
-  "preciseTAD": [],
   "primirTSS": [
     "TFBSTools"
   ],
