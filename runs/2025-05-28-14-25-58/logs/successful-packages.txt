@@ -1261,3 +1261,8 @@ switchde
 terapadog
 tpSVG
 vidger
+nnSVG
+scry
+speckle
+xenLite
+zitools

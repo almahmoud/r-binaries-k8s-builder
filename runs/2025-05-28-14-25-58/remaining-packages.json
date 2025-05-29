@@ -190,9 +190,7 @@
     "genefilter",
     "annotate"
   ],
-  "BatchSVG": [
-    "scry"
-  ],
+  "BatchSVG": [],
   "BgeeCall": [
     "GenomicFeatures",
     "rtracklayer",
@@ -4157,7 +4155,6 @@
   "nipalsMCIA": [
     "MultiAssayExperiment"
   ],
-  "nnSVG": [],
   "npGSEA": [
     "GSEABase",
     "annotate"
@@ -4732,7 +4729,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scry": [],
   "scuttle": [],
   "scviR": [
     "scater",
@@ -4884,7 +4880,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "speckle": [],
   "spicyR": [
     "ClassifyR",
     "simpleSeg",
@@ -4910,7 +4905,6 @@
     "annotate"
   ],
   "spoon": [
-    "nnSVG",
     "scuttle"
   ],
   "squallms": [
@@ -5192,7 +5186,6 @@
   "xcore": [
     "MultiAssayExperiment"
   ],
-  "xenLite": [],
   "yarn": [
     "quantro",
     "minfi",
@@ -5212,6 +5205,5 @@
   "zinbwave": [
     "genefilter",
     "annotate"
-  ],
-  "zitools": []
+  ]
 }
