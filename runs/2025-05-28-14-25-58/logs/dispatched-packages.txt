@@ -2180,3 +2180,4 @@ recountmethylation
 shinyMethyl
 shinyepico
 netSmooth
+signifinder

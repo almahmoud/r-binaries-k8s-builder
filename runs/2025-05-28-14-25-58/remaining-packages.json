@@ -97,7 +97,6 @@
   "SOMNiBUS": [
     "annotatr"
   ],
-  "SPLINTER": [],
   "SomaticSignatures": [],
   "Ularcirc": [],
   "VanillaICE": [],
@@ -125,7 +124,6 @@
   "borealis": [],
   "cageminer": [],
   "consensusDE": [],
-  "consensusOV": [],
   "conumee": [],
   "crisprDesign": [
     "crisprScore"
@@ -151,7 +149,6 @@
   "dmrseq": [
     "annotatr"
   ],
-  "dreamlet": [],
   "drugTargetInteractions": [],
   "epimutacions": [],
   "epivizr": [],
@@ -174,12 +171,9 @@
   "iNETgrate": [],
   "intansv": [],
   "interactiveDisplay": [],
-  "kissDE": [],
-  "lipidr": [],
   "lumi": [
     "methylumi"
   ],
-  "maser": [],
   "metaseqR2": [],
   "methodical": [
     "annotatr"
@@ -189,7 +183,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylSig": [],
   "methylclock": [],
   "methylumi": [],
   "missMethyl": [
@@ -216,9 +209,7 @@
   "scruff": [],
   "shinyMethyl": [],
   "shinyepico": [],
-  "signifinder": [
-    "consensusOV"
-  ],
+  "signifinder": [],
   "skewr": [
     "methylumi",
     "wateRmelon",
