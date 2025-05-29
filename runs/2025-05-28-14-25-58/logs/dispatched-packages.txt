@@ -1430,3 +1430,4 @@ XeniumIO
 cytoviewer
 simpleSeg
 SpotSweeper
+VariantExperiment

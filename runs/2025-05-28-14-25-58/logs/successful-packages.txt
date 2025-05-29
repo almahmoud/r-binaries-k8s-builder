@@ -1247,3 +1247,11 @@ concordexR
 miaSim
 stJoincount
 SVP
+flowCut
+GDSArray
+jazzPanda
+MoleculeExperiment
+PLSDAbatch
+smoothclust
+smoppix
+tradeSeq

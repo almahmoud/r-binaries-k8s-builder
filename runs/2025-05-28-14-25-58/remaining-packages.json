@@ -315,8 +315,7 @@
     "annotate"
   ],
   "CNVRanger": [
-    "RaggedExperiment",
-    "GDSArray"
+    "RaggedExperiment"
   ],
   "CNVrd2": [
     "VariantAnnotation",
@@ -893,7 +892,6 @@
     "clusterProfiler",
     "enrichplot"
   ],
-  "GDSArray": [],
   "GEOexplorer": [
     "sva",
     "genefilter",
@@ -1425,7 +1423,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MoleculeExperiment": [],
   "Moonlight2R": [
     "clusterProfiler",
     "rtracklayer",
@@ -1601,7 +1598,6 @@
     "GenomicAlignments"
   ],
   "PIUMA": [],
-  "PLSDAbatch": [],
   "POMA": [
     "sva",
     "genefilter",
@@ -2353,9 +2349,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "VariantExperiment": [
-    "GDSArray"
-  ],
+  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -3406,7 +3400,6 @@
   "flowBin": [
     "flowFP"
   ],
-  "flowCut": [],
   "flowFP": [],
   "flowGate": [
     "flowWorkspace",
@@ -3718,7 +3711,6 @@
   "isomiRs": [
     "DEGreport"
   ],
-  "jazzPanda": [],
   "katdetectr": [
     "BSgenome",
     "plyranges",
@@ -4878,8 +4870,6 @@
     "GSEABase",
     "annotate"
   ],
-  "smoothclust": [],
-  "smoppix": [],
   "soGGi": [
     "GenomicAlignments",
     "rtracklayer",
@@ -5074,7 +5064,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "tradeSeq": [],
   "transcriptR": [
     "chipseq",
     "GenomicAlignments",
