@@ -1717,3 +1717,9 @@ OrganismDbi
 SplicingGraphs
 TFEA.ChIP
 casper
+bumphunter
+cfDNAPro
+geneAttribution
+SARC
+TCGAutils
+VariantAnnotation
