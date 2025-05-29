@@ -1627,3 +1627,12 @@ PREDA
 soGGi
 SPIAT
 SurfR
+globaltest
+GSEABase
+iSEEhex
+MDTS
+MultiDataSet
+ramwas
+scDesign3
+treekoR
+Xeva
