@@ -2113,3 +2113,6 @@ deconvR
 interactiveDisplay
 recountmethylation
 shinyMethyl
+funtooNorm
+netSmooth
+quantro

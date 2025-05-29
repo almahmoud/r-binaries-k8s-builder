@@ -147,7 +147,6 @@
     "lumi",
     "methylumi"
   ],
-  "funtooNorm": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -175,10 +174,8 @@
   "mitoClone2": [],
   "msgbsR": [],
   "musicatk": [],
-  "netSmooth": [],
   "pathMED": [],
   "proBAMr": [],
-  "quantro": [],
   "rgsepd": [],
   "scTreeViz": [
     "epivizr"
@@ -210,7 +207,5 @@
     "methylumi",
     "lumi"
   ],
-  "yarn": [
-    "quantro"
-  ]
+  "yarn": []
 }
