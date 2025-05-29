@@ -10,7 +10,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "BBCAnalyzer": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -213,9 +212,7 @@
   "cageminer": [
     "ggbio"
   ],
-  "canceR": [
-    "phenoTest"
-  ],
+  "canceR": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -358,7 +355,6 @@
   "pageRank": [],
   "pathMED": [],
   "periodicDNA": [],
-  "phenoTest": [],
   "phenomis": [],
   "proActiv": [],
   "proBAMr": [],
@@ -372,10 +368,8 @@
   ],
   "recoup": [],
   "regioneReloaded": [],
-  "regutools": [],
   "rgsepd": [],
   "ribosomeProfilingQC": [],
-  "rnaEditr": [],
   "scBFA": [],
   "scTreeViz": [
     "epivizr"
@@ -409,7 +403,6 @@
   "spatzie": [
     "GenomicInteractions"
   ],
-  "srnadiff": [],
   "tadar": [],
   "terraTCGAdata": [],
   "tidyomics": [],

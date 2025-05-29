@@ -2011,3 +2011,8 @@ BEAT
 iSEEfier
 OGRE
 protGear
+BBCAnalyzer
+phenoTest
+regutools
+rnaEditr
+srnadiff
