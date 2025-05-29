@@ -17,7 +17,6 @@
     "GenomicInteractions"
   ],
   "ChAMP": [
-    "minfi",
     "DMRcate",
     "wateRmelon",
     "missMethyl",
@@ -29,16 +28,13 @@
     "ChIPpeakAnno"
   ],
   "DMRcate": [
-    "minfi",
     "missMethyl",
     "methylumi"
   ],
   "Damsel": [],
   "DeMixT": [],
   "DegNorm": [],
-  "ENmix": [
-    "minfi"
-  ],
+  "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [],
   "FRASER": [],
@@ -56,29 +52,22 @@
   ],
   "MAGAR": [
     "RnBeads",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "MAIT": [],
   "MEAL": [
-    "minfi",
     "missMethyl",
     "methylumi"
   ],
   "MEAT": [
-    "minfi",
     "wateRmelon",
     "methylumi",
     "lumi"
   ],
   "MetaboSignal": [],
-  "MethylAid": [
-    "minfi"
-  ],
+  "MethylAid": [],
   "MineICA": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "MinimumDistance": [
     "VanillaICE"
@@ -94,9 +83,7 @@
   "REDseq": [
     "ChIPpeakAnno"
   ],
-  "REMP": [
-    "minfi"
-  ],
+  "REMP": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -105,8 +92,7 @@
   "ReportingTools": [],
   "RiboProfiling": [],
   "RnBeads": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "SMITE": [],
   "SOMNiBUS": [
@@ -125,13 +111,11 @@
   "annotatr": [],
   "arrayMvout": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "arrayQualityMetrics": [],
   "bigmelon": [
     "wateRmelon",
-    "minfi",
     "methylumi",
     "lumi"
   ],
@@ -144,9 +128,7 @@
   "clusterExperiment": [],
   "consensusDE": [],
   "consensusOV": [],
-  "conumee": [
-    "minfi"
-  ],
+  "conumee": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -166,18 +148,14 @@
     "crisprScore"
   ],
   "cummeRbund": [],
-  "deconvR": [
-    "minfi"
-  ],
+  "deconvR": [],
   "derfinderPlot": [],
   "dmrseq": [
     "annotatr"
   ],
   "dreamlet": [],
   "drugTargetInteractions": [],
-  "epimutacions": [
-    "minfi"
-  ],
+  "epimutacions": [],
   "epiregulon": [],
   "epivizr": [],
   "epivizrChart": [],
@@ -187,55 +165,39 @@
   "fCCAC": [],
   "ffpe": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "funtooNorm": [
-    "minfi"
-  ],
+  "funtooNorm": [],
   "geomeTriD": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
-  "iNETgrate": [
-    "minfi"
-  ],
+  "iNETgrate": [],
   "intansv": [],
   "interactiveDisplay": [],
   "kissDE": [],
   "lipidr": [],
   "lumi": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "maser": [],
   "metaseqR2": [],
   "methodical": [
     "annotatr"
   ],
-  "methylCC": [
-    "minfi"
-  ],
+  "methylCC": [],
   "methylGSA": [
     "missMethyl",
-    "minfi",
     "methylumi"
   ],
   "methylInheritance": [],
   "methylSig": [],
-  "methylclock": [
-    "minfi"
-  ],
-  "methylumi": [
-    "minfi"
-  ],
-  "minfi": [],
+  "methylclock": [],
+  "methylumi": [],
   "missMethyl": [
-    "methylumi",
-    "minfi"
+    "methylumi"
   ],
   "mitoClone2": [],
   "motifbreakR": [],
@@ -247,12 +209,8 @@
   "pathMED": [],
   "proBAMr": [],
   "profileplyr": [],
-  "quantro": [
-    "minfi"
-  ],
-  "recountmethylation": [
-    "minfi"
-  ],
+  "quantro": [],
+  "recountmethylation": [],
   "rgsepd": [],
   "scTreeViz": [
     "epivizr"
@@ -263,19 +221,14 @@
     "annotatr"
   ],
   "scruff": [],
-  "shinyMethyl": [
-    "minfi"
-  ],
-  "shinyepico": [
-    "minfi"
-  ],
+  "shinyMethyl": [],
+  "shinyepico": [],
   "signifinder": [
     "consensusOV"
   ],
   "skewr": [
     "methylumi",
     "wateRmelon",
-    "minfi",
     "lumi"
   ],
   "sparrow": [],
@@ -293,11 +246,9 @@
   ],
   "wateRmelon": [
     "methylumi",
-    "lumi",
-    "minfi"
+    "lumi"
   ],
   "yarn": [
-    "quantro",
-    "minfi"
+    "quantro"
   ]
 }

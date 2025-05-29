@@ -2088,3 +2088,5 @@ enhancerHomologSearch
 GA4GHshiny
 scBFA
 esATAC
+MAIT
+minfi
