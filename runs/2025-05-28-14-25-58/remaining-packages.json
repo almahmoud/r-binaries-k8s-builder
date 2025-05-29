@@ -652,10 +652,7 @@
   "MSPrep": [
     "sva"
   ],
-  "MSnID": [
-    "msmsTests"
-  ],
-  "MSstatsQCgui": [],
+  "MSnID": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -1732,10 +1729,7 @@
     "bumphunter",
     "GenomicFeatures"
   ],
-  "gDR": [
-    "gDRimport"
-  ],
-  "gDRimport": [],
+  "gDR": [],
   "gINTomics": [
     "GenomicFeatures"
   ],
@@ -2034,7 +2028,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "msmsTests": [],
   "musicatk": [
     "VariantAnnotation",
     "BSgenome",
