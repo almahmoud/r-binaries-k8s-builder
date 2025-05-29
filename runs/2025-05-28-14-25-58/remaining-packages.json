@@ -136,7 +136,6 @@
     "VanillaICE"
   ],
   "MultiBaC": [],
-  "MungeSumstats": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -216,10 +215,8 @@
   "TissueEnrich": [],
   "UMI4Cats": [],
   "Ularcirc": [],
-  "VCFArray": [],
   "VaSP": [],
   "VanillaICE": [],
-  "VarCon": [],
   "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
@@ -270,7 +267,6 @@
   ],
   "chevreulShiny": [],
   "chimeraviz": [],
-  "chromVAR": [],
   "cicero": [],
   "circRNAprofiler": [
     "gwascat"
@@ -285,7 +281,6 @@
   "conumee": [
     "minfi"
   ],
-  "covRNA": [],
   "crisprDesign": [
     "crisprScore"
   ],
@@ -509,7 +504,6 @@
   "shinyepico": [
     "minfi"
   ],
-  "signeR": [],
   "signifinder": [
     "consensusOV"
   ],

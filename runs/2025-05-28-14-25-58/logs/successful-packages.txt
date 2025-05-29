@@ -1958,3 +1958,9 @@ annmap
 katdetectr
 MatrixRider
 spicyR
+chromVAR
+covRNA
+MungeSumstats
+signeR
+VarCon
+VCFArray
