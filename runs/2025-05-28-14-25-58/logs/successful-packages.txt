@@ -2206,3 +2206,5 @@ MAGAR
 MEAT
 skewr
 methylGSA
+DMRcate
+MEAL

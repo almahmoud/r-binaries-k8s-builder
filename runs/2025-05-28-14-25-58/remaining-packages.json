@@ -1,11 +1,7 @@
 {
   "BulkSignalR": [],
-  "ChAMP": [
-    "DMRcate"
-  ],
-  "DMRcate": [],
+  "ChAMP": [],
   "EpiCompare": [],
-  "MEAL": [],
   "NormqPCR": [],
   "PhenStat": [],
   "RbowtieCuda": [],
