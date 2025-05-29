@@ -1333,3 +1333,10 @@ PIUMA
 RNAsense
 SpatialExperimentIO
 SplineDV
+batchelor
+GenomicSuperSignature
+MultiAssayExperiment
+scCB2
+TIN
+TTMap
+XAItest
