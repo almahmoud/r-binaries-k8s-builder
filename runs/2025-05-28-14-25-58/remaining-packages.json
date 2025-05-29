@@ -1,7 +1,6 @@
 {
   "AGDEX": [],
   "APAlyzer": [],
-  "ASICS": [],
   "ATACseqQC": [
     "ChIPpeakAnno"
   ],
@@ -79,7 +78,6 @@
   "GA4GHshiny": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
-  "GSRI": [],
   "GUIDEseq": [
     "ChIPpeakAnno"
   ],
@@ -124,7 +122,6 @@
   "MinimumDistance": [
     "VanillaICE"
   ],
-  "MultiBaC": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -197,7 +194,6 @@
     "ORFik"
   ],
   "TVTB": [],
-  "TissueEnrich": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "VaSP": [],
@@ -235,7 +231,6 @@
     "dmrseq",
     "annotatr"
   ],
-  "blacksheepr": [],
   "borealis": [
     "DSS"
   ],

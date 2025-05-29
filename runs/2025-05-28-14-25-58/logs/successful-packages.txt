@@ -1983,3 +1983,8 @@ primirTSS
 zinbwave
 MIRA
 scClassify
+ASICS
+blacksheepr
+GSRI
+MultiBaC
+TissueEnrich
