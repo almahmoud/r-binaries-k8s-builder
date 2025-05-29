@@ -149,20 +149,17 @@
   "dmrseq": [
     "annotatr"
   ],
-  "drugTargetInteractions": [],
   "epimutacions": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
     "epivizr"
   ],
-  "fCCAC": [],
   "ffpe": [
     "lumi",
     "methylumi"
   ],
   "funtooNorm": [],
-  "geomeTriD": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -194,14 +191,12 @@
   "netSmooth": [],
   "pathMED": [],
   "proBAMr": [],
-  "profileplyr": [],
   "quantro": [],
   "recountmethylation": [],
   "rgsepd": [],
   "scTreeViz": [
     "epivizr"
   ],
-  "scanMiRApp": [],
   "scifer": [],
   "scmeth": [
     "annotatr"

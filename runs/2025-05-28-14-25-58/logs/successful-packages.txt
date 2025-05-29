@@ -2102,3 +2102,8 @@ lipidr
 maser
 methylSig
 SPLINTER
+drugTargetInteractions
+fCCAC
+geomeTriD
+profileplyr
+scanMiRApp
