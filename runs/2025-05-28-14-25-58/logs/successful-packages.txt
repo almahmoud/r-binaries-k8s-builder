@@ -1408,3 +1408,4 @@ annaffy
 cypress
 deltaCaptureC
 MetaboAnnotation
+SBGNview
