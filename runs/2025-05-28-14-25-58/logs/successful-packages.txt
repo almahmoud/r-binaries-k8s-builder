@@ -1818,3 +1818,6 @@ flagme
 IPO
 RUVSeq
 SIM
+crisprBowtie
+metaMS
+PECA

@@ -321,7 +321,6 @@
   "PAA": [
     "sva"
   ],
-  "PECA": [],
   "POMA": [
     "sva"
   ],
@@ -596,9 +595,7 @@
   "cosmosR": [],
   "countsimQC": [],
   "covRNA": [],
-  "crisprBowtie": [],
   "crisprDesign": [
-    "crisprBowtie",
     "crisprScore"
   ],
   "crisprScore": [],
@@ -606,11 +603,9 @@
     "crisprDesign",
     "crisprScore",
     "crisprViz",
-    "crisprBowtie",
     "Gviz"
   ],
   "crisprVerse": [
-    "crisprBowtie",
     "crisprScore",
     "crisprDesign",
     "crisprViz",
@@ -619,7 +614,6 @@
   "crisprViz": [
     "crisprDesign",
     "Gviz",
-    "crisprBowtie",
     "crisprScore"
   ],
   "cummeRbund": [
@@ -764,7 +758,6 @@
   "meshr": [
     "Category"
   ],
-  "metaMS": [],
   "metaseqR2": [
     "DSS",
     "bsseq"
