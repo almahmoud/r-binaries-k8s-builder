@@ -27,7 +27,6 @@
   ],
   "BSgenomeForge": [],
   "BadRegionFinder": [],
-  "BatchQC": [],
   "BgeeCall": [],
   "BulkSignalR": [],
   "CAFE": [
@@ -48,8 +47,6 @@
   "COCOA": [
     "MIRA"
   ],
-  "CODEX": [],
-  "CexoR": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -67,9 +64,7 @@
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
-  "CleanUpRNAseq": [
-    "qsmooth"
-  ],
+  "CleanUpRNAseq": [],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR"
@@ -363,7 +358,6 @@
   "conumee": [
     "minfi"
   ],
-  "countsimQC": [],
   "covRNA": [],
   "crisprDesign": [
     "crisprScore"
@@ -452,11 +446,8 @@
   ],
   "ggbio": [],
   "gwascat": [],
-  "gwasurvivr": [],
   "hicVennDiagram": [],
-  "iCNV": [
-    "CODEX"
-  ],
+  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi",
@@ -572,7 +563,6 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "qsmooth": [],
   "quantro": [
     "minfi"
   ],

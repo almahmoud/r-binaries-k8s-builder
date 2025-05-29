@@ -1915,3 +1915,9 @@ BiSeq
 debrowser
 RJMCMCNucleosomes
 TOP
+BatchQC
+CexoR
+CODEX
+countsimQC
+gwasurvivr
+qsmooth
