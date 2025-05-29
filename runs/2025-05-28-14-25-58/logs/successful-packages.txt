@@ -1712,3 +1712,7 @@ Rmmquant
 SGSeq
 TAPseq
 TRESS
+atena
+OrganismDbi
+SplicingGraphs
+TFEA.ChIP

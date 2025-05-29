@@ -1868,3 +1868,5 @@ Moonlight2R
 EventPointer
 magpie
 seqArchRplus
+AnnotationHubData
+GSReg
