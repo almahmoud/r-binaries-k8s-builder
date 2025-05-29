@@ -193,8 +193,7 @@
     "sva"
   ],
   "GNOSIS": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "GOTHiC": [],
   "GOstats": [
@@ -241,9 +240,7 @@
   "IMAS": [],
   "IPO": [],
   "IdeoViz": [],
-  "InPAS": [
-    "cleanUpdTSeq"
-  ],
+  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "DEXSeq"
@@ -399,7 +396,6 @@
     "RNAmodR",
     "Gviz"
   ],
-  "RTCGAToolbox": [],
   "RUVSeq": [],
   "RbowtieCuda": [],
   "RcisTarget": [
@@ -434,7 +430,6 @@
   "SCAN.UPC": [
     "sva"
   ],
-  "SCOPE": [],
   "SEtools": [
     "sva"
   ],
@@ -552,8 +547,7 @@
     "lumi"
   ],
   "bioCancer": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "biomvRCNS": [
     "Gviz"
@@ -580,12 +574,9 @@
     "bsseq",
     "DSS"
   ],
-  "branchpointer": [],
   "broadSeq": [],
   "bsseq": [],
-  "cBioPortalData": [
-    "RTCGAToolbox"
-  ],
+  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
@@ -594,7 +585,6 @@
   "canceR": [
     "cBioPortalData",
     "phenoTest",
-    "RTCGAToolbox",
     "Category"
   ],
   "categoryCompare": [
@@ -602,8 +592,7 @@
     "GOstats"
   ],
   "cbaf": [
-    "cBioPortalData",
-    "RTCGAToolbox"
+    "cBioPortalData"
   ],
   "cghMCR": [
     "CNTools"
@@ -624,7 +613,6 @@
   "circRNAprofiler": [
     "gwascat"
   ],
-  "cleanUpdTSeq": [],
   "cliProfiler": [],
   "clusterExperiment": [
     "zinbwave"
@@ -772,10 +760,7 @@
   "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
-  "hiAnnotator": [],
-  "hiReadsProcessor": [
-    "hiAnnotator"
-  ],
+  "hiReadsProcessor": [],
   "hicVennDiagram": [],
   "iCNV": [
     "CODEX"
@@ -1089,7 +1074,6 @@
   ],
   "sva": [],
   "svaNUMT": [],
-  "svaRetro": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [

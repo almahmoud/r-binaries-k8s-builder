@@ -1779,3 +1779,9 @@ glmSparseNet
 Motif2Site
 SparseSignatures
 SpliceWiz
+branchpointer
+cleanUpdTSeq
+hiAnnotator
+RTCGAToolbox
+SCOPE
+svaRetro
