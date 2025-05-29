@@ -1132,3 +1132,16 @@ HiCcompare
 MiRaGE
 sSNAPPY
 VegaMC
+ADAPT
+BUScorrect
+CaDrA
+DESeq2
+DOSE
+HiCExperiment
+MWASTools
+qmtools
+RCM
+RPA
+SingleCellExperiment
+SplicingFactory
+TOAST
