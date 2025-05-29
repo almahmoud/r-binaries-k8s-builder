@@ -38,7 +38,6 @@
   "DEScan2": [
     "ChIPpeakAnno"
   ],
-  "DExMA": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
@@ -127,7 +126,6 @@
   "REMP": [
     "minfi"
   ],
-  "RNAAgeCalc": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
   "RNAmodR.RiboMethSeq": [],
@@ -162,7 +160,6 @@
   "UMI4Cats": [],
   "Ularcirc": [],
   "VanillaICE": [],
-  "VariantFiltering": [],
   "YAPSA": [
     "SomaticSignatures",
     "ggbio"
@@ -199,7 +196,6 @@
     "ggbio"
   ],
   "canceR": [],
-  "cghMCR": [],
   "cicero": [],
   "circRNAprofiler": [
     "gwascat"
@@ -230,7 +226,6 @@
     "crisprScore"
   ],
   "cummeRbund": [],
-  "customProDB": [],
   "dagLogo": [],
   "deconvR": [
     "minfi"
@@ -339,7 +334,6 @@
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
-  "psichomics": [],
   "quantro": [
     "minfi"
   ],
