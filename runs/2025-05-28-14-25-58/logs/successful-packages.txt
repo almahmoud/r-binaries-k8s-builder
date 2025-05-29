@@ -1992,3 +1992,9 @@ DSS
 edge
 rqt
 epivizrData
+BSgenomeForge
+DiffBind
+G4SNVHunter
+mastR
+selectKSigs
+standR

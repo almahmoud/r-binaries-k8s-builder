@@ -1,2 +1,2 @@
-epivizr
-epivizrChart
+ChIPQC
+shinyDSP

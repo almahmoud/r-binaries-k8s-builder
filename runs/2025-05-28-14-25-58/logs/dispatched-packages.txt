@@ -2132,3 +2132,5 @@ metaseqR2
 methylSig
 epivizr
 epivizrChart
+ChIPQC
+shinyDSP

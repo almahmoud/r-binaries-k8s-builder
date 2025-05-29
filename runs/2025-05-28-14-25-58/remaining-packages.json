@@ -15,7 +15,6 @@
   "BOBaFIT": [
     "ggbio"
   ],
-  "BSgenomeForge": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
@@ -38,9 +37,7 @@
     "methylumi",
     "lumi"
   ],
-  "ChIPQC": [
-    "DiffBind"
-  ],
+  "ChIPQC": [],
   "ChIPpeakAnno": [],
   "CircSeqAlignTk": [
     "Rhisat2"
@@ -60,7 +57,6 @@
   ],
   "DeMixT": [],
   "DegNorm": [],
-  "DiffBind": [],
   "ENmix": [
     "minfi"
   ],
@@ -71,7 +67,6 @@
     "ggbio"
   ],
   "FRASER": [],
-  "G4SNVHunter": [],
   "GA4GHshiny": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
@@ -336,7 +331,6 @@
   "m6Aboost": [],
   "mCSEA": [],
   "maser": [],
-  "mastR": [],
   "meshr": [],
   "metaseqR2": [],
   "methodical": [
@@ -416,10 +410,7 @@
   "scruff": [
     "ggbio"
   ],
-  "selectKSigs": [],
-  "shinyDSP": [
-    "standR"
-  ],
+  "shinyDSP": [],
   "shinyMethyl": [
     "minfi"
   ],
@@ -440,7 +431,6 @@
     "GenomicInteractions"
   ],
   "srnadiff": [],
-  "standR": [],
   "tadar": [],
   "terraTCGAdata": [],
   "tidyomics": [],
@@ -453,8 +443,7 @@
     "gwascat"
   ],
   "vulcan": [
-    "ChIPpeakAnno",
-    "DiffBind"
+    "ChIPpeakAnno"
   ],
   "wateRmelon": [
     "methylumi",
