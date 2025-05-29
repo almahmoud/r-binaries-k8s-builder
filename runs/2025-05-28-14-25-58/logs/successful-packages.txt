@@ -1117,3 +1117,12 @@ LipidTrend
 miRNAtap
 PAIRADISE
 Rbowtie2
+blima
+ExpressionAtlas
+HiCParser
+InterCellar
+MsFeatures
+Scale4C
+SIAMCAT
+Site2Target
+weitrix
