@@ -136,7 +136,6 @@
   ],
   "CODEX": [],
   "CRISPRseek": [],
-  "CSSQ": [],
   "Category": [],
   "Cepo": [],
   "CexoR": [
@@ -186,7 +185,6 @@
     "qsmooth",
     "sva"
   ],
-  "Cogito": [],
   "CoverageView": [],
   "DAMEfinder": [
     "VariantAnnotation",
@@ -983,7 +981,6 @@
     "RTCGAToolbox",
     "TCGAutils"
   ],
-  "censcyt": [],
   "cfDNAPro": [],
   "cghMCR": [
     "CNTools"
@@ -1292,7 +1289,6 @@
   "iSEEfier": [
     "iSEEu"
   ],
-  "iSEEindex": [],
   "iSEEu": [],
   "icetea": [
     "VariantAnnotation"

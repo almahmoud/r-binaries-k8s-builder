@@ -1685,3 +1685,7 @@ geneXtendeR
 InTAD
 sevenC
 wiggleplotr
+censcyt
+Cogito
+CSSQ
+iSEEindex
