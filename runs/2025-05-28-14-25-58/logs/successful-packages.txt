@@ -1314,3 +1314,11 @@ MACSr
 simPIC
 spoon
 tidySpatialExperiment
+DELocal
+divergence
+GOexpress
+imcRtools
+scater
+scDiagnostics
+SeqGate
+sesame

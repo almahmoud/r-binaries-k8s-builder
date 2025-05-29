@@ -1457,3 +1457,17 @@ SpatialFeatureExperiment
 regionalpcs
 scCB2
 isomiRs
+CATALYST
+CellMixS
+CelliD
+M3Drop
+MEB
+VAExprs
+airpart
+clustSIGNAL
+distinct
+muscat
+peco
+scDotPlot
+scviR
+tricycle
