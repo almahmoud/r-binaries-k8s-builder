@@ -1858,3 +1858,6 @@ strandCheckR
 transcriptR
 txdbmaker
 wavClusteR
+GateFinder
+factR
+flowBin

@@ -340,9 +340,7 @@
     "regioneR",
     "ensembldb"
   ],
-  "GateFinder": [
-    "flowFP"
-  ],
+  "GateFinder": [],
   "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
@@ -408,7 +406,6 @@
   "InPAS": [
     "cleanUpdTSeq"
   ],
-  "InTAD": [],
   "IntEREst": [
     "GenomicFiles",
     "txdbmaker",
@@ -993,7 +990,6 @@
   ],
   "chevreulPlot": [
     "chevreulProcess",
-    "wiggleplotr",
     "ensembldb"
   ],
   "chevreulProcess": [
@@ -1002,7 +998,6 @@
   "chevreulShiny": [
     "chevreulProcess",
     "chevreulPlot",
-    "wiggleplotr",
     "ensembldb"
   ],
   "chimeraviz": [
@@ -1224,9 +1219,7 @@
   "fCCAC": [
     "genomation"
   ],
-  "factR": [
-    "wiggleplotr"
-  ],
+  "factR": [],
   "fcScan": [
     "VariantAnnotation"
   ],
@@ -1237,10 +1230,7 @@
     "bumphunter"
   ],
   "flagme": [],
-  "flowBin": [
-    "flowFP"
-  ],
-  "flowFP": [],
+  "flowBin": [],
   "funtooNorm": [
     "minfi",
     "bumphunter"
@@ -1248,7 +1238,6 @@
   "gINTomics": [],
   "gcapc": [],
   "geneAttribution": [],
-  "geneXtendeR": [],
   "genomation": [],
   "geomeTriD": [
     "trackViewer",
@@ -1681,7 +1670,6 @@
     "VariantAnnotation"
   ],
   "seqsetvis": [],
-  "sevenC": [],
   "shinyDSP": [
     "standR",
     "RUVSeq",
@@ -1822,7 +1810,6 @@
     "bumphunter"
   ],
   "wavClusteR": [],
-  "wiggleplotr": [],
   "xCell2": [
     "singscore"
   ],

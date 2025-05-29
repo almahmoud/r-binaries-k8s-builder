@@ -1680,3 +1680,8 @@ HicAggR
 PAST
 pram
 scRNAseqApp
+flowFP
+geneXtendeR
+InTAD
+sevenC
+wiggleplotr
