@@ -5,16 +5,11 @@
   "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
-  "BOBaFIT": [
-    "ggbio"
-  ],
+  "BOBaFIT": [],
   "BulkSignalR": [],
-  "CAFE": [
-    "ggbio"
-  ],
+  "CAFE": [],
   "CAGEfightR": [
     "GenomicInteractions"
   ],
@@ -43,19 +38,14 @@
     "missMethyl",
     "methylumi"
   ],
-  "Damsel": [
-    "ggbio"
-  ],
+  "Damsel": [],
   "DeMixT": [],
   "DegNorm": [],
   "ENmix": [
     "minfi"
   ],
   "EpiCompare": [],
-  "ExperimentHubData": [],
-  "FLAMES": [
-    "ggbio"
-  ],
+  "FLAMES": [],
   "FRASER": [],
   "GA4GHshiny": [],
   "GOTHiC": [],
@@ -64,9 +54,7 @@
     "ChIPpeakAnno"
   ],
   "GenomicInteractions": [],
-  "GenomicOZone": [
-    "ggbio"
-  ],
+  "GenomicOZone": [],
   "GenomicPlot": [
     "RCAS"
   ],
@@ -114,9 +102,7 @@
   "ProteoDisco": [],
   "Pviz": [],
   "QuasR": [],
-  "R3CPET": [
-    "ggbio"
-  ],
+  "R3CPET": [],
   "RCAS": [],
   "REDseq": [
     "ChIPpeakAnno"
@@ -129,14 +115,10 @@
   "RNAmodR.RiboMethSeq": [],
   "RbowtieCuda": [],
   "Repitools": [],
-  "ReportingTools": [
-    "ggbio"
-  ],
+  "ReportingTools": [],
   "RgnTX": [],
   "Rhisat2": [],
-  "RiboProfiling": [
-    "ggbio"
-  ],
+  "RiboProfiling": [],
   "RnBeads": [
     "methylumi",
     "minfi"
@@ -151,24 +133,19 @@
   "SingleMoleculeFootprinting": [
     "QuasR"
   ],
-  "SomaticSignatures": [
-    "ggbio"
-  ],
-  "TVTB": [],
+  "SomaticSignatures": [],
   "UMI4Cats": [],
   "Ularcirc": [],
   "VanillaICE": [],
   "YAPSA": [
-    "SomaticSignatures",
-    "ggbio"
+    "SomaticSignatures"
   ],
   "a4": [
     "a4Base"
   ],
   "a4Base": [],
   "affycoretools": [
-    "ReportingTools",
-    "ggbio"
+    "ReportingTools"
   ],
   "annotatr": [],
   "arrayMvout": [
@@ -189,10 +166,7 @@
     "annotatr"
   ],
   "borealis": [],
-  "cageminer": [
-    "ggbio"
-  ],
-  "canceR": [],
+  "cageminer": [],
   "cicero": [],
   "circRNAprofiler": [
     "gwascat"
@@ -227,9 +201,7 @@
   "deconvR": [
     "minfi"
   ],
-  "derfinderPlot": [
-    "ggbio"
-  ],
+  "derfinderPlot": [],
   "diffHic": [],
   "dmrseq": [
     "annotatr"
@@ -262,7 +234,6 @@
   "geomeTriD": [
     "trackViewer"
   ],
-  "ggbio": [],
   "gwascat": [],
   "iCNV": [],
   "iCheck": [
@@ -273,9 +244,7 @@
   "iNETgrate": [
     "minfi"
   ],
-  "intansv": [
-    "ggbio"
-  ],
+  "intansv": [],
   "interactiveDisplay": [],
   "kissDE": [],
   "lipidr": [],
@@ -301,8 +270,7 @@
   "methylInheritance": [],
   "methylSig": [],
   "methylclock": [
-    "minfi",
-    "ExperimentHubData"
+    "minfi"
   ],
   "methylumi": [
     "minfi"
@@ -314,15 +282,12 @@
   ],
   "mitoClone2": [],
   "motifbreakR": [],
-  "msgbsR": [
-    "ggbio"
-  ],
+  "msgbsR": [],
   "musicatk": [],
   "myvariant": [],
   "netSmooth": [
     "clusterExperiment"
   ],
-  "omicRexposome": [],
   "pageRank": [],
   "pathMED": [],
   "periodicDNA": [],
@@ -348,9 +313,7 @@
   "scmeth": [
     "annotatr"
   ],
-  "scruff": [
-    "ggbio"
-  ],
+  "scruff": [],
   "shinyMethyl": [
     "minfi"
   ],

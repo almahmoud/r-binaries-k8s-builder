@@ -2042,3 +2042,8 @@ EpiTxDb
 igvR
 IMAS
 phenomis
+canceR
+ExperimentHubData
+ggbio
+omicRexposome
+TVTB
