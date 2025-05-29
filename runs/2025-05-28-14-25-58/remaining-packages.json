@@ -98,9 +98,7 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "BASiCS": [],
   "BASiCStan": [
-    "BASiCS",
     "glmGamPoi"
   ],
   "BBCAnalyzer": [
@@ -481,19 +479,12 @@
     "GenomicAlignments"
   ],
   "CytoMDS": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
-  "CytoML": [
-    "openCyto",
-    "ggcyto"
-  ],
-  "CytoPipeline": [
-    "ggcyto"
-  ],
+  "CytoML": [],
+  "CytoPipeline": [],
   "CytoPipelineGUI": [
-    "CytoPipeline",
-    "ggcyto"
+    "CytoPipeline"
   ],
   "DAMEfinder": [
     "GenomicAlignments",
@@ -3031,7 +3022,6 @@
     "motifmatchr",
     "enrichplot"
   ],
-  "evaluomeR": [],
   "extraChIPs": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3084,9 +3074,7 @@
     "flowFP"
   ],
   "flowFP": [],
-  "flowGate": [
-    "ggcyto"
-  ],
+  "flowGate": [],
   "flowVS": [],
   "frma": [],
   "funOmics": [],
@@ -3175,7 +3163,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "ggcyto": [],
   "ggsc": [],
   "ginmappeR": [
     "UniProt.ws"
@@ -3603,7 +3590,6 @@
     "mia"
   ],
   "microbiomeExplorer": [],
-  "midasHLA": [],
   "miloR": [],
   "mimager": [],
   "minfi": [
@@ -3796,7 +3782,6 @@
   "omicsPrint": [
     "RaggedExperiment"
   ],
-  "openCyto": [],
   "oppar": [
     "GSEABase",
     "GSVA",

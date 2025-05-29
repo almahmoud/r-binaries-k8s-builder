@@ -1363,3 +1363,8 @@ MultimodalExperiment
 PeacoQC
 SingleCellSignalR
 SpaNorm
+BASiCS
+evaluomeR
+ggcyto
+midasHLA
+openCyto
