@@ -1459,3 +1459,11 @@ Pirat
 puma
 Macarron
 SimBu
+BASiCStan
+BiocSet
+DelayedTensor
+dittoSeq
+GenomicAlignments
+microbiomeExplorer
+motifcounter
+transformGamPoi

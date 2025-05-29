@@ -4,3 +4,4 @@ NormqPCR
 scifer
 crisprScore
 BulkSignalR
+velociraptor

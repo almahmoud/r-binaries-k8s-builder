@@ -1,0 +1,16 @@
+BaalChIP
+BasicSTARRseq
+CRISPRball
+CrispRVariants
+MDTS
+PICB
+RegEnrich
+SPIAT
+ShortRead
+TCseq
+VplotR
+breakpointR
+mosaics
+prebs
+ramwas
+rtracklayer
