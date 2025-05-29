@@ -2157,3 +2157,5 @@ derfinderPlot
 intansv
 msgbsR
 scruff
+circRNAprofiler
+vtpnet

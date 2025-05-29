@@ -29,7 +29,6 @@
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
-  "CleanUpRNAseq": [],
   "DEScan2": [
     "ChIPpeakAnno"
   ],
@@ -99,7 +98,6 @@
   "NormqPCR": [],
   "OMICsPCA": [],
   "PhenStat": [],
-  "ProteoDisco": [],
   "Pviz": [],
   "QuasR": [],
   "R3CPET": [],
@@ -168,9 +166,7 @@
   "borealis": [],
   "cageminer": [],
   "cicero": [],
-  "circRNAprofiler": [
-    "gwascat"
-  ],
+  "circRNAprofiler": [],
   "clusterExperiment": [],
   "comapr": [],
   "consensusDE": [],
@@ -202,7 +198,6 @@
     "minfi"
   ],
   "derfinderPlot": [],
-  "diffHic": [],
   "dmrseq": [
     "annotatr"
   ],
@@ -234,7 +229,6 @@
   "geomeTriD": [
     "trackViewer"
   ],
-  "gwascat": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -252,7 +246,6 @@
     "methylumi",
     "minfi"
   ],
-  "m6Aboost": [],
   "mCSEA": [],
   "maser": [],
   "metaseqR2": [],
@@ -291,7 +284,6 @@
   "pageRank": [],
   "pathMED": [],
   "periodicDNA": [],
-  "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
   "quantro": [
@@ -340,9 +332,7 @@
   "transmogR": [],
   "velociraptor": [],
   "vmrseq": [],
-  "vtpnet": [
-    "gwascat"
-  ],
+  "vtpnet": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],
