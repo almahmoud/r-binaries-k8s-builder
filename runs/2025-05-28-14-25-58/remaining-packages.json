@@ -140,7 +140,6 @@
     "ensembldb",
     "biovizBase"
   ],
-  "CAMERA": [],
   "CCAFE": [
     "VariantAnnotation",
     "GenomicFeatures"
@@ -495,9 +494,7 @@
   "INSPEcT": [
     "GenomicFeatures"
   ],
-  "IPO": [
-    "CAMERA"
-  ],
+  "IPO": [],
   "IVAS": [
     "GenomicFeatures"
   ],
@@ -533,9 +530,7 @@
     "GenomicFeatures",
     "bumphunter"
   ],
-  "MAIT": [
-    "CAMERA"
-  ],
+  "MAIT": [],
   "MBECS": [
     "sva"
   ],
@@ -1499,9 +1494,7 @@
     "minfi",
     "bumphunter"
   ],
-  "flagme": [
-    "CAMERA"
-  ],
+  "flagme": [],
   "flowBin": [
     "flowFP"
   ],
@@ -1661,9 +1654,7 @@
   "meshr": [
     "Category"
   ],
-  "metaMS": [
-    "CAMERA"
-  ],
+  "metaMS": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
@@ -1745,7 +1736,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "mobileRNA": [],
   "mogsa": [],
   "monaLisa": [
     "TFBSTools"
@@ -1957,8 +1947,6 @@
     "txdbmaker",
     "TFBSTools"
   ],
-  "rifi": [],
-  "rifiComparative": [],
   "rmspc": [],
   "rnaEditr": [
     "bumphunter",
