@@ -268,7 +268,6 @@
     "ChIPseeker",
     "genomation"
   ],
-  "EpiMix": [],
   "EpiTxDb": [
     "txdbmaker"
   ],
@@ -334,7 +333,6 @@
     "regioneR",
     "ensembldb"
   ],
-  "GateFinder": [],
   "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
@@ -479,9 +477,7 @@
   "MinimumDistance": [
     "VanillaICE"
   ],
-  "Moonlight2R": [
-    "EpiMix"
-  ],
+  "Moonlight2R": [],
   "Motif2Site": [],
   "MotifDb": [],
   "MotifPeeker": [],
@@ -1008,7 +1004,6 @@
   "clipper": [
     "qpgraph"
   ],
-  "cliqueMS": [],
   "clusterExperiment": [
     "zinbwave"
   ],
@@ -1202,7 +1197,6 @@
   "fCCAC": [
     "genomation"
   ],
-  "factR": [],
   "fcScan": [
     "VariantAnnotation"
   ],

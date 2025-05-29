@@ -1699,3 +1699,7 @@ GenomicInteractionNodes
 HiLDA
 IVAS
 scPipe
+cliqueMS
+EpiMix
+factR
+GateFinder
