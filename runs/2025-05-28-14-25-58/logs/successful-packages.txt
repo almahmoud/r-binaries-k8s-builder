@@ -1654,3 +1654,8 @@ Prostar
 RMassBank
 scMerge
 TEKRABber
+BSgenome
+cosmiq
+ncGTW
+squallms
+tigre
