@@ -1218,3 +1218,10 @@ EWCE
 sccomp
 SEraster
 slingshot
+coseq
+crlmm
+Glimma
+hoodscanR
+scds
+SpotClean
+VisiumIO

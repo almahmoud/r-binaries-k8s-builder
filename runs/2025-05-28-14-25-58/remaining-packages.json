@@ -75,7 +75,6 @@
     "affycoretools",
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -1029,7 +1028,6 @@
     "BSgenome"
   ],
   "GenomicSuperSignature": [],
-  "Glimma": [],
   "GlobalAncova": [
     "globaltest",
     "annotate",
@@ -1202,7 +1200,6 @@
   "MACSr": [],
   "MAGAR": [
     "RnBeads",
-    "crlmm",
     "methylumi",
     "minfi",
     "annotate",
@@ -1427,7 +1424,6 @@
   ],
   "MinimumDistance": [
     "VanillaICE",
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -1780,7 +1776,6 @@
   ],
   "RFLOMICS": [
     "MultiAssayExperiment",
-    "coseq",
     "clusterProfiler",
     "enrichplot",
     "MOFA2"
@@ -2169,7 +2164,6 @@
   "SplineDV": [
     "scuttle"
   ],
-  "SpotClean": [],
   "SpotSweeper": [
     "escheR"
   ],
@@ -2351,7 +2345,6 @@
     "annotate"
   ],
   "VanillaICE": [
-    "crlmm",
     "BSgenome",
     "rtracklayer",
     "GenomicAlignments"
@@ -2387,7 +2380,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "VisiumIO": [],
   "Voyager": [
     "SpatialFeatureExperiment",
     "DropletUtils",
@@ -2402,9 +2394,7 @@
     "GeneMeta",
     "annotate"
   ],
-  "XeniumIO": [
-    "VisiumIO"
-  ],
+  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx",
     "CoreGx",
@@ -2445,7 +2435,6 @@
   "affycoretools": [
     "GOstats",
     "ReportingTools",
-    "Glimma",
     "Category",
     "annotate",
     "GSEABase",
@@ -2979,7 +2968,6 @@
   "corral": [
     "MultiAssayExperiment"
   ],
-  "coseq": [],
   "cosmiq": [
     "xcms",
     "MSnbase",
@@ -3072,7 +3060,6 @@
     "biovizBase",
     "GenomicAlignments"
   ],
-  "crlmm": [],
   "crumblr": [],
   "cummeRbund": [
     "rtracklayer",
@@ -3636,7 +3623,6 @@
   "hipathia": [
     "MultiAssayExperiment"
   ],
-  "hoodscanR": [],
   "hpar": [],
   "iCNV": [
     "CODEX",
@@ -4741,7 +4727,6 @@
   "scater": [
     "scuttle"
   ],
-  "scds": [],
   "schex": [],
   "scider": [],
   "scifer": [],
