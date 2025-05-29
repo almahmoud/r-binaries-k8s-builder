@@ -2185,3 +2185,5 @@ CAGEfightR
 consensusDE
 Damsel
 ReportingTools
+scTreeViz
+spatzie
