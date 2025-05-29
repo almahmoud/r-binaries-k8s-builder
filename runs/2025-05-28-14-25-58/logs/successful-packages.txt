@@ -1322,3 +1322,7 @@ scater
 scDiagnostics
 SeqGate
 sesame
+MBQN
+scran
+splatter
+tomoda
