@@ -18,13 +18,11 @@
     "DMRcate",
     "wateRmelon",
     "missMethyl",
-    "methylumi",
     "lumi"
   ],
   "DEScan2": [],
   "DMRcate": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "Damsel": [],
   "DeMixT": [],
@@ -43,25 +41,19 @@
     "GenomicInteractions"
   ],
   "MAGAR": [
-    "RnBeads",
-    "methylumi"
+    "RnBeads"
   ],
   "MEAL": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
   "MEAT": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "MineICA": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
-  "MinimumDistance": [
-    "VanillaICE"
-  ],
+  "MinimumDistance": [],
   "NADfinder": [
     "ATACseqQC"
   ],
@@ -78,16 +70,13 @@
   "Repitools": [],
   "ReportingTools": [],
   "RiboProfiling": [],
-  "RnBeads": [
-    "methylumi"
-  ],
+  "RnBeads": [],
   "SMITE": [],
   "SOMNiBUS": [
     "annotatr"
   ],
   "SomaticSignatures": [],
   "Ularcirc": [],
-  "VanillaICE": [],
   "YAPSA": [
     "SomaticSignatures"
   ],
@@ -96,13 +85,11 @@
   ],
   "annotatr": [],
   "arrayMvout": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "arrayQualityMetrics": [],
   "bigmelon": [
     "wateRmelon",
-    "methylumi",
     "lumi"
   ],
   "biscuiteer": [
@@ -142,35 +129,26 @@
     "epivizr"
   ],
   "ffpe": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iCheck": [
-    "lumi",
-    "methylumi"
+    "lumi"
   ],
   "iNETgrate": [],
   "intansv": [],
-  "lumi": [
-    "methylumi"
-  ],
+  "lumi": [],
   "metaseqR2": [],
   "methodical": [
     "annotatr"
   ],
   "methylGSA": [
-    "missMethyl",
-    "methylumi"
+    "missMethyl"
   ],
-  "methylumi": [],
-  "missMethyl": [
-    "methylumi"
-  ],
+  "missMethyl": [],
   "msgbsR": [],
   "musicatk": [],
   "pathMED": [],
   "proBAMr": [],
-  "rgsepd": [],
   "scTreeViz": [
     "epivizr"
   ],
@@ -180,9 +158,7 @@
   ],
   "scruff": [],
   "shinyepico": [],
-  "signifinder": [],
   "skewr": [
-    "methylumi",
     "wateRmelon",
     "lumi"
   ],
@@ -198,7 +174,6 @@
   "vmrseq": [],
   "vulcan": [],
   "wateRmelon": [
-    "methylumi",
     "lumi"
   ],
   "yarn": []

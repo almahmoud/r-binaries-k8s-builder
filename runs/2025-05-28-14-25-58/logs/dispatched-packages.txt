@@ -2187,3 +2187,7 @@ GUIDEseq
 REDseq
 vulcan
 yarn
+MinimumDistance
+RnBeads
+lumi
+missMethyl

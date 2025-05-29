@@ -2122,3 +2122,7 @@ iCNV
 MethylAid
 methylCC
 mitoClone2
+methylumi
+rgsepd
+signifinder
+VanillaICE
