@@ -1823,3 +1823,10 @@ metaMS
 PECA
 GNOSIS
 GSVA
+cbaf
+IdeoViz
+mist
+MotifDb
+nearBynding
+PROMISE
+RcisTarget
