@@ -1445,7 +1445,6 @@
     "MultiAssayExperiment"
   ],
   "LipidTrend": [],
-  "LiquidAssociation": [],
   "LoomExperiment": [
     "SingleCellExperiment"
   ],
@@ -1480,7 +1479,6 @@
     "PSMatch",
     "MultiAssayExperiment"
   ],
-  "MBASED": [],
   "MBECS": [
     "sva",
     "genefilter",
@@ -1577,7 +1575,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MODA": [],
   "MOFA2": [],
   "MOMA": [
     "MultiAssayExperiment"
@@ -2274,7 +2271,6 @@
     "DESeq2",
     "GOSemSim"
   ],
-  "RepViz": [],
   "Repitools": [
     "GenomicAlignments",
     "rtracklayer",
@@ -2371,7 +2367,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "SAIGEgds": [],
   "SARC": [
     "RaggedExperiment",
     "plyranges",
@@ -2433,7 +2428,6 @@
     "rtracklayer"
   ],
   "SIAMCAT": [],
-  "SICtools": [],
   "SIM": [
     "globaltest",
     "annotate"
@@ -2493,7 +2487,6 @@
     "SingleCellExperiment",
     "SpatialExperiment"
   ],
-  "SWATH2stats": [],
   "Scale4C": [],
   "SemDist": [
     "annotate"
@@ -2523,7 +2516,6 @@
     "GenomicFeatures"
   ],
   "SimBu": [],
-  "SimFFPE": [],
   "SingleCellAlleleExperiment": [
     "SingleCellExperiment"
   ],
@@ -2975,7 +2967,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.matrix",
     "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
@@ -2993,18 +2984,13 @@
   "alabaster.files": [],
   "alabaster.mae": [
     "MultiAssayExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
-  "alabaster.matrix": [],
   "alabaster.sce": [
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
-  "alabaster.se": [
-    "alabaster.matrix"
-  ],
+  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
@@ -3013,20 +2999,17 @@
     "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
-    "alabaster.matrix",
     "scuttle"
   ],
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
     "SingleCellExperiment",
-    "alabaster.se",
-    "alabaster.matrix"
+    "alabaster.se"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
     "alabaster.se",
-    "alabaster.matrix",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -3079,7 +3062,6 @@
     "GenomicAlignments"
   ],
   "arrayQualityMetrics": [
-    "beadarray",
     "genefilter",
     "annotate"
   ],
@@ -3143,7 +3125,6 @@
   "bayNorm": [
     "SingleCellExperiment"
   ],
-  "beadarray": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3226,9 +3207,7 @@
     "genefilter",
     "annotate"
   ],
-  "blima": [
-    "beadarray"
-  ],
+  "blima": [],
   "bnbc": [
     "sva",
     "genefilter",
@@ -3929,9 +3908,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [
-    "beadarray"
-  ],
+  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -3958,7 +3935,6 @@
     "BSgenome",
     "TFBSTools",
     "MultiAssayExperiment",
-    "alabaster.matrix",
     "rtracklayer",
     "annotate",
     "GenomicAlignments"
@@ -4058,9 +4034,7 @@
     "enrichplot",
     "GOSemSim"
   ],
-  "fastLiquidAssociation": [
-    "LiquidAssociation"
-  ],
+  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -5987,7 +5961,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "surfaltr": [],
   "survClust": [
     "MultiAssayExperiment"
   ],

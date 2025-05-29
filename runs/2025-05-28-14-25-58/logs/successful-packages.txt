@@ -1062,3 +1062,14 @@ oposSOM
 rfPred
 safe
 structToolbox
+alabaster.matrix
+beadarray
+LiquidAssociation
+MBASED
+MODA
+RepViz
+SAIGEgds
+SICtools
+SimFFPE
+surfaltr
+SWATH2stats
