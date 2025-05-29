@@ -29,7 +29,6 @@
   "Damsel": [],
   "DeMixT": [],
   "DegNorm": [],
-  "ENmix": [],
   "EpiCompare": [],
   "FLAMES": [],
   "FRASER": [],
@@ -166,7 +165,6 @@
     "missMethyl",
     "methylumi"
   ],
-  "methylclock": [],
   "methylumi": [],
   "missMethyl": [
     "methylumi"
