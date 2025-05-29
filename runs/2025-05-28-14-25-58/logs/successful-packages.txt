@@ -2069,3 +2069,8 @@ QuasR
 OMICsPCA
 Rhisat2
 SigCheck
+atSNP
+mCSEA
+UMI4Cats
+vtpnet
+zenith

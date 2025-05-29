@@ -119,7 +119,6 @@
   "SPLINTER": [],
   "SingleMoleculeFootprinting": [],
   "SomaticSignatures": [],
-  "UMI4Cats": [],
   "Ularcirc": [],
   "VanillaICE": [],
   "YAPSA": [
@@ -136,7 +135,6 @@
     "minfi"
   ],
   "arrayQualityMetrics": [],
-  "atSNP": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -183,9 +181,7 @@
   "dmrseq": [
     "annotatr"
   ],
-  "dreamlet": [
-    "zenith"
-  ],
+  "dreamlet": [],
   "drugTargetInteractions": [],
   "enhancerHomologSearch": [],
   "epimutacions": [
@@ -227,7 +223,6 @@
     "methylumi",
     "minfi"
   ],
-  "mCSEA": [],
   "maser": [],
   "metaseqR2": [],
   "methodical": [
@@ -310,7 +305,6 @@
   "transmogR": [],
   "velociraptor": [],
   "vmrseq": [],
-  "vtpnet": [],
   "vulcan": [
     "ChIPpeakAnno"
   ],
@@ -322,6 +316,5 @@
   "yarn": [
     "quantro",
     "minfi"
-  ],
-  "zenith": []
+  ]
 }
