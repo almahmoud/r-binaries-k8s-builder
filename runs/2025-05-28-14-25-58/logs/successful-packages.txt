@@ -1723,3 +1723,10 @@ geneAttribution
 SARC
 TCGAutils
 VariantAnnotation
+bambu
+cpvSNP
+ensembldb
+magpie
+Moonlight2R
+plyinteractions
+qpgraph

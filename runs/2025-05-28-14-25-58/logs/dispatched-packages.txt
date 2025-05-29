@@ -1920,3 +1920,12 @@ tLOH
 terraTCGAdata
 transmogR
 vmrseq
+BUSpaRse
+MOSClip
+RAIDS
+biovizBase
+chevreulProcess
+clipper
+demuxSNP
+drugTargetInteractions
+epivizrData
