@@ -165,7 +165,6 @@
   ],
   "MultiBaC": [],
   "MungeSumstats": [],
-  "MutationalPatterns": [],
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
@@ -200,9 +199,7 @@
   "REMP": [
     "minfi"
   ],
-  "RESOLVE": [
-    "MutationalPatterns"
-  ],
+  "RESOLVE": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -330,10 +327,7 @@
   "cghMCR": [
     "CNTools"
   ],
-  "chevreulPlot": [],
-  "chevreulShiny": [
-    "chevreulPlot"
-  ],
+  "chevreulShiny": [],
   "chimeraviz": [],
   "chromVAR": [
     "TFBSTools"

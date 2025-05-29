@@ -1930,3 +1930,5 @@ PRONE
 DominoEffect
 TBSignatureProfiler
 XDE
+chevreulPlot
+MutationalPatterns

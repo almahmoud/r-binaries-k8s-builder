@@ -2085,3 +2085,5 @@ VaSP
 TBSignatureProfiler
 CleanUpRNAseq
 iCNV
+RESOLVE
+chevreulShiny
