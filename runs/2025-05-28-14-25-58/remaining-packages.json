@@ -2144,7 +2144,6 @@
     "genefilter",
     "annotate"
   ],
-  "adSplit": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
@@ -3622,7 +3621,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "msImpute": [],
   "msgbsR": [
     "BSgenome",
     "easyRNASeq",
