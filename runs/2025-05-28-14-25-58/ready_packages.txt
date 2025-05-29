@@ -1,2 +1,3 @@
-methInheritSim
-methylInheritance
+GNOSIS
+bioCancer
+cbaf

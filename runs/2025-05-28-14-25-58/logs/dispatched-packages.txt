@@ -1980,3 +1980,6 @@ SigCheck
 pRoloc
 methInheritSim
 methylInheritance
+GNOSIS
+bioCancer
+cbaf

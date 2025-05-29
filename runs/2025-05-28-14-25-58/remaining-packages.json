@@ -175,7 +175,6 @@
   "FRASER": [
     "OUTRIDER"
   ],
-  "FindIT2": [],
   "G4SNVHunter": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
@@ -188,9 +187,7 @@
   "GEOexplorer": [
     "sva"
   ],
-  "GNOSIS": [
-    "cBioPortalData"
-  ],
+  "GNOSIS": [],
   "GOTHiC": [],
   "GOstats": [
     "Category"
@@ -463,7 +460,6 @@
   "TFutils": [
     "GenomicFiles"
   ],
-  "TMSig": [],
   "TOP": [],
   "TVTB": [
     "Gviz"
@@ -501,7 +497,6 @@
     "Category",
     "ggbio"
   ],
-  "alabaster": [],
   "annmap": [],
   "annotatr": [
     "regioneR"
@@ -533,9 +528,7 @@
     "methylumi",
     "lumi"
   ],
-  "bioCancer": [
-    "cBioPortalData"
-  ],
+  "bioCancer": [],
   "biomvRCNS": [
     "Gviz"
   ],
@@ -563,14 +556,12 @@
   ],
   "broadSeq": [],
   "bsseq": [],
-  "cBioPortalData": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
     "sva"
   ],
   "canceR": [
-    "cBioPortalData",
     "phenoTest",
     "Category"
   ],
@@ -578,9 +569,7 @@
     "Category",
     "GOstats"
   ],
-  "cbaf": [
-    "cBioPortalData"
-  ],
+  "cbaf": [],
   "cghMCR": [
     "CNTools"
   ],

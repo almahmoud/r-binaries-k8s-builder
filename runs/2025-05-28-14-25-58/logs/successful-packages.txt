@@ -1802,3 +1802,7 @@ methylKit
 podkat
 spiky
 tidyCoverage
+alabaster
+cBioPortalData
+FindIT2
+TMSig
