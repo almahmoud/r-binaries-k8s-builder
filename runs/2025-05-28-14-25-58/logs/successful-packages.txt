@@ -1845,3 +1845,5 @@ PanomiR
 r3Cseq
 scTGIF
 singscore
+bioCancer
+GlobalAncova
