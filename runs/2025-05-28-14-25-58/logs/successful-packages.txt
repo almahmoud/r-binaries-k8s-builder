@@ -1084,3 +1084,16 @@ BreastSubtypeR
 BUMHMM
 GOSemSim
 isobar
+alabaster.se
+BANDITS
+BiocSklearn
+BioNAR
+BioNet
+CAEN
+CPSM
+Dune
+EGAD
+epigenomix
+fastLiquidAssociation
+GOfuncR
+SPONGE

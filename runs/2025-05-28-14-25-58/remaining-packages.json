@@ -124,7 +124,6 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "BANDITS": [],
   "BASiCS": [
     "SingleCellExperiment",
     "scran",
@@ -251,13 +250,11 @@
     "GSEABase",
     "annotate"
   ],
-  "BioNAR": [],
   "BioNERO": [
     "sva",
     "genefilter",
     "annotate"
   ],
-  "BioNet": [],
   "BioTIP": [
     "scran",
     "SingleCellExperiment",
@@ -265,7 +262,6 @@
   ],
   "BiocHubsShiny": [],
   "BiocSet": [],
-  "BiocSklearn": [],
   "BloodGen3Module": [],
   "BubbleTree": [
     "biovizBase",
@@ -280,7 +276,6 @@
     "SpatialExperiment",
     "SingleCellExperiment"
   ],
-  "CAEN": [],
   "CAFE": [
     "biovizBase",
     "ggbio",
@@ -397,7 +392,6 @@
   "COTAN": [
     "SingleCellExperiment"
   ],
-  "CPSM": [],
   "CRISPRball": [
     "dittoSeq",
     "PCAtools",
@@ -836,7 +830,6 @@
     "ShortRead"
   ],
   "DifferentialRegulation": [
-    "BANDITS",
     "SingleCellExperiment"
   ],
   "Dino": [
@@ -856,7 +849,6 @@
     "SingleCellExperiment",
     "scuttle"
   ],
-  "Dune": [],
   "DuplexDiscovereR": [
     "InteractionSet",
     "Gviz",
@@ -880,7 +872,6 @@
   "EDIRquery": [
     "InteractionSet"
   ],
-  "EGAD": [],
   "ELMER": [
     "GenomicFeatures",
     "TCGAbiolinks",
@@ -1089,7 +1080,6 @@
     "GenomicAlignments"
   ],
   "GOexpress": [],
-  "GOfuncR": [],
   "GOpro": [
     "MultiAssayExperiment"
   ],
@@ -2381,7 +2371,6 @@
     "annotate"
   ],
   "SMITE": [
-    "BioNet",
     "goseq",
     "rtracklayer",
     "GenomicFeatures",
@@ -2420,7 +2409,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPONGE": [],
   "SPOTlight": [
     "SingleCellExperiment"
   ],
@@ -2913,7 +2901,6 @@
     "scuttle"
   ],
   "alabaster": [
-    "alabaster.se",
     "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
@@ -2929,20 +2916,16 @@
   ],
   "alabaster.files": [],
   "alabaster.mae": [
-    "MultiAssayExperiment",
-    "alabaster.se"
+    "MultiAssayExperiment"
   ],
   "alabaster.sce": [
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
-  "alabaster.se": [],
   "alabaster.sfe": [
     "SpatialFeatureExperiment",
     "alabaster.sce",
     "alabaster.spatial",
     "SingleCellExperiment",
-    "alabaster.se",
     "SpatialExperiment",
     "DropletUtils",
     "scuttle"
@@ -2950,12 +2933,10 @@
   "alabaster.spatial": [
     "SpatialExperiment",
     "alabaster.sce",
-    "SingleCellExperiment",
-    "alabaster.se"
+    "SingleCellExperiment"
   ],
   "alabaster.vcf": [
     "VariantAnnotation",
-    "alabaster.se",
     "rtracklayer",
     "BSgenome",
     "GenomicFeatures",
@@ -3844,7 +3825,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "epigenomix": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -3966,7 +3946,6 @@
     "DOSE",
     "enrichplot"
   ],
-  "fastLiquidAssociation": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -4071,9 +4050,7 @@
     "GenomicAlignments"
   ],
   "gage": [],
-  "gatom": [
-    "BioNet"
-  ],
+  "gatom": [],
   "gcapc": [
     "BSgenome",
     "GenomicAlignments",
@@ -4646,7 +4623,6 @@
     "annotate"
   ],
   "miRspongeR": [
-    "SPONGE",
     "clusterProfiler",
     "ReactomePA",
     "DOSE",
