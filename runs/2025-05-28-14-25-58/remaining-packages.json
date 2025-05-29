@@ -7,12 +7,9 @@
   "BOBaFIT": [],
   "BulkSignalR": [],
   "CAFE": [],
-  "CAGEfightR": [
-    "GenomicInteractions"
-  ],
+  "CAGEfightR": [],
   "CAGEr": [
-    "CAGEfightR",
-    "GenomicInteractions"
+    "CAGEfightR"
   ],
   "ChAMP": [
     "DMRcate",
@@ -25,16 +22,12 @@
     "missMethyl"
   ],
   "Damsel": [],
-  "DeMixT": [],
   "EpiCompare": [],
   "FLAMES": [],
   "GUIDEseq": [],
-  "GenomicInteractions": [],
   "GenomicOZone": [],
   "GenomicPlot": [],
-  "HiCDCPlus": [
-    "GenomicInteractions"
-  ],
+  "HiCDCPlus": [],
   "MAGAR": [
     "RnBeads"
   ],
@@ -106,7 +99,6 @@
   "derfinderPlot": [],
   "dmrseq": [],
   "epivizr": [],
-  "epivizrChart": [],
   "epivizrStandalone": [
     "epivizr"
   ],
@@ -139,11 +131,8 @@
     "lumi"
   ],
   "sparrow": [],
-  "spatzie": [
-    "GenomicInteractions"
-  ],
+  "spatzie": [],
   "velociraptor": [],
-  "vmrseq": [],
   "vulcan": [],
   "wateRmelon": [
     "lumi"

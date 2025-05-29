@@ -2196,3 +2196,6 @@ SOMNiBUS
 dmrseq
 methodical
 scmeth
+CAGEfightR
+HiCDCPlus
+spatzie
