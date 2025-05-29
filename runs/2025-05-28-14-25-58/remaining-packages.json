@@ -276,9 +276,7 @@
     "genefilter",
     "annotate"
   ],
-  "CNVRanger": [
-    "RaggedExperiment"
-  ],
+  "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
     "rtracklayer",
@@ -464,8 +462,6 @@
   "CrispRVariants": [
     "GenomicAlignments"
   ],
-  "CytoMDS": [],
-  "CytoPipelineGUI": [],
   "DAMEfinder": [
     "GenomicAlignments",
     "VariantAnnotation",
@@ -770,7 +766,6 @@
   ],
   "GNOSIS": [
     "cBioPortalData",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -1576,7 +1571,6 @@
     "GenomicAlignments"
   ],
   "RTCGAToolbox": [
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "rtracklayer",
@@ -1590,7 +1584,6 @@
     "GenomicAlignments"
   ],
   "RadioGx": [],
-  "RaggedExperiment": [],
   "RareVariantVis": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -1706,7 +1699,6 @@
     "BSgenome"
   ],
   "SARC": [
-    "RaggedExperiment",
     "plyranges",
     "GenomicFeatures",
     "rtracklayer",
@@ -1877,14 +1869,12 @@
   "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer",
     "GenomicAlignments"
   ],
   "TCseq": [
     "GenomicAlignments"
   ],
-  "TDbasedUFEadv": [],
   "TEKRABber": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2047,7 +2037,6 @@
     "GeneMeta",
     "annotate"
   ],
-  "XeniumIO": [],
   "Xeva": [
     "PharmacoGx"
   ],
@@ -2207,7 +2196,6 @@
     "ShortRead",
     "GenomicAlignments"
   ],
-  "bayNorm": [],
   "bedbaser": [
     "rtracklayer",
     "GenomicAlignments"
@@ -2228,7 +2216,6 @@
     "cBioPortalData",
     "clusterProfiler",
     "ReactomePA",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2321,7 +2308,6 @@
     "GenomicAlignments"
   ],
   "cBioPortalData": [
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures",
@@ -2347,7 +2333,6 @@
     "cBioPortalData",
     "GSEABase",
     "phenoTest",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -2379,7 +2364,6 @@
   "cbaf": [
     "cBioPortalData",
     "genefilter",
-    "RaggedExperiment",
     "RTCGAToolbox",
     "TCGAutils",
     "annotate",
@@ -2688,7 +2672,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "decontX": [],
   "deconvR": [
     "methylKit",
     "minfi",
@@ -3030,7 +3013,6 @@
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
-    "RaggedExperiment",
     "rtracklayer",
     "GenomicAlignments"
   ],
@@ -3202,7 +3184,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "knowYourCG": [],
   "lemur": [],
   "limpca": [],
   "lineagespot": [
@@ -3588,9 +3569,7 @@
     "genefilter",
     "annotate"
   ],
-  "omicsPrint": [
-    "RaggedExperiment"
-  ],
+  "omicsPrint": [],
   "oppar": [
     "GSEABase",
     "GSVA",
@@ -4273,7 +4252,6 @@
     "GenomicAlignments"
   ],
   "terraTCGAdata": [
-    "RaggedExperiment",
     "TCGAutils",
     "GenomicFeatures",
     "rtracklayer",

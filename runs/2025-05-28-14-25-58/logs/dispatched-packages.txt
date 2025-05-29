@@ -1555,3 +1555,5 @@ meshes
 BASiCStan
 lemur
 transformGamPoi
+CNVRanger
+omicsPrint
