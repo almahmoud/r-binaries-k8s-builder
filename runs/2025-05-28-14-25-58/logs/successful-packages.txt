@@ -1413,3 +1413,4 @@ enrichplot
 msqrob2
 projectR
 scp
+miaViz
