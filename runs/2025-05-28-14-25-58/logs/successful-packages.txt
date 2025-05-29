@@ -2018,3 +2018,10 @@ rnaEditr
 srnadiff
 methylPipe
 RNAmodR
+APAlyzer
+CCAFE
+chimeraviz
+ChIPQC
+CNTools
+shinyDSP
+TFHAZ

@@ -1,6 +1,5 @@
 {
   "AGDEX": [],
-  "APAlyzer": [],
   "ATACseqQC": [
     "ChIPpeakAnno"
   ],
@@ -24,8 +23,6 @@
     "CAGEfightR",
     "GenomicInteractions"
   ],
-  "CCAFE": [],
-  "CNTools": [],
   "ChAMP": [
     "minfi",
     "DMRcate",
@@ -34,7 +31,6 @@
     "methylumi",
     "lumi"
   ],
-  "ChIPQC": [],
   "ChIPpeakAnno": [],
   "CircSeqAlignTk": [
     "Rhisat2"
@@ -164,7 +160,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TFHAZ": [],
   "TVTB": [],
   "UMI4Cats": [],
   "Ularcirc": [],
@@ -206,10 +201,7 @@
     "ggbio"
   ],
   "canceR": [],
-  "cghMCR": [
-    "CNTools"
-  ],
-  "chimeraviz": [],
+  "cghMCR": [],
   "cicero": [],
   "circRNAprofiler": [
     "gwascat"
@@ -375,7 +367,6 @@
   "scruff": [
     "ggbio"
   ],
-  "shinyDSP": [],
   "shinyMethyl": [
     "minfi"
   ],
