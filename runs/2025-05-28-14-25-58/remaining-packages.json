@@ -544,7 +544,6 @@
     "rtracklayer",
     "OrganismDbi"
   ],
-  "FEAST": [],
   "FLAMES": [
     "bambu",
     "GenomicFeatures",
@@ -815,7 +814,6 @@
     "txdbmaker",
     "ensembldb"
   ],
-  "KEGGlincs": [],
   "KnowSeq": [
     "sva",
     "genefilter"
@@ -876,7 +874,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MIRit": [],
   "MLInterfaces": [
     "genefilter"
   ],
@@ -1169,7 +1166,6 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RFLOMICS": [],
   "RJMCMCNucleosomes": [
     "consensusSeekeR",
     "rtracklayer"
@@ -1948,7 +1944,6 @@
   "cliqueMS": [
     "xcms"
   ],
-  "clustSIGNAL": [],
   "clusterExperiment": [
     "zinbwave",
     "mbkmeans",
@@ -2093,7 +2088,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "dandelionR": [],
   "debrowser": [
     "sva",
     "genefilter"
@@ -2285,7 +2279,6 @@
     "rtracklayer",
     "wiggleplotr"
   ],
-  "famat": [],
   "fcScan": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2822,7 +2815,6 @@
     "singscore",
     "GSEABase"
   ],
-  "pathlinkR": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer"

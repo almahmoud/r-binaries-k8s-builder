@@ -1553,3 +1553,11 @@ ReducedExperiment
 condiments
 missRows
 Trendy
+clustSIGNAL
+dandelionR
+famat
+FEAST
+KEGGlincs
+MIRit
+pathlinkR
+RFLOMICS
