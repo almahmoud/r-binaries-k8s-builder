@@ -200,7 +200,6 @@
     "genefilter",
     "annotate"
   ],
-  "BiocHubsShiny": [],
   "BiocSet": [],
   "BubbleTree": [
     "biovizBase",
@@ -1141,7 +1140,6 @@
     "clusterProfiler"
   ],
   "MetaboSignal": [
-    "hpar",
     "mygene",
     "ensembldb",
     "GenomicFeatures",
@@ -1307,7 +1305,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "OVESEG": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2061,7 +2058,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "affylmGUI": [],
   "airpart": [],
   "alabaster": [
     "alabaster.sce",
@@ -3039,7 +3035,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "hpar": [],
   "iCNV": [
     "CODEX",
     "BSgenome",
@@ -3163,7 +3158,6 @@
   ],
   "lisaClust": [
     "spicyR",
-    "simpleSeg",
     "ClassifyR",
     "genefilter",
     "annotate"
@@ -3564,7 +3558,6 @@
   "pathlinkR": [
     "clusterProfiler"
   ],
-  "pdInfoBuilder": [],
   "peakPantheR": [],
   "peco": [],
   "periodicDNA": [
@@ -3871,7 +3864,6 @@
     "annotate"
   ],
   "scDDboost": [],
-  "scDataviz": [],
   "scDblFinder": [
     "rtracklayer",
     "GenomicAlignments"
@@ -4045,7 +4037,6 @@
     "annotate",
     "GenomicAlignments"
   ],
-  "simpleSeg": [],
   "singscore": [
     "GSEABase",
     "annotate"
@@ -4102,7 +4093,6 @@
   ],
   "spicyR": [
     "ClassifyR",
-    "simpleSeg",
     "genefilter",
     "annotate"
   ],

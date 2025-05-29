@@ -1445,3 +1445,10 @@ MSnbase
 ReactomePA
 scGPS
 UniProt.ws
+affylmGUI
+BiocHubsShiny
+hpar
+OVESEG
+pdInfoBuilder
+scDataviz
+simpleSeg
