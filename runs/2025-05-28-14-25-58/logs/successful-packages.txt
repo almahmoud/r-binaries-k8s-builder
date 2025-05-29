@@ -1414,3 +1414,9 @@ msqrob2
 projectR
 scp
 miaViz
+lefser
+MGnifyR
+mitology
+MsDataHub
+phantasus
+scReClassify

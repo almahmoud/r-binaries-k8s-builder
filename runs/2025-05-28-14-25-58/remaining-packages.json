@@ -1105,7 +1105,6 @@
   "MGFR": [
     "annotate"
   ],
-  "MGnifyR": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1243,7 +1242,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MsDataHub": [],
   "MsQuality": [],
   "MultiBaC": [
     "ropls",
@@ -3215,7 +3213,6 @@
     "GenomicAlignments"
   ],
   "knowYourCG": [],
-  "lefser": [],
   "lemur": [
     "glmGamPoi"
   ],
@@ -3467,7 +3464,6 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "mitology": [],
   "mobileRNA": [
     "rtracklayer",
     "GenomicAlignments"
@@ -3659,7 +3655,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "phantasus": [],
   "phenoTest": [
     "annotate",
     "Category",
@@ -3997,7 +3992,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "scReClassify": [],
   "scTGIF": [
     "GSEABase",
     "annotate"
