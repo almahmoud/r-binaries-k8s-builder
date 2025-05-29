@@ -1,19 +1,15 @@
 {
-  "ADaCGH2": [
-    "tilingArray"
-  ],
+  "ADaCGH2": [],
   "AGDEX": [],
   "APAlyzer": [],
   "ASICS": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
     "motifStack",
-    "regioneR",
-    "TFBSTools"
+    "regioneR"
   ],
   "ATACseqTFEA": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "AgiMicroRna": [
     "affycoretools",
@@ -136,13 +132,9 @@
     "lumi"
   ],
   "MIRA": [],
-  "MatrixRider": [
-    "TFBSTools"
-  ],
+  "MatrixRider": [],
   "MetaboSignal": [],
-  "MethReg": [
-    "TFBSTools"
-  ],
+  "MethReg": [],
   "MethylAid": [
     "minfi"
   ],
@@ -161,8 +153,7 @@
     "ATACseqQC",
     "ChIPpeakAnno",
     "motifStack",
-    "regioneR",
-    "TFBSTools"
+    "regioneR"
   ],
   "NanoMethViz": [],
   "NormqPCR": [],
@@ -174,7 +165,6 @@
   "OUTRIDER": [],
   "PhenStat": [],
   "ProteoDisco": [],
-  "PureCN": [],
   "Pviz": [],
   "QuasR": [],
   "R3CPET": [
@@ -238,7 +228,6 @@
   "SomaticSignatures": [
     "ggbio"
   ],
-  "TFBSTools": [],
   "TFHAZ": [
     "ORFik"
   ],
@@ -277,8 +266,7 @@
   ],
   "arrayQualityMetrics": [],
   "atSNP": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "bigmelon": [
     "wateRmelon",
@@ -309,9 +297,7 @@
   ],
   "chevreulShiny": [],
   "chimeraviz": [],
-  "chromVAR": [
-    "TFBSTools"
-  ],
+  "chromVAR": [],
   "cicero": [],
   "circRNAprofiler": [
     "gwascat"
@@ -348,8 +334,7 @@
   "cummeRbund": [],
   "customProDB": [],
   "dagLogo": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "deconvR": [
     "minfi"
@@ -372,15 +357,13 @@
   "drugTargetInteractions": [],
   "edge": [],
   "enhancerHomologSearch": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "epimutacions": [
     "minfi"
   ],
   "epiregulon": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "epivizr": [
     "epivizrData"
@@ -394,7 +377,6 @@
     "epivizrData"
   ],
   "esATAC": [
-    "TFBSTools",
     "motifmatchr"
   ],
   "fCCAC": [],
@@ -441,7 +423,6 @@
   ],
   "m6Aboost": [],
   "mCSEA": [],
-  "mariner": [],
   "maser": [],
   "mastR": [],
   "meshr": [],
@@ -479,19 +460,12 @@
     "minfi"
   ],
   "mitoClone2": [],
-  "monaLisa": [
-    "TFBSTools"
-  ],
-  "motifStack": [
-    "TFBSTools"
-  ],
+  "monaLisa": [],
+  "motifStack": [],
   "motifbreakR": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
-  "motifmatchr": [
-    "TFBSTools"
-  ],
+  "motifmatchr": [],
   "msgbsR": [
     "ggbio"
   ],
@@ -504,16 +478,13 @@
   "octad": [],
   "omicRexposome": [],
   "pageRank": [
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
   "phenomis": [],
-  "primirTSS": [
-    "TFBSTools"
-  ],
+  "primirTSS": [],
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
@@ -542,8 +513,7 @@
   "regutools": [],
   "rgsepd": [],
   "ribosomeProfilingQC": [
-    "motifStack",
-    "TFBSTools"
+    "motifStack"
   ],
   "rnaEditr": [],
   "rqt": [],
@@ -568,7 +538,6 @@
   ],
   "selectKSigs": [],
   "seqCAT": [],
-  "seqsetvis": [],
   "shinyDSP": [
     "standR"
   ],
@@ -592,8 +561,7 @@
   "sparrow": [],
   "spatzie": [
     "GenomicInteractions",
-    "motifmatchr",
-    "TFBSTools"
+    "motifmatchr"
   ],
   "spicyR": [],
   "srnadiff": [],
@@ -602,7 +570,6 @@
   "tadar": [],
   "terraTCGAdata": [],
   "tidyomics": [],
-  "tilingArray": [],
   "trackViewer": [],
   "transmogR": [],
   "uncoverappLib": [],

@@ -1,7 +1,8 @@
-IntEREst
-MetaboSignal
-QuasR
-Rqc
-TFutils
-VCFArray
-derfinder
+ADaCGH2
+MatrixRider
+MethReg
+chromVAR
+monaLisa
+motifStack
+motifmatchr
+primirTSS
