@@ -1478,3 +1478,10 @@ frma
 iSEE
 scMET
 ssviz
+annotate
+cydar
+debCAM
+diffcyt
+limpca
+peco
+PhosR
