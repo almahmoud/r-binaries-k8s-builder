@@ -2016,3 +2016,5 @@ phenoTest
 regutools
 rnaEditr
 srnadiff
+methylPipe
+RNAmodR

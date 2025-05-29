@@ -2139,3 +2139,6 @@ RnaSeqSampleSize
 TFHAZ
 psichomics
 canceR
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq

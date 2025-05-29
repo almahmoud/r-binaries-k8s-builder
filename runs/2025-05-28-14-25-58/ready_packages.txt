@@ -1,1 +1,3 @@
-canceR
+RNAmodR.AlkAnilineSeq
+RNAmodR.ML
+RNAmodR.RiboMethSeq
