@@ -114,7 +114,6 @@
   "Basic4Cseq": [
     "BSgenome"
   ],
-  "BasicSTARRseq": [],
   "BatchQC": [
     "sva"
   ],
@@ -1123,7 +1122,6 @@
   "SparseSignatures": [
     "BSgenome"
   ],
-  "SpatialCPie": [],
   "SpliceWiz": [
     "BSgenome"
   ],
@@ -1157,7 +1155,6 @@
   "TENET": [
     "BSgenome"
   ],
-  "TFARM": [],
   "TFBSTools": [
     "BSgenome"
   ],
@@ -1239,7 +1236,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VariantExperiment": [],
   "VariantFiltering": [
     "VariantAnnotation",
     "GenomicFeatures",
@@ -2220,7 +2216,6 @@
     "BSgenome"
   ],
   "pram": [],
-  "prebs": [],
   "preciseTAD": [
     "rCGH",
     "GenomicFeatures"
@@ -2605,7 +2600,6 @@
   "traseR": [
     "BSgenome"
   ],
-  "treeclimbR": [],
   "treekoR": [],
   "txcutr": [
     "GenomicFeatures",

@@ -1615,3 +1615,9 @@ genefilter
 metagene2
 systemPipeR
 VplotR
+BasicSTARRseq
+prebs
+SpatialCPie
+TFARM
+treeclimbR
+VariantExperiment
