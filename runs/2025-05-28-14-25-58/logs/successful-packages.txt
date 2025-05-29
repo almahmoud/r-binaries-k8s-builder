@@ -1485,3 +1485,12 @@ diffcyt
 limpca
 peco
 PhosR
+BLMA
+clustifyr
+findIPs
+multiGSEA
+omicsPrint
+PharmacoGx
+scDDboost
+scviR
+ToxicoGx

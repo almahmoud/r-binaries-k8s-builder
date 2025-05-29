@@ -100,7 +100,6 @@
     "sva",
     "genefilter"
   ],
-  "BLMA": [],
   "BOBaFIT": [
     "ggbio",
     "plyranges",
@@ -1135,7 +1134,6 @@
     "clusterProfiler",
     "GSEABase"
   ],
-  "PharmacoGx": [],
   "PhenStat": [],
   "PhyloProfile": [],
   "Pigengene": [
@@ -1599,7 +1597,6 @@
   "TissueEnrich": [
     "GSEABase"
   ],
-  "ToxicoGx": [],
   "Trendy": [],
   "UMI4Cats": [
     "ShortRead",
@@ -1677,9 +1674,7 @@
     "genefilter",
     "GeneMeta"
   ],
-  "Xeva": [
-    "PharmacoGx"
-  ],
+  "Xeva": [],
   "YAPSA": [
     "SomaticSignatures",
     "VariantAnnotation",
@@ -2044,7 +2039,6 @@
     "genefilter"
   ],
   "clusterProfiler": [],
-  "clustifyr": [],
   "coMethDMR": [
     "bumphunter",
     "GenomicFeatures",
@@ -2409,7 +2403,6 @@
     "rtracklayer",
     "bumphunter"
   ],
-  "findIPs": [],
   "fishpond": [],
   "flagme": [
     "xcms",
@@ -2429,12 +2422,9 @@
   ],
   "gCrisprTools": [],
   "gDR": [
-    "gDRimport",
-    "PharmacoGx"
+    "gDRimport"
   ],
-  "gDRimport": [
-    "PharmacoGx"
-  ],
+  "gDRimport": [],
   "gINTomics": [
     "GenomicFeatures",
     "clusterProfiler",
@@ -2868,7 +2858,6 @@
   "msmsTests": [
     "msmsEDA"
   ],
-  "multiGSEA": [],
   "muscat": [],
   "musicatk": [
     "VariantAnnotation",
@@ -2927,7 +2916,6 @@
     "MultiDataSet",
     "genefilter"
   ],
-  "omicsPrint": [],
   "oppar": [
     "GSEABase",
     "GSVA"
@@ -3210,7 +3198,6 @@
     "Cepo",
     "GSEABase"
   ],
-  "scDDboost": [],
   "scDblFinder": [
     "rtracklayer"
   ],
@@ -3287,7 +3274,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "scviR": [],
   "segmentSeq": [
     "ShortRead"
   ],
