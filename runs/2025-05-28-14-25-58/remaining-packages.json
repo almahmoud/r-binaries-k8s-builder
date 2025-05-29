@@ -11,7 +11,6 @@
     "ggbio"
   ],
   "BBCAnalyzer": [],
-  "BEAT": [],
   "BOBaFIT": [
     "ggbio"
   ],
@@ -119,7 +118,6 @@
     "ChIPpeakAnno"
   ],
   "NormqPCR": [],
-  "OGRE": [],
   "OMICsPCA": [],
   "PhenStat": [],
   "ProteoDisco": [],
@@ -303,7 +301,6 @@
   "iNETgrate": [
     "minfi"
   ],
-  "iSEEfier": [],
   "igvR": [],
   "intansv": [
     "ggbio"
@@ -366,7 +363,6 @@
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
-  "protGear": [],
   "psichomics": [],
   "quantro": [
     "minfi"

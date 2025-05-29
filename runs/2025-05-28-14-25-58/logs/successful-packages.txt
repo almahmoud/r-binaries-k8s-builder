@@ -2007,3 +2007,7 @@ regionReport
 RiboDiPA
 VaSP
 COCOA
+BEAT
+iSEEfier
+OGRE
+protGear
