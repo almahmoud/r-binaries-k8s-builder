@@ -1608,3 +1608,10 @@ easyRNASeq
 idiogram
 segmentSeq
 SemDist
+biocGraph
+codelink
+easier
+genefilter
+metagene2
+systemPipeR
+VplotR

@@ -1,7 +1,6 @@
 {
   "ADaCGH2": [
-    "tilingArray",
-    "genefilter"
+    "tilingArray"
   ],
   "AGDEX": [
     "GSEABase"
@@ -21,8 +20,7 @@
     "MultiDataSet"
   ],
   "ASSIGN": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "ASpli": [
     "GenomicFeatures",
@@ -57,7 +55,6 @@
     "Category",
     "GSEABase",
     "ggbio",
-    "genefilter",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -86,8 +83,7 @@
     "BSgenome"
   ],
   "BERT": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "BOBaFIT": [
     "ggbio",
@@ -120,8 +116,7 @@
   ],
   "BasicSTARRseq": [],
   "BatchQC": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "BgeeCall": [
     "GenomicFeatures",
@@ -140,8 +135,7 @@
     "GSEABase"
   ],
   "BioNERO": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "BubbleTree": [
     "biovizBase",
@@ -191,9 +185,7 @@
     "PROMISE",
     "GSEABase"
   ],
-  "CNTools": [
-    "genefilter"
-  ],
+  "CNTools": [],
   "CNVrd2": [
     "VariantAnnotation",
     "BSgenome",
@@ -215,8 +207,7 @@
     "GenomicFeatures"
   ],
   "Category": [
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "Cepo": [
     "GSEABase"
@@ -237,7 +228,6 @@
     "GenomicFeatures",
     "bsseq",
     "Gviz",
-    "genefilter",
     "methylumi",
     "lumi",
     "BSgenome",
@@ -252,7 +242,6 @@
   "ChIPQC": [
     "DiffBind",
     "GenomicFeatures",
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -283,16 +272,13 @@
     "SGSeq",
     "GenomicFeatures"
   ],
-  "ClassifyR": [
-    "genefilter"
-  ],
+  "ClassifyR": [],
   "CleanUpRNAseq": [
     "BSgenome",
     "ensembldb",
     "qsmooth",
     "GenomicFeatures",
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "Cogito": [
     "GenomicFeatures"
@@ -311,12 +297,9 @@
     "ensembldb",
     "BSgenome"
   ],
-  "DEXSeq": [
-    "genefilter"
-  ],
+  "DEXSeq": [],
   "DExMA": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "DMCFB": [],
   "DMCHMM": [],
@@ -330,16 +313,13 @@
     "ensembldb",
     "biovizBase",
     "bumphunter",
-    "genefilter",
     "methylumi",
     "VariantAnnotation"
   ],
   "DNAfusion": [
     "GenomicFeatures"
   ],
-  "DNEA": [
-    "genefilter"
-  ],
+  "DNEA": [],
   "DSS": [
     "bsseq",
     "BSgenome"
@@ -347,8 +327,7 @@
   "DaMiRseq": [
     "EDASeq",
     "sva",
-    "GenomicFeatures",
-    "genefilter"
+    "GenomicFeatures"
   ],
   "Damsel": [
     "GenomicFeatures",
@@ -366,7 +345,6 @@
     "DSS",
     "sva",
     "bsseq",
-    "genefilter",
     "BSgenome"
   ],
   "DeconvoBuddies": [],
@@ -380,7 +358,6 @@
     "txdbmaker"
   ],
   "DiffBind": [
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -414,7 +391,6 @@
   ],
   "ENmix": [
     "minfi",
-    "genefilter",
     "bumphunter",
     "GenomicFeatures"
   ],
@@ -485,12 +461,10 @@
     "DaMiRseq",
     "EDASeq",
     "sva",
-    "GenomicFeatures",
-    "genefilter"
+    "GenomicFeatures"
   ],
   "GEOexplorer": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "GNOSIS": [
     "cBioPortalData",
@@ -503,8 +477,7 @@
   ],
   "GOstats": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "GSEABase": [],
   "GSEABenchmarkeR": [
@@ -512,7 +485,6 @@
     "GSEABase"
   ],
   "GSRI": [
-    "genefilter",
     "GSEABase"
   ],
   "GSReg": [
@@ -533,9 +505,7 @@
   "GateFinder": [
     "flowFP"
   ],
-  "GeneMeta": [
-    "genefilter"
-  ],
+  "GeneMeta": [],
   "GeneStructureTools": [
     "Gviz",
     "BSgenome",
@@ -585,8 +555,7 @@
   "GmicR": [
     "Category",
     "GSEABase",
-    "GOstats",
-    "genefilter"
+    "GOstats"
   ],
   "GreyListChIP": [
     "BSgenome"
@@ -602,8 +571,7 @@
     "VariantAnnotation"
   ],
   "HarmonizR": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "HelloRanges": [
     "BSgenome",
@@ -651,7 +619,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "DEXSeq",
-    "genefilter",
     "VariantAnnotation",
     "BSgenome"
   ],
@@ -660,20 +627,17 @@
     "sva",
     "BSgenome",
     "tximeta",
-    "genefilter",
     "GenomicFeatures",
     "txdbmaker",
     "ensembldb"
   ],
   "KnowSeq": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "MAGAR": [
     "RnBeads",
     "methylumi",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter"
   ],
@@ -681,8 +645,7 @@
     "CAMERA"
   ],
   "MBECS": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "MDTS": [],
   "MEAL": [
@@ -695,7 +658,6 @@
     "BSgenome",
     "biovizBase",
     "bumphunter",
-    "genefilter",
     "methylumi",
     "sva",
     "VariantAnnotation"
@@ -704,7 +666,6 @@
     "minfi",
     "wateRmelon",
     "bumphunter",
-    "genefilter",
     "methylumi",
     "lumi",
     "GenomicFeatures"
@@ -716,9 +677,7 @@
     "bsseq",
     "BSgenome"
   ],
-  "MLInterfaces": [
-    "genefilter"
-  ],
+  "MLInterfaces": [],
   "MMDiff2": [
     "BSgenome"
   ],
@@ -727,16 +686,14 @@
     "GenomicFeatures"
   ],
   "MSPrep": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "MSnID": [
     "msmsTests"
   ],
   "MSstatsQCgui": [],
   "MatrixQCvis": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "MatrixRider": [
     "TFBSTools",
@@ -755,7 +712,6 @@
   "MethylAid": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "MethylSeekR": [
@@ -768,7 +724,6 @@
     "methylumi",
     "GenomicFeatures",
     "GSEABase",
-    "genefilter",
     "minfi",
     "bumphunter"
   ],
@@ -817,9 +772,7 @@
     "TFBSTools",
     "VariantAnnotation"
   ],
-  "NBAMSeq": [
-    "genefilter"
-  ],
+  "NBAMSeq": [],
   "NanoMethViz": [
     "bsseq",
     "BSgenome"
@@ -861,17 +814,13 @@
     "GenomicFeatures"
   ],
   "PAA": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "PAST": [],
-  "PECA": [
-    "genefilter"
-  ],
+  "PECA": [],
   "PICB": [],
   "POMA": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "PREDA": [],
   "PROMISE": [
@@ -879,12 +828,10 @@
   ],
   "PRONE": [
     "POMA",
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "PROPS": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "PanomiR": [
     "GSEABase"
@@ -953,7 +900,6 @@
     "minfi",
     "BSgenome",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "RESOLVE": [
@@ -1041,7 +987,6 @@
     "GOstats",
     "GSEABase",
     "ggbio",
-    "genefilter",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -1078,7 +1023,6 @@
   "RnBeads": [
     "methylumi",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter"
   ],
@@ -1104,19 +1048,16 @@
     "GenomicFeatures"
   ],
   "SCAN.UPC": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "SCANVIS": [],
   "SCOPE": [
     "BSgenome"
   ],
   "SEtools": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "SGCP": [
-    "genefilter",
     "GOstats",
     "Category",
     "GSEABase"
@@ -1154,8 +1095,7 @@
     "VariantAnnotation"
   ],
   "SigCheck": [
-    "MLInterfaces",
-    "genefilter"
+    "MLInterfaces"
   ],
   "SigsPack": [
     "BSgenome",
@@ -1185,8 +1125,7 @@
   ],
   "SpatialCPie": [],
   "SpliceWiz": [
-    "BSgenome",
-    "genefilter"
+    "BSgenome"
   ],
   "SplicingGraphs": [
     "GenomicFeatures"
@@ -1209,8 +1148,7 @@
     "GSVA",
     "singscore",
     "sva",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "TCGAutils": [
     "GenomicFeatures"
@@ -1243,8 +1181,7 @@
     "GSEABase"
   ],
   "TOP": [
-    "ClassifyR",
-    "genefilter"
+    "ClassifyR"
   ],
   "TRESS": [
     "GenomicFeatures"
@@ -1290,8 +1227,7 @@
   ],
   "VaSP": [
     "ballgown",
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "VanillaICE": [
     "BSgenome"
@@ -1317,9 +1253,7 @@
     "GenomicFeatures",
     "BSgenome"
   ],
-  "VplotR": [],
   "XDE": [
-    "genefilter",
     "GeneMeta"
   ],
   "Xeva": [],
@@ -1339,19 +1273,15 @@
     "GenomicFeatures"
   ],
   "a4": [
-    "a4Base",
-    "genefilter"
+    "a4Base"
   ],
-  "a4Base": [
-    "genefilter"
-  ],
+  "a4Base": [],
   "affycoretools": [
     "GOstats",
     "ReportingTools",
     "Category",
     "GSEABase",
     "ggbio",
-    "genefilter",
     "biovizBase",
     "BSgenome",
     "VariantAnnotation",
@@ -1370,9 +1300,7 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "annmap": [
-    "genefilter"
-  ],
+  "annmap": [],
   "annotatr": [
     "GenomicFeatures",
     "regioneR",
@@ -1389,12 +1317,9 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "genefilter",
     "bumphunter"
   ],
-  "arrayQualityMetrics": [
-    "genefilter"
-  ],
+  "arrayQualityMetrics": [],
   "atSNP": [
     "BSgenome",
     "motifStack",
@@ -1406,12 +1331,10 @@
   "attract": [
     "GOstats",
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "ballgown": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "bambu": [
     "BSgenome",
@@ -1419,15 +1342,13 @@
   ],
   "bandle": [
     "pRoloc",
-    "MLInterfaces",
-    "genefilter"
+    "MLInterfaces"
   ],
   "bedbaser": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
     "methylumi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "lumi"
@@ -1438,7 +1359,6 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "GenomicFeatures",
@@ -1469,16 +1389,13 @@
     "regioneR"
   ],
   "blacksheepr": [
-    "DEXSeq",
-    "genefilter"
+    "DEXSeq"
   ],
   "bnbc": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "bnem": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "borealis": [
     "bsseq",
@@ -1489,9 +1406,7 @@
     "BSgenome"
   ],
   "breakpointR": [],
-  "broadSeq": [
-    "genefilter"
-  ],
+  "broadSeq": [],
   "bsseq": [
     "BSgenome"
   ],
@@ -1512,8 +1427,7 @@
     "VariantAnnotation",
     "GenomicFeatures",
     "OrganismDbi",
-    "ensembldb",
-    "genefilter"
+    "ensembldb"
   ],
   "canceR": [
     "cBioPortalData",
@@ -1522,7 +1436,6 @@
     "RTCGAToolbox",
     "TCGAutils",
     "Category",
-    "genefilter",
     "GenomicFeatures"
   ],
   "cardelino": [
@@ -1536,12 +1449,10 @@
   "categoryCompare": [
     "GSEABase",
     "Category",
-    "GOstats",
-    "genefilter"
+    "GOstats"
   ],
   "cbaf": [
     "cBioPortalData",
-    "genefilter",
     "RTCGAToolbox",
     "TCGAutils",
     "GenomicFeatures"
@@ -1552,8 +1463,7 @@
     "BSgenome"
   ],
   "cghMCR": [
-    "CNTools",
-    "genefilter"
+    "CNTools"
   ],
   "chevreulPlot": [
     "chevreulProcess",
@@ -1611,14 +1521,12 @@
   ],
   "cliqueMS": [],
   "clusterExperiment": [
-    "zinbwave",
-    "genefilter"
+    "zinbwave"
   ],
   "coMethDMR": [
     "bumphunter",
     "GenomicFeatures"
   ],
-  "codelink": [],
   "comapr": [
     "Gviz",
     "GenomicFeatures",
@@ -1641,19 +1549,14 @@
   "conumee": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "cosmiq": [],
   "cosmosR": [
     "GSEABase"
   ],
-  "countsimQC": [
-    "genefilter"
-  ],
-  "covRNA": [
-    "genefilter"
-  ],
+  "countsimQC": [],
+  "covRNA": [],
   "cpvSNP": [
     "GenomicFeatures",
     "GSEABase"
@@ -1732,8 +1635,7 @@
     "BSgenome"
   ],
   "debrowser": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "decompTumor2Sig": [
     "GenomicFeatures",
@@ -1744,7 +1646,6 @@
     "methylKit",
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "deepSNV": [
@@ -1783,7 +1684,6 @@
   "diffUTR": [
     "DEXSeq",
     "ensembldb",
-    "genefilter",
     "GenomicFeatures"
   ],
   "dmrseq": [
@@ -1795,8 +1695,7 @@
     "BSgenome"
   ],
   "doppelgangR": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "doubletrouble": [
     "syntenet",
@@ -1811,11 +1710,9 @@
     "ensembldb",
     "GenomicFeatures"
   ],
-  "easier": [],
   "easylift": [],
   "edge": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "enhancerHomologSearch": [
     "BSgenome",
@@ -1835,7 +1732,6 @@
     "BSgenome",
     "biovizBase",
     "OrganismDbi",
-    "genefilter",
     "VariantAnnotation"
   ],
   "epiregulon": [
@@ -1898,7 +1794,6 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "genefilter",
     "bumphunter"
   ],
   "flagme": [
@@ -1911,7 +1806,6 @@
   "funtooNorm": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "gDR": [
@@ -1928,7 +1822,6 @@
     "GenomicFeatures"
   ],
   "geneXtendeR": [],
-  "genefilter": [],
   "genomation": [
     "BSgenome"
   ],
@@ -1998,15 +1891,13 @@
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "genefilter",
     "bumphunter"
   ],
   "iNETgrate": [
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",
-    "bumphunter",
-    "genefilter"
+    "bumphunter"
   ],
   "iSEEfier": [
     "iSEEu",
@@ -2038,8 +1929,7 @@
   ],
   "interactiveDisplay": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "katdetectr": [
     "BSgenome",
@@ -2063,14 +1953,12 @@
   ],
   "lisaClust": [
     "spicyR",
-    "ClassifyR",
-    "genefilter"
+    "ClassifyR"
   ],
   "lumi": [
     "methylumi",
     "GenomicFeatures",
     "minfi",
-    "genefilter",
     "bumphunter"
   ],
   "m6Aboost": [
@@ -2106,17 +1994,14 @@
   ],
   "meshr": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "metaMS": [
     "CAMERA"
   ],
-  "metagene2": [],
   "metaseqR2": [
     "DSS",
     "EDASeq",
-    "genefilter",
     "GenomicFeatures",
     "txdbmaker",
     "bsseq",
@@ -2139,7 +2024,6 @@
     "bsseq",
     "plyranges",
     "bumphunter",
-    "genefilter",
     "BSgenome",
     "GenomicFeatures"
   ],
@@ -2147,7 +2031,6 @@
     "missMethyl",
     "minfi",
     "methylumi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter"
   ],
@@ -2172,22 +2055,19 @@
     "minfi",
     "ExperimentHubData",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures",
     "AnnotationHubData",
     "OrganismDbi"
   ],
   "methylumi": [
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter"
   ],
   "miRLAB": [
     "Category",
     "GOstats",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "miRSM": [
     "BicARE",
@@ -2196,13 +2076,11 @@
   "miaDash": [],
   "minfi": [
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "missMethyl": [
     "methylumi",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter"
   ],
@@ -2215,7 +2093,6 @@
   ],
   "mobileRNA": [],
   "mogsa": [
-    "genefilter",
     "GSEABase"
   ],
   "monaLisa": [
@@ -2274,8 +2151,7 @@
   ],
   "netSmooth": [
     "clusterExperiment",
-    "zinbwave",
-    "genefilter"
+    "zinbwave"
   ],
   "npGSEA": [
     "GSEABase"
@@ -2292,21 +2168,18 @@
   ],
   "omicRexposome": [
     "sva",
-    "MultiDataSet",
-    "genefilter"
+    "MultiDataSet"
   ],
   "oppar": [
     "GSEABase",
     "GSVA"
   ],
   "pRoloc": [
-    "MLInterfaces",
-    "genefilter"
+    "MLInterfaces"
   ],
   "pRolocGUI": [
     "pRoloc",
-    "MLInterfaces",
-    "genefilter"
+    "MLInterfaces"
   ],
   "pageRank": [
     "motifmatchr",
@@ -2315,8 +2188,7 @@
   ],
   "pairedGSEA": [
     "DEXSeq",
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "pathMED": [
     "GSVA",
@@ -2328,8 +2200,7 @@
   ],
   "phenoTest": [
     "Category",
-    "GSEABase",
-    "genefilter"
+    "GSEABase"
   ],
   "phenomis": [
     "MultiDataSet",
@@ -2377,9 +2248,7 @@
     "GenomicFeatures",
     "rGREAT"
   ],
-  "protGear": [
-    "genefilter"
-  ],
+  "protGear": [],
   "psichomics": [
     "recount",
     "derfinder",
@@ -2396,17 +2265,14 @@
     "BSgenome"
   ],
   "qsmooth": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "qsvaR": [
-    "sva",
-    "genefilter"
+    "sva"
   ],
   "quantro": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "r3Cseq": [],
@@ -2436,7 +2302,6 @@
   "recountmethylation": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "recoup": [
@@ -2502,15 +2367,13 @@
     "DEXSeq",
     "Gviz",
     "txdbmaker",
-    "genefilter",
     "ensembldb",
     "BSgenome",
     "biovizBase",
     "VariantAnnotation"
   ],
   "scBFA": [
-    "zinbwave",
-    "genefilter"
+    "zinbwave"
   ],
   "scClassify": [
     "Cepo",
@@ -2598,13 +2461,11 @@
   "shinyMethyl": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "shinyepico": [
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "signatureSearch": [
@@ -2633,7 +2494,6 @@
     "methylumi",
     "wateRmelon",
     "minfi",
-    "genefilter",
     "GenomicFeatures",
     "bumphunter",
     "lumi"
@@ -2645,9 +2505,7 @@
   "sparrow": [
     "GSEABase"
   ],
-  "spatialHeatmap": [
-    "genefilter"
-  ],
+  "spatialHeatmap": [],
   "spatzie": [
     "BSgenome",
     "GenomicFeatures",
@@ -2660,8 +2518,7 @@
     "VariantAnnotation"
   ],
   "spicyR": [
-    "ClassifyR",
-    "genefilter"
+    "ClassifyR"
   ],
   "spiky": [
     "BSgenome"
@@ -2687,9 +2544,7 @@
   "strandCheckR": [
     "GenomicFeatures"
   ],
-  "sva": [
-    "genefilter"
-  ],
+  "sva": [],
   "svaNUMT": [
     "VariantAnnotation",
     "StructuralVariantAnnotation",
@@ -2703,7 +2558,6 @@
     "BSgenome"
   ],
   "syntenet": [],
-  "systemPipeR": [],
   "tLOH": [
     "VariantAnnotation",
     "BSgenome",
@@ -2730,9 +2584,7 @@
     "nullranges"
   ],
   "tigre": [],
-  "tilingArray": [
-    "genefilter"
-  ],
+  "tilingArray": [],
   "trackViewer": [
     "GenomicFeatures",
     "Gviz",
@@ -2797,7 +2649,6 @@
     "GenomicFeatures",
     "regioneR",
     "ensembldb",
-    "systemPipeR",
     "GreyListChIP",
     "BSgenome"
   ],
@@ -2806,7 +2657,6 @@
     "lumi",
     "minfi",
     "GenomicFeatures",
-    "genefilter",
     "bumphunter"
   ],
   "wavClusteR": [
@@ -2821,14 +2671,11 @@
     "quantro",
     "minfi",
     "bumphunter",
-    "genefilter",
     "GenomicFeatures"
   ],
   "zenith": [
     "EnrichmentBrowser",
     "GSEABase"
   ],
-  "zinbwave": [
-    "genefilter"
-  ]
+  "zinbwave": []
 }
