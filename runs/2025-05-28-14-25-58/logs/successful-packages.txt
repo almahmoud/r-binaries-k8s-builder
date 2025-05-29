@@ -1173,3 +1173,9 @@ NewWave
 PathoStat
 SeqSQC
 SiPSiC
+ASURAT
+MCbiclust
+SC3
+SeqGSEA
+TCC
+TrajectoryUtils

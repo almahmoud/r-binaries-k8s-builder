@@ -35,7 +35,6 @@
     "genefilter",
     "annotate"
   ],
-  "ASURAT": [],
   "ASpli": [
     "GenomicFeatures",
     "GenomicAlignments",
@@ -852,9 +851,7 @@
     "TreeSummarizedExperiment"
   ],
   "FEAST": [
-    "TSCAN",
-    "SC3",
-    "TrajectoryUtils"
+    "TSCAN"
   ],
   "FLAMES": [
     "bambu",
@@ -1274,7 +1271,6 @@
     "annotate"
   ],
   "MBQN": [],
-  "MCbiclust": [],
   "MDTS": [
     "GenomicAlignments"
   ],
@@ -2069,7 +2065,6 @@
     "GenomicAlignments"
   ],
   "SBGNview": [],
-  "SC3": [],
   "SCAN.UPC": [
     "oligo",
     "sva",
@@ -2160,7 +2155,6 @@
   "SemDist": [
     "annotate"
   ],
-  "SeqGSEA": [],
   "SeqGate": [],
   "ShortRead": [
     "GenomicAlignments"
@@ -2290,7 +2284,6 @@
     "annotate",
     "genefilter"
   ],
-  "TCC": [],
   "TCGAbiolinks": [],
   "TCGAutils": [
     "GenomicFeatures",
@@ -2363,9 +2356,7 @@
     "GenomicFeatures",
     "GenomicAlignments"
   ],
-  "TSCAN": [
-    "TrajectoryUtils"
-  ],
+  "TSCAN": [],
   "TTMap": [],
   "TVTB": [
     "ensembldb",
@@ -2385,7 +2376,6 @@
     "CoreGx",
     "MultiAssayExperiment"
   ],
-  "TrajectoryUtils": [],
   "TreeSummarizedExperiment": [],
   "Trendy": [],
   "UCell": [],
@@ -3055,7 +3045,6 @@
   ],
   "condiments": [
     "slingshot",
-    "TrajectoryUtils",
     "distinct",
     "scater",
     "scuttle"
@@ -4867,8 +4856,7 @@
   "scRNAseqApp": [
     "rtracklayer",
     "slingshot",
-    "GenomicAlignments",
-    "TrajectoryUtils"
+    "GenomicAlignments"
   ],
   "scReClassify": [],
   "scRepertoire": [
@@ -5083,9 +5071,7 @@
     "GSEABase",
     "annotate"
   ],
-  "slingshot": [
-    "TrajectoryUtils"
-  ],
+  "slingshot": [],
   "smoothclust": [
     "SpatialExperiment"
   ],
@@ -5315,8 +5301,7 @@
     "VariantAnnotation"
   ],
   "tradeSeq": [
-    "slingshot",
-    "TrajectoryUtils"
+    "slingshot"
   ],
   "transcriptR": [
     "chipseq",

@@ -1382,3 +1382,5 @@ HiCDOC
 cyanoFilter
 ddPCRclust
 flowCut
+TSCAN
+slingshot
