@@ -24,7 +24,6 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "AUCell": [],
   "AgiMicroRna": [
     "affycoretools",
     "GOstats",
@@ -52,7 +51,6 @@
   "BgeeCall": [],
   "BiSeq": [],
   "BicARE": [],
-  "BioCor": [],
   "BioNERO": [
     "sva"
   ],
@@ -98,7 +96,6 @@
     "methylumi",
     "lumi"
   ],
-  "ChIPComp": [],
   "ChIPQC": [
     "DiffBind",
     "GreyListChIP"
@@ -232,7 +229,6 @@
   "IMAS": [],
   "IPO": [],
   "IdeoViz": [],
-  "InPAS": [],
   "IntEREst": [
     "GenomicFiles",
     "DEXSeq"
@@ -387,9 +383,7 @@
   ],
   "RUVSeq": [],
   "RbowtieCuda": [],
-  "RcisTarget": [
-    "AUCell"
-  ],
+  "RcisTarget": [],
   "Repitools": [],
   "ReportingTools": [
     "Category",
@@ -689,7 +683,6 @@
     "Gviz"
   ],
   "epiregulon": [
-    "AUCell",
     "motifmatchr",
     "TFBSTools"
   ],
@@ -724,7 +717,6 @@
   ],
   "gep2pep": [],
   "ggbio": [],
-  "gmoviz": [],
   "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
@@ -790,7 +782,6 @@
     "annotatr",
     "regioneR"
   ],
-  "methrix": [],
   "methylCC": [
     "minfi",
     "bsseq"
@@ -961,8 +952,7 @@
     "Cepo"
   ],
   "scFeatures": [
-    "GSVA",
-    "AUCell"
+    "GSVA"
   ],
   "scTGIF": [],
   "scTreeViz": [

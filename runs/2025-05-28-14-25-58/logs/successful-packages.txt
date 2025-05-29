@@ -1806,3 +1806,9 @@ alabaster
 cBioPortalData
 FindIT2
 TMSig
+AUCell
+BioCor
+ChIPComp
+gmoviz
+InPAS
+methrix
