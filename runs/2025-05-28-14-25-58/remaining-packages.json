@@ -1080,7 +1080,6 @@
     "GSEABase"
   ],
   "PhenStat": [],
-  "Pigengene": [],
   "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
@@ -1253,7 +1252,6 @@
     "AUCell",
     "GSEABase"
   ],
-  "RegEnrich": [],
   "Repitools": [
     "rtracklayer",
     "BSgenome"
@@ -1468,7 +1466,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "TCseq": [],
   "TEKRABber": [
     "rtracklayer"
   ],
@@ -1645,7 +1642,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.sfe": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -2421,7 +2417,6 @@
     "bumphunter"
   ],
   "iNETgrate": [
-    "Pigengene",
     "minfi",
     "OrganismDbi",
     "GenomicFeatures",
@@ -2896,8 +2891,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "ptairMS": [],
-  "qPLEXanalyzer": [],
   "qpgraph": [
     "GenomicFeatures",
     "rtracklayer"

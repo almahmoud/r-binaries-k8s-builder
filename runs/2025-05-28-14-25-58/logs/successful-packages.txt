@@ -1563,3 +1563,9 @@ pathlinkR
 RFLOMICS
 miRspongeR
 RadioGx
+alabaster.sfe
+Pigengene
+ptairMS
+qPLEXanalyzer
+RegEnrich
+TCseq
