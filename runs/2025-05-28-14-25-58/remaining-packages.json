@@ -506,7 +506,6 @@
   "annotatr": [
     "regioneR"
   ],
-  "appreci8R": [],
   "arrayMvout": [
     "lumi",
     "methylumi",
@@ -659,7 +658,6 @@
     "sva"
   ],
   "deconvR": [
-    "methylKit",
     "minfi"
   ],
   "demuxSNP": [],
@@ -741,7 +739,6 @@
   "goseq": [],
   "gwascat": [],
   "gwasurvivr": [],
-  "hiReadsProcessor": [],
   "hicVennDiagram": [],
   "iCNV": [
     "CODEX"
@@ -799,9 +796,7 @@
     "DSS",
     "bsseq"
   ],
-  "methInheritSim": [
-    "methylKit"
-  ],
+  "methInheritSim": [],
   "methodical": [
     "annotatr",
     "regioneR"
@@ -816,10 +811,7 @@
     "minfi",
     "methylumi"
   ],
-  "methylInheritance": [
-    "methylKit"
-  ],
-  "methylKit": [],
+  "methylInheritance": [],
   "methylPipe": [
     "Gviz"
   ],
@@ -909,7 +901,6 @@
   "phenomis": [
     "ropls"
   ],
-  "podkat": [],
   "preciseTAD": [],
   "primirTSS": [
     "Gviz",
@@ -1040,7 +1031,6 @@
     "Gviz"
   ],
   "spicyR": [],
-  "spiky": [],
   "srnadiff": [
     "Gviz"
   ],
@@ -1054,7 +1044,6 @@
     "Gviz"
   ],
   "terraTCGAdata": [],
-  "tidyCoverage": [],
   "tidyomics": [],
   "tilingArray": [],
   "trackViewer": [

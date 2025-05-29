@@ -1796,3 +1796,9 @@ TENET
 MLInterfaces
 qsea
 traseR
+appreci8R
+hiReadsProcessor
+methylKit
+podkat
+spiky
+tidyCoverage

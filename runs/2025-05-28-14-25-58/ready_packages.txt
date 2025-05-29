@@ -1,2 +1,2 @@
-SigCheck
-pRoloc
+methInheritSim
+methylInheritance

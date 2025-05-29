@@ -1978,3 +1978,5 @@ RCAS
 fCCAC
 SigCheck
 pRoloc
+methInheritSim
+methylInheritance
