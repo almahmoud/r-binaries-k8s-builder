@@ -222,7 +222,6 @@
   "CNTools": [
     "genefilter"
   ],
-  "CNVRanger": [],
   "CNVrd2": [
     "VariantAnnotation",
     "rtracklayer",
@@ -370,7 +369,6 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "DAPAR": [],
   "DEP": [],
   "DEScan2": [
     "ChIPpeakAnno",
@@ -956,7 +954,6 @@
     "EpiMix",
     "GenomicFeatures"
   ],
-  "MoonlightR": [],
   "Motif2Site": [
     "BSgenome",
     "rtracklayer"
@@ -1089,9 +1086,7 @@
   ],
   "PhenStat": [],
   "Pigengene": [],
-  "Prostar": [
-    "DAPAR"
-  ],
+  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -2834,7 +2829,6 @@
     "GSEABase"
   ],
   "pathlinkR": [],
-  "peakPantheR": [],
   "periodicDNA": [
     "BSgenome",
     "rtracklayer"

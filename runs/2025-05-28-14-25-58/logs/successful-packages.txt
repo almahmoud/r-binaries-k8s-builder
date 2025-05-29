@@ -1543,3 +1543,7 @@ EasyCellType
 msmsEDA
 MSstatsQC
 PrInCE
+CNVRanger
+DAPAR
+MoonlightR
+peakPantheR
