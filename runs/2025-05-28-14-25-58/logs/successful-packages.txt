@@ -1506,3 +1506,7 @@ SingleR
 SubCellBarCode
 systemPipeTools
 TCGAbiolinks
+alabaster.sce
+PhyloProfile
+VDJdive
+webbioc

@@ -1611,3 +1611,4 @@ treekoR
 Xeva
 gDRimport
 SurfR
+alabaster.spatial

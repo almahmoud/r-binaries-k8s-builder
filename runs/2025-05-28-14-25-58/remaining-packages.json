@@ -1130,7 +1130,6 @@
     "GSEABase"
   ],
   "PhenStat": [],
-  "PhyloProfile": [],
   "Pigengene": [
     "clusterProfiler"
   ],
@@ -1622,7 +1621,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VDJdive": [],
   "VaSP": [
     "ballgown",
     "sva",
@@ -1705,7 +1703,6 @@
   ],
   "airpart": [],
   "alabaster": [
-    "alabaster.sce",
     "alabaster.spatial",
     "alabaster.vcf",
     "VariantAnnotation",
@@ -1713,14 +1710,10 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "alabaster.sce": [],
   "alabaster.sfe": [
-    "alabaster.sce",
     "alabaster.spatial"
   ],
-  "alabaster.spatial": [
-    "alabaster.sce"
-  ],
+  "alabaster.spatial": [],
   "alabaster.vcf": [
     "VariantAnnotation",
     "rtracklayer",
@@ -3564,7 +3557,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "webbioc": [],
   "wiggleplotr": [
     "rtracklayer"
   ],
