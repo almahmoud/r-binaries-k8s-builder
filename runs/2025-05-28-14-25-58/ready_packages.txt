@@ -1,6 +1,7 @@
-GOstats
-GSEABenchmarkeR
-interactiveDisplay
-meshr
-phenoTest
-zenith
+DSS
+MIRA
+NanoMethViz
+blacksheepr
+diffUTR
+pathMED
+xCell2

@@ -69,12 +69,10 @@
     "GenomicInteractions"
   ],
   "CCAFE": [],
-  "CCPROMISE": [],
   "CNTools": [],
   "CNVrd2": [],
   "COCOA": [
-    "MIRA",
-    "bsseq"
+    "MIRA"
   ],
   "CODEX": [],
   "Cepo": [],
@@ -86,7 +84,6 @@
     "wateRmelon",
     "goseq",
     "missMethyl",
-    "bsseq",
     "Gviz",
     "methylumi",
     "lumi"
@@ -112,21 +109,17 @@
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "DEXSeq": [],
   "DExMA": [
     "sva"
   ],
   "DMRcate": [
-    "bsseq",
     "minfi",
     "missMethyl",
     "Gviz",
     "methylumi"
   ],
   "DNEA": [],
-  "DSS": [
-    "bsseq"
-  ],
+  "DSS": [],
   "DaMiRseq": [
     "sva"
   ],
@@ -136,8 +129,7 @@
   ],
   "DeMixT": [
     "DSS",
-    "sva",
-    "bsseq"
+    "sva"
   ],
   "DegCre": [],
   "DegNorm": [],
@@ -214,11 +206,9 @@
   ],
   "IMAS": [],
   "IntEREst": [
-    "GenomicFiles",
-    "DEXSeq"
+    "GenomicFiles"
   ],
   "IsoformSwitchAnalyzeR": [
-    "DEXSeq",
     "sva",
     "tximeta"
   ],
@@ -247,9 +237,7 @@
     "methylumi",
     "lumi"
   ],
-  "MIRA": [
-    "bsseq"
-  ],
+  "MIRA": [],
   "MSPrep": [
     "sva"
   ],
@@ -291,9 +279,7 @@
     "regioneR",
     "TFBSTools"
   ],
-  "NanoMethViz": [
-    "bsseq"
-  ],
+  "NanoMethViz": [],
   "NormqPCR": [],
   "OGRE": [
     "Gviz"
@@ -316,7 +302,6 @@
   "PROPS": [
     "sva"
   ],
-  "PanomiR": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "PureCN": [],
@@ -401,7 +386,6 @@
   ],
   "SOMNiBUS": [
     "annotatr",
-    "bsseq",
     "regioneR"
   ],
   "SPLINTER": [
@@ -418,7 +402,6 @@
   "Statial": [],
   "TBSignatureProfiler": [
     "ASSIGN",
-    "singscore",
     "sva"
   ],
   "TFBSTools": [],
@@ -502,14 +485,11 @@
     "ropls"
   ],
   "biscuiteer": [
-    "bsseq",
     "dmrseq",
     "annotatr",
     "regioneR"
   ],
-  "blacksheepr": [
-    "DEXSeq"
-  ],
+  "blacksheepr": [],
   "bnbc": [
     "sva"
   ],
@@ -517,11 +497,9 @@
     "sva"
   ],
   "borealis": [
-    "bsseq",
     "DSS"
   ],
   "broadSeq": [],
-  "bsseq": [],
   "cageminer": [
     "ggbio",
     "BioNERO",
@@ -612,11 +590,8 @@
     "GenomicFiles"
   ],
   "diffHic": [],
-  "diffUTR": [
-    "DEXSeq"
-  ],
+  "diffUTR": [],
   "dmrseq": [
-    "bsseq",
     "annotatr",
     "regioneR"
   ],
@@ -628,7 +603,6 @@
     "zenith"
   ],
   "drugTargetInteractions": [],
-  "easylift": [],
   "edge": [
     "sva"
   ],
@@ -672,7 +646,6 @@
     "trackViewer",
     "Gviz"
   ],
-  "gep2pep": [],
   "ggbio": [],
   "goseq": [],
   "gwascat": [],
@@ -701,8 +674,7 @@
   "interactiveDisplay": [],
   "katdetectr": [],
   "kissDE": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "lineagespot": [],
   "lipidr": [
@@ -726,8 +698,7 @@
   "mastR": [],
   "meshr": [],
   "metaseqR2": [
-    "DSS",
-    "bsseq"
+    "DSS"
   ],
   "methInheritSim": [],
   "methodical": [
@@ -735,8 +706,7 @@
     "regioneR"
   ],
   "methylCC": [
-    "minfi",
-    "bsseq"
+    "minfi"
   ],
   "methylGSA": [
     "missMethyl",
@@ -748,7 +718,6 @@
     "Gviz"
   ],
   "methylSig": [
-    "bsseq",
     "DSS"
   ],
   "methylclock": [
@@ -768,7 +737,6 @@
     "minfi"
   ],
   "mitoClone2": [],
-  "mogsa": [],
   "monaLisa": [
     "TFBSTools"
   ],
@@ -807,12 +775,9 @@
     "TFBSTools"
   ],
   "pairedGSEA": [
-    "DEXSeq",
     "sva"
   ],
-  "pathMED": [
-    "singscore"
-  ],
+  "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
   "phenomis": [
@@ -841,7 +806,6 @@
   "quantro": [
     "minfi"
   ],
-  "r3Cseq": [],
   "rTRMui": [],
   "recount": [
     "derfinder",
@@ -876,7 +840,6 @@
   ],
   "saseR": [
     "ASpli",
-    "DEXSeq",
     "Gviz"
   ],
   "scBFA": [
@@ -886,7 +849,6 @@
     "Cepo"
   ],
   "scFeatures": [],
-  "scTGIF": [],
   "scTreeViz": [
     "epivizr",
     "epivizrData"
@@ -894,7 +856,6 @@
   "scanMiRApp": [],
   "scifer": [],
   "scmeth": [
-    "bsseq",
     "annotatr",
     "regioneR"
   ],
@@ -920,7 +881,6 @@
   "signifinder": [
     "consensusOV"
   ],
-  "singscore": [],
   "sitadela": [],
   "skewr": [
     "methylumi",
@@ -976,9 +936,7 @@
     "lumi",
     "minfi"
   ],
-  "xCell2": [
-    "singscore"
-  ],
+  "xCell2": [],
   "yarn": [
     "quantro",
     "minfi"

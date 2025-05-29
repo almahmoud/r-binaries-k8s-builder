@@ -1835,3 +1835,13 @@ cosmosR
 EnrichmentBrowser
 npGSEA
 spatialHeatmap
+bsseq
+CCPROMISE
+DEXSeq
+easylift
+gep2pep
+mogsa
+PanomiR
+r3Cseq
+scTGIF
+singscore
