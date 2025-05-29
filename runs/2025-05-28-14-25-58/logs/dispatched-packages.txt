@@ -1956,3 +1956,6 @@ sitadela
 tidyomics
 txcutr
 tximeta
+TOP
+profileplyr
+spicyR

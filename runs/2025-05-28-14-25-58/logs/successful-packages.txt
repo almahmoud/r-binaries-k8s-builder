@@ -1743,3 +1743,9 @@ syntenet
 transcriptR
 txdbmaker
 wavClusteR
+BindingSiteFinder
+ClassifyR
+gINTomics
+NBAMSeq
+rGREAT
+seqArchRplus
