@@ -1954,3 +1954,7 @@ HelloRanges
 RESOLVE
 seqCAT
 signatureSearch
+annmap
+katdetectr
+MatrixRider
+spicyR

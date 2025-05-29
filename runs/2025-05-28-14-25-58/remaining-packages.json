@@ -122,7 +122,6 @@
     "lumi"
   ],
   "MIRA": [],
-  "MatrixRider": [],
   "MetaboSignal": [],
   "MethReg": [],
   "MethylAid": [
@@ -234,7 +233,6 @@
     "ReportingTools",
     "ggbio"
   ],
-  "annmap": [],
   "annotatr": [],
   "arrayMvout": [
     "lumi",
@@ -382,15 +380,12 @@
     "ggbio"
   ],
   "interactiveDisplay": [],
-  "katdetectr": [],
   "kissDE": [
     "DSS"
   ],
   "lineagespot": [],
   "lipidr": [],
-  "lisaClust": [
-    "spicyR"
-  ],
+  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi"
@@ -529,7 +524,6 @@
     "GenomicInteractions",
     "motifmatchr"
   ],
-  "spicyR": [],
   "srnadiff": [],
   "standR": [],
   "tRNAscanImport": [],
