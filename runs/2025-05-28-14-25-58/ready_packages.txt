@@ -1,3 +1,0 @@
-BASiCStan
-lemur
-transformGamPoi

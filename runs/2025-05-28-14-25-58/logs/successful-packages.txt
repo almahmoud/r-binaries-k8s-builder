@@ -1426,3 +1426,8 @@ glmGamPoi
 MsQuality
 rrvgo
 scAnnotatR
+CTSV
+enrichViewNet
+funOmics
+meshes
+OncoScore

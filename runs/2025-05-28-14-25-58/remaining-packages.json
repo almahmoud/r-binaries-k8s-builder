@@ -312,7 +312,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "CTSV": [],
   "CTexploreR": [],
   "CaMutQC": [
     "clusterProfiler"
@@ -1329,7 +1328,6 @@
     "GenomicAlignments"
   ],
   "OVESEG": [],
-  "OncoScore": [],
   "Organism.dplyr": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2814,7 +2812,6 @@
     "TFBSTools",
     "GenomicAlignments"
   ],
-  "enrichViewNet": [],
   "ensembldb": [
     "GenomicFeatures",
     "rtracklayer",
@@ -2949,7 +2946,6 @@
   "flowFP": [],
   "flowVS": [],
   "frma": [],
-  "funOmics": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -3280,7 +3276,6 @@
     "annotate"
   ],
   "mbkmeans": [],
-  "meshes": [],
   "meshr": [
     "Category",
     "GSEABase",
