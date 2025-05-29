@@ -1409,3 +1409,7 @@ cypress
 deltaCaptureC
 MetaboAnnotation
 SBGNview
+enrichplot
+msqrob2
+projectR
+scp
