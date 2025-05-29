@@ -1185,3 +1185,11 @@ HIPPO
 Nebulosa
 ReactomeGSA
 SVMDO
+GeoTcgaData
+HybridExpress
+ILoReg
+MICSQTL
+MLSeq
+SCArray
+SPOTlight
+TENxIO

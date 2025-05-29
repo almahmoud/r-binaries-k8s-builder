@@ -913,7 +913,6 @@
   ],
   "GARS": [
     "DaMiRseq",
-    "MLSeq",
     "EDASeq",
     "sva",
     "ShortRead",
@@ -1060,7 +1059,6 @@
     "BSgenome"
   ],
   "GenomicSuperSignature": [],
-  "GeoTcgaData": [],
   "Glimma": [],
   "GlobalAncova": [
     "globaltest",
@@ -1138,8 +1136,6 @@
     "MultiAssayExperiment",
     "TreeSummarizedExperiment"
   ],
-  "HybridExpress": [],
-  "ILoReg": [],
   "IMAS": [
     "GenomicFeatures",
     "IVAS",
@@ -1323,7 +1319,6 @@
     "scater",
     "scuttle"
   ],
-  "MICSQTL": [],
   "MIRA": [
     "bsseq",
     "BSgenome",
@@ -1339,7 +1334,6 @@
     "annotate",
     "genefilter"
   ],
-  "MLSeq": [],
   "MMDiff2": [
     "BSgenome",
     "rtracklayer",
@@ -2070,10 +2064,7 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SCArray": [],
-  "SCArray.sat": [
-    "SCArray"
-  ],
+  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer",
@@ -2140,7 +2131,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SPOTlight": [],
   "SPsimSeq": [],
   "SVP": [
     "SpatialExperiment"
@@ -2303,7 +2293,6 @@
     "BSgenome",
     "GenomicAlignments"
   ],
-  "TENxIO": [],
   "TFARM": [],
   "TFBSTools": [
     "BSgenome",
@@ -2465,7 +2454,6 @@
     "GenomicAlignments"
   ],
   "VisiumIO": [
-    "TENxIO",
     "SpatialExperiment"
   ],
   "Voyager": [
@@ -2484,7 +2472,6 @@
     "annotate"
   ],
   "XeniumIO": [
-    "TENxIO",
     "SpatialExperiment",
     "VisiumIO"
   ],
@@ -5445,8 +5432,7 @@
     "MultiAssayExperiment"
   ],
   "xenLite": [
-    "SpatialExperiment",
-    "TENxIO"
+    "SpatialExperiment"
   ],
   "yarn": [
     "quantro",
