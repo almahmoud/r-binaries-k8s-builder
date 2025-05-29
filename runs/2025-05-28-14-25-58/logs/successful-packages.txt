@@ -1550,3 +1550,6 @@ peakPantheR
 CluMSID
 GDCRNATools
 ReducedExperiment
+condiments
+missRows
+Trendy

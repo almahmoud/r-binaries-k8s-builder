@@ -1528,7 +1528,6 @@
   "TissueEnrich": [
     "GSEABase"
   ],
-  "Trendy": [],
   "UMI4Cats": [
     "ShortRead",
     "regioneR",
@@ -1970,7 +1969,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "condiments": [],
   "consensusDE": [
     "EDASeq",
     "ensembldb",
@@ -2679,7 +2677,6 @@
     "bumphunter",
     "rtracklayer"
   ],
-  "missRows": [],
   "mist": [
     "rtracklayer"
   ],
