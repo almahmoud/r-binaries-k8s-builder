@@ -1437,3 +1437,15 @@ mimager
 pdInfoBuilder
 puma
 BatchSVG
+DESpace
+DropletUtils
+SplineDV
+batchelor
+imcRtools
+scRepertoire
+scater
+scran
+simPIC
+splatter
+spoon
+velociraptor

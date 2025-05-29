@@ -1276,3 +1276,10 @@ ddPCRclust
 schex
 SPsimSeq
 zellkonverter
+cyanoFilter
+DeepTarget
+EBSEA
+gemma.R
+immApex
+MetaboDynamics
+scuttle
