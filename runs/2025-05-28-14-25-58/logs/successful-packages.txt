@@ -1621,3 +1621,9 @@ SpatialCPie
 TFARM
 treeclimbR
 VariantExperiment
+BaalChIP
+mosaics
+PREDA
+soGGi
+SPIAT
+SurfR
