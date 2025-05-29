@@ -1959,3 +1959,7 @@ tximeta
 TOP
 profileplyr
 spicyR
+BubbleTree
+ChIPexoQual
+Gviz
+ggbio

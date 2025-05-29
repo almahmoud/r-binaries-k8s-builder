@@ -1749,3 +1749,14 @@ gINTomics
 NBAMSeq
 rGREAT
 seqArchRplus
+biovizBase
+BUSpaRse
+clipper
+MOSClip
+R453Plus1Toolbox
+raer
+SigsPack
+SNPhood
+Uniquorn
+UPDhmm
+ZygosityPredictor
