@@ -467,7 +467,6 @@
   "MSPrep": [
     "sva"
   ],
-  "MSnID": [],
   "MatrixQCvis": [
     "sva"
   ],
@@ -1582,7 +1581,6 @@
     "GenomicFiles",
     "VariantAnnotation"
   ],
-  "recount3": [],
   "recountmethylation": [
     "minfi",
     "bumphunter"
