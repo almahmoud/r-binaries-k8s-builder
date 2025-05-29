@@ -1533,3 +1533,7 @@ alabaster.spatial
 CEMiTool
 crumblr
 tricycle
+CaMutQC
+EnrichDO
+MetaPhOR
+MicrobiomeProfiler

@@ -250,7 +250,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "CaMutQC": [],
   "Category": [
     "GSEABase",
     "genefilter"
@@ -517,7 +516,6 @@
     "rtracklayer"
   ],
   "EasyCellType": [],
-  "EnrichDO": [],
   "EnrichmentBrowser": [
     "GSEABase"
   ],
@@ -919,7 +917,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "MetaPhOR": [],
   "MetaboSignal": [
     "mygene",
     "ensembldb",
@@ -944,7 +941,6 @@
     "BSgenome",
     "geneplotter"
   ],
-  "MicrobiomeProfiler": [],
   "MineICA": [
     "GOstats",
     "lumi",
