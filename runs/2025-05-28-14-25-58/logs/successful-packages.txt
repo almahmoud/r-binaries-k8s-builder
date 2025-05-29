@@ -1580,3 +1580,12 @@ MGFR
 xcms
 MGFM
 rtracklayer
+CellBarcode
+ChIPseqR
+ChIPsim
+FastqCleaner
+fishpond
+geneplotter
+omXplore
+OTUbase
+VAExprs

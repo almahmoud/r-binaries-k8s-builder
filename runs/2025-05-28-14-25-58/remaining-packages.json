@@ -219,7 +219,6 @@
     "genefilter"
   ],
   "CatsCradle": [],
-  "CellBarcode": [],
   "Cepo": [
     "GSEABase"
   ],
@@ -279,8 +278,6 @@
   "ChIPseeker": [
     "GenomicFeatures"
   ],
-  "ChIPseqR": [],
-  "ChIPsim": [],
   "ChromHeatMap": [],
   "CircSeqAlignTk": [
     "Rhisat2",
@@ -317,7 +314,6 @@
     "BSgenome"
   ],
   "DEXSeq": [
-    "geneplotter",
     "genefilter"
   ],
   "DExMA": [
@@ -419,7 +415,6 @@
     "txdbmaker"
   ],
   "ENmix": [
-    "geneplotter",
     "minfi",
     "genefilter",
     "bumphunter",
@@ -469,7 +464,6 @@
     "OUTRIDER",
     "txdbmaker"
   ],
-  "FastqCleaner": [],
   "FindIT2": [
     "GenomicFeatures"
   ],
@@ -660,7 +654,6 @@
     "GenomicFeatures",
     "txdbmaker",
     "DEXSeq",
-    "geneplotter",
     "genefilter",
     "VariantAnnotation",
     "BSgenome"
@@ -670,7 +663,6 @@
     "sva",
     "BSgenome",
     "tximeta",
-    "geneplotter",
     "genefilter",
     "GenomicFeatures",
     "txdbmaker",
@@ -770,8 +762,7 @@
     "GenomicFeatures"
   ],
   "MethylSeekR": [
-    "BSgenome",
-    "geneplotter"
+    "BSgenome"
   ],
   "MineICA": [
     "GOstats",
@@ -859,7 +850,6 @@
     "GenomicFeatures",
     "txdbmaker"
   ],
-  "OTUbase": [],
   "OUTRIDER": [
     "GenomicFeatures",
     "txdbmaker"
@@ -1299,7 +1289,6 @@
     "BSgenome",
     "GenomicFeatures"
   ],
-  "VAExprs": [],
   "VCFArray": [
     "VariantAnnotation",
     "GenomicFiles",
@@ -1458,9 +1447,7 @@
     "TCGAutils",
     "GenomicFeatures"
   ],
-  "biocGraph": [
-    "geneplotter"
-  ],
+  "biocGraph": [],
   "biomvRCNS": [
     "Gviz",
     "GenomicFeatures",
@@ -1492,7 +1479,6 @@
   ],
   "blacksheepr": [
     "DEXSeq",
-    "geneplotter",
     "genefilter"
   ],
   "bnbc": [
@@ -1809,7 +1795,6 @@
   "diffUTR": [
     "DEXSeq",
     "ensembldb",
-    "geneplotter",
     "genefilter",
     "GenomicFeatures"
   ],
@@ -1930,7 +1915,6 @@
     "genefilter",
     "bumphunter"
   ],
-  "fishpond": [],
   "flagme": [
     "CAMERA"
   ],
@@ -1959,7 +1943,6 @@
   ],
   "geneXtendeR": [],
   "genefilter": [],
-  "geneplotter": [],
   "genomation": [
     "BSgenome"
   ],
@@ -2332,7 +2315,6 @@
     "GenomicFeatures",
     "GSEABase"
   ],
-  "omXplore": [],
   "omicRexposome": [
     "sva",
     "MultiDataSet",
@@ -2359,7 +2341,6 @@
   "pairedGSEA": [
     "DEXSeq",
     "sva",
-    "geneplotter",
     "genefilter"
   ],
   "pathMED": [
@@ -2547,7 +2528,6 @@
     "DEXSeq",
     "Gviz",
     "txdbmaker",
-    "geneplotter",
     "genefilter",
     "ensembldb",
     "BSgenome",

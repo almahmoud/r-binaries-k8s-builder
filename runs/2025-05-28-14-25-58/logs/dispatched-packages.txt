@@ -1707,3 +1707,4 @@ syntenet
 tidyCoverage
 visiumStitched
 wiggleplotr
+biocGraph
