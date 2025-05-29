@@ -2073,7 +2073,6 @@
     "VariantAnnotation"
   ],
   "SPsimSeq": [],
-  "SVP": [],
   "SemDist": [
     "annotate"
   ],
@@ -2926,7 +2925,6 @@
     "GenomicAlignments",
     "VariantAnnotation"
   ],
-  "concordexR": [],
   "condiments": [
     "distinct",
     "scater",
@@ -3988,7 +3986,6 @@
     "MultiAssayExperiment",
     "scuttle"
   ],
-  "miaSim": [],
   "miaViz": [
     "mia",
     "scater",
@@ -4959,7 +4956,6 @@
     "VariantAnnotation"
   ],
   "ssviz": [],
-  "stJoincount": [],
   "standR": [
     "RUVSeq",
     "EDASeq",

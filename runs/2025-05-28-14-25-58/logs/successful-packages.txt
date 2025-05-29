@@ -1243,3 +1243,7 @@ spaSim
 spatialDE
 spatialFDA
 spatialSimGP
+concordexR
+miaSim
+stJoincount
+SVP
