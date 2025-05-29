@@ -206,7 +206,6 @@
     "genefilter",
     "annotate"
   ],
-  "BioTIP": [],
   "BiocHubsShiny": [],
   "BiocSet": [],
   "BubbleTree": [
@@ -1374,7 +1373,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "NetSAM": [],
   "NormalyzerDE": [],
   "NormqPCR": [],
   "OGRE": [
