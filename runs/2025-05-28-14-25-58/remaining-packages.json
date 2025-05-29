@@ -26,7 +26,6 @@
   ],
   "Damsel": [],
   "DeMixT": [],
-  "DegNorm": [],
   "EpiCompare": [],
   "FLAMES": [],
   "FRASER": [],
@@ -34,9 +33,7 @@
   "GUIDEseq": [],
   "GenomicInteractions": [],
   "GenomicOZone": [],
-  "GenomicPlot": [
-    "RCAS"
-  ],
+  "GenomicPlot": [],
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
@@ -60,7 +57,6 @@
   "NormqPCR": [],
   "PhenStat": [],
   "R3CPET": [],
-  "RCAS": [],
   "REDseq": [],
   "REMP": [],
   "RNAmodR.AlkAnilineSeq": [],
@@ -122,7 +118,6 @@
   "dmrseq": [
     "annotatr"
   ],
-  "epimutacions": [],
   "epivizr": [],
   "epivizrChart": [],
   "epivizrStandalone": [
@@ -157,7 +152,6 @@
     "annotatr"
   ],
   "scruff": [],
-  "shinyepico": [],
   "skewr": [
     "wateRmelon",
     "lumi"
@@ -167,7 +161,6 @@
     "GenomicInteractions"
   ],
   "tadar": [],
-  "terraTCGAdata": [],
   "tidyomics": [],
   "transmogR": [],
   "velociraptor": [],

@@ -2126,3 +2126,8 @@ methylumi
 rgsepd
 signifinder
 VanillaICE
+DegNorm
+epimutacions
+RCAS
+shinyepico
+terraTCGAdata

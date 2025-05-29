@@ -1,4 +1,1 @@
-MinimumDistance
-RnBeads
-lumi
-missMethyl
+GenomicPlot
