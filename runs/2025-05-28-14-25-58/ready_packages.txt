@@ -1,8 +1,6 @@
-ADaCGH2
-MatrixRider
-MethReg
-chromVAR
-monaLisa
-motifStack
-motifmatchr
-primirTSS
+ChIPpeakAnno
+FRASER
+RgnTX
+UMI4Cats
+annotatr
+regioneReloaded

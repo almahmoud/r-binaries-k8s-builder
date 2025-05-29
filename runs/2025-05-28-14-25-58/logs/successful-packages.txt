@@ -1943,3 +1943,8 @@ PureCN
 seqsetvis
 TFBSTools
 tilingArray
+DegCre
+OUTRIDER
+regioneR
+scone
+vissE

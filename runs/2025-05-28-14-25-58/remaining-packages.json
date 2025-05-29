@@ -5,8 +5,7 @@
   "ASICS": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
-    "motifStack",
-    "regioneR"
+    "motifStack"
   ],
   "ATACseqTFEA": [
     "motifmatchr"
@@ -49,16 +48,13 @@
   "ChIPQC": [
     "DiffBind"
   ],
-  "ChIPpeakAnno": [
-    "regioneR"
-  ],
+  "ChIPpeakAnno": [],
   "CircSeqAlignTk": [
     "Rhisat2"
   ],
   "CleanUpRNAseq": [],
   "DEScan2": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "DExMA": [],
   "DMRcate": [
@@ -73,7 +69,6 @@
   "DeMixT": [
     "DSS"
   ],
-  "DegCre": [],
   "DegNorm": [],
   "DiffBind": [],
   "ELViS": [],
@@ -86,9 +81,7 @@
   "FLAMES": [
     "ggbio"
   ],
-  "FRASER": [
-    "OUTRIDER"
-  ],
+  "FRASER": [],
   "G4SNVHunter": [],
   "GA4GHclient": [],
   "GA4GHshiny": [
@@ -98,8 +91,7 @@
   "GSEABenchmarkeR": [],
   "GSRI": [],
   "GUIDEseq": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "GenomicInteractions": [],
   "GenomicOZone": [
@@ -152,8 +144,7 @@
     "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno",
-    "motifStack",
-    "regioneR"
+    "motifStack"
   ],
   "NanoMethViz": [],
   "NormqPCR": [],
@@ -162,7 +153,6 @@
     "HelloRanges"
   ],
   "ORFik": [],
-  "OUTRIDER": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "Pviz": [],
@@ -172,8 +162,7 @@
   ],
   "RCAS": [],
   "REDseq": [
-    "ChIPpeakAnno",
-    "regioneR"
+    "ChIPpeakAnno"
   ],
   "REMP": [
     "minfi"
@@ -198,9 +187,7 @@
   "ReportingTools": [
     "ggbio"
   ],
-  "RgnTX": [
-    "regioneR"
-  ],
+  "RgnTX": [],
   "Rhisat2": [],
   "RiboDiPA": [],
   "RiboProfiling": [
@@ -217,8 +204,7 @@
   "Rqc": [],
   "SMITE": [],
   "SOMNiBUS": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "SPLINTER": [],
   "SigCheck": [],
@@ -234,9 +220,7 @@
   "TFutils": [],
   "TVTB": [],
   "TissueEnrich": [],
-  "UMI4Cats": [
-    "regioneR"
-  ],
+  "UMI4Cats": [],
   "Ularcirc": [],
   "VCFArray": [],
   "VaSP": [],
@@ -256,9 +240,7 @@
     "ggbio"
   ],
   "annmap": [],
-  "annotatr": [
-    "regioneR"
-  ],
+  "annotatr": [],
   "arrayMvout": [
     "lumi",
     "methylumi",
@@ -278,8 +260,7 @@
   "biosigner": [],
   "biscuiteer": [
     "dmrseq",
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "blacksheepr": [],
   "borealis": [
@@ -347,8 +328,7 @@
   "diffHic": [],
   "diffUTR": [],
   "dmrseq": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "doubletrouble": [],
   "dreamlet": [
@@ -431,8 +411,7 @@
   ],
   "methInheritSim": [],
   "methodical": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
   "methylCC": [
     "minfi"
@@ -506,10 +485,7 @@
   "regionReport": [
     "derfinder"
   ],
-  "regioneR": [],
-  "regioneReloaded": [
-    "regioneR"
-  ],
+  "regioneReloaded": [],
   "regutools": [],
   "rgsepd": [],
   "ribosomeProfilingQC": [
@@ -528,10 +504,8 @@
   "scanMiRApp": [],
   "scifer": [],
   "scmeth": [
-    "annotatr",
-    "regioneR"
+    "annotatr"
   ],
-  "scone": [],
   "scoreInvHap": [],
   "scruff": [
     "ggbio"
@@ -574,15 +548,13 @@
   "transmogR": [],
   "uncoverappLib": [],
   "velociraptor": [],
-  "vissE": [],
   "vmrseq": [],
   "vtpnet": [
     "gwascat"
   ],
   "vulcan": [
     "ChIPpeakAnno",
-    "DiffBind",
-    "regioneR"
+    "DiffBind"
   ],
   "wateRmelon": [
     "methylumi",

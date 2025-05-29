@@ -2102,3 +2102,9 @@ monaLisa
 motifStack
 motifmatchr
 primirTSS
+ChIPpeakAnno
+FRASER
+RgnTX
+UMI4Cats
+annotatr
+regioneReloaded
