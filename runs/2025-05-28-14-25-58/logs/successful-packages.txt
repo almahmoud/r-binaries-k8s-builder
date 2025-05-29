@@ -2108,3 +2108,8 @@ geomeTriD
 profileplyr
 scanMiRApp
 borealis
+ChIPpeakAnno
+deconvR
+interactiveDisplay
+recountmethylation
+shinyMethyl

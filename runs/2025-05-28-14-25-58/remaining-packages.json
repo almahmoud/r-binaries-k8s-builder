@@ -1,7 +1,5 @@
 {
-  "ATACseqQC": [
-    "ChIPpeakAnno"
-  ],
+  "ATACseqQC": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools"
@@ -23,10 +21,7 @@
     "methylumi",
     "lumi"
   ],
-  "ChIPpeakAnno": [],
-  "DEScan2": [
-    "ChIPpeakAnno"
-  ],
+  "DEScan2": [],
   "DMRcate": [
     "missMethyl",
     "methylumi"
@@ -39,9 +34,7 @@
   "FLAMES": [],
   "FRASER": [],
   "GSEABenchmarkeR": [],
-  "GUIDEseq": [
-    "ChIPpeakAnno"
-  ],
+  "GUIDEseq": [],
   "GenomicInteractions": [],
   "GenomicOZone": [],
   "GenomicPlot": [
@@ -72,16 +65,13 @@
     "VanillaICE"
   ],
   "NADfinder": [
-    "ATACseqQC",
-    "ChIPpeakAnno"
+    "ATACseqQC"
   ],
   "NormqPCR": [],
   "PhenStat": [],
   "R3CPET": [],
   "RCAS": [],
-  "REDseq": [
-    "ChIPpeakAnno"
-  ],
+  "REDseq": [],
   "REMP": [],
   "RNAmodR.AlkAnilineSeq": [],
   "RNAmodR.ML": [],
@@ -143,7 +133,6 @@
     "crisprScore"
   ],
   "cummeRbund": [],
-  "deconvR": [],
   "derfinderPlot": [],
   "dmrseq": [
     "annotatr"
@@ -166,7 +155,6 @@
   ],
   "iNETgrate": [],
   "intansv": [],
-  "interactiveDisplay": [],
   "lumi": [
     "methylumi"
   ],
@@ -191,7 +179,6 @@
   "pathMED": [],
   "proBAMr": [],
   "quantro": [],
-  "recountmethylation": [],
   "rgsepd": [],
   "scTreeViz": [
     "epivizr"
@@ -201,7 +188,6 @@
     "annotatr"
   ],
   "scruff": [],
-  "shinyMethyl": [],
   "shinyepico": [],
   "signifinder": [],
   "skewr": [
@@ -219,9 +205,7 @@
   "transmogR": [],
   "velociraptor": [],
   "vmrseq": [],
-  "vulcan": [
-    "ChIPpeakAnno"
-  ],
+  "vulcan": [],
   "wateRmelon": [
     "methylumi",
     "lumi"
