@@ -1867,3 +1867,7 @@ goseq
 iSEEu
 oppar
 ropls
+Basic4Cseq
+demuxSNP
+GOstats
+tximeta

@@ -19,7 +19,6 @@
   ],
   "AgiMicroRna": [
     "affycoretools",
-    "GOstats",
     "ReportingTools",
     "ggbio"
   ],
@@ -32,7 +31,6 @@
   ],
   "BSgenomeForge": [],
   "BadRegionFinder": [],
-  "Basic4Cseq": [],
   "BatchQC": [],
   "BgeeCall": [],
   "BiSeq": [],
@@ -126,7 +124,6 @@
   ],
   "GEOexplorer": [],
   "GOTHiC": [],
-  "GOstats": [],
   "GSEABenchmarkeR": [],
   "GSRI": [],
   "GUIDEseq": [
@@ -142,9 +139,7 @@
   "GenomicPlot": [
     "RCAS"
   ],
-  "GmicR": [
-    "GOstats"
-  ],
+  "GmicR": [],
   "HarmonizR": [],
   "HelloRanges": [],
   "HiCDCPlus": [
@@ -154,9 +149,7 @@
   "IntEREst": [
     "GenomicFiles"
   ],
-  "IsoformSwitchAnalyzeR": [
-    "tximeta"
-  ],
+  "IsoformSwitchAnalyzeR": [],
   "KnowSeq": [],
   "MAGAR": [
     "RnBeads",
@@ -192,7 +185,6 @@
     "minfi"
   ],
   "MineICA": [
-    "GOstats",
     "lumi",
     "methylumi",
     "minfi"
@@ -265,7 +257,6 @@
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [
-    "GOstats",
     "ggbio"
   ],
   "RgnTX": [
@@ -290,9 +281,7 @@
   ],
   "SCAN.UPC": [],
   "SEtools": [],
-  "SGCP": [
-    "GOstats"
-  ],
+  "SGCP": [],
   "SMITE": [],
   "SOMNiBUS": [
     "annotatr",
@@ -345,7 +334,6 @@
   ],
   "a4Base": [],
   "affycoretools": [
-    "GOstats",
     "ReportingTools",
     "ggbio"
   ],
@@ -363,9 +351,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "attract": [
-    "GOstats"
-  ],
+  "attract": [],
   "ballgown": [],
   "bandle": [
     "pRoloc"
@@ -397,9 +383,7 @@
   "canceR": [
     "phenoTest"
   ],
-  "categoryCompare": [
-    "GOstats"
-  ],
+  "categoryCompare": [],
   "cghMCR": [
     "CNTools"
   ],
@@ -455,7 +439,6 @@
   "deconvR": [
     "minfi"
   ],
-  "demuxSNP": [],
   "derfinder": [
     "GenomicFiles"
   ],
@@ -584,9 +567,7 @@
   "methylumi": [
     "minfi"
   ],
-  "miRLAB": [
-    "GOstats"
-  ],
+  "miRLAB": [],
   "miRSM": [],
   "minfi": [],
   "missMethyl": [
@@ -737,7 +718,6 @@
   "tilingArray": [],
   "trackViewer": [],
   "transmogR": [],
-  "tximeta": [],
   "uncoverappLib": [],
   "velociraptor": [],
   "vissE": [],

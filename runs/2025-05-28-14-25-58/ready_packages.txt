@@ -1,9 +1,6 @@
-ASICS
-MultiBaC
-SMITE
-biosigner
-iSEEfier
-lipidr
-phenomis
-rgsepd
-rqt
+GmicR
+IsoformSwitchAnalyzeR
+SGCP
+attract
+categoryCompare
+miRLAB
