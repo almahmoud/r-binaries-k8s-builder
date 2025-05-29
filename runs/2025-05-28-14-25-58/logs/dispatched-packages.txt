@@ -2119,3 +2119,5 @@ esATAC
 motifbreakR
 pageRank
 ribosomeProfilingQC
+recount
+regionReport

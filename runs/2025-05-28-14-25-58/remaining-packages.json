@@ -67,7 +67,6 @@
   ],
   "DegNorm": [],
   "DiffBind": [],
-  "ELViS": [],
   "ENmix": [
     "minfi"
   ],
@@ -157,8 +156,7 @@
     "minfi"
   ],
   "RNAAgeCalc": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "RNAmodR": [],
   "RNAmodR.AlkAnilineSeq": [
@@ -186,8 +184,7 @@
     "minfi"
   ],
   "RnaSeqSampleSize": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "Rqc": [],
   "SMITE": [],
@@ -296,9 +293,7 @@
   "deconvR": [
     "minfi"
   ],
-  "derfinder": [],
   "derfinderPlot": [
-    "derfinder",
     "ggbio"
   ],
   "diffHic": [],
@@ -428,22 +423,17 @@
   "profileplyr": [],
   "protGear": [],
   "psichomics": [
-    "recount",
-    "derfinder"
+    "recount"
   ],
   "quantro": [
     "minfi"
   ],
-  "recount": [
-    "derfinder"
-  ],
+  "recount": [],
   "recountmethylation": [
     "minfi"
   ],
   "recoup": [],
-  "regionReport": [
-    "derfinder"
-  ],
+  "regionReport": [],
   "regioneReloaded": [],
   "regutools": [],
   "rgsepd": [],
