@@ -1452,3 +1452,7 @@ velociraptor
 beer
 tidySpatialExperiment
 flowWorkspace
+SpatialExperimentIO
+SpatialFeatureExperiment
+regionalpcs
+scCB2
