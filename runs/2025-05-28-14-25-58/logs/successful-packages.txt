@@ -1964,3 +1964,7 @@ MungeSumstats
 signeR
 VarCon
 VCFArray
+monaLisa
+motifmatchr
+motifStack
+tRNAscanImport

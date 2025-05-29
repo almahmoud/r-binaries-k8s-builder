@@ -2110,3 +2110,12 @@ annotatr
 regioneReloaded
 OMICsPCA
 lisaClust
+ATACseqTFEA
+atSNP
+dagLogo
+enhancerHomologSearch
+epiregulon
+esATAC
+motifbreakR
+pageRank
+ribosomeProfilingQC

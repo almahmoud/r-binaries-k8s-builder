@@ -3,12 +3,9 @@
   "APAlyzer": [],
   "ASICS": [],
   "ATACseqQC": [
-    "ChIPpeakAnno",
-    "motifStack"
+    "ChIPpeakAnno"
   ],
-  "ATACseqTFEA": [
-    "motifmatchr"
-  ],
+  "ATACseqTFEA": [],
   "AgiMicroRna": [
     "affycoretools",
     "ReportingTools",
@@ -139,8 +136,7 @@
   "NADfinder": [
     "trackViewer",
     "ATACseqQC",
-    "ChIPpeakAnno",
-    "motifStack"
+    "ChIPpeakAnno"
   ],
   "NanoMethViz": [],
   "NormqPCR": [],
@@ -237,9 +233,7 @@
     "minfi"
   ],
   "arrayQualityMetrics": [],
-  "atSNP": [
-    "motifStack"
-  ],
+  "atSNP": [],
   "bigmelon": [
     "wateRmelon",
     "minfi",
@@ -301,9 +295,7 @@
   ],
   "cummeRbund": [],
   "customProDB": [],
-  "dagLogo": [
-    "motifStack"
-  ],
+  "dagLogo": [],
   "deconvR": [
     "minfi"
   ],
@@ -323,15 +315,11 @@
   ],
   "drugTargetInteractions": [],
   "edge": [],
-  "enhancerHomologSearch": [
-    "motifmatchr"
-  ],
+  "enhancerHomologSearch": [],
   "epimutacions": [
     "minfi"
   ],
-  "epiregulon": [
-    "motifmatchr"
-  ],
+  "epiregulon": [],
   "epivizr": [
     "epivizrData"
   ],
@@ -343,9 +331,7 @@
     "epivizr",
     "epivizrData"
   ],
-  "esATAC": [
-    "motifmatchr"
-  ],
+  "esATAC": [],
   "fCCAC": [],
   "ffpe": [
     "lumi",
@@ -423,12 +409,7 @@
     "minfi"
   ],
   "mitoClone2": [],
-  "monaLisa": [],
-  "motifStack": [],
-  "motifbreakR": [
-    "motifStack"
-  ],
-  "motifmatchr": [],
+  "motifbreakR": [],
   "msgbsR": [
     "ggbio"
   ],
@@ -440,9 +421,7 @@
   ],
   "octad": [],
   "omicRexposome": [],
-  "pageRank": [
-    "motifmatchr"
-  ],
+  "pageRank": [],
   "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
@@ -472,9 +451,7 @@
   "regioneReloaded": [],
   "regutools": [],
   "rgsepd": [],
-  "ribosomeProfilingQC": [
-    "motifStack"
-  ],
+  "ribosomeProfilingQC": [],
   "rnaEditr": [],
   "rqt": [],
   "scBFA": [
@@ -515,12 +492,10 @@
   ],
   "sparrow": [],
   "spatzie": [
-    "GenomicInteractions",
-    "motifmatchr"
+    "GenomicInteractions"
   ],
   "srnadiff": [],
   "standR": [],
-  "tRNAscanImport": [],
   "tadar": [],
   "terraTCGAdata": [],
   "tidyomics": [],
