@@ -2121,3 +2121,6 @@ pageRank
 ribosomeProfilingQC
 recount
 regionReport
+GA4GHshiny
+clusterExperiment
+scBFA

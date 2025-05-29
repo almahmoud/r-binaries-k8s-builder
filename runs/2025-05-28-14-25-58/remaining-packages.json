@@ -78,10 +78,7 @@
   ],
   "FRASER": [],
   "G4SNVHunter": [],
-  "GA4GHclient": [],
-  "GA4GHshiny": [
-    "GA4GHclient"
-  ],
+  "GA4GHshiny": [],
   "GOTHiC": [],
   "GSEABenchmarkeR": [],
   "GSRI": [],
@@ -259,10 +256,7 @@
   "circRNAprofiler": [
     "gwascat"
   ],
-  "clusterExperiment": [
-    "zinbwave"
-  ],
-  "coMethDMR": [],
+  "clusterExperiment": [],
   "comapr": [],
   "consensusDE": [],
   "consensusOV": [],
@@ -297,7 +291,6 @@
     "ggbio"
   ],
   "diffHic": [],
-  "diffUTR": [],
   "dmrseq": [
     "annotatr"
   ],
@@ -358,7 +351,6 @@
   ],
   "lineagespot": [],
   "lipidr": [],
-  "lisaClust": [],
   "lumi": [
     "methylumi",
     "minfi"
@@ -407,8 +399,7 @@
   "musicatk": [],
   "myvariant": [],
   "netSmooth": [
-    "clusterExperiment",
-    "zinbwave"
+    "clusterExperiment"
   ],
   "octad": [],
   "omicRexposome": [],
@@ -417,7 +408,6 @@
   "periodicDNA": [],
   "phenoTest": [],
   "phenomis": [],
-  "primirTSS": [],
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
@@ -440,9 +430,7 @@
   "ribosomeProfilingQC": [],
   "rnaEditr": [],
   "rqt": [],
-  "scBFA": [
-    "zinbwave"
-  ],
+  "scBFA": [],
   "scClassify": [],
   "scTreeViz": [
     "epivizr",
@@ -506,6 +494,5 @@
     "quantro",
     "minfi"
   ],
-  "zenith": [],
-  "zinbwave": []
+  "zenith": []
 }

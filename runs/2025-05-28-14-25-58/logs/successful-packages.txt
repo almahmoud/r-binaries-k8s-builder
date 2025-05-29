@@ -1975,3 +1975,9 @@ TFutils
 xCell2
 derfinder
 ELViS
+coMethDMR
+diffUTR
+GA4GHclient
+lisaClust
+primirTSS
+zinbwave
