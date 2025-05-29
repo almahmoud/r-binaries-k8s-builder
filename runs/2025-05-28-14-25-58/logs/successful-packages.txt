@@ -1499,3 +1499,10 @@ ggsc
 infercnv
 IsoBayes
 LRBaseDbi
+doseR
+hdxmsqc
+HiCDOC
+SingleR
+SubCellBarCode
+systemPipeTools
+TCGAbiolinks
