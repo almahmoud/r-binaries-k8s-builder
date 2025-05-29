@@ -98,9 +98,7 @@
     "OrganismDbi",
     "GenomicAlignments"
   ],
-  "BASiCStan": [
-    "glmGamPoi"
-  ],
+  "BASiCStan": [],
   "BBCAnalyzer": [
     "VariantAnnotation",
     "rtracklayer",
@@ -1242,7 +1240,6 @@
     "GenomicAlignments",
     "BSgenome"
   ],
-  "MsQuality": [],
   "MultiBaC": [
     "ropls",
     "MultiDataSet"
@@ -2392,7 +2389,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "ccImpute": [],
   "ccfindR": [],
   "censcyt": [
     "diffcyt"
@@ -2680,7 +2676,6 @@
     "destiny",
     "miloR"
   ],
-  "dar": [],
   "debCAM": [],
   "debrowser": [
     "annotate",
@@ -3036,7 +3031,6 @@
   "ginmappeR": [
     "UniProt.ws"
   ],
-  "glmGamPoi": [],
   "glmSparseNet": [
     "TCGAutils",
     "GenomicFeatures",
@@ -3213,9 +3207,7 @@
     "GenomicAlignments"
   ],
   "knowYourCG": [],
-  "lemur": [
-    "glmGamPoi"
-  ],
+  "lemur": [],
   "limpca": [],
   "lineagespot": [
     "VariantAnnotation",
@@ -3923,7 +3915,6 @@
     "ropls",
     "MultiDataSet"
   ],
-  "rrvgo": [],
   "rtracklayer": [
     "GenomicAlignments"
   ],
@@ -3948,7 +3939,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "scAnnotatR": [],
   "scBFA": [
     "zinbwave",
     "genefilter",
@@ -4332,9 +4322,7 @@
     "rtracklayer",
     "ShortRead"
   ],
-  "transformGamPoi": [
-    "glmGamPoi"
-  ],
+  "transformGamPoi": [],
   "transmogR": [
     "BSgenome",
     "GenomicFeatures",

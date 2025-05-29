@@ -1552,3 +1552,6 @@ TDbasedUFEadv
 clusterProfiler
 enrichViewNet
 meshes
+BASiCStan
+lemur
+transformGamPoi
