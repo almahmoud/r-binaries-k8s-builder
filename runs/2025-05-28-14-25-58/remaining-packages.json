@@ -271,7 +271,6 @@
     "rtracklayer",
     "GenomicFeatures"
   ],
-  "CTexploreR": [],
   "CaMutQC": [
     "clusterProfiler"
   ],
@@ -335,9 +334,7 @@
     "rtracklayer",
     "BSgenome"
   ],
-  "ChIPXpress": [
-    "frma"
-  ],
+  "ChIPXpress": [],
   "ChIPanalyser": [
     "BSgenome",
     "rtracklayer"
@@ -2474,7 +2471,6 @@
   "epiregulon.extra": [
     "clusterProfiler"
   ],
-  "epistack": [],
   "epivizr": [
     "epivizrData",
     "bumphunter",
@@ -2559,7 +2555,6 @@
   ],
   "flowFP": [],
   "flowVS": [],
-  "frma": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -2710,32 +2705,17 @@
     "annotate",
     "rtracklayer"
   ],
-  "iSEE": [],
-  "iSEEde": [
-    "iSEE"
-  ],
+  "iSEEde": [],
   "iSEEfier": [
-    "iSEE",
     "iSEEu",
     "iSEEhex"
   ],
-  "iSEEhex": [
-    "iSEE"
-  ],
-  "iSEEhub": [
-    "iSEE"
-  ],
-  "iSEEindex": [
-    "iSEE"
-  ],
-  "iSEEpathways": [
-    "iSEE"
-  ],
-  "iSEEtree": [
-    "iSEE"
-  ],
+  "iSEEhex": [],
+  "iSEEhub": [],
+  "iSEEindex": [],
+  "iSEEpathways": [],
+  "iSEEtree": [],
   "iSEEu": [
-    "iSEE",
     "iSEEhex"
   ],
   "icetea": [
@@ -2970,7 +2950,6 @@
     "clusterProfiler"
   ],
   "miaDash": [
-    "iSEE",
     "iSEEtree"
   ],
   "minfi": [
@@ -3431,7 +3410,6 @@
     "annotate"
   ],
   "scHOT": [],
-  "scMET": [],
   "scMerge": [
     "M3Drop"
   ],
@@ -3645,7 +3623,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "ssviz": [],
   "standR": [
     "RUVSeq",
     "EDASeq",

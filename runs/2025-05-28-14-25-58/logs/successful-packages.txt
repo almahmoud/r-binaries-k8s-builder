@@ -1472,3 +1472,9 @@ ccfindR
 GRmetrics
 ITALICS
 miloR
+CTexploreR
+epistack
+frma
+iSEE
+scMET
+ssviz

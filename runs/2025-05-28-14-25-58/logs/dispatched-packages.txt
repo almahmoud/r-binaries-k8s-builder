@@ -1587,3 +1587,10 @@ mosaics
 prebs
 ramwas
 rtracklayer
+ChIPXpress
+iSEEde
+iSEEhex
+iSEEhub
+iSEEindex
+iSEEpathways
+iSEEtree
