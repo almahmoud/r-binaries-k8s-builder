@@ -1486,3 +1486,7 @@ lute
 msImpute
 pipeComp
 scDD
+PeacoQC
+flowStats
+ggcyto
+openCyto

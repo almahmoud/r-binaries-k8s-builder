@@ -1326,3 +1326,10 @@ MBQN
 scran
 splatter
 tomoda
+flowWorkspace
+isomiRs
+MOFA2
+PIUMA
+RNAsense
+SpatialExperimentIO
+SplineDV
