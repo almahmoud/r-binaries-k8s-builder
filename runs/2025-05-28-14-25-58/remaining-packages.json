@@ -2338,7 +2338,6 @@
     "flowFP"
   ],
   "flowFP": [],
-  "flowVS": [],
   "funtooNorm": [
     "minfi",
     "bumphunter",
@@ -3109,7 +3108,6 @@
     "rtracklayer"
   ],
   "scDesign3": [],
-  "scDotPlot": [],
   "scFeatures": [
     "GSVA",
     "ensembldb",
