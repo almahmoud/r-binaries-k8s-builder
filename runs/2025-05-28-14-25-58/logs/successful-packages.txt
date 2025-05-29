@@ -1730,3 +1730,16 @@ magpie
 Moonlight2R
 plyinteractions
 qpgraph
+AnnotationHubData
+EventPointer
+GeneMeta
+GSReg
+nullranges
+plotgardener
+Rbec
+rCGH
+strandCheckR
+syntenet
+transcriptR
+txdbmaker
+wavClusteR
