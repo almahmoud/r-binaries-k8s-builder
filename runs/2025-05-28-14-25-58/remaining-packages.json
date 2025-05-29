@@ -8,9 +8,7 @@
   "ASICS": [
     "ropls"
   ],
-  "ASSIGN": [
-    "sva"
-  ],
+  "ASSIGN": [],
   "ASpli": [],
   "ATACseqQC": [
     "ChIPpeakAnno",
@@ -31,23 +29,17 @@
   "AllelicImbalance": [],
   "BBCAnalyzer": [],
   "BEAT": [],
-  "BERT": [
-    "sva"
-  ],
+  "BERT": [],
   "BOBaFIT": [
     "ggbio"
   ],
   "BSgenomeForge": [],
   "BadRegionFinder": [],
   "Basic4Cseq": [],
-  "BatchQC": [
-    "sva"
-  ],
+  "BatchQC": [],
   "BgeeCall": [],
   "BiSeq": [],
-  "BioNERO": [
-    "sva"
-  ],
+  "BioNERO": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
@@ -72,7 +64,6 @@
   "ChAMP": [
     "minfi",
     "DMRcate",
-    "sva",
     "wateRmelon",
     "goseq",
     "missMethyl",
@@ -89,32 +80,26 @@
     "Rhisat2"
   ],
   "CleanUpRNAseq": [
-    "qsmooth",
-    "sva"
+    "qsmooth"
   ],
   "DEScan2": [
     "ChIPpeakAnno",
     "regioneR"
   ],
-  "DExMA": [
-    "sva"
-  ],
+  "DExMA": [],
   "DMRcate": [
     "minfi",
     "missMethyl",
     "methylumi"
   ],
   "DSS": [],
-  "DaMiRseq": [
-    "sva"
-  ],
+  "DaMiRseq": [],
   "Damsel": [
     "ggbio",
     "goseq"
   ],
   "DeMixT": [
-    "DSS",
-    "sva"
+    "DSS"
   ],
   "DegCre": [],
   "DegNorm": [],
@@ -142,12 +127,9 @@
     "GA4GHclient"
   ],
   "GARS": [
-    "DaMiRseq",
-    "sva"
+    "DaMiRseq"
   ],
-  "GEOexplorer": [
-    "sva"
-  ],
+  "GEOexplorer": [],
   "GOTHiC": [],
   "GOstats": [],
   "GSEABenchmarkeR": [],
@@ -168,9 +150,7 @@
   "GmicR": [
     "GOstats"
   ],
-  "HarmonizR": [
-    "sva"
-  ],
+  "HarmonizR": [],
   "HelloRanges": [],
   "HiCDCPlus": [
     "GenomicInteractions"
@@ -180,26 +160,20 @@
     "GenomicFiles"
   ],
   "IsoformSwitchAnalyzeR": [
-    "sva",
     "tximeta"
   ],
-  "KnowSeq": [
-    "sva"
-  ],
+  "KnowSeq": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
     "minfi"
   ],
   "MAIT": [],
-  "MBECS": [
-    "sva"
-  ],
+  "MBECS": [],
   "MEAL": [
     "minfi",
     "missMethyl",
-    "methylumi",
-    "sva"
+    "methylumi"
   ],
   "MEAT": [
     "minfi",
@@ -208,12 +182,8 @@
     "lumi"
   ],
   "MIRA": [],
-  "MSPrep": [
-    "sva"
-  ],
-  "MatrixQCvis": [
-    "sva"
-  ],
+  "MSPrep": [],
+  "MatrixQCvis": [],
   "MatrixRider": [
     "TFBSTools"
   ],
@@ -256,19 +226,12 @@
   ],
   "ORFik": [],
   "OUTRIDER": [],
-  "PAA": [
-    "sva"
-  ],
-  "POMA": [
-    "sva"
-  ],
+  "PAA": [],
+  "POMA": [],
   "PRONE": [
-    "POMA",
-    "sva"
+    "POMA"
   ],
-  "PROPS": [
-    "sva"
-  ],
+  "PROPS": [],
   "PhenStat": [],
   "ProteoDisco": [],
   "PureCN": [],
@@ -332,12 +295,8 @@
   "Rqc": [
     "GenomicFiles"
   ],
-  "SCAN.UPC": [
-    "sva"
-  ],
-  "SEtools": [
-    "sva"
-  ],
+  "SCAN.UPC": [],
+  "SEtools": [],
   "SGCP": [
     "GOstats"
   ],
@@ -359,8 +318,7 @@
   ],
   "Statial": [],
   "TBSignatureProfiler": [
-    "ASSIGN",
-    "sva"
+    "ASSIGN"
   ],
   "TFBSTools": [],
   "TFHAZ": [
@@ -380,8 +338,7 @@
     "GenomicFiles"
   ],
   "VaSP": [
-    "ballgown",
-    "sva"
+    "ballgown"
   ],
   "VanillaICE": [],
   "VarCon": [],
@@ -418,9 +375,7 @@
   "attract": [
     "GOstats"
   ],
-  "ballgown": [
-    "sva"
-  ],
+  "ballgown": [],
   "bandle": [
     "pRoloc"
   ],
@@ -440,20 +395,15 @@
     "regioneR"
   ],
   "blacksheepr": [],
-  "bnbc": [
-    "sva"
-  ],
-  "bnem": [
-    "sva"
-  ],
+  "bnbc": [],
+  "bnem": [],
   "borealis": [
     "DSS"
   ],
   "broadSeq": [],
   "cageminer": [
     "ggbio",
-    "BioNERO",
-    "sva"
+    "BioNERO"
   ],
   "canceR": [
     "phenoTest"
@@ -513,9 +463,7 @@
     "motifStack",
     "TFBSTools"
   ],
-  "debrowser": [
-    "sva"
-  ],
+  "debrowser": [],
   "deconvR": [
     "minfi"
   ],
@@ -534,17 +482,13 @@
     "annotatr",
     "regioneR"
   ],
-  "doppelgangR": [
-    "sva"
-  ],
+  "doppelgangR": [],
   "doubletrouble": [],
   "dreamlet": [
     "zenith"
   ],
   "drugTargetInteractions": [],
-  "edge": [
-    "sva"
-  ],
+  "edge": [],
   "enhancerHomologSearch": [
     "motifmatchr",
     "TFBSTools"
@@ -692,9 +636,7 @@
     "zinbwave"
   ],
   "octad": [],
-  "omicRexposome": [
-    "sva"
-  ],
+  "omicRexposome": [],
   "oppar": [],
   "pRoloc": [],
   "pRolocGUI": [
@@ -704,9 +646,7 @@
     "motifmatchr",
     "TFBSTools"
   ],
-  "pairedGSEA": [
-    "sva"
-  ],
+  "pairedGSEA": [],
   "pathMED": [],
   "periodicDNA": [],
   "phenoTest": [],
@@ -726,12 +666,8 @@
     "derfinder",
     "GenomicFiles"
   ],
-  "qsmooth": [
-    "sva"
-  ],
-  "qsvaR": [
-    "sva"
-  ],
+  "qsmooth": [],
+  "qsvaR": [],
   "quantro": [
     "minfi"
   ],
@@ -820,7 +756,6 @@
   "spicyR": [],
   "srnadiff": [],
   "standR": [],
-  "sva": [],
   "tRNAscanImport": [],
   "tadar": [],
   "terraTCGAdata": [],
@@ -828,7 +763,6 @@
   "tilingArray": [],
   "trackViewer": [],
   "transmogR": [],
-  "txcutr": [],
   "tximeta": [],
   "uncoverappLib": [],
   "velociraptor": [],

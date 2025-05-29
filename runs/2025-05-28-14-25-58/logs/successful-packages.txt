@@ -1859,3 +1859,5 @@ ChIPexoQual
 DAMEfinder
 Gviz
 rTRMui
+sva
+txcutr

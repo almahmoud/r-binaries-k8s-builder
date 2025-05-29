@@ -5,3 +5,4 @@ scifer
 crisprScore
 BulkSignalR
 velociraptor
+Repitools
