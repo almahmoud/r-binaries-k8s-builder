@@ -786,7 +786,6 @@
   ],
   "PanomiR": [],
   "PhenStat": [],
-  "Prostar": [],
   "ProteoDisco": [
     "GenomicFeatures",
     "VariantAnnotation",
@@ -857,10 +856,7 @@
     "VariantAnnotation",
     "GenomicFeatures"
   ],
-  "RJMCMCNucleosomes": [
-    "consensusSeekeR"
-  ],
-  "RMassBank": [],
+  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -1090,7 +1086,6 @@
   "TCGAutils": [
     "GenomicFeatures"
   ],
-  "TEKRABber": [],
   "TENET": [
     "BSgenome"
   ],
@@ -1468,7 +1463,6 @@
   "consensusOV": [
     "GSVA"
   ],
-  "consensusSeekeR": [],
   "conumee": [
     "minfi",
     "bumphunter",
@@ -1640,7 +1634,6 @@
   "ensembldb": [
     "GenomicFeatures"
   ],
-  "epidecodeR": [],
   "epimutacions": [
     "minfi",
     "bumphunter",
@@ -2266,7 +2259,6 @@
     "AUCell",
     "GenomicFeatures"
   ],
-  "scMerge": [],
   "scPipe": [],
   "scRNAseqApp": [],
   "scTGIF": [],

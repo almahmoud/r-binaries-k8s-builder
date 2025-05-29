@@ -1648,3 +1648,9 @@ ChromHeatMap
 DMCFB
 HiTC
 SCANVIS
+consensusSeekeR
+epidecodeR
+Prostar
+RMassBank
+scMerge
+TEKRABber
