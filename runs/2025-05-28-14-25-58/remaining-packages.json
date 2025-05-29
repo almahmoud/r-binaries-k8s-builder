@@ -2250,7 +2250,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "autonomics": [],
   "ballgown": [
     "sva",
     "rtracklayer",
