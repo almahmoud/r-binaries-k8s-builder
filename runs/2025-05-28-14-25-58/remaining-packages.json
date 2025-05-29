@@ -87,7 +87,6 @@
     "VanillaICE"
   ],
   "NADfinder": [
-    "trackViewer",
     "ATACseqQC",
     "ChIPpeakAnno"
   ],
@@ -124,7 +123,6 @@
   "YAPSA": [
     "SomaticSignatures"
   ],
-  "a4": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -201,9 +199,7 @@
   "funtooNorm": [
     "minfi"
   ],
-  "geomeTriD": [
-    "trackViewer"
-  ],
+  "geomeTriD": [],
   "iCNV": [],
   "iCheck": [
     "lumi",
@@ -299,7 +295,6 @@
   "tadar": [],
   "terraTCGAdata": [],
   "tidyomics": [],
-  "trackViewer": [],
   "transmogR": [],
   "velociraptor": [],
   "vmrseq": [],
