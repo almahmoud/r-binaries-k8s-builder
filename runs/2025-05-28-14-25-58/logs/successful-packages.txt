@@ -1298,3 +1298,7 @@ BatchSVG
 beer
 eisaR
 ncdfFlow
+MesKit
+RolDE
+SCArray.sat
+scRepertoire

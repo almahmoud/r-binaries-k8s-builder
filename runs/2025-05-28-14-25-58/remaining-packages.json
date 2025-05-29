@@ -347,7 +347,6 @@
   "CTexploreR": [],
   "CaMutQC": [
     "clusterProfiler",
-    "MesKit",
     "enrichplot"
   ],
   "Category": [
@@ -1317,7 +1316,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "MesKit": [],
   "MetaPhOR": [
     "clusterProfiler",
     "enrichplot"
@@ -1931,7 +1929,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "RolDE": [],
   "Rqc": [
     "ShortRead",
     "biovizBase",
@@ -1960,7 +1957,6 @@
     "rtracklayer",
     "GenomicAlignments"
   ],
-  "SCArray.sat": [],
   "SCOPE": [
     "BSgenome",
     "rtracklayer",
@@ -4543,7 +4539,6 @@
     "GenomicAlignments"
   ],
   "scReClassify": [],
-  "scRepertoire": [],
   "scTGIF": [
     "GSEABase",
     "annotate"
