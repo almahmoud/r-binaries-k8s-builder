@@ -55,7 +55,6 @@
     "methylumi",
     "lumi"
   ],
-  "MethylAid": [],
   "MineICA": [
     "lumi",
     "methylumi"
@@ -146,7 +145,6 @@
     "lumi",
     "methylumi"
   ],
-  "iCNV": [],
   "iCheck": [
     "lumi",
     "methylumi"
@@ -160,7 +158,6 @@
   "methodical": [
     "annotatr"
   ],
-  "methylCC": [],
   "methylGSA": [
     "missMethyl",
     "methylumi"
@@ -169,7 +166,6 @@
   "missMethyl": [
     "methylumi"
   ],
-  "mitoClone2": [],
   "msgbsR": [],
   "musicatk": [],
   "pathMED": [],

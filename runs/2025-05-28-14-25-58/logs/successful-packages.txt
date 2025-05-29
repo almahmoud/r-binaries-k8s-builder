@@ -2118,3 +2118,7 @@ netSmooth
 quantro
 ENmix
 methylclock
+iCNV
+MethylAid
+methylCC
+mitoClone2
