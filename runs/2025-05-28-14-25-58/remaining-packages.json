@@ -52,7 +52,6 @@
     "minfi"
   ],
   "EpiCompare": [],
-  "EpiTxDb": [],
   "ExperimentHubData": [],
   "FLAMES": [
     "ggbio"
@@ -74,7 +73,6 @@
   "HiCDCPlus": [
     "GenomicInteractions"
   ],
-  "IMAS": [],
   "IntEREst": [],
   "MAGAR": [
     "RnBeads",
@@ -186,7 +184,6 @@
     "methylumi",
     "lumi"
   ],
-  "biomvRCNS": [],
   "biscuiteer": [
     "dmrseq",
     "annotatr"
@@ -276,7 +273,6 @@
   "iNETgrate": [
     "minfi"
   ],
-  "igvR": [],
   "intansv": [
     "ggbio"
   ],
@@ -330,7 +326,6 @@
   "pageRank": [],
   "pathMED": [],
   "periodicDNA": [],
-  "phenomis": [],
   "proActiv": [],
   "proBAMr": [],
   "profileplyr": [],
