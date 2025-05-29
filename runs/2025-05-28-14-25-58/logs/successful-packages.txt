@@ -2149,3 +2149,4 @@ GenomicInteractions
 vmrseq
 RiboProfiling
 SMITE
+cummeRbund
