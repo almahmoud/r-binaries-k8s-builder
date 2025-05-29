@@ -1510,3 +1510,7 @@ alabaster.sce
 PhyloProfile
 VDJdive
 webbioc
+CATALYST
+CellMixS
+gCrisprTools
+M3Drop

@@ -209,7 +209,6 @@
   "CAMERA": [
     "xcms"
   ],
-  "CATALYST": [],
   "CBNplot": [
     "clusterProfiler"
   ],
@@ -270,7 +269,6 @@
   "CellBarcode": [
     "ShortRead"
   ],
-  "CellMixS": [],
   "CelliD": [],
   "Cepo": [
     "GSEABase"
@@ -848,7 +846,6 @@
     "sva",
     "genefilter"
   ],
-  "M3Drop": [],
   "MAGAR": [
     "RnBeads",
     "methylumi",
@@ -2153,9 +2150,7 @@
     "txdbmaker",
     "BSgenome"
   ],
-  "cytofQC": [
-    "CATALYST"
-  ],
+  "cytofQC": [],
   "dada2": [
     "ShortRead"
   ],
@@ -2400,7 +2395,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "gCrisprTools": [],
   "gDR": [
     "gDRimport"
   ],
@@ -3188,9 +3182,7 @@
     "rtracklayer"
   ],
   "scHOT": [],
-  "scMerge": [
-    "M3Drop"
-  ],
+  "scMerge": [],
   "scPipe": [
     "rtracklayer"
   ],
@@ -3370,9 +3362,7 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "spillR": [
-    "CATALYST"
-  ],
+  "spillR": [],
   "splineTimeR": [
     "GSEABase"
   ],
