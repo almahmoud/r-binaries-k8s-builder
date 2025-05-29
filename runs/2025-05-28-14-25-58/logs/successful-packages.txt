@@ -1457,3 +1457,5 @@ mimager
 NormalyzerDE
 Pirat
 puma
+Macarron
+SimBu

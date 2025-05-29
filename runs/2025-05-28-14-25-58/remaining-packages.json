@@ -1124,7 +1124,6 @@
   "MSstatsQCgui": [
     "MSstatsQC"
   ],
-  "Macarron": [],
   "MatrixQCvis": [
     "sva",
     "genefilter",
@@ -1764,7 +1763,6 @@
     "GenomicAlignments",
     "GenomicFeatures"
   ],
-  "SimBu": [],
   "SingleMoleculeFootprinting": [
     "BSgenome",
     "plyranges",
