@@ -83,7 +83,6 @@
     "bsseq"
   ],
   "CODEX": [],
-  "CRISPRseek": [],
   "Category": [],
   "Cepo": [],
   "CexoR": [
@@ -207,7 +206,6 @@
   "GSRI": [],
   "GSVA": [],
   "GUIDEseq": [
-    "CRISPRseek",
     "ChIPpeakAnno",
     "regioneR"
   ],
@@ -373,7 +371,6 @@
   "R3CPET": [
     "ggbio"
   ],
-  "RAIDS": [],
   "RCAS": [
     "genomation"
   ],
@@ -410,7 +407,6 @@
   ],
   "RTCGAToolbox": [],
   "RUVSeq": [],
-  "RareVariantVis": [],
   "RbowtieCuda": [],
   "RcisTarget": [
     "AUCell"
@@ -477,7 +473,6 @@
   "SparseSignatures": [],
   "SpliceWiz": [],
   "Statial": [],
-  "StructuralVariantAnnotation": [],
   "TBSignatureProfiler": [
     "ASSIGN",
     "GSVA",
@@ -1117,12 +1112,8 @@
     "RUVSeq"
   ],
   "sva": [],
-  "svaNUMT": [
-    "StructuralVariantAnnotation"
-  ],
-  "svaRetro": [
-    "StructuralVariantAnnotation"
-  ],
+  "svaNUMT": [],
+  "svaRetro": [],
   "tLOH": [],
   "tRNAscanImport": [],
   "tadar": [

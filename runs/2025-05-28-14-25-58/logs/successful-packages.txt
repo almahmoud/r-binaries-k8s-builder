@@ -1760,3 +1760,7 @@ SNPhood
 Uniquorn
 UPDhmm
 ZygosityPredictor
+CRISPRseek
+RAIDS
+RareVariantVis
+StructuralVariantAnnotation
