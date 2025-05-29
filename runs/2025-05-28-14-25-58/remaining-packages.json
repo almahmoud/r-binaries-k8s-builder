@@ -1668,7 +1668,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "airpart": [],
   "alabaster": [
     "alabaster.spatial",
     "alabaster.vcf",
@@ -2375,7 +2374,6 @@
     "BSgenome",
     "rtracklayer"
   ],
-  "genomicInstability": [],
   "geomeTriD": [
     "trackViewer",
     "GenomicFeatures",
@@ -2390,7 +2388,6 @@
   "gep2pep": [
     "GSEABase"
   ],
-  "gg4way": [],
   "ggbio": [
     "biovizBase",
     "BSgenome",
@@ -3125,7 +3122,6 @@
     "GenomicFeatures",
     "rtracklayer"
   ],
-  "scHOT": [],
   "scMerge": [],
   "scPipe": [
     "rtracklayer"
