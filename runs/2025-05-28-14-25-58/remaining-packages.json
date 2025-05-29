@@ -29,8 +29,6 @@
   "BadRegionFinder": [],
   "BatchQC": [],
   "BgeeCall": [],
-  "BiSeq": [],
-  "BioNERO": [],
   "BulkSignalR": [],
   "CAFE": [
     "ggbio"
@@ -214,7 +212,6 @@
   "RESOLVE": [
     "MutationalPatterns"
   ],
-  "RJMCMCNucleosomes": [],
   "RNAAgeCalc": [
     "recount",
     "derfinder",
@@ -277,7 +274,6 @@
   "TFutils": [
     "GenomicFiles"
   ],
-  "TOP": [],
   "TVTB": [],
   "TissueEnrich": [],
   "UMI4Cats": [
@@ -337,8 +333,7 @@
   ],
   "broadSeq": [],
   "cageminer": [
-    "ggbio",
-    "BioNERO"
+    "ggbio"
   ],
   "canceR": [
     "phenoTest"
@@ -394,7 +389,6 @@
     "motifStack",
     "TFBSTools"
   ],
-  "debrowser": [],
   "deconvR": [
     "minfi"
   ],

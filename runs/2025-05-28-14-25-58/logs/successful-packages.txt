@@ -1910,3 +1910,8 @@ saseR
 bandle
 pairedGSEA
 pRolocGUI
+BioNERO
+BiSeq
+debrowser
+RJMCMCNucleosomes
+TOP
