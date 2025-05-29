@@ -2083,3 +2083,7 @@ pageRank
 periodicDNA
 ribosomeProfilingQC
 SingleMoleculeFootprinting
+CircSeqAlignTk
+enhancerHomologSearch
+GA4GHshiny
+scBFA

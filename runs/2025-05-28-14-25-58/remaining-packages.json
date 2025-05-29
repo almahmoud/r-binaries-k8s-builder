@@ -25,7 +25,6 @@
     "lumi"
   ],
   "ChIPpeakAnno": [],
-  "CircSeqAlignTk": [],
   "DEScan2": [
     "ChIPpeakAnno"
   ],
@@ -43,7 +42,6 @@
   "EpiCompare": [],
   "FLAMES": [],
   "FRASER": [],
-  "GA4GHshiny": [],
   "GSEABenchmarkeR": [],
   "GUIDEseq": [
     "ChIPpeakAnno"
@@ -177,7 +175,6 @@
   ],
   "dreamlet": [],
   "drugTargetInteractions": [],
-  "enhancerHomologSearch": [],
   "epimutacions": [
     "minfi"
   ],
@@ -258,7 +255,6 @@
     "minfi"
   ],
   "rgsepd": [],
-  "scBFA": [],
   "scTreeViz": [
     "epivizr"
   ],
