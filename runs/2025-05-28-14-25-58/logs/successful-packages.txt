@@ -2197,3 +2197,6 @@ iCheck
 MineICA
 missMethyl
 wateRmelon
+affycoretools
+NADfinder
+RnBeads

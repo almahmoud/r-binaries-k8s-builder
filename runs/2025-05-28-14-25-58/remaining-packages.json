@@ -1,26 +1,19 @@
 {
-  "AgiMicroRna": [
-    "affycoretools"
-  ],
+  "AgiMicroRna": [],
   "BulkSignalR": [],
   "ChAMP": [
     "DMRcate"
   ],
   "DMRcate": [],
   "EpiCompare": [],
-  "MAGAR": [
-    "RnBeads"
-  ],
+  "MAGAR": [],
   "MEAL": [],
   "MEAT": [],
-  "NADfinder": [],
   "NormqPCR": [],
   "PhenStat": [],
   "RbowtieCuda": [],
   "Repitools": [],
-  "RnBeads": [],
   "Ularcirc": [],
-  "affycoretools": [],
   "bigmelon": [],
   "crisprDesign": [
     "crisprScore"

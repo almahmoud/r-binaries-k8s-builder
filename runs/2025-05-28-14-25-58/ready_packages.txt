@@ -1,6 +1,2 @@
-DMRcate
-MEAL
-MEAT
-bigmelon
-methylGSA
-skewr
+AgiMicroRna
+MAGAR
