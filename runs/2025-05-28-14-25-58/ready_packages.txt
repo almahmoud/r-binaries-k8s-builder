@@ -1,5 +1,0 @@
-MineICA
-arrayMvout
-ffpe
-iCheck
-wateRmelon
