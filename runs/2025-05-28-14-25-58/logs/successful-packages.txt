@@ -2066,3 +2066,6 @@ cicero
 GOTHiC
 Pviz
 QuasR
+OMICsPCA
+Rhisat2
+SigCheck
