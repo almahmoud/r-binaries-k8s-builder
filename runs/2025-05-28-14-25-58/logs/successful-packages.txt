@@ -1193,3 +1193,12 @@ MLSeq
 SCArray
 SPOTlight
 TENxIO
+cfTools
+HiCool
+HTSFilter
+LoomExperiment
+MetaNeighbor
+MultiRNAflow
+oligoClasses
+SpatialExperiment
+TreeSummarizedExperiment
