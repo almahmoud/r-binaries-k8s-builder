@@ -218,7 +218,6 @@
     "GSEABase",
     "genefilter"
   ],
-  "CatsCradle": [],
   "Cepo": [
     "GSEABase"
   ],
@@ -252,7 +251,6 @@
   ],
   "ChIPQC": [
     "DiffBind",
-    "chipseq",
     "GenomicFeatures",
     "systemPipeR",
     "GreyListChIP",
@@ -1155,7 +1153,6 @@
     "biovizBase",
     "VariantAnnotation"
   ],
-  "SemDist": [],
   "SigCheck": [
     "MLInterfaces",
     "genefilter"
@@ -1584,7 +1581,6 @@
     "VariantAnnotation"
   ],
   "chipenrich": [],
-  "chipseq": [],
   "chromVAR": [
     "TFBSTools",
     "BSgenome"
@@ -1816,7 +1812,6 @@
     "GenomicFeatures"
   ],
   "easier": [],
-  "easyRNASeq": [],
   "easylift": [],
   "edge": [
     "sva",
@@ -2027,7 +2022,6 @@
     "VariantAnnotation",
     "BSgenome"
   ],
-  "idiogram": [],
   "igvR": [
     "VariantAnnotation",
     "BSgenome",
@@ -2250,7 +2244,6 @@
   ],
   "msgbsR": [
     "BSgenome",
-    "easyRNASeq",
     "GenomicFeatures",
     "ggbio",
     "biovizBase",
@@ -2382,8 +2375,7 @@
     "soGGi",
     "ChIPseeker",
     "GenomicFeatures",
-    "rGREAT",
-    "chipseq"
+    "rGREAT"
   ],
   "protGear": [
     "genefilter"
@@ -2580,7 +2572,6 @@
     "OrganismDbi",
     "ensembldb"
   ],
-  "segmentSeq": [],
   "selectKSigs": [
     "HiLDA",
     "GenomicFeatures",
@@ -2650,9 +2641,7 @@
   "slalom": [
     "GSEABase"
   ],
-  "soGGi": [
-    "chipseq"
-  ],
+  "soGGi": [],
   "sparrow": [
     "GSEABase"
   ],
@@ -2754,7 +2743,6 @@
     "VariantAnnotation"
   ],
   "transcriptR": [
-    "chipseq",
     "GenomicFeatures"
   ],
   "transmogR": [

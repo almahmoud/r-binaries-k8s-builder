@@ -1602,3 +1602,9 @@ iSEEtree
 nucleR
 RSVSim
 topdownr
+CatsCradle
+chipseq
+easyRNASeq
+idiogram
+segmentSeq
+SemDist
