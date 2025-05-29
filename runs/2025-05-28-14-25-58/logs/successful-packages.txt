@@ -2074,3 +2074,4 @@ mCSEA
 UMI4Cats
 vtpnet
 zenith
+dagLogo
