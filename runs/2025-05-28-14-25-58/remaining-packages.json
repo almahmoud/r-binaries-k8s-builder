@@ -113,7 +113,6 @@
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [],
-  "RgnTX": [],
   "Rhisat2": [],
   "RiboProfiling": [],
   "RnBeads": [
@@ -136,10 +135,7 @@
   "YAPSA": [
     "SomaticSignatures"
   ],
-  "a4": [
-    "a4Base"
-  ],
-  "a4Base": [],
+  "a4": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -273,7 +269,6 @@
   "motifbreakR": [],
   "msgbsR": [],
   "musicatk": [],
-  "myvariant": [],
   "netSmooth": [
     "clusterExperiment"
   ],
@@ -288,8 +283,6 @@
   "recountmethylation": [
     "minfi"
   ],
-  "recoup": [],
-  "regioneReloaded": [],
   "rgsepd": [],
   "ribosomeProfilingQC": [],
   "scBFA": [],

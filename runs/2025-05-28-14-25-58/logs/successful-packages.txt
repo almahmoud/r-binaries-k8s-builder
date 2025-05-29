@@ -2057,3 +2057,8 @@ comapr
 doubletrouble
 IntEREst
 Rqc
+a4Base
+myvariant
+recoup
+regioneReloaded
+RgnTX
