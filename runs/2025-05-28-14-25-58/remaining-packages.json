@@ -49,17 +49,13 @@
   "PhenStat": [],
   "R3CPET": [],
   "REDseq": [],
-  "RNAmodR.AlkAnilineSeq": [],
   "RbowtieCuda": [],
   "Repitools": [],
   "ReportingTools": [],
   "RnBeads": [],
   "SOMNiBUS": [],
-  "SomaticSignatures": [],
   "Ularcirc": [],
-  "YAPSA": [
-    "SomaticSignatures"
-  ],
+  "YAPSA": [],
   "affycoretools": [
     "ReportingTools"
   ],
@@ -95,10 +91,7 @@
   ],
   "derfinderPlot": [],
   "dmrseq": [],
-  "epivizr": [],
-  "epivizrStandalone": [
-    "epivizr"
-  ],
+  "epivizrStandalone": [],
   "ffpe": [
     "lumi"
   ],
@@ -107,7 +100,6 @@
   ],
   "intansv": [],
   "lumi": [],
-  "metaseqR2": [],
   "methodical": [],
   "methylGSA": [
     "missMethyl"
@@ -117,9 +109,7 @@
   "musicatk": [],
   "pathMED": [],
   "proBAMr": [],
-  "scTreeViz": [
-    "epivizr"
-  ],
+  "scTreeViz": [],
   "scifer": [],
   "scmeth": [],
   "scruff": [],
@@ -127,7 +117,6 @@
     "wateRmelon",
     "lumi"
   ],
-  "sparrow": [],
   "spatzie": [],
   "velociraptor": [],
   "vulcan": [],

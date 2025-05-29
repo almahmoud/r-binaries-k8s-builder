@@ -2199,3 +2199,6 @@ scmeth
 CAGEfightR
 HiCDCPlus
 spatzie
+YAPSA
+epivizrStandalone
+scTreeViz

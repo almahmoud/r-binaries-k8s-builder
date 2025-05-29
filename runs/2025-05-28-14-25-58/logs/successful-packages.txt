@@ -2150,3 +2150,8 @@ vmrseq
 RiboProfiling
 SMITE
 cummeRbund
+epivizr
+metaseqR2
+RNAmodR.AlkAnilineSeq
+SomaticSignatures
+sparrow
