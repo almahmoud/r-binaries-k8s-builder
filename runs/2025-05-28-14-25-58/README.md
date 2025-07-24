@@ -1,3 +1,5 @@
+> **ARCHIVED RUN:** This run has been archived. Log files have been removed but links below point to the archived version at commit 71765a7ec6960ce4c39b80323c3e7a781799aa32.
+
 # Bioconductor 3.22 Binary Building Status
 
 **Run ID:** 2025-05-28-14-25-58
